@@ -1,0 +1,77 @@
+name: monitor
+
+on:
+  schedule:
+    # High tier: every 2 hours, 11:06–23:06 UTC (≈6am–6pm ET), weekdays
+    - cron: '6 11,13,15,17,19,21,23 * * 1-5'
+    # Medium tier: once daily at 11:06 UTC (≈6:06am EST), weekdays
+    # Note: same cron string as one of the high-tier slots. The job logic
+    # below runs BOTH tiers on the 11:06 UTC slot and just high otherwise.
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: 'Tier to run'
+        required: true
+        default: 'high'
+        type: choice
+        options: [high, medium, all]
+
+permissions:
+  contents: write   # need to commit snapshots + updated xlsx back
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Decide tier
+        id: tier
+        run: |
+          if [ -n "${{ inputs.tier }}" ]; then
+            echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "6 11,13,15,17,19,21,23 * * 1-5" ]; then
+            # First run of the day (11:06 UTC) covers both tiers; later slots high only.
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" = "11" ]; then
+              echo "value=all" >> "$GITHUB_OUTPUT"
+            else
+              echo "value=high" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "value=high" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run monitor (${{ steps.tier.outputs.value }})
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+        run: python run.py --tier ${{ steps.tier.outputs.value }}
+
+      - name: Commit snapshots and digest
+        run: |
+          git config user.name  "consumer-monitor-bot"
+          git config user.email "consumer-monitor-bot@users.noreply.github.com"
+          git add snapshots/ monitoring_system/ changelog.jsonl config/company_urls_jc.xlsx 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "monitor: ${{ steps.tier.outputs.value }} run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

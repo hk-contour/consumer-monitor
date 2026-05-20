@@ -1,0 +1,115 @@
+"""Read the master xlsx URL Registry and return one structured record per company.
+
+The xlsx is the single source of truth — no parallel JSON config. Analyst edits the
+spreadsheet; the scraper reads it.
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from pathlib import Path
+from typing import Iterator
+
+import openpyxl
+
+from .tiers import tier_for
+
+DEFAULT_XLSX = Path(__file__).resolve().parent.parent / "config" / "company_urls_jc.xlsx"
+
+URL_COLUMNS = [
+    "investor_relations",
+    "newsroom",
+    "management_team",
+    "careers",
+    "pricing",
+    "terms",
+    "regulatory_filings",
+    "reddit",
+]
+
+# (xlsx header -> our field name)
+HEADER_MAP = {
+    "Ticker": "ticker",
+    "Company": "company",
+    "Exchange": "exchange",
+    "Investor Relations": "investor_relations",
+    "Newsroom / Press": "newsroom",
+    "Management Team": "management_team",
+    "Careers / Jobs": "careers",
+    "Product / Pricing": "pricing",
+    "Terms & Conditions": "terms",
+    "Regulatory Filings": "regulatory_filings",
+    "Reddit Community": "reddit",
+    "Monitoring Notes": "notes",
+}
+
+
+@dataclass
+class Company:
+    ticker: str
+    company: str
+    exchange: str
+    tier: str  # "high" | "medium" | "fix_first" | "unknown"
+    urls: dict[str, str] = field(default_factory=dict)  # field_name -> url
+    notes: str = ""
+
+    def url(self, key: str) -> str | None:
+        return self.urls.get(key)
+
+
+def load_companies(xlsx_path: Path = DEFAULT_XLSX) -> list[Company]:
+    wb = openpyxl.load_workbook(xlsx_path, data_only=True, read_only=True)
+    if "URL Registry" not in wb.sheetnames:
+        raise ValueError(f"'URL Registry' tab not found in {xlsx_path}")
+
+    ws = wb["URL Registry"]
+    rows = ws.iter_rows(values_only=True)
+    header = next(rows)
+    header_idx = {h: i for i, h in enumerate(header) if h}
+
+    out: list[Company] = []
+    for row in rows:
+        if not row or not row[header_idx.get("Ticker", 0)]:
+            continue
+        ticker = str(row[header_idx["Ticker"]]).strip()
+        urls: dict[str, str] = {}
+        for xlsx_header, field_name in HEADER_MAP.items():
+            if field_name in {"ticker", "company", "exchange", "notes"}:
+                continue
+            idx = header_idx.get(xlsx_header)
+            if idx is None:
+                continue
+            val = row[idx]
+            if val and isinstance(val, str) and val.strip():
+                urls[field_name] = val.strip()
+
+        out.append(
+            Company(
+                ticker=ticker,
+                company=str(row[header_idx.get("Company", 1)] or "").strip(),
+                exchange=str(row[header_idx.get("Exchange", 2)] or "").strip(),
+                tier=tier_for(ticker),
+                urls=urls,
+                notes=str(row[header_idx["Monitoring Notes"]] or "").strip()
+                if "Monitoring Notes" in header_idx
+                else "",
+            )
+        )
+    return out
+
+
+def companies_by_tier(tier: str, xlsx_path: Path = DEFAULT_XLSX) -> Iterator[Company]:
+    for c in load_companies(xlsx_path):
+        if c.tier == tier:
+            yield c
+
+
+if __name__ == "__main__":
+    cos = load_companies()
+    print(f"Loaded {len(cos)} companies")
+    by_tier: dict[str, int] = {}
+    for c in cos:
+        by_tier[c.tier] = by_tier.get(c.tier, 0) + 1
+    print("By tier:", by_tier)
+    for c in cos[:3]:
+        print(f"  {c.ticker:6s} {c.tier:10s} {c.company} ({len(c.urls)} urls)")

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Playwright
+playwright-report/
+test-results/
+.playwright/
+
+# Local secrets (real ones go in GitHub Actions secrets)
+.env.local
+secrets.json
+
+# Temp output (we DO commit snapshots/ and monitoring_system/ — that's the changelog)
+*.tmp
+*.log
