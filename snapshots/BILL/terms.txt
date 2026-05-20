@@ -1,0 +1,873 @@
+Effective Date: February 10, 2025
+To review the previous BILL Terms of Service
+click here.
+To review the previous BILL (Financial Planning) (fka Finmark) Terms
+click here
+.
+PART A: OVERVIEW OF WHAT THIS AGREEMENT COVERS
+1. The agreement between you (“You,” “Your” or “Yourself”) and BILL (“BILL,” “We,” “Us,” or “Our”) is defined by (1) these General Terms of Service (“Terms”); (2) the Service Schedules and/or Supplements You choose and that are available to You; and (3) the documents and policies incorporated and referenced in these Terms (the “Agreement”). BILL is defined as Bill.com Canada, LLC for Canadian residents, and Bill.com, LLC for everyone else.
+This Agreement governs Your use of or interactions with products, services, or other offerings through BILL (collectively, the “Service”), including but not limited to Our Services for Bill Payments, Accounts Receivables, Consoles, Invoice2Go Customers (Card Disbursements), and Financial Planning, the BILL websites (“Website”), BILL mobile applications, any services governed by the International Supplements (“International Services''), Your BILL account and/or any other services, features, functionalities, offers or promotions through BILL. All capitalized terms have the meanings given to them in these Terms, unless otherwise indicated. You should read this Agreement carefully.
+2. By electronically accepting this Agreement or by establishing a BILL account or using the Service after the Effective Date of these Terms, You consent and agree to comply with the Agreement including these Terms. Unless You have chosen one of our Supplemental Services which expressly exclude one or more of the following Service Schedules or policies, this Agreement includes and You are consenting to:
+Service Schedules to these Terms.
+BILL Network Rules
+.
+BILL’s Acceptable Use Policy
+.
+Data Processing Addendum
+.
+BILL’s ESIGN Disclosure and Consent
+.
+Payment network rules, as applicable.
+Any terms or conditions provided separately to You for the Service, including but not limited to any product or program terms, ordering, activation or promotion terms, or data processing agreement, including as applicable:
+Supplemental Terms of Service for Canadian Users
+(applicable only if You are creating a Canadian BILL Account).
+Supplemental Terms of Service for International Business Receivable Users
+(applicable only if You are creating a BILL Account in an eligible country).
+3. When You agree to these Terms and accept this Agreement, You do so on behalf of Yourself and any person that You entitle or authorize to use Your BILL account (with You, each a “User” of Your BILL account), as well as on behalf of Your Customer(s) and Your Vendor(s) to the extent provided in these Terms. You are responsible for obtaining all consents and authorizations needed to accept this Agreement for others.
+4.
+USING THE SERVICE ON BEHALF OF ANOTHER.
+If You use the Service on behalf of another, whether a natural person (an “Individual”) or legal non-natural person or entity (an “Organization”), You represent and warrant that You: (1) are duly authorized and empowered by and for that Individual or Organization to agree to these Terms and accept this Agreement on behalf of the Individual or Organization; and (2) accept this Agreement on behalf of the Individual or Organization, unless the Individual or Organization has a separate paid contract with BILL, in which event the terms of that separate paid contract will control. You also represent and warrant that You are duly authorized and empowered to use the Service on behalf of the Individual or Organization.
+5.
+AGREEMENT TO ARBITRATE.
+You understand that this Agreement contains an agreement to arbitrate disputes (“Agreement to Arbitrate”), and You agree to the Agreement to Arbitrate as well as the included jury trial and class action waiver.
+6. This Agreement covers:
+1. Privacy
+2. Consent to Electronic Communications
+3. Using the Service
+4. Protection of Your Account
+5. Rights We Grant to You
+6. Restrictions on Use
+7. Rights You Grant to Us
+8. Anti-Money Laundering and Know Your Customer Requirements
+9. User Data
+10. Fees and Payment Terms
+11. Deactivating a User or Canceling Your BILL Account
+12. Warranty and Disclaimer
+13. Third Party Websites, Services, and Products
+14. Limitation of Liability
+15. Indemnity
+16. Dispute Resolution and Agreement to Arbitrate
+17. Governing Law; Choice of Forum
+18. Other Provisions
+19. Updates and Changes to This Agreement
+Schedule 1: Bill Payment Service
+Using the Bill Payment Service
+Vendor Set Up and Management
+Choosing a Payment Method
+Scheduling Bill Payment
+Debits from Your Payment Account
+Payment Cancelation or Modification
+Returned Transactions
+Document Management
+Auto Bill Entry
+Electronic Payments
+American Express Vendor Pay by BILL
+The BILL Virtual Card Service
+The International Payments Service
+Schedule 2: Accounts Receivable Service
+Using the Accounts Receivable Service
+Customer Set Up and Management
+Customer Authorizations
+Invoice Creations and Management
+ACH Payments
+Supplemental Financial Transaction Services
+Receiving Card Payments
+Instant Transfer Service
+Virtual Card Disbursements
+Schedule 3: Console Service
+Using the Console Service
+Clients Authorizations
+Client Data
+Customization of Your Console
+Marketing and Promotion
+Relationship of the Parties
+Schedule 4: Terms for Invoice2Go Customers (Card Disbursements)
+Schedule 5: Financial Planning Service
+Supplemental Services
+Supplemental Terms of Service for Canadian Users
+Supplemental Terms of Service for International Business Receivables Users
+PART B: GENERAL TERMS
+1.         Privacy
+By enrolling in or using the Service, You acknowledge our
+Privacy Notice
+, which governs Our collection, use, sharing, and protection of Your information.
+The provisions of the
+Data Processing Addendum
+are incorporated herein by reference. The Data Processing Addendum is supplemental to and comprises an integral part of this Agreement, and reflects the parties’ agreement with respect to BILL’s Processing of Personal Data, as those terms are defined in the Data Processing Addendum.
+2.         Consent to Electronic Communications
+Through this Agreement, You consent to accept electronic communications as described in Our
+Consent to Electronic Delivery of Communications and Use of Electronic Signatures
+3.         Using the Service
+3.1
+The Service.
+The Service includes a platform that enables You to make payments to third parties (Your “Vendors”), receive payments from third parties (Your “Customers”), and manage (on Your own behalf or on behalf of third parties who authorize You to do so) accounts payable and accounts receivable electronically. BILL is a money services business and a
+licensed money transmitter in the United States and Canada
+, and a provider of money transmission services in the US and Canada. Your level of access to the features and functions offered through the Service will depend on Your BILL account type, if any, how You interact with the Service and/or, in certain instances, where You are located and whether You elect services governed by Our International Supplements. Our International Supplements may contain eligibility criteria and limitations on the Service which will prevail over more general provisions in these Terms. Notwithstanding more general provisions in these Terms, Our International Business Receivables (IBR) Service does not offer payment capabilities or the ability to hold funds and is expressly limited to the functions and features set forth in the Supplemental Terms of Service for IBR Users.
+3.2
+Eligibility to Use the Service.
+You represent and warrant that: (a) all Users are at least 18 years of age; (b) all Users and Your Organization or Individual, as appropriate, reside in the United States (except if You have created a Canadian BILL account or an IBR account pursuant to the Supplemental Terms of Service for Canadian Users or IBR Users respectively, or you are a Forecasting Plus User under Section 6 of Schedule 5, in which case this section (b) does not apply); (c) You have not previously been suspended or removed from the Service; and (d) You will not use the Sservice primarily for personal, household or family purposes and that you will use the Service primarily for business purposes.
+You understand and agree that if You are a corporation, partnership, or other Organization, then Your User(s) may access Your BILL account from outside of the country where You hold Your BILL account. You consent to BILL obtaining Your personal and/or business credit report from a credit reporting agency at account opening and whenever We reasonably believe there may be an increased level of risk associated with Your account.
+3.3
+Third Party Service Providers.
+You grant to BILL and We reserve the right to use third parties to provide or facilitate the Service. If BILL uses third parties to provide or facilitate the Service, We will remain responsible to You for providing the Service under this Agreement.
+3.4
+Account Administrators.
+Each account registered with BILL (a “BILL account”) must have at least one User in the “Administrator” role to manage and control access to the BILL account. The Administrator may invite and authorize other Users to access, establish login credentials for, and use the BILL account. The Administrator may revoke access and authorization of a User. Information about User(s) and their use of the Service may be provided by Us to the Administrator. If You are an Administrator, You understand and agree that You are responsible for any actions or inactions of a User that are not in compliance with this Agreement. You acknowledge and agree that notice to your Administrator or to the primary email address associated with your account is effective notice on You for any purpose.
+3.5
+Updates to the Service.
+BILL reserves the right, from time to time to update the Service and/or make new applications, tools, features or functionalities available through the Service, the use of which may be contingent upon Your agreement to additional terms and/or service fees. BILL reserves the right to discontinue the Service, or certain applications, tools, features or functionalities of the Service, for any reason at any time, in BILL’s sole discretion, without BILL incurring any liability to You.
+3.6
+Multi-Entity Parent Service.
+The Multi-Entity Parent Service enables parent organizations (“Multi-Entity Parent”) to add, remove, view, manage Child Orgs’ accounts, and approve invoices and make payments for related and affiliated organizations’ accounts (“Child Orgs”). To gain access to this Service, the Multi-Entity Parent must satisfy BILL Customer Support’s verification requirements on the corporate relationship between the organizations. Multi-Entity Parent and Child Orgs hereby agree to be jointly and severally liable for any and all debts, liabilities, and obligations.
+4.         Protection of Your Account
+4.1
+User Account Creation and Login Credentials.
+To use the Service, You may be required to register a BILL account and/or to enroll as a User. To register a BILL account and/or enroll as a User, You will be required to provide Us with information about Yourself, including but not limited to Your name, address, email address and other contact or identifying information, and about Your Organization or Individual, as appropriate. You agree that the information You provide to Us will be accurate and that You will keep it up-to-date at all times. Users will be asked to create a strong password and provide a device on which to receive a multi-factor authentication code, one-time password or similar authentication token or mechanism (collectively, the User’s “Login Credentials”).
+4.2
+Control of User Login Credentials.
+Users are solely responsible for maintaining the confidentiality of Login Credentials. To the extent allowed by law, You accept responsibility for all activities on Your account authenticated through User Login Credentials, including all payment instructions provided to BILL, whether authorized or not. Each User agrees to keep User Login Credentials confidential and secure, and Users will not give or make Login Credentials available, directly or indirectly, to any unauthorized individual. You acknowledge and agree that if Users allow, whether through action or inaction, a person to gain access to Login Credentials, with or without permission, (including, but not limited to, a person that gains access to a User's Login Credentials in relation to SMS forwarding to email and/or User email password compromise), the User is authorizing that person to use the Service, and You will be responsible for all transactions that result from such access, even if they are unauthorized, fraudulent, or you did not want the transactions performed.
+4.3
+Security Procedures.
+You acknowledge and agree that the Our security procedures are a commercially reasonable method of verifying Your identity and payment instructions, providing security against unauthorized payment instructions and fraud, and protecting Your BILL account.
+4.4
+Lost, Stolen or Compromised Account or Login Credentials.
+You agree to immediately notify BILL’s Customer Support through Our
+customer support portal
+if You believe that Your BILL account has been compromised or accessed without authorization, or any User’s Login Credentials have been lost, stolen or compromised, or someone has attempted or may attempt to make or request payments through Your BILL account without authorization.
+4.5
+Responsibility for Payment Instructions.
+To the extent allowed by law, You agree to be bound by all payment instructions or transactions initiated in compliance with BILL’s security procedures and this Agreement, whether or not authorized. You agree that You will be liable for all losses or payments resulting from (1) the theft, loss, compromise, or unauthorized use of Your BILL account or User Login Credentials and/or (2) any losses or unauthorized payments resulting from any fraudulent or illegal compromise of Your systems or processes. You agree that You will be responsible and liable for payments or transfers containing inaccurate instructions or other errors, unless limited by law.
+Upon Your timely report, We may, in Our sole discretion, use good faith measures to attempt to reverse and recover any unauthorized or erroneous payments or transfers on Your behalf, but BILL will have no responsibility, obligation, or liability in relation to such payments or transfers or any reversal or recovery attempts.
+4.6
+Debit and Credit Entries.
+BILL sends ACH debit and credit instructions under Standard Entry Class Codes CCD, PPD and Web entries all in accordance with the National Automated Clearing House Association (“Nacha”) Operating Rules.You agree to the Nacha Operating Rules and all other laws and regulations that apply to Your use of Services that provide payments through ACH
+.
+4.7
+Access through Third Party Platforms.
+If Users choose to access Your account through a third-party platform, You are making a determination that the third-party platform and its login protocol are sufficiently secure to protect User Login Credentials and Your BILL account, and You accept full responsibility and liability if access through the third-party platform leads to the compromise of User Login Credentials or Your BILL account.
+5.         Rights We Grant to You
+5.1
+License We Grant to You.
+Subject to this Agreement, including payment of all Service Fees, BILL grants to You a personal, limited, non-exclusive, non-assignable, non-transferable and non-sublicensable license to access and use the Service, including without limitation the software that enables the Service, together with any updates, bug fixes, help content, and other related materials that BILL provides to You (collectively, the "
+Software
+"), solely for Your own use for so long as You are authorized to use the Service. You acknowledge and agree that if You are in violation of this Agreement, BILL may, in its sole discretion and without notice to You, immediately suspend or terminate Your license and/or access to the Service.
+5.2
+Reservation of Rights by BILL.
+BILL reserves and retains all rights in the Service not expressly granted to You in this Agreement. The Service is protected by copyright, trade secret, and other intellectual property laws. BILL and its licensors, if any, own the title, copyright, and other worldwide intellectual property rights in the Service and all copies thereof. This Agreement does not give You any rights in BILL’s or its licensors’ intellectual property, including its trademarks or service marks.
+6.         Restrictions on Use
+6.1
+Acceptable Use Policy.
+You represent and warrant that You will not use the Service in connection with any business or industry prohibited under BILL’s
+Acceptable Use Policy
+. BILL reserves the right, in its sole discretion, to update or change the Acceptable Use Policy at any time. You are solely responsible for ensuring that Your use of the Service complies with the current Acceptable Use Policy. You acknowledge and agree that if You are in violation of the Acceptable Use Policy, BILL may, in its sole discretion and without notice to You, immediately suspend or terminate Your access to the Service.
+6.2
+Service for Authorized and Lawful Purposes Only.
+You agree that You will use the Service only as permitted by applicable law and exclusively for authorized purposes, consistent with this Agreement. You will not, and You will not allow any third party, to:
+access, monitor, or attempt to access or monitor any BILL materials, systems, programs, or data that are not available for Your or public use, or in any way not expressly permitted under this Agreement;
+copy, reproduce, republish, upload, post, transmit, or distribute in any way, any material or content from the Service, excluding Your User Data and relevant transactional information BILL makes available to You in connection with Your payment transactions using the Service (example: limited third-party customer or vendor information in connection with Your payment transactions);
+license, sell, rent, lease, transfer, assign, host or otherwise commercially exploit any Software, APIs, application keys, test accounts, widgets, information and content available with the Service, including the Website, as updated and improved from time to time (collectively, the “BILL Properties”) or any portion of BILL Properties;
+remove, destroy or modify any copyright notices, trade names or other proprietary markings contained on or in BILL Properties;
+work around any technical limitations in the Software or Service, or decompile, disassemble, or otherwise reverse engineer the Software or Service;
+perform or attempt to perform any actions that could interfere with the proper operation of the Software or Service, prevent access to or use of the Software or Service by BILL's other licensees or users, or impose an unreasonable or disproportionately large load on BILL’s infrastructure;
+intentionally distribute malware, viruses, worms, Trojan horses, corrupted files, spyware, adware, or other items of a destructive or deceptive nature through the Service;
+perform any fraudulent activity, including but not limited to impersonating any person or entity, claiming a false affiliation, accessing any other Service account without permission, or falsifying Your information;
+use the Service other than in compliance with all applicable controls of export laws and regulations, and if the Service is provided to You in the United States, You will not export the Service, which may be subject to export restrictions imposed by US law;
+use or upload any harmful, obscene, abusive or offensive language through the Service;
+modify, translate, adapt, merge, make derivative works of BILL Properties or use or alter any intellectual property of BILL;
+use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to “scrape” or download data from any web pages contained in the Website;
+transfer or assign the rights granted to You under this Agreement; or
+otherwise use the Service except as expressly allowed under this Agreement.
+6.3
+Prohibited Payments.
+You acknowledge and agree that You will not use the Service for payment of alimony; child support; marijuana related businesses; or payments to settle securities transactions.
+6.4
+No Assignment or Transfer.
+You may not assign or transfer the Agreement, in whole or in part, without BILL’s written consent. Any attempted assignment or transfer in violation of this Section or this Agreement will be null and void. BILL may assign its rights or delegate its obligations hereunder without Your consent. Subject to these restrictions, the Agreement will inure to the benefit of the successors and permitted assigns of the parties.
+6.5
+No Office of Foreign Assets Control (“OFAC”) Sanctions.
+Pursuant to BILL’s
+Unauthorized Business Activity policy
+, You represent and warrant that: (a) You are not located in a country or location that is subject to U.S. Government sanctions or embargoes, or are a State Sponsor of Terrorism as defined by the US Department of State, or are a person, group or entity that has been designated by the U.S. Government as a Specially Designated National (SDN); (b) You are not listed on any U.S. Government list of prohibited or restricted parties; and (c) You will not use the Service to send money, either directly or indirectly, to a sanctioned country, person, group or entity.
+6.6
+No Marketing.
+If BILL provides You with information about another User of the Service, You acknowledge and agree that You will not use the information for any purpose other than the purpose for which the information is provided to You. You may not disclose, sell, rent, or distribute another User’s information for any purpose unrelated to Your use of the Service. You may not use the information for marketing purposes, unless You separately obtain the appropriate consent of the specific User to do so.
+6.7
+“Business Associate” under HIPAA.
+BILL may, upon request, operate as a “business associate” of certain Users of the Service, including You, for the purposes of The Health Insurance Portability and Accountability Act of 1996, as amended (“HIPAA”). You agree that You will not send or transmit any electronic “Protected Health Information” (“ePHI”, as defined in HIPAA) to BILL or otherwise in any manner through the Service unless and until you have a Business Associates Agreement (“BAA”) with BILL. You are solely responsible for ensuring that Your use of the Service complies with all applicable laws and regulations, including HIPAA. If We become aware that You have sent or transmitted ePHI in any manner through the Service in violation of this Agreement or the BAA, We may delete the ePHI without notice to You and without BILL incurring any liability to You. You agree to pay any costs or fees associated with that ePHI deletion.
+7.         Rights You Grant to Us
+7.1
+Right to Refuse to Make Payment.
+You grant to Us and BILL reserves the right to limit, delay, investigate, or to refuse to make, process or issue any payment initiated or requested through the Service, in Our reasonable discretion, without BILL incurring any liability to You. BILL will use commercially reasonable efforts to provide notice promptly if We decide to limit, delay, investigate or to refuse to make, process or issue a payment. This notification is not required if the payment or notice is prohibited by law or this Agreement.
+7.2
+Transaction Limits.
+When You use the Service, You grant to Us and We reserve, in Our sole discretion, the right to impose limits on the amount of money sent or received through the Service, on a per transaction or a cumulative basis, and to change those limits at any time, without BILL incurring any liability to You. If We impose or change such limits, We will use commercially reasonable efforts to provide notice to You, but will not be required to do so.
+7.3
+Right of Set Off.
+To the extent permitted by law, You grant to us the right to apply or set off any money or credit balance in which You have an interest and which is in Our possession, custody or control, in satisfaction of any amounts or liabilities that You owe to Us.
+7.4
+Account Termination.
+BILL reserves the right to suspend or terminate Your account or Your access to the Service at any time, for any reason (including for a violation of this Agreement, the failure to pay applicable Service Fees, or inactivity), in Our reasonable discretion, without BILL incurring any liability to You. If We suspend or terminate Your account or access to the Service, We will use commercially reasonable efforts to provide notice to You, but will not be required to do so and will not be liable for failure to do so.
+7.5
+Feedback.
+If You provide any feedback to BILL concerning the functionality and performance of the Service (including by identifying potential errors and improvements), You agree to assign to BILL all rights, title, and interest in and to such feedback, and BILL is free to use such feedback without payment or restriction.
+7.6
+Marketing.
+To the extent permitted by law, You agree and consent that BILL may list or identify You as a customer of BILL, including through the use of Your brand or logo, for Our marketing or promotional purposes. You may revoke this consent at any time by changing Your account profile settings, or by contacting BILL Customer Support through Our
+customer support portal
+.
+7.7
+Right to Contact You.
+As permitted by law, Your use of or interaction with the Service provides Your consent to receive informational calls, marketing calls, and text messages from BILL at any telephone number provided to Us in connection with Your BILL account including by automated means. We may place these calls or texts for any purpose consistent with this Agreement or Our
+Privacy Notice
+, including but not limited to providing multi-factor authentication or a one-time password, notifying You regarding Your account, and regarding new account functions, features, and Services, and helping You with Your BILL account, or to resolve a dispute. Standard rates and text charges may apply. You can opt out of receiving calls from BILL at any time by contacting BILL Customer Support through Our
+customer support portal
+.
+7.8
+Monitoring/Recording of Telephone Calls.
+You understand and agree that BILL may, without further notice or warning and in Our sole discretion, where permitted by law, directly or through a third-party service, monitor and/or record any telephone calls between You and Our employees, contractors, or agents for purposes of quality control and/or training purposes, as required by applicable law, or for BILL’s protection. While Your communications with BILL may be overheard, monitored, or recorded, not all telephone lines or calls may be recorded by BILL, and We do not guarantee that recordings of any particular telephone calls will be retained or retrievable.
+7.9
+Chatbots.
+The Website may provide interactive services, including chatbot and managed chat and session replay technology. By accessing or using any of these features, You agree that We may record and retain a transcript of all communications with You through these interactive tools, and/or may record or recreate Your activity while using the Website, in order to provide services, enhance Your Website experience, and for quality and verification purposes. We may work with trusted service providers to analyze, store, and/or use this data on our behalf. Your use or access of any of these tools or of Our Website is governed by this section of our Terms and our
+Privacy Notice
+.
+7.10
+BILL Properties.
+BILL Properties are protected by copyright and other applicable intellectual property rights throughout the world. You agree that BILL owns all rights, title and interest in BILL Properties, including but not limited to, any computer code, methods of operation, moral rights and documentation and, all work produced by BILL, including all changes to, and improvements to the Website.
+7.11
+Trademarks.
+The name “BILL” and all related graphics, logos, service marks and trade names used on or in connection with any BILL Properties or in connection with the Services are the trademarks and property of BILL and may not be used without Our permission or as permitted by this Agreement in connection with Your use of the Service. Other trademarks, service marks and trade names that may appear on or in BILL Properties are the property of their respective owners.
+7.12
+Processing Error Corrections:
+You agree that we may rectify any processing error that we discover which results in you receiving funds to which you were not entitled. In such instances, You provide debit authorization to Bill to debit your Payment Account to correct the error.
+8.         Anti-Money Laundering and Know Your Customer Requirements
+8.1
+US Patriot Act.
+To help the U.S. government fight the funding of terrorism and money laundering activities, federal and state law requires financial institutions, including money services businesses and banks that offer services through BILL, to obtain, verify, and record information that identifies every customer.
+8.2
+What this means for You.
+When You use the Service, We, and banks that offer services through BILL, will ask You for Your name, address, date of birth, and if You are located within the United States, Your social security number (SSN) and/or Employer Identification Number (EIN) and other information that will allow Us to identify You. We may also ask to see other identifying documents, including but not limited to, Your driver’s license and business related documents. We will let You know if additional information is required.
+8.3
+Verification Required.
+We, and banks that offer services through BILL, reserve the right to refuse to allow any User, Vendor or Customer to use or participate in the Service if We (or the bank) are unable to obtain or verify information relating to identity or financial condition, such as identifying information for an Organization’s representatives or beneficial owners. Notwithstanding any steps that We (or the bank) take to verify the information provided to Us (or the bank), You represent and warrant that all information You provide is complete, truthful, accurate, and up-to-date. You also agree to provide updated information if the information You have provided changes.
+8.4
+Review of Accounts and Payments.
+You grant to Us and BILL reserves the right to review or place on hold any BILL account or any payment requested or initiated, through the Service for any reason, including but not limited to credit and fraud risk or compliance with applicable laws (such as anti-money, laundering regulations, combating terrorist financing laws, OFAC sanctions and sanctions laws applicable in a country where You are located), conflicting ownership claims and legal orders. In Our sole discretion, BILL may place a hold on a payment for as long as reasonably necessary to conduct an appropriate inquiry regarding the payment, a BILL account, a User, an Organization or Individual, a Customer, a Vendor, or any related facts or circumstances. Depending on the results of this review, BILL reserves the right to take any appropriate action, including canceling the payment, reversing the payment, or continuing to hold the payment pending instructions from a government agency.
+8.5
+Reports.
+You acknowledge that We and banks that offer services through BILL may make appropriate reports regarding your activities made through the Service, including but not limited to financial institutions, regulators, tax agencies and law enforcement authorities, and We and banks that offer services through BILL, will cooperate with the appropriate authorities in any resulting investigation or prosecution, all as required or permitted by law.
+9.         User Data
+9.1
+BILL Access to User Data.
+If You upload, store, share, or otherwise process Your documents, information, data and content ("Your User Data") or synch Your User Data from Your accounting software to the Service, You consent to BILL’s access and processing of Your User Data in accordance with Our
+Privacy Notice
+, this Agreement, the settings on Your BILL account, or the features of the Service You elect to use. BILL reserves the right to remove or delete Your User Data from the Service for any reason, including if Your User Data violates this Agreement or applicable law, in BILL’s reasonable discretion, without BILL incurring any liability to You.
+9.2
+No Monitoring.
+You acknowledge and agree that BILL has no responsibility to monitor or police Your use of the Service, including but not limited to communications, information or data transmitted through the Service, such as Your User Data, and BILL will not be responsible for the content of any such communications, data or transmissions. However, BILL reserves the right, at all times, to review, retain and disclose any such information as necessary to ensure compliance with this Agreement or as required or permitted by law.
+9.3
+BILL Access to Technical Data.
+You agree that BILL may collect, use and disclose to BILL’s service providers technical data and related information (including but not limited to information about Your device, system and application software, and peripherals), to provide You with the Service, Software updates, product support, risk and fraud management and other services related to the Service, and to track and report Your activity inside of the Service. You understand that BILL may use aggregated and anonymized data for analytics purposes. Please see Our
+Privacy Notice
+for more details on how BILL collects, uses, shares and protects Your information.
+9.4
+No Liability.
+Subject to Our
+Privacy Notice
+, You agree that BILL will have no responsibility or liability with respect to Your User Data that You request or choose to have processed, transmitted, disclosed, or stored in connection with the Service, including with respect to any of Your User Data that You request to have deleted from the Service, other than as provided under this Agreement.
+10.         Fees and Payment Terms
+10.1
+Service Fees.
+Access to the Service, or to certain features of the Service, may require You to pay certain fees applicable to the Service used or subscribed by You (individually and collectively, “Service Fees”), including but not limited to account subscription fees, transaction fees, payment processing fees, and other special services fees. Transaction, payment processing or other special service fees are separate from subscription fees associated with subscription plans. Information on Service Fees can be found on the
+BILL Website
+. Subscription fees for Financial Planning Services offered by BILL can be found at
+https://finmark.com/pricing/
+.Service Fees may not be applicable to fees or charges associated with financing products where specific fees, charges, interest and other terms are set forth in your applicable loan agreement. You agree to pay when due all Service Fees applicable to Your use of the Service. You agree that You are responsible for the full amount of applicable Service Fees for each billing cycle in which You use the Service or maintain a BILL account, even if You don’t use the Service during the billing cycle or use the Service for only a portion of the billing cycle. BILL reserves the right to refuse to cancel Your BILL account if Your account is not in good standing or has any overdue Service Fees.
+10.2
+Changes to Service Fees.
+BILL reserves the right to change the Service Fees from time to time, in its sole discretion. BILL will provide advanced notice of any material increase of a change in Service Fees. If the increase in Service Fees is not acceptable, Your sole and exclusive remedy will be to stop using the Service and/or cancel Your BILL account, as applicable. By continuing to use the Service after notice of the new Service Fees, You accept all changes in Service Fees. All Service Fees are non-refundable, except in the sole discretion of BILL.
+10.3
+Payment of Service Fees.
+You authorize BILL to use the credit or debit card You have provided to Us (as updated by You from time to time), or the bank account associated with Your BILL account (each a "Billing Account") to automatically charge You, in U.S. dollars, for the Service Fees applicable to Your BILL account or Your use of the Service, plus any applicable taxes. If BILL is unable to charge the Billing Account for any reason, You agree to pay all past due Service Fees and taxes within 5 business days of notice of non-payment from BILL. If amounts owed are not paid within 5 days of that notice, interest will accrue on all past due amounts at the rate of 1.5% per month or the highest rate of interest allowed by law (whichever is less), calculated from the date the amount was due until the date that payment is received. If Your BILL account becomes overdue, BILL will be entitled to reimbursement for the reasonable costs of collection, including reasonable attorneys’ fees and expenses.
+10.4
+Taxes.
+You will be responsible for paying, withholding, filing, and reporting all taxes, including sale and use tax and other governmental assessments now in force, enacted, or imposed in the future associated with Your use of our Services and/or any related transactions, provided that We may, in Our sole discretion, do any of the foregoing on your behalf and seek reimbursement from You for the cost of doing so. You are responsible for filing and providing any Form 1099-Ks to Your Vendors.
+If we request that you provide your tax identification number and/or a US tax form such as W-9 or W-8, you must provide this information. If you do not provide us the requested information and documentation, you understand and agree that you may be subject to account limitations and federal and state withholding tax at the applicable rates on all US source income payments received. Where BILL has determined in its reasonable discretion that withholding is applicable, you consent to BILL withhold tax at the applicable rate from payments to you. We will send all withholding taxes to the appropriate taxing authorities and cannot refund those amounts.
+10.5
+Inactive Accounts.
+If Your BILL account becomes inactive because You do not process a payment for an extended period of time, or because You have not linked a valid bank account, You may have a balance that is deemed “unclaimed” or “abandoned” under applicable state law. BILL may transfer any such "unclaimed" or "abandoned" funds in Your BILL account as required or permitted by applicable law. As provided by law, BILL may deduct a dormancy fee from any funds transferred under this paragraph.
+11.         Deactivating a User or Canceling Your BILL Account
+11.1
+Your Right to Cancel.
+You may request to deactivate a User or cancel Your BILL account at any time by submitting a request through Your BILL account or through Our
+customer support portal
+.
+11.2
+Effective Date of Cancelation: Subscription Accounts.
+This section applies to You if Your BILL account is an account with agreed upon subscription Service Fees (“Subscription Account”). Your Subscription Account will automatically renew each billing cycle unless You request to deactivate a User or cancel Your account. You may cancel Your Subscription Account in the manner described above. When You request to deactivate a User, the User deactivation will be effective on the last billing day of the then-current billing cycle for the Subscription Account or the date such request is processed and completed by Us, whichever is earlier. When You request to cancel a Subscription Account, the cancelation will be effective on the last day of the then-current billing cycle for Your Subscription Account, if there are no pending payments on the BILL account or if all pending payments will be posted and completed before the end of that billing cycle. You will not be eligible for a prorated refund of any portion of the subscription fee paid for the then-current subscription period If there are pending payments that will not be posted and completed by the last day of the billing cycle in which You request to cancel Your Subscription Account, the account cancelation will be effective on the last day of the next billing cycle or the date on which the last requested payment is posted and completed, whichever is later. BILL reserves the right to void any payments that have not been processed and paid on or before the effective date of account cancelation. You will be responsible for all Service Fees that accrue up to the effective date of cancelation. If You have any outstanding loan, the account cancelation will be effective on the date on which all principal, interest and indebtedness have been paid in full.
+11.3
+Effective Date of Cancelation: Non-Subscription Accounts.
+If You do not have a Subscription Account with BILL, Your request to deactivate a User or to cancel Your BILL account will be effective on the date the request is processed or the date on which the last requested payment is posted and completed, whichever is later. You will be responsible for all Service Fees that accrue up to the effective date of cancelation. If You have any outstanding loan, the account cancelation will be effective on the date on which all principal, interest and indebtedness have been paid in full.
+11.4
+Your Documents.
+If You cancel Your BILL account, BILL and the banks that offer services through BILL may maintain copies of any information or data that You upload to or create in the Service, such as Your User Data, Bills, and Documents, as required or permitted by law, this Agreement or Our
+Privacy Notice
+.
+12.         Warranty and Disclaimer
+THE SERVICE IS PROVIDED "AS-IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. YOU ASSUME ALL RISK AS TO THE RESULTS AND PERFORMANCE OF THE SERVICE AND YOUR DEALING WITH ANY OTHER SERVICE USER. BILL DOES NOT WARRANT THAT THE SERVICE IS COMPLETELY SECURE OR IS FREE FROM BUGS, INTERRUPTIONS, ERRORS, OR OTHER PROGRAM LIMITATIONS, OR THAT ALL ERRORS WILL BE CORRECTED. BILL FURTHER DISCLAIMS ANY AND ALL WARRANTIES ARISING FROM THE COURSE OF DEALING OR USAGE OF TRADE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM BILL OR ELSEWHERE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS AGREEMENT. YOU UNDERSTAND AND AGREE THAT YOU USE THE SERVICE, AND USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAIN MATERIALS OR CONTENT THROUGH THE SERVICE AND ANY ASSOCIATED SITES OR SERVICES, AT YOUR OWN DISCRETION AND RISK, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE USED IN CONNECTION WITH THE SERVICE), OR THE LOSS OF DATA THAT RESULTS FROM THE USE OF THE SERVICE OR THE DOWNLOAD OR USE OF THAT MATERIAL OR CONTENT.
+From time to time, the Company may offer new “beta” features or tools with which its users may experiment. Such features or tools are offered solely for experimental purposes and without any warranty of any kind, and may be modified or discontinued at the Company’s sole discretion. The provisions of this section apply with full force to such features or tools
+13.         Third-Party Services, Websites, and Products
+13.1
+Third-Party Services.
+Through the Service, You may access third-party websites, databases, networks, servers, information, software, programs, systems, directories, applications, or products or services offered through such third-party platforms (collectively, “Third-Party Services”).
+13.2
+No Control Over Third-Party Services.
+BILL does not have or maintain any control over Third-Party Services, and is not responsible for their content, operation, or use. By linking or otherwise displaying information from or providing access to any Third-Party Services, BILL does not give any representation, warranty or endorsement, express or implied, with respect to the legality, accuracy, quality, or authenticity of content, information, or services provided by those Third-Party Services.
+13.3
+Terms of Third-Party Services.
+Third-Party Services may have their own terms of use, licenses or privacy policies, and may have different practices and requirements from BILL. For example, if You access or use the Google Maps Platform (“
+Google Maps
+”) through the Service, Your use of Google Maps is subject to Google’s
+Terms of Service
+and the Google
+Privacy Policy
+. You are solely responsible for reviewing any terms of use, privacy policies or other terms governing Your use of these Third-Party Services, which You use at Your own risk. You are advised to make reasonable inquiries and investigations before entering into any transaction, financial or otherwise, and whether online or offline, with any third party related to any Third-Party Services.
+13.4
+Disclaimer of Liability for Third-Party Services.
+You are solely responsible for taking the precautions necessary to protect Yourself from fraud when using Third-Party Services, and to protect Your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content and material that may be included on or may emanate from any Third-Party Services. BILL disclaims any and all responsibility or liability for any harm resulting from Your use of Third-Party Services, and You irrevocably waive any claim against BILL with respect to the content or operation of any Third-Party Services.
+13.5
+Third-Party Software.
+The software You download consists of a package of components, including certain third-party software (“Third-Party Software”) provided under separate license terms (the “Third-Party Terms”). Your use of the Third-Party Software in conjunction with the Service in a manner consistent with this Agreement is permitted, however, You may have broader rights under the applicable Third-Party Terms and nothing in this Agreement is intended to impose further restrictions on Your use of the Third-Party Software.
+13.6
+Synching Your BILL Account with Your Accounting Software.
+If You choose to synchronize Your BILL account and Your accounting software, You agree and consent to sharing, collection, use and storage of all of Your accounting data (including but not limited to, bills, invoices and payments, costs, charts of accounts, customer and vendor information, classifications and items, financial statements (ie, balance sheets, cashflow, P&L) journal entries and company information) between Your accounting software service and BILL and any third party providers BILL uses in relation to the synchronization ("Accounting Data Sharing Consent"). This Accounting Data Sharing Consent covers up to one year of data for any BILL Payments or Account Receivables Services and up to three years of data for Financial Planning Services. In addition, Bill may obtain list objects (ie, vendor and customer information) without regard to time or other older information incorporated into or part of more recent accounting entries.You understand and agree that You are solely responsible, and BILL is not responsible, for the information and data that You choose to synchronize and share between Your BILL account and Your accounting software. If You choose to link Your BILL account to Your accounting software, You are making a determination that the accounting software is sufficiently secure to protect Your BILL account. When You use third-party accounting software, You understand and agree that use is subject to the terms of service and privacy policy of the software provider.
+13.7
+Third-Party Disputes.
+BILL IS NOT AFFILIATED WITH ANY OTHER BILL USER, CARRIER, SERVICE PROVIDER, THIRD-PARTY, OR THIRD-PARTY SERVICE, AND ANY DISPUTE YOU HAVE WITH ANY OTHER BILL USER, CARRIER, SERVICE PROVIDER, THIRD-PARTY SERVICE, OR OTHER THIRD PARTY ARISING FROM YOUR USE OF THE SERVICE, INCLUDING, WITHOUT LIMITATION, YOUR EMPLOYER, IS SOLELY BETWEEN YOU AND SUCH THIRD PARTY, AND YOU IRREVOCABLY RELEASE BILL (AND OUR OFFICERS, DIRECTORS, AGENTS, SUBSIDIARIES, JOINT VENTURES, EMPLOYEES AND SERVICE PROVIDERS) FROM ANY AND ALL CLAIMS, DEMANDS AND DAMAGES (INCLUDING BUT NOT LIMITED TO DIRECT AND CONSEQUENTIAL DAMAGES AND OTHER SPECIAL, INDIRECT OR INCIDENTAL DAMAGES) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH SUCH DISPUTES. BILL HAS NO OBLIGATION TO SEEK TO REVERSE OR OTHERWISE RECOVER ANY PAYMENT OR TRANSACTION THAT IS SUBJECT TO A DISPUTE BETWEEN YOU AND ANY THIRD PARTY.
+13.8
+Limited Third-Party Rights to Enforce this Agreement.
+You acknowledge and agree that certain distributors of the Service, including but not limited to mobile app store providers, such as Apple, Inc. and Google Inc., are intended beneficiaries of this Agreement and have a limited right to enforce this Agreement directly against You. Other than as set out in this Section or in Section 18, this Agreement is not intended to grant rights to anyone except You and BILL, and in no event shall the Agreement create any third-party beneficiary rights. No additional consents are required to exercise any rights to terminate, rescind, or agree to any variation, waiver, or settlement of this Agreement.
+13.9
+Mobile Applications.
+When You download a BILL mobile application (“mobile app”) from the Apple App Store, the Google Play Store, or other authorized app store provider (collectively and individually, “Mobile Provider”) for use on a mobile device, You acknowledge and agree to that this Agreement is between You and BILL only, not the Mobile Provider, and the Mobile Provider is not responsible for the Service or the content thereof. The Mobile Provider has no obligation whatsoever to furnish any maintenance and support services with respect to the Service. You agree that the Mobile Provider is not responsible for addressing any claims by You or any third party relating to the Service or your possession and/or use of the Service. The Mobile Provider is not responsible for the investigation, defense, settlement and discharge of any third-party claim that the Service or Your possession and use of the Service infringes that third party’s intellectual property rights. You agree to comply with any applicable third-party terms when using the Service through a mobile app.
+14.         Limitation of Liability
+IN NO EVENT SHALL BILL.COM OR ITS SERVICE PROVIDERS BE LIABLE TO YOU, YOUR ORGANIZATION OR INDIVIDUAL, ANY USER, OR ANY THIRD PARTY IN CONNECTION WITH THIS AGREEMENT OR THE SERVICE, FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL DAMAGES, LOSS OF INCOME, DATA, PROFITS, REVENUE OR BUSINESS INTERRUPTION, OR COST OF SUBSTITUTE SERVICES, OR OTHER ECONOMIC LOSS, WHETHER OR NOT BILL.COM OR ITS SERVICE PROVIDERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND WHETHER ANY CLAIM FOR RECOVERY IS BASED ON THEORIES OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY) OR OTHERWISE. BILL.COM AND ITS SERVICE PROVIDERS WILL NOT BE LIABLE FOR ATTORNEYS’ FEES, EXCEPT AS REQUIRED BY LAW.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, BILL.COM MAKES NO WARRANTY AND ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY DISPUTES, CHARGEBACKS, OVERCHARGES, DELAYED PAYMENTS, INSUFFICIENT FUNDS, EXPIRED CARDS, CIRCUMSTANCES BEYOND OUR CONTROL (INCLUDING WITHOUT LIMITATION POWER OUTAGES, SERVICE INTERRUPTIONS OR OTHERWISE), OR OTHER ISSUES RELATING TO THE TRANSACTIONS MADE THROUGH BILL.COM OR OTHER SERVICES OFFERED BY THE RELEVANT THIRD-PARTY SERVICES. BILL.COM IS UNDER NO OBLIGATION TO PAY YOU IF THE AMOUNT FUNDED BY YOUR CUSTOMER IS INSUFFICIENT TO COVER THE TOTAL AMOUNT DUE FROM YOUR CUSTOMER.
+NOTWITHSTANDING ANY OTHER PROVISIONS OF THIS AGREEMENT, IN NO EVENT SHALL BILL.COM’S OR ITS SERVICE PROVIDERS’ AGGREGATE LIABILITY TO YOU, YOUR ORGANIZATION OR INDIVIDUAL, ANY USER, OR ANY THIRD PARTY IN CONNECTION WITH THIS AGREEMENT OR THE SERVICE EXCEED THE TOTAL FEES PAID BY YOU OR YOUR ORGANIZATION TO BILL.COM IN THE TWELVE MONTH PERIOD PRECEDING THE EVENT(S) THAT GAVE RISE TO SUCH LIABILITY, OR ONE HUNDRED DOLLARS ($100.00), WHICHEVER IS GREATER, REGARDLESS OF THE FORM OR THEORY OF THE CLAIM OR ACTION.
+Each provision of this Agreement that provides for a limitation of liability, disclaimer of warranties, or exclusion of damages is intended to and does allocate the risks between the parties under this Agreement. Each of these provisions is severable and independent of all other provisions of this Agreement. All limitations of liability, disclaimers of warranties, and exclusions of consequential damages or other damages or remedies will remain fully valid, effective and enforceable in accordance with their respective terms, even under circumstances that cause an exclusive remedy to fail of its essential purpose. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF DAMAGES, LIABILITY OR CERTAIN WARRANTIES IN CERTAIN CIRCUMSTANCES. ACCORDINGLY, IN THOSE JURISDICTIONS, SOME OF THESE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY.
+15.         Indemnity
+You agree to full liability and responsibility for Your use of the Service, and You will defend and indemnify BILL and its officers, directors, employees, consultants, affiliates, subsidiaries and agents from and against every claim, liability, damage, loss, and expense, including reasonable attorneys' fees and costs, arising out of or in any way connected with: (a) Your violation of any portion of this Agreement, or any applicable law or regulation; (b) Your violation of any third-party right, including any intellectual property right, or publicity, confidentiality, other property or privacy right; or (c) any dispute or issue between You and any third party. We reserve the right, at Our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by You (without limiting Your indemnification obligations with respect to that matter), and in that case, You agree to cooperate with Our defense of that claim.
+16.         Dispute Resolution and Agreement to Arbitrate
+16.1
+Mandatory Arbitration of Disputes.
+In the interest of resolving disputes between You and BILL or the banks that offer credit services through BILL (the “BILL Parties”) in the most expedient and cost-effective manner,
+YOU AND THE BILL PARTIES AGREE THAT EVERY EXCEPT AS PROVIDED BELOW, ANY DISPUTE, CLAIM, OR CONTROVERSY ARISING OUT OF OR RELATING IN ANY WAY TO THE SERVICE, THE WEBSITE, OR THIS AGREEMENT (A “CLAIM”) WILL BE RESOLVED ON AN INDIVIDUAL BASIS BY BINDING ARBITRATION OR IN SMALL CLAIMS COURT.
+You and the BILL Parties agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this arbitration provision and that You and BILL are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of this Agreement.
+Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and is subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award (although the arbitrator must abide by the contractual limits on damages in this Agreement) and must enforce applicable statutes of limitation and legal defenses.
+Either You or the BILL Parties can seek to have a Claim resolved in small claims court if all the requirements of small claims court are satisfied. Either You or the BILL Parties may seek to have a Claim resolved in small claims court in your county of residence or the small claims court in closest proximity to Your residence, and You may also bring a Claim in small claims court in the Superior Court of California, County of Santa Clara.
+16.2
+Class Action Waiver.
+TO THE FULLEST EXTENT PERMITTED BY LAW, YOU AND THE  BILL PARTIES AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. YOU AND THE BILL PARTIES AGREE THAT CLASS ACTIONS, CLASS ARBITRATIONS, REPRESENTATIVE ACTIONS, AND/OR CONSOLIDATION OF ACTIONS OR ARBITRATIONS ARE NOT ALLOWED.
+If this specific Class Action Waiver provision is found to be unenforceable, then the entirety of this Dispute Resolution section shall be null and void.
+16.3
+Notice of Claim and Good Faith Efforts to Resolve a Claim.
+If You intend to seek arbitration, You must first send a written notice of Your Claim (“Notice”) to BILL. The Notice of Claim to BILL should be sent in care of our registered agent: Incorporating Services, Ltd., 3500 South DuPont Hwy, Dover, Delaware 19901. The Notice should include both the mailing address and email address You would like BILL to use to contact You. A Notice, whether sent by You or BILL, must describe: (a) the nature and basis of the Claim; and (b) the remedy sought. You and BILL or the BILL Parties as applicable agree to make good faith efforts to resolve the Claim directly. The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution process set forth in this section. If we do not reach an agreement within 60 days after the Notice is received, You or the BILL Parties may commence an arbitration proceeding by filing a Demand for Arbitration or, alternatively, by filing a Claim in small claims court. If a Claim qualifies for small claims court, but a party commences an arbitration proceeding, You and the BILL Parties agree that either party may elect instead to have the Claim resolved in small claims court, and upon written notice of a party’s election, the Judicial Arbitration and Mediation Services Inc. (“JAMS”) will administratively close the arbitration proceeding. Any dispute about whether a Claim qualifies for small claims court shall be resolved by that court, not by an arbitrator. In the event of any such dispute, the arbitration proceeding shall remain closed unless and until a decision by the small claims court that the Claim should proceed in arbitration.
+16.4
+Arbitration Procedures.
+A party who wishes to commence arbitration must submit a written Demand for Arbitration under the Streamlined Arbitration Rules and Procedures of JAMs then in effect, where the claim limit for application of the Streamlined Rules is not exceeded. Where the Streamlined Rules do not apply, then the JAMS Comprehensive Rules will apply. The applicable JAMS Rules apply, excluding any rules or procedures governing or permitting class, representative or consolidated actions. The arbitrator is bound by this Agreement and the parties agree that the provisions of this Agreement override any inconsistent, conflicting or contrary Rules by JAMS. JAMS may be contacted at
+www.jamsadr.com
+. The arbitration will be decided by one commercial arbitrator with substantial experience in resolving commercial disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with applicable Rules. Unless You and the BILL Parties agree otherwise, any arbitration hearings will take place in the county (or parish) of either Your residence or of the mailing address provided in Your Notice. Except as otherwise expressly provided herein, all issues are for the arbitrator to decide, including issues relating to the interpretation, scope and enforceability of this Agreement.
+The arbitrator shall issue a written decision sufficient to explain the essential findings and conclusions on which the award is based. The award shall be binding only among the parties and shall have no preclusive effect in any other arbitration or other proceeding involving a different party. Judgment on any award may be entered in any court having jurisdiction. This Agreement shall not preclude any party to the arbitration from at any time seeking injunctions or other forms of equitable relief in aid of arbitration from a court of appropriate jurisdiction including whether a Demand for Arbitration is filed in violation of this Agreement.
+16.5
+Injunctive and Declaratory Relief
+. Except as provided elsewhere in this Agreement, unless You or the BILL Parties seek to have a Claim resolved in small claims court, the arbitrator shall determine all issues of liability on the merits of any Claim asserted by You or the BILL Parties and may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual Claim. To the extent that You or the BILL Parties prevail on a Claim and seek public injunctive relief (that is, injunctive relief that has the primary purpose and effect of prohibiting unlawful acts that threaten future injury to the public), the entitlement to and extent of such relief must be litigated in a civil court of competent jurisdiction and not in arbitration. The parties agree that litigation of any issues of public injunctive relief shall be stayed pending the outcome of the merits of any individual Claims in arbitration. Before a court of competent jurisdiction issues any public injunctive relief, it shall review the factual findings of the arbitration award on which any injunction would issue with no deference to the arbitrator. Notwithstanding any other provision of this Agreement, we each retain the right to seek injunctive or other equitable relief from a court to prevent (or enjoin) the infringement or misappropriation of our intellectual property.
+16.6
+Arbitration Costs
+. Payment of all filing, administrative, and arbitrator fees will be governed by the JAMS Rules. BILL will reimburse You for the JAMS filing fee up to the amount of the filing fee You would have incurred if You had brought Your Claim in Court. However, if the arbitrator finds that either the substance of Your Claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), You agree to reimburse BILL for any fees paid on Your behalf that would otherwise be Your obligation under the JAMS Rules. The parties agree that JAMS has discretion to modify the amount or timing of any administrative or arbitration fees due under the JAMS Rules where it deems appropriate, provided that such modification does not increase the JAMS fees to You or the BILL Parties and YOU and the BILL Parties waive any objection to such fee modification.
+16.7
+Severability
+. With the exception of the provisions in the Class Action Waiver section of this Agreement, if any part of this arbitration provision is found to be invalid or unenforceable, the remaining provisions of this Agreement will still apply.
+17.         Governing Law; Choice of Forum
+This Agreement and all matters arising out of or relating to this Agreement, including any disputes between You and BILL, will be governed by the laws of the State of California, without regard to its conflicts of law provisions. To the extent that any dispute or action relating to this Agreement is permitted to be brought in a court of law, You agree that the legal action or proceeding will be brought exclusively in the state courts located in Santa Clara County, California, or the federal courts in the Northern District of California. Subject to the provisions of Section 16, You and BILL agree to submit to the exclusive jurisdiction of and agree that venue is proper in the state courts located in Santa Clara County, California, or the federal courts in the Northern District of California in any legal action or proceeding. The United Nations Convention on Contracts for the International Sale of Goods will not apply to any matters arising out of or relating to this Agreement.
+18.         Other Provisions
+18.1
+Language.
+If BILL provides a translation of the English language version of this Agreement, the translation is provided solely for convenience, and the English version will prevail.
+18.2
+Headings.
+The headings in this Agreement are for convenience only and have no legal effect.
+18.3
+Force Majeure.
+BILL will not be liable for any delay or failure to perform any obligation related to the Service if the delay or failure is due to unforeseen events that are beyond BILL’s reasonable control, such as strikes, blockade, war, terrorism, riots, natural disasters, epidemic, or governmental action.
+18.4
+Waiver.
+The waiver of any default or breach of this Agreement will not constitute a waiver of any other or subsequent default or breach. Except as otherwise stated in this Agreement, the exercise of any remedy under this Agreement will be without prejudice to other remedies available under this Agreement or otherwise.
+18.5
+Severability.
+In the event any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of the Agreement will remain in full force and effect.
+18.6
+Compliance with Laws.
+You and BILL each agree to comply with all applicable laws and regulations with respect to the Service and Your use of the Service, including without limitation any export laws and regulations of the United States.
+18.7
+No Agency.
+Except as otherwise expressly provided in Our Agreement with You, nothing in this Agreement, will be construed to create a partnership, joint venture, agency or fiduciary relationship between You and BILL.
+18.8
+Third-Party Beneficiaries.
+This Agreement is intended for the sole and exclusive benefit of You and BILL and the banks that provide credit products or services through BILL (as third party beneficiaries of this Agreement and have a limited right to enforce this Agreement directly against You with respect to such bank credit products or services), and is not intended to benefit any third party, except as otherwise stated.
+18.9
+Entire Agreement.
+This Agreement constitutes the complete and exclusive agreement between You and BILL concerning the Service and supersedes all other agreements or understandings, written or oral, about the Service.
+19.         Updates and Changes to This Agreement
+We may modify or change this Agreement (including adding and deleting any terms), as well as its policies incorporated in this Agreement (collectively for purposes of this paragraph "Agreement"), at any time, in Our sole discretion by posting the updated Agreement on Our Website with such update effective on the new effective date of the Agreement. For material changes, We will provide notice of the change by posting the updated Agreement on Our Website or in any other reasonable manner of notice, 30 days in advance of the effective date (or where required by law or regulations upon shorter notice) of the Agreement. You will be deemed to have accepted and agreed to any revisions or changes to this Agreement at the time of (i) Your electronic acceptance of the revised, changed or new Agreement, or (ii) Your use of the Service after the effective date of the revised, changed or new Agreement. If the revised, changed or new Agreement is not acceptable to You, Your sole and exclusive remedy will be to stop using the Service and/or to cancel Your account as provided in Section 11.
+SCHEDULE 1
+Bill Payment Service
+This Schedule 1 sets forth additional Terms that apply to all uses of the accounts payable services, features and functionalities (“Bill Payment Service”) of the Service. This Schedule is supplemental to and incorporated into the Agreement that governs the Service. All capitalized terms used but not defined herein have the meanings given to them in the Terms.
+1.         Using the Bill Payment Service
+1.1
+Using the Bill Payment Service.
+The “Bill Payment Service” is a set of services, features and functionalities that enables You to make payments to Vendors through the Service.
+1.2
+Payment Accounts.
+To use the Bill Payment Service, You must associate one or more valid bank account(s), credit card(s), or debit card(s) (individually and collectively, Your
+"
+Payment Account") with Your BILL account. Any bank account that You may associate with Your BILL account will be considered to be a “Payment Account.” When You enter Payment Account information for purposes of the Bill Payment Service, You represent and warrant:
+You have the authority to provide and disclose the Payment Account information to BILL;
+You have the authority to and do authorize the initiation of ACH debit or credit entries, as applicable, to the Payment Account in accordance with any payment instructions provided in connection with Your BILL account or use of the Service, and, as necessary, the initiation of adjustments or reversals as provided under this Agreement, or applicable law, rules or regulations;
+You will provide complete and accurate information to BILL about the Payment Account, including, but not limited to, information on the ownership of the account, and will notify Us promptly if the Payment Account information or ownership changes; and
+Each payment that You request through the Service complies with this Agreement and applicable law, regulations and rules.
+1.3
+Authorized Payers.
+By entitling a User to make payments through the Service (a “Payer”), You represent and warrant to Us that the Payer is authorized to instruct BILL to make payments and to initiate debit or credit entries, as applicable, to or from any Payment Account, as provided under this Agreement, the terms of the financial institution holding the Payment Account, and any applicable laws, regulations or rules. You will be responsible for any and all payments requested or made by a Payer, whether or not authorized by You.
+1.4
+Payment Instructions.
+When We receive a payment instruction from You or any Payer, We will use commercially reasonable efforts to make and deliver the payment, subject to this Agreement, and You authorize Us to debit Your Payment Account and remit funds on Your behalf, all in accordance with the payment instruction. You agree to be bound by any payment instructions that You or any Payer provides to Us, to the fullest extent allowed by law.
+1.5
+Rights We Reserve.
+BILL reserves the right to limit or cap or to refuse to make any payment transaction requested or initiated through the Bill Payment Service, for any reason, in BILL’s sole discretion, without BILL incurring any liability to You. By using the Bill Payment Service, You grant to Us and BILL reserves the right to suspend or cancel any payments requested or initiated by You or a Payer, including if Your BILL account is not in good standing. In the event that We suspend or cancel Your payment, BILL will credit the amount of any electronic ACH debit(s) received by Us to fund the payment (as described in Section 10 of this Schedule) to Your Payment Account, and You authorize BILL, in its sole discretion, to withhold and collect from any such credit(s) any Service Fees or other amounts owed by You to BILL.
+1.6
+Making Card Payments.
+The Bill Payment Service enables certain BILL Users to fund payments to Vendors via credit or debit card (“Card(s)”). To fund a payment to a Vendor using a Card, You will need to associate one or more valid Cards with Your BILL account. If Your BILL account is eligible to make payments via Card, You may use Cards issued on the following payment networks: MasterCard®, Visa®, Discover®, JCB®, Diners Club® networks. Certain restrictions may apply. Upon the addition of a Card to Your BILL account, You agree that BILL may verify the validity of Your Card pursuant to any reasonable method in BILL's sole discretion, including validating Your authority to use the Card. A temporary, small authorization charge may appear on Your card statement provided by the issuing bank for this purpose. All of the following apply when You use a Card to fund a payment to a Vendor:
+All Cards associated with Your BILL account are subject to the existing terms for the Card, including, but not limited to, any relevant credit or transaction limits, credit and interest terms, rewards programs, or other applicable terms set by Your issuing bank.
+We may impose limits on the size, frequency, and timing of Card payments sent through the service, on a per transaction, or a cumulative basis, and change those limits at any time.
+When You fund payments under the Bill Payment Service with a Your own Card, as between you and Bill only, You agree and acknowledge that You have received Your vendor’s services and/or goods and that those goods or services are as described.
+Use of Your Card to fund a payment is governed by the terms set by Your issuing bank. BILL will prepare, code, and submit Your Card authorizations as bill payments or purchases rather than cash advances. Your Card transactions, however, may be treated as a cash advance by the issuing bank.
+If You choose to fund a payment to a vendor via Card, BILL will first charge the Card You have selected to fund the payment. Once BILL charges Your Card successfully, BILL will disburse the funds to Your Vendor, pursuant to the
+Choosing a Payment Method Section
+below and other applicable terms.
+Each payment to a Vendor that You fund by using a Card complies with this Agreement and applicable law, regulations and rules.
+BILL Remedies. If (i) You initiate excessive Card Payment Disputes (defined below) seeking to reverse, chargeback, or dispute payments You have funded through use of Card or have a material number of such disputes unresolved for longer than 60 days; (ii) You materially breach this Agreement; (iii) BILL forms a reasonable belief that You may be unable to cover future liabilities under this Agreement (including if there is a material risk of Your insolvency, or if You are the subject of a large number of Vendor complaints); (iv) You have committed compliance violations, including being placed on any watchlist maintained by a regulator; or (v) You violate BILL’s
+Acceptable Use Policy
+, each as reasonably determined by BILL, BILL, upon notice to You, may do any or all of the following in order to mitigate the risk to BILL: (i) delay the payout of settlement funds to Your Vendors; (ii) suspend Your ability to submit Card Payments.
+1.7
+BILL Balance.
+If You have an eligible BILL account, You will be able to hold a balance of funds in Your BILL account (a “BILL Balance”). BILL Balance allows eligible BILL accounts to receive money, hold money, transfer money to pay Vendors, and move money from Your BILL Balance to Your Payment Account. You will pay the standard transaction fees for any transfers from Your BILL Balance to pay Vendors.
+Receiving funds into BILL Balance. You may elect to have monies sent to You through the Payments Service to placed into Your BILL Balance. You may change your election at any time through Your BILL Account settings. When You adjust Your account settings to allow money sent to You through the Accounts Receivable Service to be placed in Your BILL Balance, You authorize BILL and its third-party providers to receive and hold payments directed to You into the BILL Balance.
+‍
+Funding your BILL Balance. You may use funds from Your Payment Account to fund Your BILL Balance. Each time You instruct BILL to add funds from Your Payment Account to Your BILL Balance, You authorize Us to immediately debit the Payment Account at the time of the transfer for the amount instructed. You also authorize BILL to return funds to Your Payment Account in the event that a transfer of funds to Your BILL Balance is canceled or not possible for any reason. If We are unable to return funds from Your BILL Balance to your Payment Account, We will request that You provide us with a new Payment Account or an address to mail a check to return those funds to You.
+‍
+Funds added to Your BILL Balance will be stored in a master bank account owned by BILL, as custodian and for Your benefit. BILL Balance funds may be commingled with other funds similarly collected by and held by BILL for purposes of making payments requested through the Service. Even though BILL Balance funds will be held in an account owned by BILL, the funds are held solely for the benefit of the User, not BILL, and the BILL Balance User will be the principal with respect to those funds. BILL will not mix Your funds with BILL’s corporate funds and BILL will not use Your funds for any corporate purposes, nor will BILL voluntarily make Your funds available to its creditors in the event of bankruptcy. Funds in Your BILL Balance will be held in U.S. dollars.
+‍
+Transferring funds out of BILL Balance. You may electronically transfer funds from Your BILL Balance to Your Payment Account by instructing BILL to transfer funds to Your Payment Account. BILL will settle these electronic transfers to Your Payment Account based on the method You choose, including but not limited to, a wire or an ACH credit to your Payment Account through the National Automated Clearing House Association (“
+NACHA
+”). These transfers from Your BILL Balance will typically arrive in Your Payment Account within one (1) business day from the date of Your payment instruction. We may limit how many withdrawals You can initiate from Your BILL Balance to Your Payment Account and the amount of funds You can transfer in a single transaction. We may also delay a withdrawal, in certain situations, including to confirm that You have authorized the withdrawal or if there are insufficient funds in Your BILL Balance. We will charge our standard transaction fees to transfer funds from Your BILL balance to Your Payment Account via an ACH or check. If You request a paper check from Us, You must cash it within 180 days of the date of issuance, or We will return the funds to Your BILL Balance.
+Funds in BILL Balance. You acknowledge and agree that You will not receive interest on or other monetary benefits derived from funds that You have in Your BILL Balance. BILL may freeze, withhold, or remand funds in Your BILL Balance in response to a facially valid subpoena, court order, search warrant, notice, or other binding order from a governmental authority or third party, including but not limited to tax levies, garnishment orders, or lien notices, to the extent permitted by law and without incurring any liability to You. We will decide, in Our sole discretion, what action is required of Us. Unless the court order, applicable law, regulatory requirement or other legal process (“
+Legal Order
+”) requires otherwise, We will notify you of these actions. When We implement a hold or limitation as a result of a Legal Order the hold or limitation may remain in place longer than 180 days.
+‍
+Closing BILL Balance. You can close BILL Balance without closing Your BILL Account, but You cannot close Your BILL Account without closing Your BILL Balance. You can terminate Your relationship with Us, but You will remain liable for all obligations related to Your BILL Balance and BILL Account, even after those accounts are closed. If you close Your BILL Account and there are funds remaining in Your BILL Balance, We will send any remaining funds to You via check.
+In certain circumstances, such as the following, You may not turn off the BILL Balance feature or close Your BILL Account:
+(1) to evade investigation; (2) if You have a pending transaction using Your BILL Balance as the payment method or an open dispute or claim related to Your BILL Balance; (3) if Your BILL Balance has a negative balance; or (4) if Your BILL Balance is subject to a hold or limitation. You are responsible for all reversals, chargebacks, claims, fees, fines, penalties, or other liability incurred by BILL, or a BILL customer, or a third party caused by or arising out of the Terms applicable to your use of BILL Balance.
+If You do not log in to Your BILL Account for at least two years, BILL may close Your BILL Balance and send any funds in the BILL Balance to Your primary address or, if required, escheat (send) those funds to Your state of residency. We will determine your state of residency based on the state listed as the address for your BILL Account.
+‍
+BILL Remedies. We may immediately suspend or close your BILL Balance for any reason (including but not limited to violation of the Agreement, these Payment Terms, or the law and the failure to pay applicable Service Fees), in Our reasonable discretion, without BILL incurring any liability to You. If We suspend or terminate Your BILL Balance, We will use commercially reasonable efforts to provide notice to You, but will not be required to do so and will not be liable for failure to do so. Upon such suspension or termination, We will make any unrestricted funds available for withdrawal or send those funds to You via check.
+2.         Vendor Set Up and Management
+2.1
+Setting Up Your Vendors.
+To use the Bill Payment Service, You will be required to provide information for Your Vendors, including for Vendors that are not part of the BILL network. For each Vendor, You agree to provide correct and current information as requested by BILL. By providing, entering, connecting, or uploading any Vendor information to the Service, You represent and warrant that You have obtained all necessary authorizations or consents from the Vendor to share such information. You represent and warrant that the Vendor agrees, or You have the authority to agree on behalf of the Vendor, to be subject to and comply with this Agreement and all applicable laws, rules and regulations. You authorize Us to send emails, text messages and to call Your Vendors as needed to facilitate the Services provided to You and to provide Your Vendors with information regarding other products or Services. You represent and warrant that Your Vendor has agreed to receive such communications from Us. You further represent and warrant that when We send Your Vendor transactional communications that relate to payments that those communications facilitate a previously agreed upon commercial transaction between You and Your Vendor.
+You are solely responsible and BILL is not responsible for verifying the accuracy of any Vendor information provided in connection with Your BILL account or use of the Service. BILL will have no liability for losses or damages resulting from the accuracy or inaccuracy of Your Vendor’s information, including bank account information, or Your or Your Vendor’s actions or inactions. If You invite a Vendor to set up a BILL account, You acknowledge that it may take several business days to set up the Vendor in the Service. BILL does not guarantee that a Vendor will be set up in the Service.
+2.2
+Vendor Selection.
+If You choose to connect with, link or pay a Vendor in the BILL network, You acknowledge and agree that You are solely responsible for selecting and paying the correct Vendor. BILL will have no liability or responsibility if You select or pay an incorrect Vendor.
+2.3
+Payment Instruction Authorizations.
+When You create or link a Vendor to Your BILL account, You authorize Us to follow the payment instructions that We receive from You or a Payer to pay that Vendor. In order to process payments more efficiently and effectively, We may submit check payments to the best known Vendor address, alter payment data or data formats for a Vendor, or send a payment through the BILL Virtual Card Service as provided in Section 12 of this Schedule, all in Our sole discretion and without notice to You. BILL reserves the right to refuse to make payments to any Vendor, in BILL’s sole discretion.
+3.         Choosing a Payment Method
+To use the Bill Payment Service, for each payment transaction, You must choose a payment method to pay Your Vendor. Available payment methods may include electronic ACH payment, check payment, Card payments, or virtual card payment. The payment method selected may be governed by additional Terms, including as set forth in other Schedules to this Agreement. BILL reserves the right to change or limit the payment method options available to any Payer or Vendor, or to select the method by which a payment transaction will be made, all in BILL’s sole discretion.
+4.         Scheduling Bill Payment
+4.1
+Process Dates.
+Payment transactions made through the Bill Payment Service require sufficient time for BILL to debit Your Payment Account and for Your Vendor to receive payment. When making a payment through the Bill Payment Service, You must select an available date on which BILL will process the ACH debit from Your Payment Account to fund the payment ("Process Date"). You agree that You are solely responsible for scheduling payments and selecting an appropriate Process Date for each payment transaction. You understand that the selection of a future Process Date may not be available for all products and services.
+4.2
+No Warranty or Representation.
+When provided by BILL, estimated payment dates are for convenience only, and BILL does not guarantee that a payment to a Vendor will be made within any specific time frame of the Process Date, and BILL disclaims any responsibility or liability if a payment scheduled through the Bill Pay Service is not made to a Vendor on or before any specific date. It is Your sole responsibility to ensure that payment to a Vendor is made as required by agreement, contract or law. Except as otherwise agreed or required by law, You will be solely responsible and BILL will not be responsible for all penalties, interest charges, and other late payment fees associated with payments that are delivered after their due date.
+5.         Debits from Your Payment Account
+5.1
+Debits.
+When You use the Bill Payment Service to pay a Vendor, You are responsible for the payment amount and agree to fund the payment to BILL. To fund the payment, You authorize BILL to process a debit or charge to Your Payment Account, pursuant to your Payment Instructions, in the full amount of each payment You or a Payer has requested. If a debit or charge to Your Payment Account to fund a payment made by You through the Service is rejected or returned by Your bank for any reason, YOU UNDERSTAND AND AGREE THAT YOU CONTINUE TO BE RESPONSIBLE FOR FUNDING THE PAYMENT AMOUNT AND AGREE TO PAY THE AMOUNT OF THE RETURNED DEBIT DIRECTLY TO BILL WITHIN 5 BUSINESS DAYS. You agree that We may resubmit a returned or rejected debit to any Payment Account in Our sole discretion. You agree to pay all penalties, interest charges, late payment fees, service fees, and/or interest related to the rejected or returned funding debit. If an ACH debit or Card payment processed by Us from Your Payment Account is rejected or returned for any reason, We reserve the right to suspend all payments from Your BILL account, or to terminate Your BILL account, all in Our sole discretion in addition to other rights and remedies We have under the law and this Agreement.
+5.2
+ACH Debits from Your Payment Account.
+You certify that Your Payment Account is enabled for ACH debits, and agree to reimburse BILL for all penalties and fees incurred if any funding ACH debit is returned because Your Payment account was not properly configured to accept ACH debits.
+6.         Payment Cancelation or Modification
+6.1
+Payment Cancelation.
+You understand and agree that when You authorize a payment to be made to a Vendor through the Service, Your authorization remains in effect for up to 30 days. Payments that are scheduled but have not yet begun to be processed may be canceled and, if a change is needed, reissued, through Your BILL account. Once BILL has begun to process a payment, the payment cannot be canceled, and You must request to void the payment.
+6.2
+Void Payment Requests.
+To stop a payment after BILL has begun to process it, You must request to void the payment (“
+Void Payment Request
+”) through the Service. If You submit a Void Payment Request, BILL will use commercially reasonable efforts to stop the payment, but You understand and agree that BILL may not be able to stop the payment. BILL’s ability to stop a payment depends on a number of factors, including but not limited to the payment method and whether the payment has cleared the Vendor’s account, and for check payments, a subsequent assignee may have rights as a holder in due course.You agree that BILL will not have any liability for failing to stop a payment that has begun to process. You authorize BILL to debit your Payment Account for claims against Bill by holders in due course of voided checks. A Void Payment Request may be subject to a fee.
+6.3
+Rights We Reserve.
+BILL reserves the right to expire, void or cancel any payment if the payment is not deposited or otherwise received and processed by a Vendor within a reasonable amount of time, as determined by BILL in Our sole discretion. If We expire, void or cancel any payment, You authorize and We will credit the amount of the payment to Your Payment Account, less any Service Fees or other amounts owed by You to BILL.
+7.         Returned Transactions
+You are solely responsible for the accuracy of the payment information or the payment instructions provided to BILL. If a payment is refused or returned, BILL will void the payment, unless BILL in its sole discretion agrees to take other action on the payment such as crediting or reissuing the payment. If a returned or refused payment is voided, You authorize BILL to credit the amount of the payment to Your Payment Account, less any Service Fees or other amounts owed by You to BILL.
+8.         Document Management
+You may upload invoices, bills, statements of accounts from Vendors, or other documents ("
+Bills
+") to the Inbox of Your BILL account.
+You may also authorize Vendors to send electronic Bills to Your BILL account, or You can create Bills using the Service. You are solely responsible for the Bills uploaded, created, recorded, processed, approved, paid, and/or synced or shared with third parties through Your BILL account. BILL is not responsible for any Bills, including those that are misdirected or not received.
+Certain electronic bills may be uploaded to the Inbox of Your BILL account and identified as “eBills.” Where this option is provided, You may elect to turn on the eBills service. The eBill service is supported by one or more third parties who interact with Your Vendors through their own separate processes and agreements with Your Vendors, which are outside the control of BILL. As a result, BILL will not be held liable for, and you accept the risk of loss arising from, any error, delay, failure or inaccuracy of any eBill.
+9.         Auto Bill Entry
+BILL offers, and You may choose to use, if available, an auto bill entry service (“Auto Bill Entry”) that can assist You in entering information into the Service from Bills that you upload or receive. The Auto Bill Entry option may be provided, in part, by third party service providers, including CloudFactory. By choosing to use the Auto Bill Entry option, You understand that Auto Bill Entry is governed by this Agreement and by the terms of service and privacy policy, as applicable, of any third party service provider. CloudFactory’s Terms of Service are available at
+https://info.cloudfactory.com/bdc/tos.
+10.         Electronic Payments
+10.1
+ACH Applicable Rules and Law.
+Your use of the Bill Payment Service will include Your consent and authorization for BILL to process and originate electronic ACH debits and credits. You agree that all electronic ACH transactions requested or processed in connection with Your BILL account or Your use of the Service are subject to this Agreement, the Operating Rules of the National Automated Clearing House Association (“Nacha Rules”), and all other applicable laws, rules and regulations, which may include Uniform Commercial Code Article 4A or Regulation E. For purposes of the Nacha Rules, BILL is an “Originator” or a “Third Party Service Provider” or a “Third Party Sender.” BILL reserves the right to refuse to make any payment through the ACH Network, for any reason, in BILLs sole discretion.
+10.2
+Your Agreement and Representations.
+For purposes of ACH debits and credits, You:
+understand and agree that all payments processed through the Service via ACH are funded by an electronic withdrawal (an “ACH debit”) processed for BILL through the ACH Network from the bank account of the party making payment (the “Payor”);
+authorize BILL to initiate and process ACH debits and credits in accordance with Your payment instructions and as provided under this Agreement;
+agree to be subject to and comply with this Agreement, the Nacha Rules, and all other applicable laws, rules and regulations; and
+represent and warrant that Your Vendor or Customer agrees, or You have the authority to agree on behalf of Your Customer or Vendor, to be subject to and comply with this Agreement, the Nacha Rules, and all other applicable laws, rules and regulations.
+10.3
+Returns and Maintaining Sufficient Funds.
+When using the Service, including the Bill Payment Service, You understand and agree that it may take more than 60 days for BILL to receive notice of the return or reversal of an ACH debit and/or to exercise any rights granted or reserved under this Agreement. You agree at all times to maintain sufficient funds in Your Payment Account to satisfy all obligations to BILL in connection with Your BILL account or Your use of the Service, including returns, reversals, and associated fees, and to add funds immediately if BILL notifies You that Your funds are insufficient.
+10.4
+Ownership of Funds Collected for Payment.
+In the event that BILL processes an ACH debit or charges a Card to fund a payment before BILL makes the associated bill payment disbursement, the funds collected through the ACH debit from Your Payments Account or through a charge to Your Card will be held in a master bank account owned by BILL, as custodian and for the benefit of the Payor. These funds may be commingled with other funds similarly collected and held by BILL for purposes of making payments requested through the Service. Even though the funds will be held in an account owned by BILL, the funds are held solely for the benefit of the Payor, not BILL, and the Payor will be principal with respect to those funds.
+11.         American Express Vendor Pay By BILL
+If You are eligible to use American Express Vendor Pay by BILL, You may elect to use American Express’s Card Tokenization Service to make payments to Vendors who accept American Express. You acknowledge and agree that the Card Tokenization Service is provided by American Express, a third party and a BILL partner. Your use of the Card Tokenization Service is governed by the American Express Terms of Service. BILL expressly disclaims any liability to You for any damages incurred solely as a result of Your use of the Card Tokenization Service.
+12.         The BILL Virtual Card Service, formerly known as "Vendor Direct"
+12.1
+BILL Virtual Card Service.
+If Your Vendor has confirmed that it accepts payment by virtual card, Your payments to the Vendor through the Bill Pay Service may be made using the virtual card payment method (“Virtual Card Service”, formerly known as "Vendor Direct"). BILL reserves the right to refuse to make any payment using the Virtual Card Service, or to change the payment method from the Virtual Card Service to check or ACH for any payment transaction, for any reason, in BILL’s sole discretion, without BILL incurring any liability to You.
+12.2
+Virtual Card Payments.
+You understand and agree that BILL may use a third-party service provider (the “Virtual Card Provider”) to issue or manage the virtual cards used to execute payments requested or initiated through the Virtual Card Service, subject to BILL’s responsibilities and representations under this Agreement.
+You understand and agree that the virtual card payment option will be available only to pay Vendors that have confirmed that they accept virtual cards as a method of payment. You grant to Us, and BILL reserves, the right to choose, together with the Virtual Card Provider and/or Your Vendor, the manner in which the virtual card payments will be provided or delivered to Your Vendor. You understand and agree that neither BILL nor the Virtual Card Manager is responsible for any costs incurred by Your Vendor in connection with the use of the Virtual Card Service. The Vendor will be solely responsible for any costs or fees related to the receipt or processing of the virtual card payment.
+A Vendor that participates in the Virtual Card Service may opt out of receiving virtual card payments at any time. If a Vendor opts out of the Virtual Card Service and/or virtual card payments from You, Your payments to that Vendor through the Service will be made by check or electronic ACH payment, based on Your account settings and/or as provided under this Agreement. You acknowledge and agree that You are solely responsible for any payment owed by You to a Vendor, and that BILL has no responsibility or liability related to the acceptance or return of virtual card payments by a Vendor or the Vendor’s participation in or opt out of the Virtual Card Service. You grant Us the right to credit to Your Payment Account the amount(s) of any unprocessed virtual card payments, less any Service Fees or other amounts owed by You to BILL, as provided in this Agreement.
+12.3
+Business Payments Only.
+Our Virtual Card Service is intended for business payments.
+BILL reserves the right, without BILL incurring any liability to You, to refuse to make any payment using the Virtual Card Service or to change Your originally selected payment method from virtual card to check or ACH payment if BILL determines based on commercially reasonable diligence that Your payment is not a business-to-business payment being made for a commercial purpose.
+12.4
+Communications.
+When You use the Bill Payment Service, You authorize BILL and/or the Virtual Card Provider, on behalf of BILL, to contact Your Vendors to determine their ability to accept virtual card payments. You represent and warrant to BILL and/or the Virtual Card Provider that You have all authorization or consents required to permit BILL or the Virtual Card Provider to contact Your Vendors.
+13.         The International Payments Service
+13.1 International Payments Service.
+If You have an eligible BILL account, You may use the International Payments Service to make payments (“International Payments”) to Vendors located in certain eligible foreign countries. You understand and agree that the International Payments Service is part of and available only for the Bill Payment Service, and the International Payments Service is not available for the Accounts Receivable Service.
+BILL reserves the right to select and change, at any time, for any reason, in BILLs sole discretion, the eligible countries to which or the eligible currencies in which You may request payments to be made using the International Payment Service. BILL reserves the right to refuse any payment transaction requested or initiated through the International Payments Service, for any reason, in BILL’s sole discretion, without BILL incurring any liability to You.
+13.2 Process Dates.
+You understand and agree that, for certain International Payments, You may not be able to select or schedule a future Process Date. We will provide You with an estimated delivery date for Your International Payment when You instruct Us to make the payment, but You understand and agree that actual delivery date may vary. It is Your sole responsibility to ensure that payment to Your Vendor is made as required by agreement, contract or law.
+13.3 Currency Conversion Rates.
+You understand and agree that (i) International Payments may require the conversion of currency, and (ii) when making International Payments, the applicable rate of currency conversion may vary from the indicative rate displayed when You request the payment and You will be bound by the applicable rate of currency conversion. We and Our third-party service providers include a margin on foreign exchange, which is an indirect cost to You. A margin is the difference between the wholesale exchange rate and the actual exchange rate used to convert the payment to the foreign currency. You agree that BILL is not responsible and will not be liable to you for any loss suffered by You due to any rate fluctuations.
+13.4 Third Party Service Providers.
+You understand and agree that BILL may use one or more third-party service provider(s) to process or execute International Payments, to convert currency, and/or to transmit and distribute funds to Vendors outside the United States.
+13.5 Applicable Rules.
+You understand and agree that International Payments may be governed by rules of payment networks used to process such payments, OFAC regulations, and may be subject to the laws of jurisdictions outside the United States, including the jurisdictions where the Vendors are located. The application of foreign laws or regulations to Your International Payments may impact the rights and remedies that You have with respect to the International Payments.
+13.6
+Void and Canceled Payment Requests.
+You acknowledge and agree that BILL cannot stop or void an International Payment after the payment has begun to process and has no obligation to seek to reverse an International Payment past the process date. If you cancel or seek to void an International Payment request that requires a currency conversion, then any costs We incur with regard to that currency conversion will be borne by You and We are entitled to debit such costs from Your Billing Account during Your next fee payment cycle. Costs include any loss to BILL from a fluctuation in the rate We provided for the currency conversion. If BILL is unable to charge the Billing Account for any reason, You agree to pay all such costs within 5 business days of notice of non-payment from BILL. If amounts owed are not paid within 5 days of that notice, interest will accrue on all past due amounts at the rate of 1.5% per month or the highest rate of interest allowed by law (whichever is less), calculated from the date the amount was due until the date that payment is received.
+13.7
+Currency Conversion Preferences.
+Where currency conversion is available, BILL will facilitate a payment transaction in the currency accepted or chosen by the receiver.  If the receiver has not chosen or accepted a currency, then the transaction will be completed in the currency initiated by the sender.
+13.8
+Business Payments Only.
+Our International Payments Service is intended for business payments or payments made by business entities.
+13.9
+No Payments to OFAC Sanctioned Countries or Specially Designated Nationals (SDNs).
+Our International Payments Service cannot be used, directly or indirectly, to facilitate payments to OFAC sanctioned countries or to SDNs which are both prohibited by U.S. law.
+SCHEDULE 2
+Accounts Receivable Service
+This Schedule 2 sets forth additional Terms that apply to the accounts receivable features and functionalities (“Accounts Receivable Service”) of the Service. This Schedule is supplemental to and incorporated into the Agreement that governs the Service. All capitalized terms used but not defined herein have the meanings given to them in the Terms.
+1.         Using the Accounts Receivable Service
+1.1
+Using the Accounts Receivable Service.
+The “Accounts Receivable Service” is a set of services, features and functionalities of the Service that enable You to receive payments from Customers through the Service.
+1.2
+Payment Accounts.
+To use the Accounts Receivable Service, You must associate a Payment Account
+with Your BILL account. When You enter Payment Account information for purposes of the Accounts Receivable Service, You represent and warrant:
+You have authority to provide and disclose the Payment Account information to BILL;
+You have authority to and do authorize the initiation of ACH debit or credit entries, as applicable, to the Payment Account in accordance with Your payment instructions and use of the Service, and, as necessary, the initiation of adjustments or reversals as provided under this Agreement, or applicable law, rules or regulations; and
+Each payment that You receive through the Service complies with this Agreement and applicable law, regulations and rules.
+1.3
+Payment Instructions.
+You are solely responsible for the accuracy of the payment information and the payment instructions provided in connection with Your use of the Accounts Receivable Service.
+1.4
+Agent of the Payee; Receipt of Funds.
+When You use the Accounts Receivable Service as part of a subscription plan, You appoint BILL to act as Your agent in connection with the receipt of funds from Your Customer. Receipt of funds from Your Customer by BILL will be deemed to be receipt of funds by You, and will satisfy any payment obligations of Your Customer up to the amount of the funds received.
+1.5
+Rights We Reserve.
+BILL reserves the right to refuse to process a payment from a Customer for any reason, including any reason related to the Customer’s financial condition and creditworthiness, in BILL’s sole discretion, without BILL incurring any liability to You. BILL may contact, in its sole discretion, for any reason, a Customer regarding any payments made, or to be made, by the Customer through the Accounts Receivable Service. BILL will not process any payment transaction requested from any Customer located outside the United States unless one of Our International Services supports such payment.
+2.         Customer Set Up and Management
+To use the Accounts Receivable Service, You may be required to provide accurate and current information about Your Customers. You agree to provide any information or documentation requested by BILL, including to verify the identity of the Customer and its payment information. When using the Accounts Receivable Service, You represent and warrant to BILL that:
+The information You provide for a Customer is complete and accurately identifies the Customer.
+All of the invoices that You create or upload to the Service are issued pursuant to a contractual relationship with the Customer and/or for goods or services provided to the Customer.
+Each payment transaction initiated by You or from the Customer complies with the terms of Your contract or arrangement with the Customer, and with applicable law, regulations and rules.
+Your Customer agrees, or You have the authority to agree on behalf of the Customer, to be subject to and comply with this Agreement, and all applicable laws, rules and regulations.
+3.         Customer Authorizations
+3.1
+Customer Consents and Authorizations.
+By providing, entering, connecting, or uploading Customer information to the Service, You represent and warrant that You have obtained all required authorizations or consents from the Customer to share the Customer’s information. You are solely responsible for verifying the accuracy of Customer information provided by You in connection with Your BILL account or use of the Service. BILL will have no liability for losses or damages resulting from the accuracy or inaccuracy of a Customer’s information, or Your or Your Customer’s actions or inactions.
+3.2
+Payment Authorizations.
+When requesting or initiating a payment from a Customer using the Accounts Receivable Service, You represent and warrant that You have obtained all necessary approvals and authorizations from the Customer to initiate the payment and to authorize ACH debits and credits from the Customer’s bank account, including to fund the payment. BILL will have no liability for losses or damages resulting from ACH debits or credits that you initiate without authorization from your Customer.
+4.         Invoice Creation and Management
+You may create invoices through the Service, or import invoices from Your accounting software if the import is supported by both BILL and Your accounting software. You may use the Accounts Receivable Service to send and track Your invoices, and to send reminders related to Your invoices. By using these features of the Accounts Receivable Service, You represent and warrant that You have all rights and consents necessary to send invoices and reminders to Customers in accordance with any governing agreements and applicable law.
+BILL is not responsible for any invoices or reminders that You send using the Service, including those that are misdirected or not received.
+5.         ACH Payments
+5.1 ACH Payments.
+Your use of the Accounts Receivable Service will include Your consent and authorization, and Your representation and warranty that You have obtained necessary consents and authorization from Customer(s), for BILL to process and originate electronic ACH debits and credits to or from Your Customer(s).
+5.2 Debits from the accounts of Your Customers.
+When You use the Accounts Receivable Service, You represent and warrant to BILL that You have all necessary authorizations and approvals from Your Customer for BILL to originate an ACH debit from the Customer’s bank account to fund the full amount of each payment requested, and will provide proof of such authorizations upon our reasonable request. You represent and warrant that Your Customer certifies, or You have the authority to certify on behalf of Your Customer, that the Customer’s bank account is enabled for ACH payments, and You agree to reimburse BILL for all penalties and fees incurred if any funding ACH debit is returned because the Customer’s bank account was not properly configured to accept ACH debits. You represent and warrant that Your Customer agrees, or You have the authority to agree on behalf of Your Customer, that the Customer will not dispute any ACH debit by BILL that funds a payment made through the Service. If an ACH debit from a Customer’s account to fund a payment requested by You through the Accounts Receivable Service or an ACH debit requested by your Customer through the Accounts Payable Service is rejected or reversed for any reason, YOU AUTHORIZE BILL TO REVERSE THE CORRESPONDING PAYMENT TO YOU VIA DEBIT FROM YOUR PAYMENT ACCOUNT, OR IF THERE ARE INSUFFICIENT FUNDS IN YOUR PAYMENT ACCOUNT AT THE TIME OF DEBIT, YOU AGREE TO PAY THE AMOUNT OF THE PAYMENT BACK TO BILL WITHIN 5 BUSINESS DAYS. You represent and warrant that Your Customer agrees, or You have the authority to agree on behalf of Your Customer, that BILL may resubmit a rejected or reversed funding debit to the Customer’s account, in BILL’s sole discretion. You also agree to pay all penalties, interest charges, late payment fees and service fees related to any rejected, reversed or returned funding ACH debit. For additional terms regarding ACH payments, please see Schedule 1, Section 10.
+5.3 Returns and Maintaining Sufficient Funds.
+When using the Service, including the Accounts Receivable Service, You understand and agree that it may take more than 60 days for BILL to receive notice of the return or reversal of an ACH debit and/or to exercise any rights granted or reserved under this Agreement. You agree at all times to maintain sufficient funds in Your Payment Account to satisfy all obligations to BILL in connection with Your BILL account or Your use of the Service, including returns, reversals, and associated fees, and to add funds immediately if BILL notifies You that Your funds are insufficient.
+6.         Supplemental Financial Transaction Services
+The following set of financial transaction services supplement Your BILL account and/or service plan. These supplemental services are not included in the fees for Our standard subscription plans. Our supplemental financial transaction services may be provided by Us or any or our affiliates or subsidiaries.
+6a.         Receiving Card Payments
+6a.1
+General.
+BILL provides features and services that allow You to accept card payments from Your Customers (“Card Payments”).
+6a.2
+Card Payment Disputes.
+A “Card Payment Dispute” is an instruction initiated by the party making a Card Payment to reverse or invalidate a processed Card Payment (including “chargebacks” and “disputes” as those terms may be used by Card Payment Providers). BILL may withhold the payout of the amount of a Card Payment from settlement funds owed to You under this Agreement if BILL, acting in good faith and using its industry knowledge and platform-wide algorithms, reasonably believes that a Card Payment Dispute is likely to occur with respect to that Card Payment. BILL may, with notice to You (which may be concurrent), withhold the payout of amounts subject to (i) a potential Card Payment Dispute until BILL reasonably believes the Card Payment Dispute is no longer likely to occur; and (ii) an actual Card Payment Dispute until the Card Payment Dispute is resolved.
+If a Card Payment Dispute occurs for a Card Payment for which funds (“Card Payment Funds”) have already settled and been disbursed to You, the Card Payment Dispute results in Your unconditional obligation to return the settled Card Payment Funds to BILL. Card Payment Funds are credited to Your Payment Account on the condition that there is no Card Payment Dispute. If a Customer claims a Card Payment Dispute in accordance with relevant network and issuer rules, You lose entitlement to the relevant Card Payment Funds and must return that amount to BILL.
+For every Card Payment Dispute where BILL is obliged to pay the Card Payment Dispute amount to any third-party, You give BILL authority to deduct the same amount from your Payment Account. If there are insufficient funds in Your Payment Account to cover the debit for the Chargeback, this will result in a “Negative Balance”. A Negative Balance represents an amount that you owe to BILL, and, in this situation, You must immediately add funds to your Payment Account to resolve the Negative Balance. If you don’t immediately add funds to cover Your Negative Balance, BILL may: (1) engage in collection efforts to recover the amount due from You to BILL; (2) place a limitation on Your BILL Account; or (3) take other action on Your BILL account as provided in this Agreement.
+6a.3
+BILL Remedies.
+If (i) You incur excessive (over 0.5% of total monthly processing volume) Card Payment Disputes in three consecutive months or have a material number of such disputes unresolved for longer than 60 days; (ii) You materially breach this Agreement; (iii) BILL forms a reasonable belief that You may be unable to cover future liabilities under this Agreement (including if there is a material risk of Your insolvency, or if You are the subject of a large number of Customer complaints); (iv) You issue a large volume of refunds of Card Payment Funds that result in a Negative Balance; (v) You have committed compliance violations, including being placed on any watchlist maintained by a regulator; or (vi) You violate BILLs
+Acceptable Use Policy
+, each as reasonably determined by BILL, BILL, upon notice to You, may do any or all of the following in order to mitigate the risk to BILL: (i) initiate reversals; (ii) delay the payout of settlement funds to Your Payment Account; and/or (iii) suspend Your ability to submit Card Payments.
+6a.4
+Challenging a Dispute.
+You are immediately responsible to us for all Card Payment Disputes, refunds, reversals, or returns regardless of the reason, timing, or method of payment. In many but not all cases, You may have the ability to challenge a chargeback or dispute by submitting evidence to Us. To challenge a Card Payment Dispute, you will need to provide documents and other evidence that BILL requests in order to meet the evidentiary requirements of the applicable card network. BILL may provide You with guidance on preparing the required evidence, but We cannot guarantee that Your challenge will be successful. You agree to reasonably assist BILL in responding to and challenging a Card Payment Dispute and to provide any documents that BILL reasonably requests in that context within the timeframe requested by BILL. You agree that BILL may challenge the Card Payment Dispute without Your assistance where BILL has reasonable cause to do so. Third-parties such as the applicable card network may deny Your challenge for any reason they deem appropriate. Where a challenge is entirely or partially successful, a third-party may credit funds associated with the Card Payment that is the subject of the Card Payment Dispute (or a portion thereof) to Your appropriate account.
+6a.5
+Dispute Fees.
+For every Card Payment Dispute, You will be charged a non-refundable fee (“Card Payment Fees”). Card Payment Fees charged for executing the original Card Payment will not be refunded in part or in whole to You if the Card Payment is made subject to a Card Payment Dispute.
+Card Payment Disputes can arise from both authorized and unauthorized Card Payments. BILL is not responsible for or liable to You for authorized and completed charges or payments that are later the subject of a Card Payment Dispute, refund, or reversal, are submitted without authorization or in error, or violate any laws.
+6b.         Expedited Payment Services Including Instant Transfer
+6b.1
+Expedited Payment Services.
+For certain payments made to You through the Accounts Receivable Service, You may have the option to receive the funds quickly through Our expedited payment services, including as soon as thirty minutes through the Instant Transfer Service. Expedited payment services, including Instant Transfer transactions may be facilitated by Us through a variety of payment networks, all in Our discretion, including but not limited to Real Time Payments (“RTP”) network (where Your bank accepts RTP), Next Day ACH, Same Day ACH, or may be paid to the account associated with a debit card that You provide when You elect the Instant Transfer Service. We may charge a transaction fee for expedited payment services which is separate and distinct from any subscription fee You may pay for participation in a subscription plan. Use of the Instant Transfer Service is conditioned on Your acceptance of and will be governed by this Agreement and, where You use a debit card with this service, it may also be subject to the agreement of Our third party service provider. If an agreement with Our third party service provider is required, it will be provided to You when You elect Instant Transfer. Expedited payment services may also be subject to The Clearing House RTP System Operating Rules, the Uniform Commercial Code Article 4A, Nacha Rules, and applicable card network rules.
+6b.2
+Representations and Warranties with our Expedited Payment Services.
+When You use Our expedited payment services, in addition to other representations and warranties, You represent and warrant the following as of the date You elect any expedited payment transaction:
+Each expedited payment transaction funds an obligation of Your Customer to You that arose in the ordinary course of business between You and the Customer and is unconditionally owed to You without any defenses, disputes, offsets, counterclaims, or rights of return or cancelation;
+To the best of Your knowledge, Your Customer is not insolvent or unable to pay its obligations in the ordinary course, is not contemplating filing for bankruptcy, and is not subject to any bankruptcy, insolvency, receivership, conservatorship or other similar proceedings;
+You have a reasonable basis to believe that Your Customer has funds available in such Customer’s bank account to fund the expedited payment transaction; and
+You are not aware of any circumstance indicating that there is a significant risk that the method Your Customer used to fund the expedited payment transaction (i.e., ACH or Card) will be returned, rejected, dishonored, or disputed.
+By using Our expedited payment services, You are requesting that BILL provide expedited availability of funds for Your Customer’s payment pending settlement of such payment, and You acknowledge that BILL’s willingness to provide such expedited funds availability is contingent on Your representations and warranties above. You agree and acknowledge that providing You with advance availability of funds is not a loan, but a feature of BILL’s payment services, and You agree not to characterize any expedited payment transaction as a loan.
+6b.3
+Remedies for Breach of the Representations and Warranties in this Section.
+Without limited other available remedies, if the method of funding Your Customer provided for an expedited payment transaction is rejected, reversed or returned and We reasonably believe that You breached any representation or warranty to Us; then YOU AUTHORIZE BILL TO REVERSE THE CORRESPONDING PAYMENT TO YOU VIA DEBIT FROM YOUR PAYMENT ACCOUNT, OR IF THERE ARE INSUFFICIENT FUNDS IN YOUR PAYMENT ACCOUNT AT THE TIME OF DEBIT, YOU AGREE TO PAY THE AMOUNT OF THE PAYMENT BACK TO BILL UPON DEMAND. You also agree to pay all penalties, interest charges, late payment fees and service fees related to any breach of Your representations and warranties.
+6b.4
+Canceled Expedited Payments.
+Payment with Our expedited payment services may be canceled for various reasons including “time-outs” of the RTP network, as defined by The Clearing House, in which case the payment may be resubmitted if possible. If Your expedited payment, including Instant Transfer payment, cannot be resubmitted, You may receive Your payment via electronic ACH payment.
+6b.5
+Rejected Expedited Payments.
+If a payment with Our expedited payment service, including Instant Transfer payment, is rejected by Your financial institution or any third party provider, BILL is not responsible to You for the payment, or any other loss, damages, or costs related to the payment.
+6c.         Virtual Card Disbursements
+6c.1
+BILL Virtual Card Service.
+You may elect to receive disbursements from Your Customers through our BILL Virtual Card payment method (the “Virtual Card Service”, formerly known as "Vendor Direct") where this option is made available to You on Our platform.
+Where we have reasonably determined that You accept card payments, You also grant to Us, and BILL reserves the right to choose, together with our third party providers and/or Your Customer, to pay You through our Virtual Card Service, and the manner in which the virtual card payments will be provided or delivered to You. Where such determination is made, You consent to disbursements to You through the Virtual Card Service for payments from any of Your Customers.
+6c.2
+Opting-out of Virtual Cards.
+An opt out option is available where Virtual Cards are enabled. Opt outs may be requested at any time by contacting Us to update the disbursement preference. We will discontinue the virtual card service within a reasonable time after We receive notice of an opt out and future payments to You by check or electronic payments. BILL reserves the right to:  (1) re-enable the Virtual Card Service without notice where circumstances, in BILL’s sole discretion, justify this change and (2) decline to make any payment using the Virtual Card including changing the payment method from Virtual Cards to check or electronic payment, for any reason, in BILL’s sole discretion, all without BILL incurring any liability to You.
+You understand and agree that neither BILL nor its third party providers are responsible for any costs incurred by You in connection with a disbursement pursuant to the Virtual Card Service and that You will be solely responsible for any costs or fees related to the receipt or processing of the virtual card payment, which are separate and apart from any subscription fees You may pay Us.
+6c.3
+Business Payments Only.
+Our Virtual Card Service is intended for business payments. BILL reserves the right, without BILL incurring any liability to You, to refuse to make any payment using the Virtual Card Service or to change Your originally selected payment method from virtual card to check or ACH payment if BILL determines based on commercially reasonable diligence that Your payment is not a business-to-business payment being made for a commercial purpose.
+SCHEDULE 3
+Console Service
+This Schedule 3 sets forth additional Terms that apply to all uses of the accounting console features and functionalities (“Console Service”) of the Service, unless otherwise agreed by and between You and BILL. This Schedule is supplemental to and incorporated into the Agreement that governs the Service. All capitalized terms used but not defined herein have the meanings given to them in the Terms.
+1.         Using the Console Service
+The Console Service enables accountants and other financial services professionals (as subscribed to BILL, each an “Accountant”) to manage and operate BILL accounts for and/or on behalf of their professional services clients (“Clients”). To gain access to the features and functions of the Console Service, You must subscribe to the Console Service and pay all applicable Service Fees.
+2.         Client Authorizations
+Your subscription to the Console Service will enable You to: (a) invite Clients to create a BILL account that will be linked to Your Console account; (b) create a BILL account on behalf of a Client, which will be linked to Your Console account; (c) invite Clients to link previously created BILL accounts to Your Console account; (d) link previously created Client accounts to Your Console account; and (e) configure, manage, and/or operate the Service on behalf of Your Clients.
+When You create or link a BILL account on behalf of a Client through Your Console account, You represent and warrant to BILL that: (a) You have obtained all required consents and authorizations to accept this Agreement for the Client; and (b) the Client has agreed to be bound by this Agreement; (c) the Client has authorized You to manage and operate their BILL account for and/or on the Client’s behalf; and (d) You have an existing business relationship with the Client where You are providing separate professional financial consulting or accounting services for the benefit of such Client. Each Console and Client understands and agrees that the Client accepts this Agreement separately from the Accountant. You represent and warrant to BILL that You have obtained all required rights, consents or authorizations from Your Client to use the Service on the Client’s behalf and will provide proof of such consent upon reasonable request by Us.
+Initiating Payments on Behalf of Your Clients. When You initiate a payment transaction or issue payment instructions on behalf of a Client through Your Console account, You represent and warrant to BILL that You have obtained all required rights, consents and authorizations to request or initiate ACH credit(s) or debit(s) to or from the Client’s Payment Account.
+3.         Client Data
+3.1
+Ownership of Client User Data.
+All rights, title and interests, including all intellectual property rights, in a Client’s User Data (“Client Data”) uploaded, stored, shared, or otherwise processed in connection with an Console Account will be owned by the Client; provided that, any data created by the Accountant will be owned by the Accountant. In the event of a conflict between a Client and a Console regarding ownership of documents, data, or other information related to a Client’s BILL account, BILL reserves the right to refuse to release the documents, data or other information to either party, absent the consent to release from the other party or the receipt of a legally binding order from an authority of competent jurisdiction. BILL does not monitor and BILL shall not be responsible for the content of any Client Data.
+3.2
+Uploading Client Data.
+Prior to uploading any Client Data to the Service, You represent and warrant to BILL that You have obtained and maintain all required consents and authorizations necessary to permit the processing of such Client Data. You are solely responsible and BILL is not responsible for the Client Data that You manage in connection with Your Console account.
+4.         Customization of Your Console
+With a Console Service subscription, You may customize the Client BILL accounts linked to Your Console with Your logo or brand. If You choose to use this customization feature, You acknowledge and agree that You have all necessary rights, licenses, and authorizations to do so and the customization does not infringe the rights or licenses of any third party. You acknowledge and agree that You are not an agent of BILL and You have no authority to provide any representations, warranties or covenants with respect to the Console Service or any other Service, and You will not purport to make any such representations, warranties or covenants on behalf of BILL.
+5.         Marketing and Promotion
+If You subscribe to the Console Service, We grant You permission to state publicly that You are a customer of BILL’s Console Service, and a limited, revocable, non-exclusive, non-transferable right and license to use and display the BILL brand in accordance with our branding policies and guidelines, as updated and available on the
+BILL Website
+or as provided to You. You agree to use commercially reasonable efforts to cooperate with BILL in monitoring the use of the BILL brand in relation to Your Console account. We reserve the right to revoke or restrict any right or license granted under this subsection if You fail to comply with BILL’s branding policies and guidance. All goodwill developed from Your use of the BILL brand will accrue solely to the benefit of BILL.
+From time to time, BILL may provide You with materials (“Console Materials”) related to the Console Service. You agree to use Console Materials only in the form provided and as directed by BILL, and You will not alter Console Materials without the express written permission of BILL.
+We reserve the right to revoke or restrict any right or license granted under this subsection if You fail to comply with BILL’s branding policies, guidance, or directives.
+6.         Relationship of the Parties
+No agency, partnership, joint venture, employment, or other similar relationship is created between an Accountant and BILL as a result of this Agreement or the Accountant's use of the Console Service. This Agreement does not grant You the right to resell the Service, in whole or in part, to any person or entity.
+SCHEDULE 4
+For Invoice2Go Customers (Card Disbursements)
+This schedule sets forth additional terms that apply to the Card Disbursements Service for Invoice2Go Customers. It supplements the Agreement and incorporates the Terms, except as modified in this Supplement. All capitalized terms used but not defined herein have the meanings given to them in the Terms.
+The Card Disbursement Service is provided to customers of Invoice2Go (I2G), a wholly owned subsidiary of Bill.com Holdings, who have elected I2G’s Money Card Services as set out in the
+Invoice2Go Terms of Use
+(the “I2G Agreement”). The Agreement, as supplemented herein, governs Your use of and interactions with the Card Disbursements Service provided by BILL, which supports Your ability to receive card disbursements from Your Customers under services offered by, I2G pursuant to the I2G Agreement, including from I2G’s card processors. It also supports Your ability to direct delivery of those funds to Your Designated Account at standard or expedited speeds.
+1.          Modifications to the Terms
+1.1 The following Schedules and Policies incorporated in the general Terms are
+not
+available with or applicable to this Supplement.
+BILL’s Electronic Funds Transfer Agreement and Disclosure & Error Notice
+(US Consumers Only).
+Schedule 1: Bill Payment Service
+Schedule 2: Account Receivable Service
+Schedule 3: Console Service
+Supplemental Terms of Service for Canadian Users
+Supplemental Terms of Service for International Business Receivable Users
+1.2 The following Sections of the general Terms do
+not
+apply to this Supplement.
+Section 3 of PART A  (OVERVIEW OF WHAT THIS AGREEMENT COVERS)
+Subsections 3.1, 3.2, 3.4 of Section 3 (Using the Service) of PART B (GENERAL TERMS)
+Section 4 (Account Security) of PART B in its entirety
+Subsection 6.3 (Prohibited Payments) of PART B
+Subsection 10.2 (Changes to Service Fees) of PART B
+Subsections 11.2 and 11.3 of Section 11  (Deactivating a User or Canceling Your BILL Account) of PART B
+Section 13 (Third-Party Services, Websites, and Products) of PART B in its entirely
+1.3 The following sections of the General Terms are modified by this Supplement.
+Subsections 7.1 and 7.2 of Section 7  (Rights You Grant to Us) is replaced with the following.
+7.1 Right to Refuse to Make Payment. You grant to Us and BILL reserves the right to limit, delay, investigate, or to refuse to deliver or process any payment through the Card Disbursements Service (a “Transaction”) in Our reasonable discretion, without BILL incurring any liability to You. BILL or I2G will use commercially reasonable efforts to provide notice promptly if We decide to limit, delay, investigate or to refuse to deliver or process a Transaction. This notification is not required if the payment or notice is prohibited by law or this Agreement. BILL may contact, in its sole discretion, for any reason, Your Customer regarding any Transaction.
+7.2 Transaction Limits. When You use the Card Disbursement Service, You grant to Us and We reserve, in Our sole discretion, the right to impose limits on the amount of any Transaction, on a per Transaction or a cumulative basis, and to change those limits at any time, without BILL incurring any liability to You. If We impose or change such limits, We will use commercially reasonable efforts to provide notice to You, but will not be required to do so.
+Subsection 8.4 of Section 8 (Anti-Money Laundering and Know Your Customer Requirements) is replaced with the following.
+8.4 Review of Accounts and Payments. You grant to Us and BILL reserves the right to review or place on hold any Transaction for any reason, including but not limited to credit and fraud risk or compliance with applicable laws (such as anti-money, laundering regulations, combating terrorist financing laws, OFAC sanctions and sanctions laws), conflicting ownership claims and legal orders. In Our sole discretion, BILL may place a hold on a Transaction for as long as reasonably necessary to conduct an appropriate inquiry regarding the Transaction, a User, an Organization or Individual, a Customer, or any related facts or circumstances. Depending on the results of this review, BILL reserves the right to take any appropriate action, including canceling, reversing, rejecting or continuing to hold the Transaction pending instructions from a government agency.
+Subsections 10.1, 10.3 and 10.4 of Section 10 (Fees and Payment Terms) are replaced with the following.
+10.1 Service Fees. No additional fees will be charged to You for the use of the Card Disbursements Service, except with respect to our Expedited Payment Services described below. All fees due under Your I2G Agreement will remain in force.
+10.3	Payment of Invoice2Go Service Fees. In most instances, I2G service fees are deducted from the Transaction. If for any reason this does not occur, You authorize BILL to debit Your Disbursement Account, in U.S. dollars, for any unpaid service fees due to I2G with regard to Your use of the I2G Service.
+10.4	Inactive Accounts. If Your I2G account becomes inactive or you have a balance that is deemed “unclaimed” or “abandoned” under applicable state law. BILL may transfer any such "unclaimed" or "abandoned" funds held on Your behalf as required or permitted by applicable law. As provided by law, BILL may deduct a dormancy fee from any funds transferred under this paragraph.
+Section 11 is renamed to “Canceling the Service” and subsection 11.1 is replaced with the following.
+11.1 Your Right to Cancel. You may request to cancel Your Card Disbursements Service at any time by submitting a request through Our customer support portal. If You cancel the Service You remain liable for any fees to BILL or I2G for completed Transactions and for any chargebacks in accordance with Subsection 2.7 of Section 2 of this Supplement. If You cancel Your Service, then Your I2G Money Card Service will also automatically terminate. If You cancel Your I2G Money Card Service then Your Card Disbursements Service automatically terminates.
+Subsection 18.8 of Section 18 (Other Provisions) is replaced with the following subsection.
+18.8	Third-Party Beneficiaries. This Agreement is intended for the sole and exclusive benefit of You and BILL and is not intended to benefit any third party, except as otherwise stated.
+Section 19 (Updates and Changes to This Agreement) is replaced with the following section.
+BILL reserves the right to modify or change this Agreement (including adding and deleting any terms), as well as its policies relating to the Service, at any time, in Our sole discretion. BILL will post revised Terms or policies in the I2G Product, and will provide notice to You of material changes to this Agreement. You will be deemed to have accepted and agreed to any revisions or changes to this Agreement at the time of (i) Your electronic acceptance of the revised, changed or new Agreement, or (ii) Your use of the Service after the effective date of the revised, changed or new Agreement. If the revised, changed or new Agreement is not acceptable to You, Your sole and exclusive remedy will be to stop using the Service and/or to cancel Your Service as provided in Section 11.
+2.         New Terms that Apply Only to this Supplement.
+2.1
+You Agree on Behalf of Your I2G Users.
+When You agree to these Terms and accept this Agreement, You do so on behalf of Yourself and any person that You entitle or authorize to use Your Invoice2Go account (with You, each a “User” of Your Invoice2Go account). You are responsible for obtaining all consents and authorizations needed to accept this Agreement for others.
+2.2
+The Service.
+BILL is a money services business and a
+licensed money transmitter in the United States and Canada
+, and a provider of money transmission services in the US and Canada. The Card Disbursement Service allows You to:
+Receive funds from credit and debit card payments (“Card Payments”) from Your Customers under Your I2G Agreement.
+Direct those payments to Your Invoice2Go Business Deposit Account (the “I2G Money Account”) where You have elected this feature, or to Your Disbursement Account, as defined below, using standard or expedited speed in accordance with the
+Expedited Service terms
+below.
+Withdraw  funds in your I2G Money Account using standard or expedited speed in accordance with the Expedited Service terms below.
+2.3
+Eligibility to Use the Service.
+You represent and warrant that: (a) all Users are at least 18 years of age; (b) all Users and Your Organization or You, as an Individual, as appropriate, reside in the United States; (c) You have not previously been suspended or removed from the Invoice2Go Service or any BILL Service; and (d) You will provide any and all documentation as requested by BILL, including as needed to verify identity and creditworthiness.
+You understand and agree that if You are a corporation, partnership, or other Organization, then Your User(s) may access Your Invoice2Go Service from outside of the country where You hold Your Invoice2Go account or your I2G Money Account. You consent to BILL obtaining Your personal and/or business credit report from a credit reporting agency when You open any account with Invoice2Go and whenever We reasonably believe there may be an increased level of risk associated with Your Service.
+2.4
+Disbursement Account.
+To use the Card Disbursements Service You must designate a Disbursement Account in the I2G Product or where available a debit card (referred to collectively hereafter as a “Disbursement Account”). When You provide a Disbursement Account, You represent and warrant:
+You have authority to provide and disclose the Disbursement Account information to BILL;
+You have authority to and authorize BILL to initiate of ACH debit or credit entries, as applicable, to the Disbursement Account in accordance with Your Customers payment instructions or Your instructions if you withdraw from Your I2G Money Account, and  as necessary, to initiate adjustments or reversals as provided under this Agreement, or applicable law, rules or regulations; and
+Each Transaction through the Service complies with this Agreement and applicable law, regulations and rules.
+2.5
+Agent of the Payee
+; Receipt of Funds. When You use the Card Disbursements Service, You appoint BILL to act as Your agent in connection with the receipt of funds from Your Customer. Receipt of funds from Your Customer by BILL will be deemed to be receipt of funds by You, and will satisfy any payment obligations of Your Customer up to the amount of the funds received.
+2.6
+Applicability of I2G Agreement.
+The I2G Agreement will continue to govern the services provided by Invoice2Go (the “I2G Service'') and will prevail over this Agreement with regard to the I2G Services. Your use of the Card Disbursements Service will be governed by this Agreement and will prevail over the I2G Agreement with regard to the Service offered herein, including the transmission of any funds from Your Customers to You and the credit, debit or other adjustments to Your Designated Account.
+2.7
+Tax Obligations:
+You will be responsible for paying, withholding, filing, and reporting all taxes, including sale and use tax and other governmental assessments now in force, enacted, or imposed in the future associated with Your use of the Service and/or any related Transactions, provided that We may, in our sole discretion, do any of the foregoing on Your behalf and seek reimbursement from You for the cost of doing so.
+If we request that You provide Your tax identification number and/or a US tax form such as W-9 or W-8, You must provide this information. If You do not provide us the requested information and documentation, You understand and agree that You may be subject to limitations with regard to this Service or Your I2G Service and to federal and state withholding tax at the applicable rates on all US source income payments received.
+Where BILL has determined in its reasonable discretion that withholding is applicable, You consent to BILL withhold tax at the applicable rate from payments to you.  We will send all withholding taxes to the appropriate taxing authorities and cannot refund those amounts.
+2.8	Third-Party Disputes. BILL.COM IS NOT AFFILIATED WITH ANY OTHER INVOICE2GO USER, YOUR CUSTOMERS, CARRIERS, SERVICE PROVIDERS OR THIRD PARTIES THAT YOU USE OR ARE EMPLOYED BY (COLLECTIVELY, “THIRD PARTIES”) AND ANY DISPUTE YOU HAVE WITH ANY THIRD PARTY ARISING FROM YOUR USE OF THE SERVICE, INCLUDING, WITHOUT LIMITATION, YOUR CUSTOMERS, IS SOLELY BETWEEN YOU AND SUCH THIRD PARTY, AND YOU IRREVOCABLY RELEASE BILL.COM (AND OUR OFFICERS, DIRECTORS, AGENTS, SUBSIDIARIES, JOINT VENTURES, AND EMPLOYEES) FROM ANY AND ALL CLAIMS, DEMANDS AND DAMAGES (INCLUDING BUT NOT LIMITED TO DIRECT AND CONSEQUENTIAL DAMAGES AND OTHER SPECIAL, INDIRECT OR INCIDENTAL DAMAGES)) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH SUCH DISPUTES. BILL HAS NO OBLIGATION TO SEEK TO REVERSE OR OTHERWISE RECOVER FROM A THIRD PARTY ANY TRANSACTION THAT IS SUBJECT TO A DISPUTE BETWEEN YOU AND ANY THIRD PARTY. BILL.COM IS UNDER NO OBLIGATION TO PAY YOU IF THE AMOUNT FUNDED BY YOUR CUSTOMER IS INSUFFICIENT TO COVER THE TOTAL AMOUNT DUE FROM YOUR CUSTOMER.
+2.9         Chargebacks and Refunds.
+A (“Chargeback”) is a  Card Payment that is successfully charged back by request of Your Customer or the issuer of the Customer’s card resulting in the cancelation of a Card Payment for which You have been paid or are due to be paid.  If a Chargeback occurs for a Card Payment for which funds (“Card Payment Funds”) have already settled and been disbursed to You, the Chargeback results in Your unconditional obligation to return the settled Card Payment Funds to Invoice2Go or BILL.
+Your receipt of a settlement and/or authorization for a Card Payment does not unconditionally entitle You to receive or keep the Card Payment Funds.  If an End Customer successfully claims a Chargeback in accordance with relevant network and issuer rules, You lose entitlement to the relevant amount and must return that amount to Invoice2Go or BILL.
+BILL may  withhold the amount of the Chargeback from the Card Payment Funds from subsequent Card Payments made to You through Your I2G Money Service.  Card Payments are credited to Your Disbursement Account on the condition that no Chargeback shall occur.
+For every Chargeback where I2G is obliged to pay the Chargeback amount, You give BILL the  authority to deduct the same amount from your Disbursement Account.  If there are insufficient funds in Your Disbursement Account to cover the debit for the Chargeback, this will result in a (“Negative Balance”).  A Negative Balance represents an amount that You owe to Invoice2Go, and, in this situation, You must immediately add funds to Your Disbursement Account to resolve the Negative Balance.
+Limitation of Liability. WITHOUT LIMITING SECTION 11 (DISCLAIMER OF WARRANTIES) OR SECTION 12 (LIMITATION OF LIABILITIES) IN THE TERMS, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, BILL.COM MAKES NO WARRANTY AND ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY DISPUTES, CHARGEBACKS, OVERCHARGES, DELAYED PAYMENTS, INSUFFICIENT FUNDS, EXPIRED CARDS, CIRCUMSTANCES BEYOND OUR CONTROL (INCLUDING WITHOUT LIMITATION POWER OUTAGES, SERVICE INTERRUPTIONS OR OTHERWISE), OR OTHER ISSUES RELATING TO TRANSACTIONS MADE THROUGH BILL.COM OR OTHER SERVICES OFFERED BY THE ANY THIRD-PARTY TO YOU.
+Card Payment Disputes can arise from both authorized and unauthorized Card Payments. BILL is not responsible for or liable to You for authorized and completed charges or payments that are later the subject of a Card Payment Dispute, refund, or reversal, are submitted without authorization or in error, or violate any laws.
+2.10       Expedited Payment Services Including Instant Transfer
+For eligible payments made to You through this Service, You may have the option to receive the funds quickly through Our expedited payment services, including as soon as thirty minutes through the Instant Transfer Service. Expedited payment services, including Instant Transfer transactions may be facilitated by Us through a variety of payment networks, all in Our discretion, including but not limited to Real Time Payments (“RTP”) network (where Your bank accepts RTP), Next Day ACH, Same Day ACH, or may be paid to the account associated with a debit card that You provide when You elect the Instant Transfer Service. We may charge a transaction fee for expedited payment service which will be disclosed to You when the feature is offered.  Use of the Instant Transfer Service is conditioned on Your acceptance of and will be governed by this Agreement and, where You use a debit card with this service, it may also be subject to Your agreement of our third party service provider. If an agreement with a third party service provider is required, it will  be provided to You when You elect Instant Transfer in the I2G Product. Expedited payment services may also be subject to The Clearing House RTP System Operating Rules, the Uniform Commercial Code Article 4A, Nacha Rules, and applicable card network rules.
+Representations and Warranties with our Expedited Payment Services. When You use Our expedited payment services, in addition to other representations and warranties, You represent and warrant the following as of the date You elect any expedited payment transaction:
+Each expedited payment transaction funds an obligation of Your Customer to You that arose in the ordinary course of business between You and the Customer and is unconditionally owed to You without any defenses, disputes, offsets, counterclaims, or rights of return or cancellation;
+To the best of Your knowledge, Your Customer is not insolvent or unable to pay its obligations in the ordinary course, is not contemplating filing for bankruptcy, and is not subject to any bankruptcy, insolvency, receivership, conservatorship or other similar proceedings;
+You have a reasonable basis to believe that Your Customer has funds available in such Customer’s bank account to fund the expedited payment transaction; and
+You are not aware of any circumstance indicating that there is a significant risk that the method Your Customer used to fund the expedited payment transaction (i.e., ACH or Card) will be returned, rejected, dishonored, or disputed.
+By using Our expedited payment services, You are requesting that BILL provide expedited availability of funds for Your Customer’s payment pending settlement of such payment, and You acknowledge that BILL’s willingness to provide such expedited funds availability is contingent on Your representations and warranties above. You agree and acknowledge that providing You with advance availability of funds is not a loan, but a feature of BILL’s money transmission services, and You agree not to characterize any expedited payment transaction as a loan.
+Remedies for Breach of the Representations and Warranties in this Section. Without limited other available remedies, if the method of funding Your Customer provided for an expedited payment transaction is rejected, reversed or returned and We reasonably believe that You breached any representation or warranty to Us; then YOU AUTHORIZE BILL TO REVERSE THE CORRESPONDING PAYMENT TO YOU VIA DEBIT FROM YOUR PAYMENT ACCOUNT, OR IF THERE ARE INSUFFICIENT FUNDS IN YOUR PAYMENT ACCOUNT AT THE TIME OF DEBIT, YOU AGREE TO PAY THE AMOUNT OF THE PAYMENT BACK TO BILL UPON DEMAND. You also agree to pay all penalties, interest charges, late payment fees and service fees related to any breach of Your representations and warranties.
+Cancelled Expedited Payments. Payment with Our expedited payment services may be canceled for various reasons including “time-outs” of the RTP network, as defined by The Clearing House, in which case the payment may be resubmitted if possible. If Your expedited payment, including Instant Transfer payment, cannot be resubmitted, You may receive Your payment via electronic ACH payment.
+Rejected Expedited Payments. If a payment with Our expedited payment service, including Instant Transfer payment, is rejected by Your financial institution or any third party provider, BILL is not responsible to You for the payment, or any other loss, damages, or costs related to the payment.
+SCHEDULE 5
+Financial Planning Services
+This Schedule 5 sets forth additional Terms for Our Financial Planning Services (the “Planning Service”) which provides cash flow insights and forecasting services, among other features. This service schedule is supplemental to and incorporated into the Agreement that governs this Service. All capitalized terms used but not defined herein have the meanings given to them in the Terms.
+1.       Use of the Planning Service
+1.1. Subject to this Agreement, BILL grants You a limited license to reproduce portions of BILL Properties for the sole purpose of using the Planning Services for Your  internal business purposes. Unless otherwise specified by BILL in a separate license, Your right to use any and all BILL Properties is subject to this Agreement. You represent and warrant that the Planning Service will be used by a computer or device you own or control and solely for your own internal business purposes.
+1.2
+Updates.
+You understand that BILLProperties are evolving. As a result, BILL may require You to accept updates to BILL Properties that You have installed on Your computer or mobile device or with regard to third-party software, from time to time, in order to use BILL Properties.
+2.       User Data
+2.1
+Responsibility for User Data.
+You, and not BILL, are entirely responsible for all User or content You upload, post, e-mail, transmit or otherwise make available through BILL Properties. We have no responsibility or liability for the deletion or accuracy of any User Data, including the failure to store, transmit or receive transmission of User Data; or the security, privacy, storage, or transmission of other communications originating with or involving use of BILL Properties with User Data. Certain Services may enable You to specify the level at which such Services restrict access to Your User Data. You are solely responsible for applying the appropriate level of access to User Data. If You do not choose, the system may default to its most permissive setting. You agree that We retain the right to create reasonable limits on Your use and storage of the User Data, including limits on file size, storage space, processing capacity, and similar limits described on the Website and as otherwise determined by BILL in its sole discretion.
+2.2
+Your User Data.
+When You as a User of this Service provide Your User Data on or in BILL Properties, You represent that You own and/or have a royalty-free, perpetual, irrevocable, worldwide, non-exclusive right (including any moral rights) and license to use, license, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, derive revenue or other remuneration from, and communicate to the public, perform and display Your User Data (in whole or in part) worldwide and/or to incorporate it in other works in any form, media or technology now known or later developed, for the full term of any worldwide intellectual property right that may exist in Your User Data.
+2.3
+License to Your User Data.
+Subject to any applicable account settings that You select, You grant BILL a fully paid, perpetual, irrevocable, worldwide, royalty-free, non-exclusive and fully sublicensable right (including any moral rights) and license to use, license, reproduce, modify, and adapt Your User Data (in whole or in part) for the purposes of operating, providing, and improving this service to You and to our other Users. You warrant that the holder of any worldwide intellectual property right, including moral rights, in Your User Data, has completely and effectively waived all such rights and validly and irrevocably granted to You the right to grant the license stated above.
+3.      Planning Service Feedback
+You agree that submission of any ideas, suggestions, documents, and/or proposals to Company through its suggestion, feedback, wiki, forum, or similar pages (“Planning Service Feedback”) is at Your own risk and that BILL has no obligations (including without limitation obligations of confidentiality) with respect to such Planning Service Feedback. You represent and warrant that You have all rights necessary to submit the Planning Service Feedback. You hereby grant to BILL a fully paid, royalty-free, perpetual, irrevocable, worldwide, non-exclusive, and fully sublicensable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all Planning Service Feedback, and to sublicense the foregoing rights, in connection with the operation and maintenance of BILL Properties and/or BILL’s business.
+4.
+Open Source Software.
+This Service may contain or be provided together with open source software. Each item of open-source software is subject to its own license terms, which can be found at:
+https://open-source-attribution/
+. If required by any license for particular open source software, BILL makes such open source software, and BILL’s modifications to that open source software (if any), available by written request to Our
+customer support portal
+. Copyrights to the open-source software are held by the respective copyright holders indicated therein.
+5.
+Effect of Termination.
+Termination of this Service includes automatic removal of access to this Service and barring of further use of the Service. You understand that any termination of this Services may also include deletion of Your User Data (or any part thereof). BILL will not have any liability whatsoever to You for any suspension or termination, including for deletion of Your User Data.
+6.      Supplemental Terms of Use for Forecasting Plus (fka Finmark) Users.
+6.1 What is Forecasting Plus. For eligible customers, BILL provides Forecasting Plus (fka Finmark), which allows you to consolidate  financial data in one place, create, manage and share financial plans, bring expenses, budget forecast, and analysis all under one roof and create custom forecasts.
+6.2  Sale of Service, not Software. This Schedule allows users of Forecasting Plus to secure access to this Service and all fees set forth within and paid by You for this Service shall be considered solely in furtherance of this purpose. Fees paid are not for the sale, license, or use of BILL’s Software, and, furthermore, any use of Bill’s Software by You in furtherance of the Schedule will be considered merely in support of the purpose of the Agreement.
+6.3. Fees. Subscription fees for Forecasting Plus can be found at
+https://finmark.com/pricing/
+.
+6.4. Modifications to the Terms. The following sections of the general Terms are
+not
+applicable to Forecasting Plus Users who use no other BILL Services.
+BILL Network Rules
+BILL’s Electronic Funds Transfer Agreement and Disclosure & Error Notice
+(US Consumers Only).
+6.5 The following Sections of the general Terms are modified for Forecasting Plus Users who use no other BILL Services.
+a. Part B Section 13.6 is deleted and replaced with the following:
+13.6 Synching Your Account with Your Accounting or/or Payroll Software
+. If You choose to synchronize Your Account and Your accounting and/or payroll software (collectively “Accounting Software”), You consent to sharing of Your data between Your Accounting Software and Us (including via our Third Party Service Providers which may include our affiliated companies, all in accordance with the terms of this Agreement) in order to allow Us to provide You with Our financial planning tools. Data shared through such synchronization will include all Your data held with and available from the Accounting Software. You also understand and agree that You are solely responsible, and BILL is not responsible, for the information and data that You choose to synchronize and share between Your Account and Your Accounting Software. If You choose to link Your Account to Your Accounting Software, You are making a determination that the accounting software is sufficiently secure to protect Your  Account. When You use third-party Accounting Software, You understand and agree that use is subject to the terms of service and privacy policy of the software provider.
+6.5 Additional Terms For Forecasting Plus Users Only.
+a. Your Planning Service Account. You agree that You shall not have more than one Planning Service Account per platform or SNS at any given time.  BILL reserves the right to remove or reclaim any usernames at any time and for any reason, including but not limited to, claims by a third party that a username violates the third party’s rights.
+Notwithstanding anything to the contrary herein, You acknowledge and agree that You shall have no ownership or other property interest in Your Planning Serve Account, and You further acknowledge and agree that all rights in and to Your Planning Service Account are and shall forever be owned by and inure to the benefit of the Company.
+You must provide all equipment and software necessary to connect to BILL Properties. You are solely responsible for any fees, including Internet connection or mobile fees, that You incur when accessing BILL Properties.
+b. BILL may, but is not obligated to, monitor or review Bill Properties and any content You upload to Bill Properties at any time. Without limiting the foregoing, BILL shall have the right, in its sole discretion, to remove any of User Data for any reason (or no reason), including if such content violates the Agreement or any applicable law.  If BILL becomes aware of any possible violations by You of any provision of the Agreement, BILL reserves the right to investigate such violations, and may, in its sole discretion, immediately terminate Your license to use BILL Properties, or change, alter or remove Your User Data or other content you have uploaded, in whole or in part, without prior notice to You.
+c. Supplemental Terms. Your use of, and participation Forecasting Plus may be subject to additional terms (“Supplemental Terms”) and such Supplemental Terms which may be presented to You for Your acceptance when You sign up to use the supplemental Service.  The Supplemental Terms shall control with respect to any inconsistency with this Agreement.  The Agreement includes and You are consenting to these Supplemental Terms.
+d. Application License. Subject to Your compliance with the Agreement, the Company grants You a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Application for Forecasting Plus on a computer that You own or control and to run such copy of the Application solely for Your own internal business purposes.
+e. Additional Disclaimer of Warranties: BILL MAKES NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) COMPANY PROPERTIES WILL MEET YOUR REQUIREMENTS; OR (2) THE RESULTS THAT MAY BE OBTAINED FROM USE OF COMPANY PROPERTIES WILL BE ACCURATE OR RELIABLE.
+f. Export Control.  You may not use, export, import, or transfer BILL Properties except as authorized by U.S. law, the laws of the jurisdiction in which You obtained BILL Properties, and any other applicable laws. In particular, but without limitation, Company Properties may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone listed on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Persons List or Entity List.
+g. INTERNATIONAL PROVISIONS.  The following provisions shall apply only if You are located in the countries listed below.some text
+United Kingdom.  A third party who is not a party to the Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any provision of the Agreement, but this does not affect any right or remedy of such third party which exists or is available apart from that Act.
+Germany.  Notwithstanding anything to the contrary in Section 10 (Limitation of Liability), Company is also not liable for acts of simple negligence (unless they cause injuries to or death of any person), except when they are caused by a breach of any substantial contractual obligations (vertragswesentliche Pflichten).
