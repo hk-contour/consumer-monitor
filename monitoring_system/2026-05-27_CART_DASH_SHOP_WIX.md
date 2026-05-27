@@ -1,103 +1,94 @@
 # Morning digest — 2026-05-27 (CART_DASH_SHOP_WIX)
 
-Generated: 2026-05-27 15:52:30 UTC
-Flagged changes: 3
-
-## CART — Maplebear Inc. (Instacart)
-
-### pricing
-- URL: https://www.instacart.com/instacart-plus
-- Summary: pricing: change detected
-
-```diff
---- CART/pricing (prior)
-+++ CART/pricing (new)
-@@ -17,47 +17,4 @@
- Enjoy recipes, advice and inspiration daily.
- *Service and other fees apply.
--Shop local stores near you
--Total Wine & More
--Delivery
--Smart & Final
--Delivery
--Accepts EBT
--Safeway
--Delivery
--•
--Pickup
--Accepts EBT
--1.0 mi away
--HMart
--Delivery
--Petco
--Delivery
--No markups
--Costco
--Delivery
--Accepts EBT
--Fry's
--Delivery
--Accepts EBT
--Bashas'
--Delivery
--•
--Pickup
--Accepts EBT
--4.5 mi away
--Costco Business Center
--Delivery
--Accepts EBT
--Natural Grocers
--Delivery
--•
--Pickup
--12.0 mi away
--BevMo!
--Delivery
--CVS®
--Delivery
--No markups
--Show all
- How it works
- Sign up for Instacart+
-@@ -214,4 +171,5 @@
- Terms of Use
- Privacy Policy
-+Your Privacy Choices
- Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC.
- Terms for $0 delivery fee (First Order): Offer valid on first order made through Instacart with a minimum basket size as set forth in the offer promotion. Offer expires on the date indicated in the user’s account settings or displayed in the offer promotion.
-```
-
-## SHOP — Shopify Inc.
-
-### pricing
-- URL: https://www.shopify.com/pricing
-- Summary: pricing: change detected
-
-```diff
---- SHOP/pricing (prior)
-+++ SHOP/pricing (new)
-@@ -1,3 +1,2 @@
--Skip to Content
- You've got plans. Us too.
- Try 3 days free, then $1/month for 3 months.
-```
+Generated: 2026-05-27 16:00:20 UTC
+Flagged changes: 1
 
 ## WIX — Wix.com Ltd.
 
-### pricing
-- URL: https://www.wix.com/upgrade/website
-- Summary: pricing: change detected
+### investor_relations
+- URL: https://investors.wix.com
+- Summary: investor_relations: change detected
 
 ```diff
---- WIX/pricing (prior)
-+++ WIX/pricing (new)
-@@ -1,3 +1,2 @@
+--- WIX/investor_relations (prior)
++++ WIX/investor_relations (new)
+@@ -1,78 +0,0 @@
 -top of page
- 14-day money-back guarantee
- Find the right plan for you
-@@ -461,3 +460,2 @@
- contact the Enterprise team
- and a member of our team will reach out to you with more information.
+-Wix Investor
+-Relations
+-NASDAQ
+-WIX
+-CHANGE
+-Wix
+-PRICE
+-Wix
+-20 Minutes minimum delay December 08, 2023 | 4:00 PM
+-ABOUT
+-Wix is the leading SaaS website builder platform globally to create, manage and grow a digital presence. What began as a website builder in 2006 is now a complete platform providing users with enterprise-grade performance, security and a reliable infrastructure.
+-Offering a wide range of commerce and business solutions, advanced SEO and marketing tools, Wix enables over 200 million users to take full ownership of their brand, their data and their relationships with their customers. With a focus on continuous innovation and delivery of new features and products, anyone can build a powerful digital presence to fulfill their dreams on Wix.
+-LATEST QUARTERLY RESULTS
+-All Financials
+-1Q 2023
+-1Q 2023
+-1Q 2023
+-1Q 2023
+-First Quarter 2023
+-1Q
+-Webcast
+-Press Release
+-Earning Slides
+-Shareholder Update
+-Transcript
+-News
+-Looking for more historical financial data? Check out our
+-Interactive Analyst Center
+-NEWSROOM
+-Wix Integrates with Google Ads Enabling Users to Create and Manage Paid Campaigns Directly From the Wix Platform
+-Read more
+-MAY 16 2023
+-•
+-5 min read
+-Wix Integrates with Google Ads Enabling Users to Create and Manage Paid Campaigns Directly From the Wix Platform
+-Read more
+-MAY 16 2023
+-•
+-5 min read
+-Wix Integrates with Google Ads Enabling Users to Create and Manage Paid Campaigns Directly From the Wix Platform
+-Read more
+-MAY 16 2023
+-•
+-5 min read
+-All News
+-EVENTS
+-NOV 9 2023
+-Wix 2023 Third Quarter Financial Results Conference Call
+-open window
+-open window
+-NOV 9 2023
+-Wix 2023 Third Quarter Financial Results Conference Call
+-open window
+-See open positions
+-NOV 9 2023
+-Wix 2023 Third Quarter Financial Results Conference Call
+-open window
+-See open positions
+-HIGHLIGHTS
+-Investor
+-Presentation
+-2023 Analyst & Investor Day
+-2024 ESG Report
+-AI @Wix
+-EMAIL ALERTS
+-Sign up to receive
+-Wix IR updates
+-Select the updates you would like to receive
+-Thanks for submitting!
+-Email
+-Apply
+-Financial Reports
+-SEC Filings
+-Press Releases
+-Events
+-Sign up for email alerts
 -bottom of page
 ```
