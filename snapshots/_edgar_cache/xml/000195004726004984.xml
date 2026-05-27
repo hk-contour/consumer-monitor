@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001635648</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001792789</issuerCik>
+            <issuerName>DOORDASH INC</issuerName>
+            <secFileNumber>001-39759</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>303 2nd Street, South Tower, 8th Floor</ns2:street1>
+                <ns2:city>San Francisco</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94107</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>6504873970</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>GORDON LEE</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Class A Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>2204</noOfUnitsSold>
+            <aggregateMarketValue>351031.08</aggregateMarketValue>
+            <noOfUnitsOutstanding>411336610</noOfUnitsOutstanding>
+            <approxSaleDate>05/22/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Common</securitiesClassTitle>
+            <acquiredDate>05/20/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2204</amountOfSecuritiesAcquired>
+            <paymentDate>05/20/2026</paymentDate>
+            <natureOfPayment>N/A</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for GORDON LEE</name>
+                <address>
+                    <ns2:street1>303 2nd Street, South Tower, 8th Floor</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94107</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Class A Common</securitiesClassTitle>
+            <saleDate>02/26/2026</saleDate>
+            <amountOfSecuritiesSold>2173</amountOfSecuritiesSold>
+            <grossProceeds>382860.87</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>05/22/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>06/03/2025</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Gordon Lee</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>
