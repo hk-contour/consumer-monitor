@@ -1,0 +1,47 @@
+Skip to Content
+Governance
+Board of Directors
+Tobi Lütke
+Tobias Lütke co-founded Shopify in September 2004, and has served as a member of our board of directors since that time. Mr. Lütke has served as our Chief Executive Officer since April 2008. Prior to that, Mr. Lütke acted as our Chief Technology Officer between September 2004 and April 2008. Mr. Lütke worked on the core team of the Ruby on Rails framework and has created many popular open source libraries such as Active Merchant.
+Mr. Lütke currently serves on the board of Coinbase (Nasdaq).
+Lulu Cheng Meservey
+Lulu Cheng Meservey is the founder and Chief Executive Officer of Rostra, a strategic communications firm for founder-led companies. Prior to founding Rostra, Ms. Meservey first served as a Board member of Activision Blizzard, one of the world’s largest interactive entertainment companies, from April 2022 to October 2022 then served as its Executive Vice President, Corporate Affairs and Chief Communications Officer, from October 2022 to January 2024. Prior to Activision Blizzard, Ms. Meservey served as the Vice President of Communications at Substack, an online platform for independent publishers of newsletters and podcasts, as well as co-founded the communications agency TrailRunner International, serving as its Chief Operating Officer from May 2016 to January 2021 and as its President from January 2021 to June 2021. From 2013 to 2016, Ms. Meservey worked in the office of the chairman at McLarty Associates (formerly Kissinger McLarty), a global strategic advisory firm headquartered in Washington, D.C., and she continued to serve as an advisor from 2016 to 2021. Her prior experience includes positions with the World Bank, where she advised on international open data initiatives, the MIT Lincoln Laboratory, where she worked on an international framework of norms in cyberspace, and as a financial analyst at J.P. Morgan.
+Ms. Meservey holds a Bachelor of Arts in Political Science from Yale University and a Master of Arts, Law and Diplomacy, International Relations, from the Fletcher School at Tufts University.
+Gail Goodman
+Gail Goodman has served as a member of our board of directors since November 2016. Ms. Goodman previously served as the Chief Product Officer at Pepperlane from March, 2019 to March, 2021. Prior to Pepperlane, Ms. Goodman served as President and Chief Executive Officer of Constant Contact, a software company providing small businesses with online marketing tools to grow their businesses, for over 16 years. Over that time Ms. Goodman served as a director and chairwoman of the board and led Constant Contact through its initial public offering and for eight years as a publicly traded company, until its acquisition by Endurance International Group Holdings, Inc. (NASDAQ) in February 2016.
+Ms. Goodman currently serves on the board of directors of a number of private companies and non-profits.
+Ms. Goodman holds a B.A. from the University of Pennsylvania and an M.B.A. from The Tuck School of Business at Dartmouth College.
+David Heinemeier Hansson
+David Heinemeier Hansson is the Co-Owner and Chief Technology Officer of 37signals, the company behind Basecamp, HEY, and ONCE. He is also the creator of Ruby on Rails, a pioneering open-source web application framework that he continues to develop today.
+As a best-selling author, Hansson has co-written several notable books, including "REWORK," "It Doesn’t Have to Be Crazy at Work," "REMOTE: Office Not Required," and "Getting Real," alongside Jason Fried. He is also a regular contributor to Hey World and frequently shares his expertise on various podcasts.
+Hansson earned a degree in Computer Science and Business Administration from Copenhagen Business School.
+Jeremy Levine
+Jeremy Levine has served as a member of our board of directors since February 2011. Since January 2007, Mr. Levine has been a Partner at Bessemer Venture Partners, a venture capital firm he joined in May 2001.
+Mr. Levine currently serves on the boards of a number of privately held companies.
+Mr. Levine holds a B.S. degree in Computer Science from Duke University.
+Prashanth Mahendra-Rajah
+Prashanth Mahendra-Rajah has been a member of our Board since June 2024. He currently serves as Senior Advisor to the U.S. Secretary of Commerce. Prior to this appointment, Mr. Mahendra-Rajah served as the Chief Financial Officer of Uber (NYSE) from November 2023 to February 2026, where he led the company's accounting, corporate development, investor relations, strategic finance, tax, and treasury teams around the world. Prior to this, Mr. Mahendra-Rajah served as Chief Financial Officer of Analog Devices, a global leader in the design and manufacturing of analog, mixed signal, and DSP integrated circuits, and further as Chief Financial Officer of WABCO Holdings Inc., a global supplier of commercial vehicle technologies. He has also previously served as Division CFO and in other financial leadership roles at Applied Materials, Visa, and United Technologies. Mr. Mahendra-Rajah was recognized by Institutional Investor magazine as a Top CFO in 2020, 2021, 2022 and 2023 by equity research analysts.
+Mr. Mahendra-Rajah serves on the board of advisors and on the finance committee for the Isabella Stewart Gardner Museum in Boston and is a member of the advisory board for the School of Engineering, Department of Computer and Electrical Engineering at the University of Michigan.
+Mr. Mahendra-Rajah holds a B.S. in chemical engineering from the University of Michigan, an M.S. in engineering from Johns Hopkins University, and an M.B.A. from the Krannert School of Management at Purdue University.
+Joe Natale
+Joe Natale has over 30 years of experience in high-growth technology and telecommunications. He was President and CEO of Rogers Communications from 2017 to 2021 and previously led TELUS, transforming it into a national brand.
+Starting as a software engineer, he co-founded a systems integration and consulting firm acquired by KPMG, where he served as Managing Partner for Consulting in Canada and Global Managing Director in consumer markets, advising Fortune 500 companies.
+Joe served on the boards of Rogers, TELUS, TD Bank, Livingston International, Home Capital, and Celestica, and currently serves on the board of Sun Life while advising Altas Partners. He is also a board member and advisor to the Creative Destruction Lab and served as a trustee for SickKids Hospital in Toronto.
+He holds an Electrical Engineering degree from the University of Waterloo.
+Kevin Scott
+Kevin Scott is the Executive Vice President of AI and Chief Technology Officer at Microsoft (MSFT), where he shapes the technical vision to achieve Microsoft’s mission and fosters a dynamic environment for engineers and researchers. With a 20-year career in academia and industry, Mr. Scott has held key roles at some of the most influential companies in technology, including Senior VP of Engineering at LinkedIn, leading it through an IPO and rapid growth. At Google, he led mobile ads engineering and oversaw the integration of AdMob's $750 million acquisition.
+Mr. Scott hosts the "Behind the Tech" podcast and authored "Reprogramming the American Dream" which explores AI's potential as a democratizing force. As co-inventor on several patents, he has also authored several publications on dynamic binary rewriting cited hundreds of times in scholarly research.
+He holds an M.S. from Wake Forest University and a B.S. from Lynchburg College, with extensive Ph.D. work in computer science at the University of Virginia.
+Toby Shannan
+Toby Shannan has served as a member of our board of directors since January, 2023. Mr. Shannan is the former Chief Operating Officer of Shopify and spent 12 years leading Shopify’s global operations as well as its customer support and service strategy. Prior to joining Shopify, Mr. Shannan also held the role of Vice President, Sales and Marketing, at DNA Genotek.
+Mr. Shannan is a board member and trustee at the Santa Fe Institute.
+Fidji Simo
+Fidji Simo has served as a member of our board of directors since December 2021. Ms. Simo is the Chief Executive Officer of Applications at OpenAI. Ms. Simo previously was the Chief Executive Officer of Instacart (Nasdaq), where she currently serves as Chair of the Board of Directors. Prior to Instacart, Ms. Simo held a variety of positions over 10 years with increasing responsibility at Meta, ultimately serving as Vice President and Head of the Facebook app. Ms. Simo began her career as a strategy manager at eBay. Ms. Simo also serves as co-founder and board member of the Metrodora Institute and President of the Metrodora Foundation, and is the co-founder of Women in Product, a non-profit organization.
+Contact the Board
+Shareholders may contact the Board about issues or questions about Shopify by sending a letter to:
+Shopify Inc.
+151 O'Connor Street, Ground Floor
+Ottawa, Ontario K2P 2L8
+Canada
+Attn: Board of Directors
+If a shareholder wishes to contact the independent members of the Board, he or she should address such communication to the attention of the Lead Independent Director at the address above.
