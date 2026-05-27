@@ -114,17 +114,21 @@ def process_company(c: Company) -> list[Change]:
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--tier", choices=["high", "medium", "all"], default="high")
-    p.add_argument("--ticker", help="Run for a single ticker, overrides --tier")
+    p.add_argument("--ticker",
+                   help="Run for one ticker or comma-separated list "
+                        "(e.g. SHOP or SHOP,WIX,DASH); overrides --tier")
     args = p.parse_args()
 
     companies = load_companies()
 
     if args.ticker:
-        target = [c for c in companies if c.ticker.upper() == args.ticker.upper()]
-        if not target:
-            print(f"Ticker {args.ticker} not found", file=sys.stderr)
+        wanted_tickers = {t.strip().upper() for t in args.ticker.split(",") if t.strip()}
+        target = [c for c in companies if c.ticker.upper() in wanted_tickers]
+        missing = wanted_tickers - {c.ticker.upper() for c in target}
+        if missing:
+            print(f"Tickers not found: {', '.join(sorted(missing))}", file=sys.stderr)
             return 1
-        tier_label = args.ticker.upper()
+        tier_label = "_".join(sorted(t.ticker.upper().replace(" ", "") for t in target))
     else:
         wanted = {"high"} if args.tier == "high" else (
             {"medium"} if args.tier == "medium" else {"high", "medium"}
