@@ -10,11 +10,15 @@ on:
   workflow_dispatch:
     inputs:
       tier:
-        description: 'Tier to run'
-        required: true
+        description: 'Tier to run (ignored if tickers is set)'
+        required: false
         default: 'high'
         type: choice
         options: [high, medium, all]
+      tickers:
+        description: 'Optional comma-separated tickers (e.g. SHOP,WIX,DASH,CART). Overrides tier.'
+        required: false
+        type: string
 
 permissions:
   contents: write   # need to commit snapshots + updated xlsx back
@@ -40,29 +44,39 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Decide tier
-        id: tier
+      - name: Decide run args
+        id: args
         run: |
-          if [ -n "${{ inputs.tier }}" ]; then
+          if [ -n "${{ inputs.tickers }}" ]; then
+            echo "mode=tickers" >> "$GITHUB_OUTPUT"
+            echo "value=${{ inputs.tickers }}" >> "$GITHUB_OUTPUT"
+          elif [ -n "${{ inputs.tier }}" ]; then
+            echo "mode=tier" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event.schedule }}" = "6 11,13,15,17,19,21,23 * * 1-5" ]; then
-            # First run of the day (11:06 UTC) covers both tiers; later slots high only.
             HOUR=$(date -u +%H)
+            echo "mode=tier" >> "$GITHUB_OUTPUT"
             if [ "$HOUR" = "11" ]; then
               echo "value=all" >> "$GITHUB_OUTPUT"
             else
               echo "value=high" >> "$GITHUB_OUTPUT"
             fi
           else
+            echo "mode=tier" >> "$GITHUB_OUTPUT"
             echo "value=high" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Run monitor (${{ steps.tier.outputs.value }})
+      - name: Run monitor (${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }})
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-        run: python run.py --tier ${{ steps.tier.outputs.value }}
+        run: |
+          if [ "${{ steps.args.outputs.mode }}" = "tickers" ]; then
+            python run.py --ticker "${{ steps.args.outputs.value }}"
+          else
+            python run.py --tier "${{ steps.args.outputs.value }}"
+          fi
 
       - name: Commit snapshots and digest
         run: |
@@ -72,6 +86,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "monitor: ${{ steps.tier.outputs.value }} run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "monitor: ${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }} run $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
