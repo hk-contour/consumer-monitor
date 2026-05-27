@@ -22,12 +22,14 @@ from dataclasses import dataclass
 
 from digest import Change, write_digest
 from feedback_log import append_changes
-from scrapers import edgar, static_pages
+from scrapers import edgar, rss, static_pages
 from scrapers.config_reader import Company, load_companies
 from scrapers.snapshot_store import compare, log_change, write_snapshot
 from scrapers.tiers import blocker_reason
 
-# Which URL fields should be scraped as static HTML (not behind JS, not an API)
+# Which URL fields should be scraped as static HTML (not behind JS, not an API).
+# Newsroom is scraped via RSS when a feed URL is set in the `newsroom_rss` column;
+# otherwise it falls back to static HTML.
 STATIC_SOURCES = ("terms", "management_team", "pricing", "newsroom", "investor_relations")
 
 
@@ -92,10 +94,46 @@ def check_edgar(c: Company) -> list[Change]:
     return changes
 
 
+def check_rss(c: Company, source: str, feed_url: str) -> list[Change]:
+    """Fetch RSS feed; emit one Change per new entry. Returns [] if nothing new."""
+    try:
+        new = rss.new_entries(c.ticker, source, feed_url)
+    except Exception as e:
+        print(f"  [{c.ticker}/{source}/rss] error: {e}", file=sys.stderr)
+        return []
+    changes: list[Change] = []
+    for entry in new:
+        summary = f"{source}: {entry.title}"
+        diff_text = f"+ {entry.title}\n+ {entry.link}"
+        if entry.published:
+            diff_text += f"\n+ Published: {entry.published}"
+        if entry.summary:
+            diff_text += f"\n+ {entry.summary}"
+        changes.append(Change(
+            ticker=c.ticker, company=c.company,
+            source=f"{source}:rss",
+            url=entry.link or feed_url,
+            summary=summary[:140],
+            diff=diff_text,
+        ))
+        log_change(c.ticker, f"{source}:rss", entry.link or feed_url, diff_text)
+    return changes
+
+
 def process_company(c: Company) -> list[Change]:
     print(f"[{c.ticker}] tier={c.tier} urls={len(c.urls)}")
     found: list[Change] = []
+
+    # Newsroom: prefer RSS if a feed URL is configured
+    rss_url = c.urls.get("newsroom_rss")
+    if rss_url:
+        print(f"  [{c.ticker}/newsroom] using RSS: {rss_url}")
+        found.extend(check_rss(c, "newsroom", rss_url))
+
     for source in STATIC_SOURCES:
+        # Skip newsroom HTML scrape if we already handled it via RSS
+        if source == "newsroom" and rss_url:
+            continue
         url = c.urls.get(source)
         if not url:
             continue
@@ -135,6 +173,9 @@ def main() -> int:
         )
         target = [c for c in companies if c.tier in wanted]
         tier_label = args.tier
+
+    # Honor Active flag from xlsx — applies to both --ticker and --tier branches
+    target = [c for c in target if c.active]
 
     # Skip blocked names with a clear log entry
     for c in companies:

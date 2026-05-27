@@ -41,6 +41,7 @@ HEADER_MAP = {
     "Regulatory Filings": "regulatory_filings",
     "Reddit Community": "reddit",
     "Monitoring Notes": "notes",
+    "Newsroom RSS": "newsroom_rss",  # Phase 1C: confirmed RSS feed for newsroom
 }
 
 
@@ -49,7 +50,8 @@ class Company:
     ticker: str
     company: str
     exchange: str
-    tier: str  # "high" | "medium" | "fix_first" | "unknown"
+    tier: str  # "high" | "medium" | "blocked" | "unknown"
+    active: bool = True
     urls: dict[str, str] = field(default_factory=dict)  # field_name -> url
     notes: str = ""
 
@@ -83,12 +85,23 @@ def load_companies(xlsx_path: Path = DEFAULT_XLSX) -> list[Company]:
             if val and isinstance(val, str) and val.strip():
                 urls[field_name] = val.strip()
 
+        # Tier from xlsx column if present; fall back to tiers.py
+        tier_val = (row[header_idx["Priority Tier"]]
+                    if "Priority Tier" in header_idx else None)
+        tier = str(tier_val).strip().lower() if tier_val else tier_for(ticker)
+
+        # Active flag from xlsx; default True if column absent
+        active_val = (row[header_idx["Active"]]
+                      if "Active" in header_idx else True)
+        active = active_val if active_val is not None else True
+
         out.append(
             Company(
                 ticker=ticker,
                 company=str(row[header_idx.get("Company", 1)] or "").strip(),
                 exchange=str(row[header_idx.get("Exchange", 2)] or "").strip(),
-                tier=tier_for(ticker),
+                tier=tier,
+                active=bool(active),
                 urls=urls,
                 notes=str(row[header_idx["Monitoring Notes"]] or "").strip()
                 if "Monitoring Notes" in header_idx
