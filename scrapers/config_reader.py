@@ -44,6 +44,12 @@ HEADER_MAP = {
     "Newsroom RSS": "newsroom_rss",  # Phase 1C: confirmed RSS feed for newsroom
 }
 
+# Selector columns: column header -> source field name the selector applies to.
+# Selectors narrow what static_pages.fetch_and_extract scrapes (Phase 1D).
+SELECTOR_COLUMN_MAP = {
+    "Pricing Selector": "pricing",
+}
+
 
 @dataclass
 class Company:
@@ -53,6 +59,7 @@ class Company:
     tier: str  # "high" | "medium" | "blocked" | "unknown"
     active: bool = True
     urls: dict[str, str] = field(default_factory=dict)  # field_name -> url
+    selectors: dict[str, str] = field(default_factory=dict)  # source -> CSS selector
     notes: str = ""
 
     def url(self, key: str) -> str | None:
@@ -95,6 +102,16 @@ def load_companies(xlsx_path: Path = DEFAULT_XLSX) -> list[Company]:
                       if "Active" in header_idx else True)
         active = active_val if active_val is not None else True
 
+        # Per-source CSS selectors (Phase 1D)
+        selectors: dict[str, str] = {}
+        for col_header, source_field in SELECTOR_COLUMN_MAP.items():
+            idx = header_idx.get(col_header)
+            if idx is None:
+                continue
+            val = row[idx]
+            if val and isinstance(val, str) and val.strip():
+                selectors[source_field] = val.strip()
+
         out.append(
             Company(
                 ticker=ticker,
@@ -103,6 +120,7 @@ def load_companies(xlsx_path: Path = DEFAULT_XLSX) -> list[Company]:
                 tier=tier,
                 active=bool(active),
                 urls=urls,
+                selectors=selectors,
                 notes=str(row[header_idx["Monitoring Notes"]] or "").strip()
                 if "Monitoring Notes" in header_idx
                 else "",

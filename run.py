@@ -44,7 +44,10 @@ def _short_summary(diff_text: str, source: str) -> str:
 
 
 def check_static_url(c: Company, source: str, url: str) -> Change | None:
-    res = static_pages.fetch_and_extract(url)
+    # Use a per-URL CSS selector if one's configured in the xlsx; else extract
+    # the whole body minus nav/header/footer/script (default behaviour).
+    selector = c.selectors.get(source)
+    res = static_pages.fetch_and_extract(url, selector=selector)
     if not res.ok:
         print(f"  [{c.ticker}/{source}] fetch failed: {res.error}", file=sys.stderr)
         return None
