@@ -24,6 +24,12 @@ TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SUBMISSIONS_URL = "https://data.sec.gov/submissions/CIK{cik}.json"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "snapshots" / "_edgar_cache"
 
+# Manual CIK overrides for tickers that may lag in SEC's company_tickers.json
+# (recent IPOs, ticker changes, etc.). Checked before the fetched map.
+TICKER_CIK_OVERRIDES: dict[str, str] = {
+    "KLAR": "0002003292",  # Klarna Group plc; IPO'd Sept 2025
+}
+
 
 @dataclass
 class Filing:
@@ -56,7 +62,10 @@ def _load_ticker_map() -> dict[str, str]:
 
 
 def cik_for(ticker: str) -> str | None:
-    return _load_ticker_map().get(ticker.strip().upper())
+    t = ticker.strip().upper()
+    if t in TICKER_CIK_OVERRIDES:
+        return TICKER_CIK_OVERRIDES[t]
+    return _load_ticker_map().get(t)
 
 
 def recent_filings(ticker: str, limit: int = 25) -> list[Filing]:

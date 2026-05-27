@@ -19,14 +19,12 @@ MEDIUM = {
 }
 
 # Names with unresolved data issues — skip every run until fixed.
+# Post-Phase-0 audit (2026-05-20): SEZL, DAVE, XYZ, KLAR resolved and unblocked.
+# ADYEN NA, ZIP AU, 8136 JP remain blocked pending custom non-US filing scrapers.
 BLOCKED = {
-    "KLAR": "Verify SEC CIK and IR URL before building any scraper.",
-    "ADYEN NA": "Verify Euronext feed (https://investors.adyen.com/financial-results) returns data; xlsx regulatory URL is wrong (points at EDGAR).",
-    "ZIP AU": "Verify ASX API (https://www.asx.com.au/asx/1/company/ZIP/announcements) returns JSON; xlsx regulatory URL is wrong.",
-    "8136 JP": "Verify TDnet access (https://www.release.tdnet.info/) before building.",
-    "XYZ": "Confirm ticker (SQ vs XYZ). Need separate Square + Cash App scrapers.",
-    "SEZL": "Need specific Sezzle Premium pricing URL — homepage is too vague.",
-    "DAVE": "Need specific ExtraCash fee page URL — homepage is too vague.",
+    "ADYEN NA": "Filings URL fixed to investors.adyen.com/financials. Still needs custom Euronext H1/H2 scraper (non-quarterly cadence).",
+    "ZIP AU":   "Filings URL fixed to zip.co/investors/asx-announcements. Still needs custom ASX announcements scraper.",
+    "8136 JP":  "TDnet has no per-company persistent URL (~31-day retention). Long-term archive needs third-party (magicalir.net) integration.",
 }
 
 
