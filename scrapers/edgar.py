@@ -15,9 +15,12 @@ from __future__ import annotations
 import json
 import time
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
+
+MAX_AGE_DAYS = 7  # Only flag filings within this window
 
 UA = "consumer-monitor/0.1 (Contour Asset Management; hari.kumar@contourasset.com)"
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
@@ -98,14 +101,32 @@ def recent_filings(ticker: str, limit: int = 25) -> list[Filing]:
     return out
 
 
-def new_filings_since(ticker: str, last_accession: str | None) -> list[Filing]:
-    """Return filings newer than last_accession (in API order: newest first)."""
+def is_recent(filed_date: str, max_age_days: int = MAX_AGE_DAYS) -> bool:
+    """True if filed_date (YYYY-MM-DD) is within max_age_days of now."""
+    if not filed_date:
+        return False
+    try:
+        dt = datetime.strptime(filed_date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return False
+    return dt >= datetime.now(timezone.utc) - timedelta(days=max_age_days)
+
+
+def new_filings_since(ticker: str, last_accession: str | None,
+                      max_age_days: int = MAX_AGE_DAYS) -> list[Filing]:
+    """Return filings (a) newer than last_accession AND (b) within max_age_days.
+
+    Filings older than max_age_days are excluded even on first run. This means
+    a quiet name with no recent activity produces an empty list — and the
+    caller should still persist the top accession so subsequent runs can
+    detect new arrivals cleanly.
+    """
     filings = recent_filings(ticker)
-    if last_accession is None:
-        return filings[:5]  # First run: take the most recent 5
     out: list[Filing] = []
     for f in filings:
-        if f.accession == last_accession:
+        if last_accession and f.accession == last_accession:
             break
+        if not is_recent(f.filed_date, max_age_days):
+            continue
         out.append(f)
     return out

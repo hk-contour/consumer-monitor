@@ -11,12 +11,16 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
 import requests
+from dateutil import parser as dateparser
 
 from .static_pages import USER_AGENT
+
+MAX_AGE_DAYS = 7  # Only emit entries published within this window
 
 ROOT = Path(__file__).resolve().parent.parent
 SNAPSHOT_DIR = ROOT / "snapshots"
@@ -71,20 +75,34 @@ def fetch_feed(url: str, timeout: int = 30) -> list[FeedEntry]:
     return out
 
 
-def new_entries(ticker: str, source: str, url: str,
-                first_run_limit: int = 5) -> list[FeedEntry]:
-    """Fetch feed and return only entries we haven't seen.
+def _is_recent(published_str: str, max_age_days: int) -> bool:
+    """True if the published timestamp is within max_age_days of now.
 
-    On first run (no stored GUIDs), emit up to `first_run_limit` newest
-    entries as a baseline — matches EDGAR scraper behavior.
+    Drops entries with no parseable date (safer to omit than misdate).
+    """
+    if not published_str:
+        return False
+    try:
+        dt = dateparser.parse(published_str)
+    except (ValueError, TypeError):
+        return False
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt >= datetime.now(timezone.utc) - timedelta(days=max_age_days)
+
+
+def new_entries(ticker: str, source: str, url: str,
+                max_age_days: int = MAX_AGE_DAYS) -> list[FeedEntry]:
+    """Fetch feed and return entries that are (a) within max_age_days AND
+    (b) not in the stored GUID set.
+
+    First-run behavior: emit all recent (past N days) entries. There's no
+    "silent first run" here because each entry has its own publish date —
+    a 5-day-old press release is real signal, not a baselining artifact.
     """
     entries = fetch_feed(url)
+    entries = [e for e in entries if _is_recent(e.published, max_age_days)]
     seen = _load_seen(ticker, source)
-    if not seen:
-        # First run: take the most-recent N, mark all as seen
-        new = entries[:first_run_limit]
-        _save_seen(ticker, source, {e.guid for e in entries if e.guid})
-        return new
     new = [e for e in entries if e.guid and e.guid not in seen]
     if new:
         seen.update(e.guid for e in new)

@@ -51,7 +51,12 @@ def check_static_url(c: Company, source: str, url: str) -> Change | None:
     diff_res = compare(c.ticker, source, res.text)
     if not diff_res.changed:
         return None
+    # Always persist the new snapshot so we have a baseline for next run
     write_snapshot(c.ticker, source, res.text)
+    # Silent first-run baseline: don't surface "no prior version" entries.
+    # They're a setup artifact, not a real content change. Real diffs flow through.
+    if "no prior version" in diff_res.diff_text:
+        return None
     log_change(c.ticker, source, url, diff_res.diff_text)
     return Change(
         ticker=c.ticker,
@@ -64,23 +69,26 @@ def check_static_url(c: Company, source: str, url: str) -> Change | None:
 
 
 def check_edgar(c: Company) -> list[Change]:
-    """Detect new SEC filings by accession number."""
+    """Detect new SEC filings within the past 7 days."""
     if not c.urls.get("regulatory_filings"):
         return []
-    # Snapshot stores the most recent accession we've seen.
     state_key = "edgar_last_accession"
     from scrapers.snapshot_store import _path  # internal helper
     state_path = _path(c.ticker, state_key)
     last_acc = state_path.read_text().strip() if state_path.exists() else None
     try:
-        new = edgar.new_filings_since(c.ticker, last_acc)
+        all_filings = edgar.recent_filings(c.ticker)
     except Exception as e:
         print(f"  [{c.ticker}/edgar] error: {e}", file=sys.stderr)
         return []
-    if not new:
+    if not all_filings:
         return []
-    # Update state to the newest accession
-    write_snapshot(c.ticker, state_key, new[0].accession)
+    # Always persist the current top accession so subsequent runs can detect
+    # new arrivals — even if everything in the past 7 days has been seen.
+    if all_filings[0].accession != last_acc:
+        write_snapshot(c.ticker, state_key, all_filings[0].accession)
+    # Now collect filings to surface: newer than last_acc AND within 7 days.
+    new = edgar.new_filings_since(c.ticker, last_acc)
     changes: list[Change] = []
     for f in new:
         summary = f"New {f.form} filed {f.filed_date} (accession {f.accession})"
