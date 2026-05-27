@@ -123,14 +123,25 @@ def extract_text(html: str, selector: str | None = None) -> str:
     return "\n".join(lines)
 
 
+MIN_EXTRACTED_CHARS = 200  # Below this we treat the fetch as suspect (bot-stub etc.)
+
+
 def fetch_and_extract(url: str, selector: str | None = None,
                       retries: int = 2, backoff: float = 1.5) -> FetchResult:
     last: FetchResult = FetchResult(ok=False, error="not attempted")
     for attempt in range(retries + 1):
         res = fetch(url)
         if res.ok:
-            return FetchResult(ok=True, text=extract_text(res.text, selector),
-                               status=res.status)
+            extracted = extract_text(res.text, selector)
+            if len(extracted) < MIN_EXTRACTED_CHARS:
+                # Likely a bot-stub / empty shell / blocked. Don't overwrite
+                # the existing snapshot with this — treat as fetch failure.
+                last = FetchResult(
+                    ok=False, status=res.status,
+                    error=f"suspect-empty (extracted={len(extracted)} chars, "
+                          "below MIN_EXTRACTED_CHARS — likely bot detection)")
+                continue
+            return FetchResult(ok=True, text=extracted, status=res.status)
         last = res
         time.sleep(backoff ** attempt)
     return last
