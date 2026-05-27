@@ -22,7 +22,7 @@ from dataclasses import dataclass
 
 from digest import Change, write_digest
 from feedback_log import append_changes
-from scrapers import edgar, rss, static_pages
+from scrapers import edgar, edgar_enrich, rss, static_pages
 from scrapers.config_reader import Company, load_companies
 from scrapers.snapshot_store import compare, log_change, write_snapshot
 from scrapers.tiers import blocker_reason
@@ -91,12 +91,16 @@ def check_edgar(c: Company) -> list[Change]:
     new = edgar.new_filings_since(c.ticker, last_acc)
     changes: list[Change] = []
     for f in new:
-        summary = f"New {f.form} filed {f.filed_date} (accession {f.accession})"
+        rich_desc, materiality = edgar_enrich.summarize(f.form, f.url, f.accession)
+        summary = f"[{materiality}] {rich_desc}"
+        diff_body = (f"+ Form {f.form} filed {f.filed_date}\n"
+                     f"+ {rich_desc}\n"
+                     f"+ {f.url}")
         changes.append(Change(
             ticker=c.ticker, company=c.company,
             source=f"edgar:{f.form}",
             url=f.url, summary=summary,
-            diff=f"+ {summary}\n+ {f.url}",
+            diff=diff_body,
         ))
         log_change(c.ticker, f"edgar:{f.form}", f.url, summary)
     return changes
