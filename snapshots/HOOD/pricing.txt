@@ -1,0 +1,206 @@
+Getting started
+Account and login
+Investing
+Investing with stocks: Special cases
+Day trading
+Pattern day trading
+Trading fees on Robinhood
+Day trade calls
+About Regulation T calls
+Pattern Day Trade Protection
+Wash sales
+American Depositary Receipts
+Robinhood Agentic Trading
+Robinhood Gold
+Robinhood Strategies
+Robinhood Crypto
+Robinhood Ventures
+Robinhood Legend
+Robinhood Derivatives
+Retirement
+Robinhood Concierge
+Bank transfers and linking
+Robinhood Banking
+Robinhood Gold Credit Card
+Spending
+Robinhood Wallet
+Robinhood Chain
+Documents and taxes
+General questions
+Investing with stocks: Special cases
+Help Center
+Investing
+Investing with stocks: Special cases
+Trading fees on Robinhood
+Investing with a Robinhood investing account is commission free for stocks, ETFs, and their options. We don’t charge you fees to open or maintain your account.
+However, the following regulatory organizations charge Robinhood fees for trading that we do pass on to you to cover our costs:
+The Financial Industry Regulatory Authority (FINRA) charges a
+regulatory transaction fee
+and
+trading activity fee
+for sell orders. All brokerages are charged these fees.
+Issuing banks may charge
+American depositary receipt fees
+.
+The Options Clearing Corporation charges for
+options regulatory and exchange fees
+.
+Regulatory transaction fee
+Regulatory transaction fee
+FINRA is required to pay this fee to the Securities and Exchange Commission (SEC) by law. To generate the funds necessary to do so, FINRA passes the fee on to its members, and many of these members, including Robinhood, pass the fee on to the customers. The fee is ultimately intended to cover the costs incurred by the government, including the SEC, for supervising and regulating the securities markets and securities professionals.
+The SEC is required by law to set the fee rate level that generates fees equal to the Commission’s appropriated amount. As of April 4, 2026, the SEC fee is $20.60 per $1 million of principal (only for sell orders), which is rounded up to the nearest penny. Note that Robinhood doesn’t pass this fee on to you for equity sales with a notional value of $500 or less. This fee rate will remain in effect until 60 calendar days after a new fee rate is published by the SEC.
+Keep in mind
+Stock and ETF option orders incur both the passthrough SEC fee and the FINRA trading activity fee (TAF) regardless of the sale order value. Index option orders are not charged the SEC fee or the TAF.
+Trading activity fee
+Trading activity fee
+FINRA charges this fee to brokerage firms like Robinhood to recover the costs of supervising and regulating these firms. We pass this fee to our customers, except for sales of 50 shares or less.
+As of January 1, 2026, the TAF will be
+$0.000195 per share
+(equity sells) and
+$0.00329 per contract
+(options sells). This fee is rounded to the nearest penny, which will be no greater than $9.79 per trade. Keep in mind, you may be charged more than the $9.79 fee because the fee limit is based on the execution of your order, which can occur with multiple trades.
+Note
+The SEC fee and the TAF are set by law and regulation that are subject to change without notice. Review our
+fee schedule
+before placing trades in your account.
+American depositary receipt fee
+American depositary receipt fee
+American depositary receipts (ADRs) are certificates that represent foreign stocks that you can trade on US stock markets. The banks issuing these certificates may charge custodial fees that typically range from $0.01-$0.03 per share.
+Options regulatory and exchange fees
+Options regulatory and exchange fees
+The Options Clearing Corporation (OCC) collects an Options Regulatory fee (ORF) that the U.S. options exchanges assess their members in connection with options transactions.
+The ORF varies by options exchange, where an options trade executes, and whether the broker who’s responsible for the trade is a member of a particular exchange.
+The OCC also charges a clearing fee for their central counterparty clearing and settlement services to 16 exchanges.
+These fees are industry standard. The purpose of these fees is to recover a portion of the costs related to the OCC’s supervision and regulation of the options markets.
+Effective January 10, 2025, Robinhood will collect a combined $0.04 fee for each options contract traded to cover our costs for these fees.
+Note
+Robinhood calculated the combined fee based on an average of what we typically remit to the exchanges. The fee charged by Robinhood may differ from or exceed the actual fee we paid in connection with any transaction. Our
+fee schedule
+has more details.
+Futures fee
+Futures fee
+For information on futures commissions and fees, check out
+Before trading a futures contract
+.
+Consolidated Audit Trail fee
+Consolidated Audit Trail fee
+As of December 1, 2025, our regulators are no longer charging a Consolidated Audit Trail (CAT) fee for equity and options orders.
+Index options trading fees
+Index options trading fees
+If you’re a
+Robinhood Gold
+customer, your contract fee is $0.35. Without a Gold subscription, the contract fee is $0.50.
+Exchanges also charge Robinhood fees for index options trading that we pass on to you to cover our costs. The following table shows the fees for specific index option symbols.
+Index option trading fees
+Index option symbol
+Contract conditions
+Fee per contract
+SPX
+Premium < $1
+$0.57
+SPX
+Premium ≥ $1
+$0.66
+SPXW
+Premium < $1
+$0.50
+SPXW
+Premium ≥ $1
+$0.59
+VIX / VIXW
+Contract is part of single-leg order and premium ≤ $0.10
+$0.10
+VIX / VIXW
+Contract is part of single-leg order and premium between $0.11 and $0.99
+$0.25
+VIX / VIXW
+Contract is part of single-leg order and premium between $1 and $1.99
+$0.40
+VIX / VIXW
+Contract is part of single-leg order and premium ≥ $2
+$0.45
+VIX / VIXW
+Contract is part of multi-leg order and premium ≤ $0.10
+$0.05
+VIX / VIXW
+Contract is part of multi-leg order and premium between $0.11 and $0.99
+$0.17
+VIX / VIXW
+Contract is not part of single-leg order and premium between $1 and $1.99
+$0.30
+VIX / VIXW
+Contract is not part of single-leg order and premium ≥ $2
+$0.45
+XSP
+Quantity executed < 10
+$0
+XSP
+Quantity executed ≥ 10
+$0.07
+DJX
+Quantity executed < 10
+$0
+DJX
+Quantity executed ≥ 10
+$0.07
+MRUT
+Quantity executed < 10
+$0
+MRUT
+Quantity executed ≥ 10
+$0.07
+RUT / RUTW
+Any contract
+$0.18
+NDX / NDXP
+Contract is part of single-leg order and premium < $25
+$0.25
+NDX / NDXP
+Contract is part of single-leg order and premium ≥ $25
+$0.50
+NDX / NDXP
+Contract is part of multi-leg order and premium < $25
+$0.50
+NDX / NDXP
+Contract is not part of multi-leg order and premium ≥ $25
+$0.75
+XND
+Any contract
+$0
+MGTN
+Any contract
+$0.16
+CBTX
+Any contract
+$0.50
+MBTX
+Any contract
+$0.25
+Index options example fee calculation
+Let’s say that you close
+12 contracts of SPXW
+, each having a premium of less than $1:
+With a Gold subscription:
+Robinhood contract fee of $4.20
+($0.35 x 12) +
+Exchange trading fees of $6
+($0.50 x 12) +
+Regulatory fees
+(ORF and OCC)
+of $0.48
+($0.04 x 12) =
+$10.68 Total
+Without a Gold subscription:
+Robinhood contract fee of $6
+($0.50 x 12) +
+Exchange trading fees of $6
+($0.50 x 12) +
+Regulatory fees
+(ORF and OCC)
+of $0.48
+($0.04 x 12) =
+$12.48 Total
+Was this article helpful?
+Reference No. 5322390
+Still have questions?
+Contact Robinhood Support
