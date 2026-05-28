@@ -20,7 +20,7 @@ from pathlib import Path
 
 import requests
 
-MAX_AGE_DAYS = 7  # Only flag filings within this window
+MAX_AGE_DAYS = 3  # Only flag filings within this window
 
 UA = "consumer-monitor/0.1 (Contour Asset Management; hari.kumar@contourasset.com)"
 TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"

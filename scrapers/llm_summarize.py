@@ -26,14 +26,34 @@ MODEL = (os.environ.get("CLAUDE_MODEL", "").strip()
 API_URL = "https://api.anthropic.com/v1/messages"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "snapshots" / "_llm_cache"
 
-PROMPT = """You are summarizing a website diff for a hedge fund analyst monitoring \
-consumer/fintech/marketplace companies. In ONE or TWO sentences total, describe:
-(1) what specifically changed (numeric values, text, headings), and
-(2) whether it looks material (pricing/rate/product change, new disclosure) or \
-routine (typo, layout shuffle, date stamp, section rename).
+PROMPT_VERSION = "v2-materiality"
 
-Be specific. No speculation. No padding. No greeting. No bullet points. \
-Just the 1-2 sentence summary.
+PROMPT = """You are summarizing a website diff for a hedge fund analyst monitoring \
+consumer/fintech/marketplace companies. The analyst will scan dozens of items \
+each morning and needs to know IMMEDIATELY whether to read closely or skip.
+
+Output EXACTLY this format (one line, then optional second sentence):
+[MATERIAL] Sentence describing the change.
+  — OR —
+[ROUTINE] Sentence describing the change.
+
+Begin with [MATERIAL] (brackets, all caps) if the change involves:
+- A pricing, rate, or fee change
+- A new product, plan, or major feature
+- An exec hire or departure
+- A partnership, M&A, regulatory action
+- A change to a quantitative operating metric (e.g. catalog size, store count)
+
+Begin with [ROUTINE] if the change is:
+- A section rename or layout shift
+- A date-stamp refresh ("accurate as of …")
+- CCPA/GDPR/cookie boilerplate
+- A typo or formatting fix
+- Pure rotation of news posts on a feed page
+- PDF re-encoding, image swaps, link reorderings
+
+After the bracket, write 1-2 sentences of specific factual description. \
+No speculation. No greeting. No padding.
 
 Company: {ticker} ({company_name})
 Page type: {source}
@@ -67,8 +87,9 @@ def summarize(ticker: str, company_name: str, source: str, url: str,
         return None
 
     diff_text = diff_text[:4000]  # cap prompt
+    # PROMPT_VERSION included in cache key so prompt changes invalidate cache cleanly
     cache_key = hashlib.sha256(
-        f"{ticker}|{source}|{diff_text}".encode("utf-8")
+        f"{PROMPT_VERSION}|{ticker}|{source}|{diff_text}".encode("utf-8")
     ).hexdigest()[:16]
     cache_file = CACHE_DIR / f"{cache_key}.txt"
     if cache_file.exists():

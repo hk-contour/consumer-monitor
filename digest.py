@@ -1,20 +1,22 @@
 """Format flagged changes into a morning analyst-friendly digest.
 
-Format goals (per build conversation):
-- One-line "what it means" interpretation per change, not raw diff syntax
-- Group by ticker, then by source
-- Plain prose, no `+`/`-`/`@@` markers in user-facing text
-- Renders well as Markdown on GitHub AND as plain-ish text in email clients
-- Source URL always visible
+Output structure (top-down, in scan-priority order):
+  - Header with date, generation timestamp, counts (total / material / routine)
+  - **Material** section: pricing/rate/product/exec/M&A changes, RSS new posts,
+    material EDGAR filings (10-K/10-Q/8-K/SC 13G/D/etc.)
+  - **Routine** section: section renames, layout shifts, CCPA/GDPR
+    boilerplate, insider Form 4/144/etc.
+
+Within each section, entries are grouped by ticker (alphabetical).
 
 Per-change rendering branches by source type:
-- EDGAR (edgar:*): summary already enriched by edgar_enrich.summarize() —
-  use it verbatim, no LLM call needed
-- RSS (foo:rss): summary is the entry title, diff has title+date+snippet
-  pre-formatted — render structured fields, no LLM call needed
-- Static page (terms/pricing/management_team/etc.): use llm_summarize
-  for the "what it means" line, and emit a short Detail block listing
-  the actual delta lines (not the full unified diff)
+  - EDGAR (edgar:*): use the already-enriched [MATERIAL]/[ROUTINE]-tagged
+    one-liner from edgar_enrich.summarize() — no LLM call needed
+  - RSS (foo:rss): treated as MATERIAL by default (press releases are
+    publisher-gated content); render structured title + date + snippet
+  - Static page (terms, pricing, management_team, …): one LLM call per
+    change. The model is instructed to prefix its output with
+    [MATERIAL] or [ROUTINE]; we strip the tag for ordering.
 """
 
 from __future__ import annotations
@@ -35,15 +37,18 @@ class Change:
     company: str
     source: str         # e.g. "pricing", "terms", "edgar:10-Q", "newsroom:rss"
     url: str
-    summary: str        # one-line summary (from check_*)
+    summary: str        # one-line summary from check_*
     diff: str           # unified diff or structured "+..." body
+
+
+# Tag used internally + on the rendered page
+MATERIAL = "MATERIAL"
+ROUTINE = "ROUTINE"
 
 
 # -------- diff helpers --------
 
 def _extract_deltas(diff_text: str, cap: int = 8) -> tuple[list[str], list[str]]:
-    """Pull the actual +/- content lines from a unified diff, skipping
-    headers (---/+++/@@) and context lines. Returns (added, removed)."""
     added: list[str] = []
     removed: list[str] = []
     for ln in diff_text.splitlines():
@@ -61,7 +66,6 @@ def _extract_deltas(diff_text: str, cap: int = 8) -> tuple[list[str], list[str]]
 
 
 def _human_source(source: str) -> str:
-    """Render an internal source key as a display label."""
     if source.startswith("edgar:"):
         return f"SEC filing ({source.split(':', 1)[1]})"
     if source.endswith(":rss"):
@@ -69,40 +73,71 @@ def _human_source(source: str) -> str:
     return source.replace("_", " ").title()
 
 
+def _strip_materiality_tag(text: str) -> tuple[str | None, str]:
+    """Pull `[MATERIAL]` / `[ROUTINE]` prefix from LLM output if present.
+    Returns (tag or None, remaining_text)."""
+    stripped = text.lstrip()
+    for tag in (MATERIAL, ROUTINE):
+        prefix = f"[{tag}]"
+        if stripped.startswith(prefix):
+            return (tag, stripped[len(prefix):].strip())
+    return (None, text)
+
+
+# -------- per-change pre-processing --------
+
+def _classify(c: Change) -> tuple[str, str | None]:
+    """Return (materiality, llm_text_or_None).
+
+    For EDGAR/RSS materiality comes from the source itself (no LLM call).
+    For static-page sources we make one LLM call here so the result is
+    available to BOTH the ordering step and the renderer.
+    """
+    src = c.source
+    if src.startswith("edgar:"):
+        # edgar_enrich tagged the summary with [MATERIAL] or [ROUTINE]
+        if "[MATERIAL]" in c.summary:
+            return (MATERIAL, None)
+        return (ROUTINE, None)
+    if src.endswith(":rss"):
+        return (MATERIAL, None)
+
+    # Static page → ask LLM
+    llm_text = llm_summarize.summarize(
+        ticker=c.ticker, company_name=c.company,
+        source=c.source, url=c.url, diff_text=c.diff,
+    )
+    if not llm_text:
+        return (MATERIAL, None)  # default-include when LLM unavailable
+    tag, remaining = _strip_materiality_tag(llm_text)
+    if tag:
+        return (tag, remaining)
+    # LLM output didn't carry the tag — default MATERIAL, keep raw text
+    return (MATERIAL, llm_text)
+
+
 # -------- per-source renderers --------
 
-def _render_edgar(c: Change, lines: list[str]) -> None:
-    """EDGAR entries already have a rich one-liner from edgar_enrich.
-    The Change.summary is like '[ROUTINE] Insider trade — Tony Xu (CEO) sold ...'
-    Just present it cleanly."""
-    # Strip the leading [MATERIAL]/[ROUTINE] tag for the heading
+def _render_edgar(c: Change, materiality: str, lines: list[str]) -> None:
+    # Summary already includes the [MATERIAL]/[ROUTINE] tag; strip for heading
     summary = c.summary
-    tag = ""
     if summary.startswith("[") and "]" in summary:
-        end = summary.index("]")
-        tag = summary[:end + 1]
-        summary = summary[end + 1:].strip()
-
-    lines.append(f"### {_human_source(c.source)} {tag}".rstrip())
+        summary = summary[summary.index("]") + 1:].strip()
+    lines.append(f"### {c.ticker} — {_human_source(c.source)}  _[{materiality}]_")
     lines.append(f"**{summary}**")
     lines.append("")
     lines.append(f"Source: <{c.url}>")
     lines.append("")
 
 
-def _render_rss(c: Change, lines: list[str]) -> None:
-    """RSS entries: title (already in summary), published date + snippet
-    are in the diff body. Render as clean prose."""
-    # Strip "newsroom: " prefix from summary if present
+def _render_rss(c: Change, materiality: str, lines: list[str]) -> None:
     title = c.summary
     for prefix in (f"{c.source.split(':', 1)[0]}: ",):
         if title.lower().startswith(prefix.lower()):
             title = title[len(prefix):]
             break
-
-    lines.append(f"### {_human_source(c.source)} — {title}")
-    # Diff body for RSS contains: + title / + link / + Published: ... / + summary
-    # Pull the Published + summary lines for clean display
+    lines.append(f"### {c.ticker} — {_human_source(c.source)}  _[{materiality}]_")
+    lines.append(f"**{title}**")
     published = None
     snippet = None
     for ln in c.diff.splitlines():
@@ -123,24 +158,15 @@ def _render_rss(c: Change, lines: list[str]) -> None:
     lines.append("")
 
 
-def _render_static(c: Change, lines: list[str]) -> None:
-    """Static-page diffs: ask LLM for a 1-2 sentence interpretation, then
-    show the actual delta lines (added/removed content) as supporting detail.
-    Skips the LLM call gracefully if ANTHROPIC_API_KEY is not configured."""
-    lines.append(f"### {_human_source(c.source)} — change detected")
-
-    interp = llm_summarize.summarize(
-        ticker=c.ticker, company_name=c.company,
-        source=c.source, url=c.url, diff_text=c.diff,
-    )
-    if interp:
-        lines.append(f"**What it means:** {interp}")
+def _render_static(c: Change, materiality: str, llm_text: str | None,
+                   lines: list[str]) -> None:
+    lines.append(f"### {c.ticker} — {_human_source(c.source)}  _[{materiality}]_")
+    if llm_text:
+        lines.append(f"**What it means:** {llm_text}")
         lines.append("")
     else:
-        # Fallback: use the existing one-line summary from check_static_url
         lines.append(f"**Summary:** {c.summary}")
         lines.append("")
-
     added, removed = _extract_deltas(c.diff, cap=10)
     if added or removed:
         lines.append("**Detail:**")
@@ -151,18 +177,18 @@ def _render_static(c: Change, lines: list[str]) -> None:
             for a in added:
                 lines.append(f"  + {a[:200]}")
         lines.append("")
-
     lines.append(f"Source: <{c.url}>")
     lines.append("")
 
 
-def _render_change(c: Change, lines: list[str]) -> None:
+def _render_change(c: Change, materiality: str, llm_text: str | None,
+                   lines: list[str]) -> None:
     if c.source.startswith("edgar:"):
-        _render_edgar(c, lines)
+        _render_edgar(c, materiality, lines)
     elif c.source.endswith(":rss"):
-        _render_rss(c, lines)
+        _render_rss(c, materiality, lines)
     else:
-        _render_static(c, lines)
+        _render_static(c, materiality, llm_text, lines)
 
 
 # -------- top-level digest --------
@@ -184,30 +210,46 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
         out.write_text("\n".join(lines) + "\n", encoding="utf-8")
         return out
 
-    # Top-level summary: tickers + count
-    by_ticker: dict[str, list[Change]] = {}
-    for c in changes:
-        by_ticker.setdefault(c.ticker, []).append(c)
-    ticker_summary = ", ".join(
-        f"{t} ({len(items)})" for t, items in sorted(by_ticker.items())
+    # Pre-classify every change once. This is also where LLM calls happen
+    # for static-page sources; cached so re-runs are cheap.
+    classified: list[tuple[Change, str, str | None]] = [
+        (c, *_classify(c)) for c in changes
+    ]
+    material = [t for t in classified if t[1] == MATERIAL]
+    routine = [t for t in classified if t[1] == ROUTINE]
+
+    lines.append(
+        f"**{len(changes)} flagged changes** — "
+        f"{len(material)} material, {len(routine)} routine."
     )
-    lines.append(f"**{len(changes)} flagged changes** — {ticker_summary}")
     if not llm_summarize.is_available():
         lines.append("")
-        lines.append("_Note: LLM interpretation is disabled "
-                     "(ANTHROPIC_API_KEY not set). Showing basic summaries only._")
+        lines.append("_Note: LLM interpretation disabled "
+                     "(ANTHROPIC_API_KEY not set). Showing basic summaries; "
+                     "all static-page items default to material._")
     lines.append("")
     lines.append("---")
     lines.append("")
 
-    for ticker, items in sorted(by_ticker.items()):
-        company = items[0].company
-        lines.append(f"## {ticker} — {company}")
+    def emit_section(label: str, items: list, empty_msg: str) -> None:
+        lines.append(f"## {label} ({len(items)})")
         lines.append("")
-        for c in items:
-            _render_change(c, lines)
-        lines.append("---")
-        lines.append("")
+        if not items:
+            lines.append(empty_msg)
+            lines.append("")
+            return
+        # Group by ticker, alphabetical
+        by_ticker: dict[str, list] = {}
+        for tup in items:
+            by_ticker.setdefault(tup[0].ticker, []).append(tup)
+        for ticker in sorted(by_ticker):
+            for c, materiality, llm_text in by_ticker[ticker]:
+                _render_change(c, materiality, llm_text, lines)
+
+    emit_section("Material", material, "_No material changes this run._")
+    lines.append("---")
+    lines.append("")
+    emit_section("Routine", routine, "_No routine changes this run._")
 
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return out

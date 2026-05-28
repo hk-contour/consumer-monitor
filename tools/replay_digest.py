@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -23,8 +24,10 @@ sys.path.insert(0, str(ROOT))
 
 from digest import Change, write_digest  # noqa: E402
 from scrapers.config_reader import load_companies  # noqa: E402
+from scrapers.edgar import MAX_AGE_DAYS as EDGAR_MAX_AGE  # noqa: E402
 
 CHANGELOG = ROOT / "changelog.jsonl"
+FILED_RE = re.compile(r"filed (\d{4}-\d{2}-\d{2})")
 
 
 def main() -> int:
@@ -39,6 +42,9 @@ def main() -> int:
 
     print(f"Replaying changelog entries since {since}")
     print(f"Output label: {label}")
+    print(f"EDGAR filter: filed date within past {EDGAR_MAX_AGE} days")
+
+    edgar_cutoff = datetime.now(timezone.utc) - timedelta(days=EDGAR_MAX_AGE)
 
     cos = {c.ticker: c for c in load_companies()}
 
@@ -66,6 +72,18 @@ def main() -> int:
             # Skip entries with no actual diff body (just a short note)
             if len(diff.strip()) < 40:
                 continue
+            # For EDGAR: enforce the same filed-date window the live system uses
+            if source.startswith("edgar:"):
+                m = FILED_RE.search(diff)
+                if m:
+                    try:
+                        filed = datetime.strptime(m.group(1), "%Y-%m-%d").replace(
+                            tzinfo=timezone.utc
+                        )
+                    except ValueError:
+                        filed = None
+                    if filed is None or filed < edgar_cutoff:
+                        continue
             key = (entry["ticker"], source, entry.get("url", ""))
             if key in seen_keys:
                 continue
