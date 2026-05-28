@@ -46,6 +46,10 @@ class Change:
 MATERIAL = "MATERIAL"
 ROUTINE = "ROUTINE"
 
+# Emoji prefix for visual scanning. Renders consistently on GitHub, in email
+# clients, and in browser print-to-PDF output.
+ICONS = {MATERIAL: "🔴", ROUTINE: "⚪"}
+
 
 # -------- diff helpers --------
 
@@ -133,7 +137,8 @@ def _render_edgar(c: Change, materiality: str, lines: list[str]) -> None:
     summary = c.summary
     if summary.startswith("[") and "]" in summary:
         summary = summary[summary.index("]") + 1:].strip()
-    lines.append(f"### {c.ticker} — {_human_source(c.source)}  _[{materiality}]_")
+    icon = ICONS.get(materiality, "")
+    lines.append(f"### {icon} {c.ticker} — {_human_source(c.source)}")
     lines.append(f"**{summary}**")
     lines.append("")
     lines.append(f"Source: <{c.url}>")
@@ -148,7 +153,8 @@ def _render_rss(c: Change, materiality: str, lines: list[str]) -> None:
         if title.lower().startswith(prefix.lower()):
             title = title[len(prefix):]
             break
-    lines.append(f"### {c.ticker} — {_human_source(c.source)}  _[{materiality}]_")
+    icon = ICONS.get(materiality, "")
+    lines.append(f"### {icon} {c.ticker} — {_human_source(c.source)}")
     lines.append(f"**{title}**")
     published = None
     snippet = None
@@ -174,7 +180,8 @@ def _render_rss(c: Change, materiality: str, lines: list[str]) -> None:
 
 def _render_static(c: Change, materiality: str, llm_text: str | None,
                    lines: list[str]) -> None:
-    lines.append(f"### {c.ticker} — {_human_source(c.source)}  _[{materiality}]_")
+    icon = ICONS.get(materiality, "")
+    lines.append(f"### {icon} {c.ticker} — {_human_source(c.source)}")
     if llm_text:
         lines.append(f"**What it means:** {llm_text}")
         lines.append("")
@@ -184,12 +191,16 @@ def _render_static(c: Change, materiality: str, llm_text: str | None,
     added, removed = _extract_deltas(c.diff, cap=10)
     if added or removed:
         lines.append("**Detail:**")
+        # Wrap in a `diff` fenced block so GitHub renders + lines green
+        # and - lines red. Carries through to browser print-to-PDF.
+        lines.append("```diff")
         if removed:
             for r in removed:
-                lines.append(f"  − {r[:200]}")
+                lines.append(f"- {r[:200]}")
         if added:
             for a in added:
-                lines.append(f"  + {a[:200]}")
+                lines.append(f"+ {a[:200]}")
+        lines.append("```")
         lines.append("")
     lines.append(f"Source: <{c.url}>")
     if c.detected_at:
@@ -262,10 +273,12 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
             for c, materiality, llm_text in by_ticker[ticker]:
                 _render_change(c, materiality, llm_text, lines)
 
-    emit_section("Material", material, "_No material changes this run._")
+    emit_section(f"{ICONS[MATERIAL]} Material", material,
+                 "_No material changes this run._")
     lines.append("---")
     lines.append("")
-    emit_section("Routine", routine, "_No routine changes this run._")
+    emit_section(f"{ICONS[ROUTINE]} Routine", routine,
+                 "_No routine changes this run._")
 
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return out
