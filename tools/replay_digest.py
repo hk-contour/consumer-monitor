@@ -58,6 +58,13 @@ def main() -> int:
             c = cos.get(entry["ticker"])
             if c is None:
                 continue
+            diff = entry.get("diff", "")
+            # Skip first-run baselines — they have no real content to interpret
+            if "no prior version" in diff or "new snapshot" in diff:
+                continue
+            # Skip entries with no actual diff body (just a short note)
+            if len(diff.strip()) < 40:
+                continue
             key = (entry["ticker"], entry["source"], entry.get("url", ""))
             if key in seen_keys:
                 continue
