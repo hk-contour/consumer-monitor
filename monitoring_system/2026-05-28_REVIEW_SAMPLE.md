@@ -1,6 +1,6 @@
 # Morning digest — 2026-05-28
 
-Generated 2026-05-28 14:42 UTC.
+Generated 2026-05-28 14:43 UTC.
 **15 flagged changes** — 3 material, 12 routine.
 
 ---
