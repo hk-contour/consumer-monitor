@@ -1,6 +1,6 @@
 # Morning digest — 2026-05-28
 
-Generated 2026-05-28 14:51 UTC.
+Generated 2026-05-28 14:56 UTC.
 **5 flagged changes** — 3 material, 2 routine.
 
 ---
@@ -15,6 +15,7 @@ Generated 2026-05-28 14:51 UTC.
   + Launched in 2011, we offer the personalized service of a neighborhood pet store alongside the convenience and speed of e-commerce. Customers love shopping our wide selection of approximately 190,000 p
 
 Source: <https://investor.chewy.com>
+Detected: 2026-05-27 21:06 UTC
 
 ### DASH — Newsroom  _[MATERIAL]_
 **What it means:** DoorDash newsroom added three new announcements: a partnership with Dollar Tree bringing 9,000+ stores onto the platform, a "Summer of DashPass" FIFA World Cup 2026 promotion offering match tickets and $5M in credits, and an international FIFA campaign with Deliveroo and Wolt. Several older posts were removed from the feed rotation.
@@ -42,6 +43,7 @@ Source: <https://investor.chewy.com>
   + Icon Loading
 
 Source: <https://about.doordash.com/en-us/news>
+Detected: 2026-05-28 13:29 UTC
 
 ### SHOP — Pricing  _[MATERIAL]_
 **What it means:** Shopify Balance earnings rate reduced from 2.28% to 0.00% across multiple plan tiers, and Capital funding tier rate reduced from 3.30% to 0.00%.
@@ -55,6 +57,7 @@ Source: <https://about.doordash.com/en-us/news>
   + 0.00% earnings rate
 
 Source: <https://www.shopify.com/pricing>
+Detected: 2026-05-28 00:06 UTC
 
 ---
 
@@ -67,6 +70,7 @@ Source: <https://www.shopify.com/pricing>
   − Your Privacy Choices
 
 Source: <https://www.instacart.com/instacart-plus>
+Detected: 2026-05-28 13:31 UTC
 
 ### HOOD — Pricing  _[ROUTINE]_
 **What it means:** Navigation menu item renamed from "Robinhood Agentic Trading" to "Agentic trading and cards" on the trading fees support page.
@@ -76,4 +80,5 @@ Source: <https://www.instacart.com/instacart-plus>
   + Agentic trading and cards
 
 Source: <https://robinhood.com/us/en/support/articles/trading-fees-on-robinhood/>
+Detected: 2026-05-28 00:12 UTC
 
