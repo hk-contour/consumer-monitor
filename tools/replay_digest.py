@@ -27,7 +27,9 @@ from scrapers.config_reader import load_companies  # noqa: E402
 from scrapers.edgar import MAX_AGE_DAYS as EDGAR_MAX_AGE  # noqa: E402
 
 CHANGELOG = ROOT / "changelog.jsonl"
-FILED_RE = re.compile(r"filed (\d{4}-\d{2}-\d{2})")
+# Match any YYYY-MM-DD that appears in the changelog diff field. For EDGAR
+# the first such date is the transaction/filing date (≈ same day for Form 4/144).
+DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
 
 
 def main() -> int:
@@ -74,16 +76,17 @@ def main() -> int:
                 continue
             # For EDGAR: enforce the same filed-date window the live system uses
             if source.startswith("edgar:"):
-                m = FILED_RE.search(diff)
-                if m:
-                    try:
-                        filed = datetime.strptime(m.group(1), "%Y-%m-%d").replace(
-                            tzinfo=timezone.utc
-                        )
-                    except ValueError:
-                        filed = None
-                    if filed is None or filed < edgar_cutoff:
-                        continue
+                m = DATE_RE.search(diff)
+                if not m:
+                    continue  # can't verify date → skip rather than misrepresent
+                try:
+                    filed = datetime.strptime(m.group(1), "%Y-%m-%d").replace(
+                        tzinfo=timezone.utc
+                    )
+                except ValueError:
+                    continue
+                if filed < edgar_cutoff:
+                    continue
             key = (entry["ticker"], source, entry.get("url", ""))
             if key in seen_keys:
                 continue
