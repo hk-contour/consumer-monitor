@@ -18,7 +18,7 @@ A representative sample drawn from real data collected on 2026-05-27 to 2026-05-
 
 → [**View sample digest**](monitoring_system/2026-05-28_REVIEW_SAMPLE.md)
 
-6 changes total, split into two sections (Material first, Routine second). The
+5 changes total, split into two sections (Material first, Routine second). The
 sample shows exactly what a morning email would look like in plain text or HTML.
 
 ### What's in the sample
@@ -31,9 +31,8 @@ sample shows exactly what a morning email would look like in plain text or HTML.
 - **DASH** announced Dollar Tree partnership covering 9,000+ stores, plus FIFA
   World Cup 2026 sponsorship with $5M DashPass credits
 
-**Routine (3) — skim or skip:**
+**Routine (2) — skim or skip:**
 - **CART** removed a "Your Privacy Choices" footer link on Instacart Plus
-- **HOOD** PDF re-encoding (terms doc; no content change)
 - **HOOD** section rename combining agentic trading with cards (heading-only)
 
 Every entry was surfaced **automatically** by the scraper and interpreted by
@@ -67,6 +66,8 @@ The system suppresses these patterns *before* they reach the digest:
 - **RSS / static recency** — news items older than 7 days are filtered out
 - **Bot-stub responses** — guarded against sites returning empty HTML to scrapers
   (which would otherwise wipe baselines and trigger spurious diffs)
+- **Binary files** (PDF/DOC/XLS/etc.) — skipped entirely; their byte-level
+  re-encoding shows up as gibberish diffs that are noise, not signal
 
 ## What's working today
 
@@ -98,7 +99,8 @@ The system suppresses these patterns *before* they reach the digest:
 Just reply with thoughts. Specifically helpful:
 
 1. **Anything in the sample that's noise** — false positives we should filter
-   out (HOOD PDF re-encoding is a known example — should that be suppressed?)
+   out. (The CART CCPA-link removal and HOOD section rename are both in the
+   Routine section by design, but tell us if you'd prefer them suppressed entirely.)
 2. **Anything you'd want to see that's missing** — sources, source types, names
 3. **Format preferences** — too verbose / too short; ordering; what should go
    at the top; length of "What it means" summaries
