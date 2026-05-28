@@ -1,12 +1,11 @@
 name: monitor
 
 on:
-  schedule:
-    # High tier: every 2 hours, 11:06–23:06 UTC (≈6am–6pm ET), weekdays
-    - cron: '6 11,13,15,17,19,21,23 * * 1-5'
-    # Medium tier: once daily at 11:06 UTC (≈6:06am EST), weekdays
-    # Note: same cron string as one of the high-tier slots. The job logic
-    # below runs BOTH tiers on the 11:06 UTC slot and just high otherwise.
+  # Scheduled cron disabled while iterating on signal quality. Re-enable
+  # by uncommenting the two cron strings below.
+  # schedule:
+  #   - cron: '6 11,13,15,17,19,21,23 * * 1-5'   # high tier every 2h weekdays
+  #   - cron: '6 11 * * 1-5'                     # all tiers once daily at 11:06 UTC
   workflow_dispatch:
     inputs:
       tier:
