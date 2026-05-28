@@ -1,7 +1,7 @@
 # Morning digest — 2026-05-28
 
-Generated 2026-05-28 14:43 UTC.
-**15 flagged changes** — 3 material, 12 routine.
+Generated 2026-05-28 14:44 UTC.
+**6 flagged changes** — 3 material, 3 routine.
 
 ---
 
@@ -58,7 +58,7 @@ Source: <https://www.shopify.com/pricing>
 
 ---
 
-## Routine (12)
+## Routine (3)
 
 ### CART — Pricing  _[ROUTINE]_
 **What it means:** Removal of "Your Privacy Choices" link from Instacart Plus pricing page footer.
@@ -67,51 +67,6 @@ Source: <https://www.shopify.com/pricing>
   − Your Privacy Choices
 
 Source: <https://www.instacart.com/instacart-plus>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Sundheim Daniel S. (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000091957426003716/xslF345X06/ownership.xml>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Gupta Ravi (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000198846026000002/xslF345X06/form4.xml>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Levien Meredith A. Kopit (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000164007526000011/xslF345X06/wk-form4_1779913021.xml>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Sarafan Lily (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000173634126000005/xslF345X06/wk-form4_1779912973.xml>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Dolan Victoria L (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000151113426000002/xslF345X06/wk-form4_1779912918.xml>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Silverman Josh (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000152535826000016/xslF345X06/wk-form4_1779912875.xml>
-
-### CART — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Laughton Mary Beth (Director) RSU/grant of 6,048 shares on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1579091/000189467426000002/xslF345X06/wk-form4_1779912813.xml>
-
-### DASH — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Sherringham Tia (GENERAL COUNSEL AND SECRETARY) sold 2,743 shares @ $160.79 ($441.0K) on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1792789/000189968826000012/xslF345X06/form4-05272026_040509.xml>
-
-### DASH — SEC filing (4)  _[ROUTINE]_
-**Insider trade — Lee Gordon S (CHIEF ACCOUNTING OFFICER) sold 2,204 shares @ $160.79 ($354.4K) on 2026-05-22**
-
-Source: <https://www.sec.gov/Archives/edgar/data/1792789/000163564826000010/xslF345X06/form4-05272026_040507.xml>
 
 ### HOOD — Terms  _[ROUTINE]_
 **What it means:** PDF re-encoded with different compression settings; file size reduced from 4324 to 3879 bytes with no change to document content or terms.
