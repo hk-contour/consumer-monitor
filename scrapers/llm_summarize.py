@@ -15,12 +15,14 @@ from __future__ import annotations
 
 import hashlib
 import os
+import sys
 from pathlib import Path
 
 import requests
 
 API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-4-5").strip()
+MODEL = (os.environ.get("CLAUDE_MODEL", "").strip()
+         or "claude-haiku-4-5")
 API_URL = "https://api.anthropic.com/v1/messages"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "snapshots" / "_llm_cache"
 
@@ -54,7 +56,14 @@ def summarize(ticker: str, company_name: str, source: str, url: str,
     Falls back silently to None on any error — callers should treat None as
     "no enrichment available" and render the existing Change.summary field.
     """
-    if not API_KEY or not diff_text:
+    if not API_KEY:
+        # One-time loud warning so misconfig is obvious in workflow logs
+        if not getattr(summarize, "_warned_no_key", False):
+            print("  [llm] ANTHROPIC_API_KEY not set — falling back to "
+                  "basic summaries", file=sys.stderr)
+            summarize._warned_no_key = True  # type: ignore[attr-defined]
+        return None
+    if not diff_text:
         return None
 
     diff_text = diff_text[:4000]  # cap prompt
@@ -87,14 +96,20 @@ def summarize(ticker: str, company_name: str, source: str, url: str,
                 "messages": [{"role": "user", "content": prompt}],
             },
         )
-    except requests.RequestException:
+    except requests.RequestException as e:
+        print(f"  [llm/{ticker}/{source}] request failed: {e}", file=sys.stderr)
         return None
 
     if r.status_code != 200:
+        # Surface the failure so we can debug — body usually tells us why
+        print(f"  [llm/{ticker}/{source}] HTTP {r.status_code}: "
+              f"{r.text[:300]}", file=sys.stderr)
         return None
     try:
         text = r.json()["content"][0]["text"].strip()
-    except (KeyError, IndexError, ValueError):
+    except (KeyError, IndexError, ValueError) as e:
+        print(f"  [llm/{ticker}/{source}] parse error: {e}; "
+              f"body: {r.text[:300]}", file=sys.stderr)
         return None
 
     if not text:
