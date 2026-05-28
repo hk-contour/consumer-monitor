@@ -39,6 +39,7 @@ class Change:
     url: str
     summary: str        # one-line summary from check_*
     diff: str           # unified diff or structured "+..." body
+    detected_at: str = ""  # ISO timestamp when our system first saw this change
 
 
 # Tag used internally + on the rendered page
@@ -71,6 +72,15 @@ def _human_source(source: str) -> str:
     if source.endswith(":rss"):
         return source.split(":", 1)[0].replace("_", " ").title() + " (RSS)"
     return source.replace("_", " ").title()
+
+
+def _fmt_ts(iso_ts: str) -> str:
+    """Render '2026-05-28T14:51:38Z' as '2026-05-28 14:51 UTC'."""
+    if not iso_ts:
+        return ""
+    # Be tolerant of minor format variations
+    s = iso_ts.replace("Z", "").split(".", 1)[0].replace("T", " ")
+    return f"{s[:16]} UTC"
 
 
 def _strip_materiality_tag(text: str) -> tuple[str | None, str]:
@@ -127,6 +137,8 @@ def _render_edgar(c: Change, materiality: str, lines: list[str]) -> None:
     lines.append(f"**{summary}**")
     lines.append("")
     lines.append(f"Source: <{c.url}>")
+    if c.detected_at:
+        lines.append(f"Detected: {_fmt_ts(c.detected_at)}")
     lines.append("")
 
 
@@ -155,6 +167,8 @@ def _render_rss(c: Change, materiality: str, lines: list[str]) -> None:
         lines.append(snippet[:400] + ("…" if len(snippet) > 400 else ""))
     lines.append("")
     lines.append(f"Source: <{c.url}>")
+    if c.detected_at:
+        lines.append(f"Detected: {_fmt_ts(c.detected_at)}")
     lines.append("")
 
 
@@ -178,6 +192,8 @@ def _render_static(c: Change, materiality: str, llm_text: str | None,
                 lines.append(f"  + {a[:200]}")
         lines.append("")
     lines.append(f"Source: <{c.url}>")
+    if c.detected_at:
+        lines.append(f"Detected: {_fmt_ts(c.detected_at)}")
     lines.append("")
 
 

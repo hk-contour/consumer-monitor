@@ -126,6 +126,7 @@ def main() -> int:
                 url=entry.get("url", ""),
                 summary=summary,
                 diff=diff,
+                detected_at=entry.get("ts", ""),
             ))
 
     print(f"Reconstructed {len(changes)} unique changes")

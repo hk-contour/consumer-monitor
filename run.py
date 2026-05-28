@@ -17,10 +17,14 @@ from __future__ import annotations
 
 import argparse
 import sys
+import time
 import traceback
 from dataclasses import dataclass
 
 from digest import Change, write_digest
+
+# Single timestamp per process run — every Change emitted in this run shares it.
+RUN_TS = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
 from feedback_log import append_changes
 from scrapers import edgar, edgar_enrich, rss, static_pages
 from scrapers.config_reader import Company, load_companies
@@ -68,6 +72,7 @@ def check_static_url(c: Company, source: str, url: str) -> Change | None:
         url=url,
         summary=_short_summary(diff_res.diff_text, source),
         diff=diff_res.diff_text,
+        detected_at=RUN_TS,
     )
 
 
@@ -104,6 +109,7 @@ def check_edgar(c: Company) -> list[Change]:
             source=f"edgar:{f.form}",
             url=f.url, summary=summary,
             diff=diff_body,
+            detected_at=RUN_TS,
         ))
         log_change(c.ticker, f"edgar:{f.form}", f.url, summary)
     return changes
@@ -130,6 +136,7 @@ def check_rss(c: Company, source: str, feed_url: str) -> list[Change]:
             url=entry.link or feed_url,
             summary=summary[:140],
             diff=diff_text,
+            detected_at=RUN_TS,
         ))
         log_change(c.ticker, f"{source}:rss", entry.link or feed_url, diff_text)
     return changes
