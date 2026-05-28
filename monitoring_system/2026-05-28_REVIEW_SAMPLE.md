@@ -1,7 +1,7 @@
 # Morning digest — 2026-05-28
 
-Generated 2026-05-28 14:50 UTC.
-**6 flagged changes** — 3 material, 3 routine.
+Generated 2026-05-28 14:51 UTC.
+**5 flagged changes** — 3 material, 2 routine.
 
 ---
 
@@ -58,7 +58,7 @@ Source: <https://www.shopify.com/pricing>
 
 ---
 
-## Routine (3)
+## Routine (2)
 
 ### CART — Pricing  _[ROUTINE]_
 **What it means:** Removal of "Your Privacy Choices" link from Instacart Plus pricing page footer.
@@ -67,23 +67,6 @@ Source: <https://www.shopify.com/pricing>
   − Your Privacy Choices
 
 Source: <https://www.instacart.com/instacart-plus>
-
-### HOOD — Terms  _[ROUTINE]_
-**What it means:** PDF re-encoded with different compression settings; file size reduced from 4324 to 3879 bytes with no change to document content or terms.
-
-**Detail:**
-  − << /Type /ObjStm /Length 4324 /Filter /FlateDecode /N 100 /First 855 >>
-  − stream
-  − x��]mo�H��~����]{����`18ǎ��
-  − �g�w�1`$�!F&�$�����TwS�,іm��1[&E6��TU�Kw�,f�q�2�D�0�t�0ìM�e�,�Y�Y�x�
-  − �1B�
-  − ΄�8(�H�f\2�8�*&�!�Lq��)�*�-S��A�i!�.eZ[�{�"e�3#c"Ό� .��AW(fe��,i|7,��βD��J�K��L�,��0	�5����6�q���^��X�01
-  − +�J*���I���+@�.m�8����c'J%�=
-  − 4�B�e��Q��0�e��+�2Nq
-  − ���
-  − �%	�d"�O��"����q
-
-Source: <https://cdn.robinhood.com/assets/robinhood/legal/Robinhood-Customer-Agreement.pdf>
 
 ### HOOD — Pricing  _[ROUTINE]_
 **What it means:** Navigation menu item renamed from "Robinhood Agentic Trading" to "Agentic trading and cards" on the trading fees support page.
