@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-05-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001579091</issuerCik>
+        <issuerName>Maplebear Inc.</issuerName>
+        <issuerTradingSymbol>CART</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001621588</rptOwnerCik>
+            <rptOwnerName>Sundheim Daniel S.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O D1 CAPITAL PARTNERS L.P.</rptOwnerStreet1>
+            <rptOwnerStreet2>9 WEST 57TH STREET, 36TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001747057</rptOwnerCik>
+            <rptOwnerName>D1 Capital Partners L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>9 WEST 57TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>36TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>See Remarks</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-22</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6048</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>33352</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>26678056</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares represent restricted stock units received by Daniel Sundheim (&quot;Mr. Sundheim&quot;), which vest in full on the earlier of (i) the date of the Issuer's next annual meeting of stockholders (or the date immediately prior to such meeting if Mr. Sundheim's service as a director ends at such meeting due to Mr. Sundheim's failure to be re-elected or Mr. Sundheim not standing for re-election) or (ii) the one-year anniversary of the grant date, in each case subject to Mr. Sundheim's continued service through such date.</footnote>
+        <footnote id="F2">Represents securities held by Mr. Sundheim. Mr. Sundheim may be deemed to hold the securities reported herein for the benefit of certain funds and accounts to which the Investment Manager (as defined below) serves as the investment manager or investment consultant.</footnote>
+        <footnote id="F3">This statement is filed by D1 Capital Partners L.P. (the &quot;Investment Manager&quot;) and Mr. Sundheim. The foregoing persons are hereinafter sometimes referred to as the &quot;Reporting Persons.&quot; The filing of this statement should not be construed as an admission that any Reporting Person is, for the purposes of Section 16 of the Securities Exchange Act of 1934, as amended, the beneficial owner of the securities reported except to the extent of its pecuniary interest therein, if any.</footnote>
+        <footnote id="F4">The securities reported herein are held by D1 Master Holdco I LLC (&quot;D1 Master Holdco&quot;), certain related entities, GCM Grosvenor IC SPV, LLC (&quot;GCM IC&quot;) and GCM Grosvenor IC SPV 2, LLC (&quot;GCM IC 2&quot;). The Investment Manager is a registered investment adviser and serves as the investment manager of private investment vehicles and accounts, including D1 Master Holdco, and as an investment consultant to certain private investment vehicles and accounts, including GCM IC and GCM IC 2 and may be deemed to beneficially own the securities held by D1 Master Holdco, GCM IC, and GCM IC 2. Mr. Sundheim may be deemed to beneficially own the reported securities by virtue of the fact that Mr. Sundheim indirectly controls the Investment Manager.</footnote>
+    </footnotes>
+
+    <remarks>The Investment Manager may be deemed to be a director by deputization for purposes of Section 16 under the Securities Exchange Act of 1934 by virtue of the fact that Mr. Sundheim currently serves on the board of directors of the Issuer.</remarks>
+
+    <ownerSignature>
+        <signatureName>D1 Capital Partners L.P., By: /s/ Amanda Hector, General Counsel and Chief Compliance Officer</signatureName>
+        <signatureDate>2026-05-27</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Daniel S. Sundheim</signatureName>
+        <signatureDate>2026-05-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
