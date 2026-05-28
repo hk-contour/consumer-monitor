@@ -1,0 +1,60 @@
+name: replay digest
+
+# Generates a polished sample digest by replaying past changelog entries
+# through the LLM-powered digest writer. Use when you want to produce a
+# representative "busy morning" sample for review, without waiting for
+# new world events.
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Replay changelog entries newer than this ISO timestamp (default: 24h ago)'
+        required: false
+        default: ''
+        type: string
+      label:
+        description: 'Filename label for the output digest'
+        required: false
+        default: 'SAMPLE'
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build sample digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          REPLAY_SINCE: ${{ inputs.since }}
+          REPLAY_LABEL: ${{ inputs.label }}
+        run: python tools/replay_digest.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "consumer-monitor-bot"
+          git config user.email "consumer-monitor-bot@users.noreply.github.com"
+          git add monitoring_system/ snapshots/_llm_cache/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "replay digest: label=${{ inputs.label }}"
+            git push
+          fi
