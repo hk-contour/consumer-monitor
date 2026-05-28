@@ -1,0 +1,1 @@
+Cannot assess materiality—this is the first snapshot captured with no prior version to compare against. A baseline pricing page has been recorded but no changes can be identified without a prior diff.

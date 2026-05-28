@@ -1,0 +1,1 @@
+Cannot provide summary—this is a new snapshot with no prior version to compare against, making it impossible to identify what specifically changed or assess materiality.

@@ -1,0 +1,1 @@
+Unable to provide summary—no prior version available for comparison. A new snapshot requires a baseline diff to identify what changed.
