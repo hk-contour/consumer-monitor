@@ -25,6 +25,7 @@ sys.path.insert(0, str(ROOT))
 from digest import Change, write_digest  # noqa: E402
 from scrapers.config_reader import load_companies  # noqa: E402
 from scrapers.edgar import MAX_AGE_DAYS as EDGAR_MAX_AGE  # noqa: E402
+from scrapers.static_pages import _is_binary_url  # noqa: E402
 
 CHANGELOG = ROOT / "changelog.jsonl"
 # Match any YYYY-MM-DD that appears in the changelog diff field. For EDGAR
@@ -73,6 +74,10 @@ def main() -> int:
                 continue
             # Skip entries with no actual diff body (just a short note)
             if len(diff.strip()) < 40:
+                continue
+            # Skip binary-URL entries (PDFs etc.) — the live system now
+            # refuses these; the replay should match.
+            if _is_binary_url(entry.get("url", "")):
                 continue
             # For EDGAR: enforce the same filed-date window the live system uses
             if source.startswith("edgar:"):
