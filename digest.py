@@ -21,6 +21,7 @@ Per-change rendering branches by source type:
 
 from __future__ import annotations
 
+import html
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -281,4 +282,161 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
                  "_No routine changes this run._")
 
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    # Also emit a parallel .html with inline-styled diff blocks. Browser
+    # print-to-PDF on this file produces a colored PDF without depending on
+    # GitHub's page CSS or the user's "Background graphics" toggle.
+    write_digest_html(today, tier_label, material, routine)
+
+    return out
+
+
+# -------- HTML render (parallel to the markdown above) --------
+
+HTML_STYLE = """\
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+       max-width: 800px; margin: 40px auto; padding: 0 24px; color: #1f2328;
+       line-height: 1.5; }
+h1 { border-bottom: 1px solid #d0d7de; padding-bottom: 8px; margin-top: 24px; }
+h2 { border-bottom: 1px solid #d0d7de; padding-bottom: 6px; margin-top: 36px; }
+h3 { margin-top: 28px; }
+.material { color: #cf222e; }
+.routine  { color: #6e7781; }
+.meta     { color: #6e7781; font-size: 14px; margin-top: 4px; }
+.what     { margin: 12px 0; }
+.detail-block { border: 1px solid #d0d7de; border-radius: 6px; padding: 0;
+                font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+                font-size: 13px; line-height: 1.45; margin: 12px 0;
+                overflow: hidden; }
+.detail-block div { padding: 4px 12px; white-space: pre-wrap; word-break: break-word; }
+.detail-block .added   { background: #e6ffec; color: #0a3622; }
+.detail-block .removed { background: #ffebe9; color: #82071e; }
+a { color: #0969da; text-decoration: none; }
+a:hover { text-decoration: underline; }
+hr { border: 0; border-top: 1px solid #d0d7de; margin: 32px 0; }
+.summary-bar { font-size: 16px; margin: 16px 0; }
+.section-count { color: #6e7781; font-weight: normal; font-size: 0.85em; }
+"""
+
+
+def _html_escape(s: str) -> str:
+    return html.escape(s, quote=False)
+
+
+def _html_entry(c: Change, materiality: str, llm_text: str | None) -> str:
+    icon_color = "material" if materiality == MATERIAL else "routine"
+    icon = ICONS.get(materiality, "")
+    header = (
+        f'<h3><span class="{icon_color}">{icon}</span> '
+        f'{_html_escape(c.ticker)} — {_html_escape(_human_source(c.source))}</h3>\n'
+    )
+
+    body_parts: list[str] = []
+
+    if c.source.startswith("edgar:"):
+        summary = c.summary
+        if summary.startswith("[") and "]" in summary:
+            summary = summary[summary.index("]") + 1:].strip()
+        body_parts.append(f'<p class="what"><strong>{_html_escape(summary)}</strong></p>')
+
+    elif c.source.endswith(":rss"):
+        title = c.summary
+        for prefix in (f"{c.source.split(':', 1)[0]}: ",):
+            if title.lower().startswith(prefix.lower()):
+                title = title[len(prefix):]
+                break
+        body_parts.append(f'<p class="what"><strong>{_html_escape(title)}</strong></p>')
+        published = None
+        snippet = None
+        for ln in c.diff.splitlines():
+            if ln.startswith("+ Published:"):
+                published = ln[12:].strip()
+            elif ln.startswith("+ ") and ln[2:].strip() and not (
+                ln[2:].startswith("http") or ln[2:].strip() == title
+            ):
+                if snippet is None:
+                    snippet = ln[2:].strip()
+        if published:
+            body_parts.append(f'<p class="meta">Published {_html_escape(published)}</p>')
+        if snippet:
+            sn = snippet[:400] + ("…" if len(snippet) > 400 else "")
+            body_parts.append(f'<p>{_html_escape(sn)}</p>')
+
+    else:  # static
+        if llm_text:
+            body_parts.append(
+                f'<p class="what"><strong>What it means:</strong> '
+                f'{_html_escape(llm_text)}</p>'
+            )
+        else:
+            body_parts.append(
+                f'<p class="what"><strong>Summary:</strong> {_html_escape(c.summary)}</p>'
+            )
+        added, removed = _extract_deltas(c.diff, cap=10)
+        if added or removed:
+            block: list[str] = ['<div class="detail-block">']
+            for r in removed:
+                block.append(f'<div class="removed">− {_html_escape(r[:200])}</div>')
+            for a in added:
+                block.append(f'<div class="added">+ {_html_escape(a[:200])}</div>')
+            block.append("</div>")
+            body_parts.append("\n".join(block))
+
+    meta_lines = [f'<a href="{_html_escape(c.url)}">{_html_escape(c.url)}</a>']
+    if c.detected_at:
+        meta_lines.append(f"Detected: {_html_escape(_fmt_ts(c.detected_at))}")
+    body_parts.append(
+        '<p class="meta">' + "<br>".join(meta_lines) + "</p>"
+    )
+
+    return header + "\n".join(body_parts) + "\n"
+
+
+def write_digest_html(today: str, tier_label: str,
+                      material: list, routine: list) -> Path:
+    out = OUTPUT_DIR / f"{today}_{tier_label}.html"
+    parts: list[str] = []
+    parts.append("<!DOCTYPE html>")
+    parts.append('<html lang="en"><head>')
+    parts.append('<meta charset="utf-8">')
+    parts.append(f"<title>Morning digest — {today}</title>")
+    parts.append(f"<style>{HTML_STYLE}</style>")
+    parts.append("</head><body>")
+    parts.append(f"<h1>Morning digest — {today}</h1>")
+    parts.append(
+        f'<p class="meta">Generated '
+        f'{time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())}.</p>'
+    )
+    total = len(material) + len(routine)
+    parts.append(
+        f'<p class="summary-bar"><strong>{total} flagged changes</strong> — '
+        f'<span class="material">{len(material)} material</span>, '
+        f'<span class="routine">{len(routine)} routine</span>.</p>'
+    )
+    parts.append("<hr>")
+
+    def emit_section(label: str, items: list, color_class: str,
+                     empty_msg: str) -> None:
+        parts.append(
+            f'<h2><span class="{color_class}">{ICONS[label]}</span> {label} '
+            f'<span class="section-count">({len(items)})</span></h2>'
+        )
+        if not items:
+            parts.append(f"<p><em>{empty_msg}</em></p>")
+            return
+        by_ticker: dict[str, list] = {}
+        for tup in items:
+            by_ticker.setdefault(tup[0].ticker, []).append(tup)
+        for ticker in sorted(by_ticker):
+            for c, materiality, llm_text in by_ticker[ticker]:
+                parts.append(_html_entry(c, materiality, llm_text))
+
+    emit_section("MATERIAL", material, "material",
+                 "No material changes this run.")
+    parts.append("<hr>")
+    emit_section("ROUTINE", routine, "routine",
+                 "No routine changes this run.")
+    parts.append("</body></html>")
+
+    out.write_text("\n".join(parts) + "\n", encoding="utf-8")
     return out
