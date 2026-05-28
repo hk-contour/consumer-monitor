@@ -1,6 +1,6 @@
 # Morning digest — 2026-05-28
 
-Generated 2026-05-28 14:28 UTC.
+Generated 2026-05-28 14:30 UTC.
 **15 flagged changes** — CART (8), CHWY (1), DASH (3), HOOD (2), SHOP (1)
 
 ---
@@ -15,38 +15,38 @@ Generated 2026-05-28 14:28 UTC.
 
 Source: <https://www.instacart.com/instacart-plus>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Sundheim Daniel S. (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000091957426003716/xslF345X06/ownership.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Gupta Ravi (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000198846026000002/xslF345X06/form4.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Levien Meredith A. Kopit (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000164007526000011/xslF345X06/wk-form4_1779913021.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Sarafan Lily (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000173634126000005/xslF345X06/wk-form4_1779912973.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Dolan Victoria L (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000151113426000002/xslF345X06/wk-form4_1779912918.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Silverman Josh (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000152535826000016/xslF345X06/wk-form4_1779912875.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Laughton Mary Beth (Director) RSU/grant of 6,048 shares on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1579091/000189467426000002/xslF345X06/wk-form4_1779912813.xml>
 
@@ -94,13 +94,13 @@ Source: <https://investor.chewy.com>
 
 Source: <https://about.doordash.com/en-us/news>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Sherringham Tia (GENERAL COUNSEL AND SECRETARY) sold 2,743 shares @ $160.79 ($441.0K) on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1792789/000189968826000012/xslF345X06/form4-05272026_040509.xml>
 
-### SEC filing (4)
-**edgar:4: change detected**
+### SEC filing (4) [ROUTINE]
+**Insider trade — Lee Gordon S (CHIEF ACCOUNTING OFFICER) sold 2,204 shares @ $160.79 ($354.4K) on 2026-05-22**
 
 Source: <https://www.sec.gov/Archives/edgar/data/1792789/000163564826000010/xslF345X06/form4-05272026_040507.xml>
 
