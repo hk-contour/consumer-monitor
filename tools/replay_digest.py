@@ -59,23 +59,47 @@ def main() -> int:
             if c is None:
                 continue
             diff = entry.get("diff", "")
+            source = entry["source"]
             # Skip first-run baselines — they have no real content to interpret
             if "no prior version" in diff or "new snapshot" in diff:
                 continue
             # Skip entries with no actual diff body (just a short note)
             if len(diff.strip()) < 40:
                 continue
-            key = (entry["ticker"], entry["source"], entry.get("url", ""))
+            key = (entry["ticker"], source, entry.get("url", ""))
             if key in seen_keys:
                 continue
             seen_keys.add(key)
+
+            # Reconstruct summary correctly per source type:
+            #  - EDGAR: changelog "diff" field stores the rich one-liner
+            #    (e.g. "[ROUTINE] Insider trade — Tony Xu sold ..."). Use it
+            #    as the summary; the digest's _render_edgar will format it.
+            #  - RSS:   diff body has "+ title / + link / + Published / + summary".
+            #    Extract title from the first "+ " line.
+            #  - Static: leave a generic "change detected" — LLM interprets
+            #    from the diff body.
+            if source.startswith("edgar:"):
+                summary = diff
+                diff = f"+ {diff}\n+ {entry.get('url', '')}"
+            elif source.endswith(":rss"):
+                first_plus = next(
+                    (ln[2:].strip() for ln in diff.splitlines()
+                     if ln.startswith("+ ") and not ln[2:].startswith("http")),
+                    "",
+                )
+                kind = source.split(":", 1)[0]
+                summary = f"{kind}: {first_plus}" if first_plus else f"{source}: change detected"
+            else:
+                summary = f"{source}: change detected"
+
             changes.append(Change(
                 ticker=entry["ticker"],
                 company=c.company,
-                source=entry["source"],
+                source=source,
                 url=entry.get("url", ""),
-                summary=f"{entry['source']}: change detected",
-                diff=entry.get("diff", ""),
+                summary=summary,
+                diff=diff,
             ))
 
     print(f"Reconstructed {len(changes)} unique changes")
