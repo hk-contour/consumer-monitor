@@ -65,6 +65,12 @@ jobs:
             echo "value=high" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: LLM smoke test
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: python tools/test_llm.py
+
       - name: Run monitor (${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }})
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
