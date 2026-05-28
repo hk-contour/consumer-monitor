@@ -1,0 +1,1 @@
+[ROUTINE] PDF re-encoded with different compression settings; file size reduced from 4324 to 3879 bytes with no change to document content or terms.
