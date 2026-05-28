@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import time
 from dataclasses import dataclass
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
@@ -125,9 +126,28 @@ def extract_text(html: str, selector: str | None = None) -> str:
 
 MIN_EXTRACTED_CHARS = 200  # Below this we treat the fetch as suspect (bot-stub etc.)
 
+# URL patterns we refuse to fetch as HTML — they produce binary noise that
+# triggers spurious diffs on every re-encoding.
+BINARY_URL_SUFFIXES = (".pdf", ".doc", ".docx", ".xls", ".xlsx", ".zip", ".ppt", ".pptx")
+
+
+def _is_binary_url(url: str) -> bool:
+    """Heuristic: URL points at a non-HTML file we can't extract from."""
+    path = url.lower().split("?", 1)[0].split("#", 1)[0]
+    return path.endswith(BINARY_URL_SUFFIXES)
+
 
 def fetch_and_extract(url: str, selector: str | None = None,
                       retries: int = 2, backoff: float = 1.5) -> FetchResult:
+    # Skip non-HTML URLs entirely — they trigger noise diffs on every re-encoding.
+    # E.g. Robinhood publishes their customer agreement as a PDF; we can't extract
+    # meaningful text from the binary, only the bytes that change on re-compression.
+    if _is_binary_url(url):
+        return FetchResult(
+            ok=False, status=0,
+            error=f"skipped: binary file not supported ({Path(url).suffix})",
+        )
+
     last: FetchResult = FetchResult(ok=False, error="not attempted")
     for attempt in range(retries + 1):
         res = fetch(url)
