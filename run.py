@@ -34,7 +34,10 @@ from scrapers.tiers import blocker_reason
 # Which URL fields should be scraped as static HTML (not behind JS, not an API).
 # Newsroom is scraped via RSS when a feed URL is set in the `newsroom_rss` column;
 # otherwise it falls back to static HTML.
-STATIC_SOURCES = ("terms", "management_team", "pricing", "newsroom", "investor_relations")
+# `careers` added 2026-06-01 — most careers landing pages are HTML; for full
+# job-list signal use Greenhouse API (see scrapers/careers.py, not yet wired).
+STATIC_SOURCES = ("terms", "management_team", "pricing", "newsroom",
+                  "investor_relations", "careers")
 
 
 def _short_summary(diff_text: str, source: str) -> str:
@@ -73,6 +76,7 @@ def check_static_url(c: Company, source: str, url: str) -> Change | None:
         summary=_short_summary(diff_res.diff_text, source),
         diff=diff_res.diff_text,
         detected_at=RUN_TS,
+        company_notes=c.notes,
     )
 
 
@@ -110,15 +114,21 @@ def check_edgar(c: Company) -> list[Change]:
             url=f.url, summary=summary,
             diff=diff_body,
             detected_at=RUN_TS,
+            company_notes=c.notes,
         ))
         log_change(c.ticker, f"edgar:{f.form}", f.url, summary)
     return changes
 
 
-def check_rss(c: Company, source: str, feed_url: str) -> list[Change]:
-    """Fetch RSS feed; emit one Change per new entry. Returns [] if nothing new."""
+def check_rss(c: Company, source: str, feed_url: str,
+              max_entries: int | None = None) -> list[Change]:
+    """Fetch RSS feed; emit one Change per new entry. Returns [] if nothing new.
+
+    `max_entries` caps output — used for high-volume sources like Reddit
+    where a 7-day window can return 100+ posts.
+    """
     try:
-        new = rss.new_entries(c.ticker, source, feed_url)
+        new = rss.new_entries(c.ticker, source, feed_url, max_entries=max_entries)
     except Exception as e:
         print(f"  [{c.ticker}/{source}/rss] error: {e}", file=sys.stderr)
         return []
@@ -137,6 +147,7 @@ def check_rss(c: Company, source: str, feed_url: str) -> list[Change]:
             summary=summary[:140],
             diff=diff_text,
             detected_at=RUN_TS,
+            company_notes=c.notes,
         ))
         log_change(c.ticker, f"{source}:rss", entry.link or feed_url, diff_text)
     return changes
@@ -151,6 +162,14 @@ def process_company(c: Company) -> list[Change]:
     if rss_url:
         print(f"  [{c.ticker}/newsroom] using RSS: {rss_url}")
         found.extend(check_rss(c, "newsroom", rss_url))
+
+    # Reddit: convert subreddit URL → /.rss feed and cap at 5 posts/sub.
+    # No PRAW / no API key — RSS endpoint is free and unauthenticated.
+    reddit_url = c.urls.get("reddit")
+    if reddit_url:
+        reddit_rss = reddit_url.rstrip("/") + "/.rss"
+        print(f"  [{c.ticker}/reddit] using RSS: {reddit_rss}")
+        found.extend(check_rss(c, "reddit", reddit_rss, max_entries=5))
 
     for source in STATIC_SOURCES:
         # Skip newsroom HTML scrape if we already handled it via RSS

@@ -92,13 +92,18 @@ def _is_recent(published_str: str, max_age_days: int) -> bool:
 
 
 def new_entries(ticker: str, source: str, url: str,
-                max_age_days: int = MAX_AGE_DAYS) -> list[FeedEntry]:
+                max_age_days: int = MAX_AGE_DAYS,
+                max_entries: int | None = None) -> list[FeedEntry]:
     """Fetch feed and return entries that are (a) within max_age_days AND
-    (b) not in the stored GUID set.
+    (b) not in the stored GUID set, optionally capped at `max_entries`
+    most-recent items.
 
     First-run behavior: emit all recent (past N days) entries. There's no
     "silent first run" here because each entry has its own publish date —
     a 5-day-old press release is real signal, not a baselining artifact.
+
+    `max_entries`: cap on output. For high-volume sources like Reddit where
+    even a 7-day window can return 100+ posts.
     """
     entries = fetch_feed(url)
     entries = [e for e in entries if _is_recent(e.published, max_age_days)]
@@ -107,4 +112,6 @@ def new_entries(ticker: str, source: str, url: str,
     if new:
         seen.update(e.guid for e in new)
         _save_seen(ticker, source, seen)
+    if max_entries is not None:
+        new = new[:max_entries]
     return new

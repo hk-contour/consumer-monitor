@@ -41,6 +41,7 @@ class Change:
     summary: str        # one-line summary from check_*
     diff: str           # unified diff or structured "+..." body
     detected_at: str = ""  # ISO timestamp when our system first saw this change
+    company_notes: str = ""  # Analyst Monitoring Notes from the xlsx — passed to LLM
 
 
 # Tag used internally + on the rendered page
@@ -117,10 +118,11 @@ def _classify(c: Change) -> tuple[str, str | None]:
     if src.endswith(":rss"):
         return (MATERIAL, None)
 
-    # Static page → ask LLM
+    # Static page → ask LLM, with analyst-written Monitoring Notes as context
     llm_text = llm_summarize.summarize(
         ticker=c.ticker, company_name=c.company,
         source=c.source, url=c.url, diff_text=c.diff,
+        company_notes=c.company_notes,
     )
     if not llm_text:
         return (MATERIAL, None)  # default-include when LLM unavailable

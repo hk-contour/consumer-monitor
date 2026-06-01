@@ -127,6 +127,7 @@ def main() -> int:
                 summary=summary,
                 diff=diff,
                 detected_at=entry.get("ts", ""),
+                company_notes=c.notes,
             ))
 
     print(f"Reconstructed {len(changes)} unique changes")

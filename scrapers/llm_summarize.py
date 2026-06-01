@@ -26,7 +26,7 @@ MODEL = (os.environ.get("CLAUDE_MODEL", "").strip()
 API_URL = "https://api.anthropic.com/v1/messages"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "snapshots" / "_llm_cache"
 
-PROMPT_VERSION = "v2-materiality"
+PROMPT_VERSION = "v3-with-notes"
 
 PROMPT = """You are summarizing a website diff for a hedge fund analyst monitoring \
 consumer/fintech/marketplace companies. The analyst will scan dozens of items \
@@ -43,6 +43,7 @@ Begin with [MATERIAL] (brackets, all caps) if the change involves:
 - An exec hire or departure
 - A partnership, M&A, regulatory action
 - A change to a quantitative operating metric (e.g. catalog size, store count)
+- Anything the analyst's monitoring notes (below) specifically flag as relevant
 
 Begin with [ROUTINE] if the change is:
 - A section rename or layout shift
@@ -56,7 +57,7 @@ After the bracket, write 1-2 sentences of specific factual description. \
 No speculation. No greeting. No padding.
 
 Company: {ticker} ({company_name})
-Page type: {source}
+{notes_section}Page type: {source}
 Page URL: {url}
 
 Detected change (unified diff):
@@ -70,8 +71,14 @@ def is_available() -> bool:
 
 
 def summarize(ticker: str, company_name: str, source: str, url: str,
-              diff_text: str) -> str | None:
+              diff_text: str, company_notes: str = "") -> str | None:
     """Return a 1-2 sentence summary of the diff, or None if unavailable / error.
+
+    `company_notes` is analyst-written guidance from the xlsx (the
+    Monitoring Notes column). Threaded into the prompt so the LLM has
+    company-specific context — e.g. for SHOP, "Monitor changelog.shopify.com;
+    App Store changes signal platform strategy" lets the model upweight those
+    signals as material.
 
     Falls back silently to None on any error — callers should treat None as
     "no enrichment available" and render the existing Change.summary field.
@@ -87,9 +94,14 @@ def summarize(ticker: str, company_name: str, source: str, url: str,
         return None
 
     diff_text = diff_text[:4000]  # cap prompt
-    # PROMPT_VERSION included in cache key so prompt changes invalidate cache cleanly
+    notes_section = (
+        f"Analyst monitoring notes for this company: {company_notes.strip()}\n"
+        if company_notes else ""
+    )
+    # PROMPT_VERSION + notes included in cache key so prompt changes invalidate
+    # cache cleanly AND per-company notes are reflected in the cached response.
     cache_key = hashlib.sha256(
-        f"{PROMPT_VERSION}|{ticker}|{source}|{diff_text}".encode("utf-8")
+        f"{PROMPT_VERSION}|{ticker}|{source}|{notes_section}|{diff_text}".encode("utf-8")
     ).hexdigest()[:16]
     cache_file = CACHE_DIR / f"{cache_key}.txt"
     if cache_file.exists():
@@ -100,6 +112,7 @@ def summarize(ticker: str, company_name: str, source: str, url: str,
 
     prompt = PROMPT.format(
         ticker=ticker, company_name=company_name,
+        notes_section=notes_section,
         source=source, url=url, diff_text=diff_text,
     )
 
