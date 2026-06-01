@@ -6,6 +6,7 @@ Pattern: fetch -> extract text from target selector -> compare via snapshot_stor
 
 from __future__ import annotations
 
+import re
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -38,6 +39,36 @@ NOISE_HEADING_PATTERNS = (
     "explore more",
     "recommended for you",
 )
+
+# "Last updated"-style date stamps that publishers roll forward periodically
+# without underlying content changing. Strip them to a placeholder before
+# hashing so the diff doesn't fire on a routine freshness refresh.
+# Caught by PM feedback after SHOP/pricing's "accurate as of May 26 → May 28"
+# triggered a useless Routine entry.
+_DATE_MONTH = (r"(?:January|February|March|April|May|June|July|August|"
+               r"September|October|November|December|"
+               r"Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)")
+_DATE_TAIL = rf"{_DATE_MONTH}\s+\d{{1,2}},?\s+\d{{4}}"
+DATE_STAMP_RE = re.compile(
+    rf"(?P<prefix>\b(?:accurate\s+as\s+of|last\s+updated:?|"
+    rf"effective(?:\s+as\s+of)?|current\s+as\s+of|"
+    rf"updated\s+on|as\s+of)\s+)"
+    rf"(?P<date>{_DATE_TAIL})",
+    re.IGNORECASE,
+)
+ISO_DATE_STAMP_RE = re.compile(
+    r"\b(?P<prefix>(?:updated|effective|last\s+modified)[:\s]+)"
+    r"(?P<date>\d{4}-\d{2}-\d{2})\b",
+    re.IGNORECASE,
+)
+
+
+def _strip_date_stamps(text: str) -> str:
+    """Replace publisher freshness-stamp dates with a `<DATE>` placeholder
+    so a routine date refresh doesn't produce a diff."""
+    text = DATE_STAMP_RE.sub(r"\g<prefix><DATE>", text)
+    text = ISO_DATE_STAMP_RE.sub(r"\g<prefix><DATE>", text)
+    return text
 
 
 @dataclass
@@ -121,7 +152,10 @@ def extract_text(html: str, selector: str | None = None) -> str:
     text = root.get_text(separator="\n", strip=True)
     # Collapse runs of blank lines
     lines = [ln for ln in (s.strip() for s in text.splitlines()) if ln]
-    return "\n".join(lines)
+    cleaned = "\n".join(lines)
+    # Replace freshness-stamp dates so they don't trigger diffs on routine
+    # publisher cron refreshes (e.g. "accurate as of May 26" → "accurate as of <DATE>")
+    return _strip_date_stamps(cleaned)
 
 
 MIN_EXTRACTED_CHARS = 200  # Below this we treat the fetch as suspect (bot-stub etc.)
