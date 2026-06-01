@@ -1,0 +1,1 @@
+[ROUTINE] Last updated timestamp on terms page changed from "May 15, 2026" to a dynamic `<DATE>` placeholder, likely indicating a templating system update with no material change to terms content.

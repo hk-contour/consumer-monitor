@@ -165,7 +165,7 @@ Based on a 2021 survey of over 2000 BILL customers
 *Credit lines and the advertised range are not guaranteed and will be determined upon application approval.
 Compare All plans
 Scroll to view
-Accounts Payable
+BILL Accounts Payable
 Essentials
 Team
 Corporate
@@ -174,16 +174,16 @@ Easily enter bills
 Automate approval workflows
 Pay by ACH, virtual card, credit card, and more
 Manage bills from a centralized inbox
-Automatic W-9 collection and verification with the W-9 Agent
-Automatic AI multi-line bill coding with the Invoice Coding Agent
-Securely connect with +4M vendors via the BILL network
+Automatic W-9 collection and verification with the BILL W-9 Agent
+Automatic AI multi-line bill coding with the BILL Invoice Coding Agent
+Securely connect with 8M+ vendors via the BILL network
 Standard approval policies
 Payable insights
 Custom approval policies
 6 standard user roles
 Custom user roles
 Get discounts for approver-only users
-Accounts Receivable
+BILL Accounts Receivable
 Essentials
 Team
 Corporate
@@ -229,6 +229,12 @@ Automatic
 Microsoft Dynamics
 Automatic
 2-way sync*
+Acumatica
+Automatic
+2-way sync*
+Rillet
+Automatic
+2-way sync*
 Procurement
 Essentials
 Team
@@ -254,7 +260,7 @@ Via Procurement
 add-on
 Via Procurement
 add-on
-Add unlimited Purchase Requesters for free
+Add unlimited purchase requesters for free
 Via Procurement
 add-on
 Via Procurement
@@ -345,9 +351,9 @@ ACH/ePayment
 $0.59
 Credit or Debit Card
 2.9%
-International FX Wire
-Free (Exchange Rate applies)
-International USD Wire
+International FX wire (with vendor account)
+Free (exchange rate applies)
+International USD wire (with vendor account)
 $19.99 USD
 Instant Transfer
 1% - 1.49% of the total payment amount, $1 min fee

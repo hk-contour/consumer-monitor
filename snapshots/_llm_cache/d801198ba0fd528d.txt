@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page updates include rebranding feature names with "BILL" prefix (W-9 Agent, Invoice Coding Agent), updating vendor network size from 4M to 8M+, adding Acumatica and Rillet to ERP integrations, and clarifying wire transfer options with vendor account requirements.

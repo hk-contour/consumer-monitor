@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page adds feature highlight bullets (24/7 support, offline mode, setup speed) with descriptive text; no changes to actual pricing rates or fee structure.
