@@ -163,13 +163,15 @@ def process_company(c: Company) -> list[Change]:
         print(f"  [{c.ticker}/newsroom] using RSS: {rss_url}")
         found.extend(check_rss(c, "newsroom", rss_url))
 
-    # Reddit: convert subreddit URL → /.rss feed and cap at 5 posts/sub.
-    # No PRAW / no API key — RSS endpoint is free and unauthenticated.
-    reddit_url = c.urls.get("reddit")
-    if reddit_url:
-        reddit_rss = reddit_url.rstrip("/") + "/.rss"
-        print(f"  [{c.ticker}/reddit] using RSS: {reddit_rss}")
-        found.extend(check_rss(c, "reddit", reddit_rss, max_entries=5))
+    # Reddit RSS DISABLED 2026-06-01 — feed is noisy (user anecdotes,
+    # tips & tricks, personal experiences) and adds little investment
+    # signal even with LLM classification. Re-enable when we have a
+    # proper quality filter (score-based via Reddit JSON, or seller/
+    # partner sub-specific keyword filter).
+    # reddit_url = c.urls.get("reddit")
+    # if reddit_url:
+    #     reddit_rss = reddit_url.rstrip("/") + "/.rss"
+    #     found.extend(check_rss(c, "reddit", reddit_rss, max_entries=5))
 
     for source in STATIC_SOURCES:
         # Skip newsroom HTML scrape if we already handled it via RSS

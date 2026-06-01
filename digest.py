@@ -226,6 +226,31 @@ def _render_change(c: Change, materiality: str, llm_text: str | None,
         _render_static(c, materiality, llm_text, lines)
 
 
+def _render_change_compact(c: Change, materiality: str,
+                           llm_text: str | None, lines: list[str]) -> None:
+    """One-line bullet rendering used for Routine entries — visually small
+    so they don't compete with Material entries for analyst attention.
+    Full diff content still available in changelog.jsonl + the git
+    snapshot history; this just keeps the daily digest scannable."""
+    src_label = _human_source(c.source)
+    # Pick the most informative one-liner available
+    if c.source.startswith("edgar:"):
+        summary = c.summary
+        if summary.startswith("[") and "]" in summary:
+            summary = summary[summary.index("]") + 1:].strip()
+        desc = summary
+    elif llm_text:
+        desc = llm_text
+    else:
+        desc = c.summary
+
+    ts = f" · {_fmt_ts(c.detected_at)}" if c.detected_at else ""
+    lines.append(
+        f"- **{c.ticker} — {src_label}:** {desc} "
+        f"[↗]({c.url}){ts}"
+    )
+
+
 # -------- top-level digest --------
 
 def write_digest(changes: list[Change], tier_label: str) -> Path:
@@ -266,14 +291,14 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
     lines.append("---")
     lines.append("")
 
-    def emit_section(label: str, items: list, empty_msg: str) -> None:
+    def emit_section_full(label: str, items: list, empty_msg: str) -> None:
+        """Full-format rendering for Material — each entry gets its own block."""
         lines.append(f"## {label} ({len(items)})")
         lines.append("")
         if not items:
             lines.append(empty_msg)
             lines.append("")
             return
-        # Group by ticker, alphabetical
         by_ticker: dict[str, list] = {}
         for tup in items:
             by_ticker.setdefault(tup[0].ticker, []).append(tup)
@@ -281,12 +306,25 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
             for c, materiality, llm_text in by_ticker[ticker]:
                 _render_change(c, materiality, llm_text, lines)
 
-    emit_section(f"{ICONS[MATERIAL]} Material", material,
-                 "_No material changes this run._")
+    def emit_section_compact(label: str, items: list, empty_msg: str) -> None:
+        """Compact bullet-list rendering for Routine — smaller heading,
+        one line per entry. Stays scannable when there are many."""
+        lines.append(f"### {label} ({len(items)})")
+        lines.append("")
+        if not items:
+            lines.append(empty_msg)
+            lines.append("")
+            return
+        for c, materiality, llm_text in sorted(items, key=lambda t: t[0].ticker):
+            _render_change_compact(c, materiality, llm_text, lines)
+        lines.append("")
+
+    emit_section_full(f"{ICONS[MATERIAL]} Material", material,
+                      "_No material changes this run._")
     lines.append("---")
     lines.append("")
-    emit_section(f"{ICONS[ROUTINE]} Routine", routine,
-                 "_No routine changes this run._")
+    emit_section_compact(f"{ICONS[ROUTINE]} Routine", routine,
+                         "_No routine changes this run._")
 
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -323,6 +361,12 @@ a:hover { text-decoration: underline; }
 hr { border: 0; border-top: 1px solid #d0d7de; margin: 32px 0; }
 .summary-bar { font-size: 16px; margin: 16px 0; }
 .section-count { color: #6e7781; font-weight: normal; font-size: 0.85em; }
+.routine-list { color: #6e7781; font-size: 14px; line-height: 1.6;
+                margin-top: 8px; }
+.routine-list li { margin-bottom: 6px; }
+.routine-list b { color: #424a53; }
+.routine-list a { color: #6e7781; }
+h2.routine-heading { font-size: 18px; color: #6e7781; border-bottom-color: #eaeef2; }
 """
 
 
@@ -427,8 +471,8 @@ def write_digest_html(today: str, tier_label: str,
     )
     parts.append("<hr>")
 
-    def emit_section(label: str, items: list, color_class: str,
-                     empty_msg: str) -> None:
+    def emit_section_full(label: str, items: list, color_class: str,
+                          empty_msg: str) -> None:
         parts.append(
             f'<h2><span class="{color_class}">{ICONS[label]}</span> {label} '
             f'<span class="section-count">({len(items)})</span></h2>'
@@ -443,11 +487,45 @@ def write_digest_html(today: str, tier_label: str,
             for c, materiality, llm_text in by_ticker[ticker]:
                 parts.append(_html_entry(c, materiality, llm_text))
 
-    emit_section("MATERIAL", material, "material",
-                 "No material changes this run.")
+    def emit_section_compact(label: str, items: list, color_class: str,
+                             empty_msg: str) -> None:
+        """Compact list for Routine — visually de-emphasized so it doesn't
+        compete with Material."""
+        parts.append(
+            f'<h2 class="routine-heading"><span class="{color_class}">'
+            f'{ICONS[label]}</span> {label} '
+            f'<span class="section-count">({len(items)})</span></h2>'
+        )
+        if not items:
+            parts.append(f"<p><em>{empty_msg}</em></p>")
+            return
+        parts.append('<ul class="routine-list">')
+        for tup in sorted(items, key=lambda t: t[0].ticker):
+            c, materiality, llm_text = tup
+            src_label = _human_source(c.source)
+            if c.source.startswith("edgar:"):
+                summary = c.summary
+                if summary.startswith("[") and "]" in summary:
+                    summary = summary[summary.index("]") + 1:].strip()
+                desc = summary
+            elif llm_text:
+                desc = llm_text
+            else:
+                desc = c.summary
+            ts = (f' &middot; {_html_escape(_fmt_ts(c.detected_at))}'
+                  if c.detected_at else "")
+            parts.append(
+                f'<li><b>{_html_escape(c.ticker)} — {_html_escape(src_label)}:</b> '
+                f'{_html_escape(desc)} '
+                f'<a href="{_html_escape(c.url)}">↗</a>{ts}</li>'
+            )
+        parts.append("</ul>")
+
+    emit_section_full("MATERIAL", material, "material",
+                      "No material changes this run.")
     parts.append("<hr>")
-    emit_section("ROUTINE", routine, "routine",
-                 "No routine changes this run.")
+    emit_section_compact("ROUTINE", routine, "routine",
+                         "No routine changes this run.")
     parts.append("</body></html>")
 
     out.write_text("\n".join(parts) + "\n", encoding="utf-8")
