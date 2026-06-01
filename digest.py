@@ -52,6 +52,49 @@ ROUTINE = "ROUTINE"
 # clients, and in browser print-to-PDF output.
 ICONS = {MATERIAL: "🔴", ROUTINE: "⚪"}
 
+# Source-type importance weights — higher = more analyst attention.
+# Used to sort within Material / Routine sections so heavy-signal items
+# float to the top instead of alphabetical-by-ticker ordering.
+SOURCE_WEIGHTS: dict[str, int] = {
+    # Top-tier SEC filings — time-sensitive material events
+    "edgar:8-K":      100,
+    "edgar:10-K":      95,
+    "edgar:10-Q":      95,
+    "edgar:S-1":       90,
+    "edgar:S-4":       90,  # M&A registration
+    "edgar:DEF 14A":   85,
+    "edgar:S-3":       85,
+    # Activist / 5%+ owner disclosures
+    "edgar:SC 13D":    80,
+    "edgar:SC 13G":    75,
+    # Direct revenue / product signal
+    "pricing":         70,
+    # Official announcements
+    "newsroom":        60,
+    "newsroom:rss":    60,
+    # Leadership
+    "management_team": 55,
+    # Lower-priority static pages
+    "terms":           40,
+    "investor_relations": 30,
+    "careers":         25,
+    # Routine SEC filings — almost always insider/admin
+    "edgar:144":       20,
+    "edgar:4":         20,
+    "edgar:S-8":       10,
+    "edgar:3":          5,
+    "edgar:5":          5,
+}
+
+
+def _weight(source: str) -> int:
+    """Return importance weight for a source key. Falls back to a low default."""
+    if source in SOURCE_WEIGHTS:
+        return SOURCE_WEIGHTS[source]
+    if source.startswith("edgar:"):
+        return 15  # unknown EDGAR form — low default
+    return 35  # unknown source — middling default
+
 
 # -------- diff helpers --------
 
@@ -291,31 +334,34 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
     lines.append("---")
     lines.append("")
 
+    def _sort_key(tup):
+        """(-weight, ticker) — heaviest sources first; alpha tiebreaker."""
+        c = tup[0]
+        return (-_weight(c.source), c.ticker)
+
     def emit_section_full(label: str, items: list, empty_msg: str) -> None:
-        """Full-format rendering for Material — each entry gets its own block."""
+        """Full-format rendering for Material — each entry gets its own block.
+        Sorted by source-weight (heaviest first), ticker as tiebreaker."""
         lines.append(f"## {label} ({len(items)})")
         lines.append("")
         if not items:
             lines.append(empty_msg)
             lines.append("")
             return
-        by_ticker: dict[str, list] = {}
-        for tup in items:
-            by_ticker.setdefault(tup[0].ticker, []).append(tup)
-        for ticker in sorted(by_ticker):
-            for c, materiality, llm_text in by_ticker[ticker]:
-                _render_change(c, materiality, llm_text, lines)
+        for c, materiality, llm_text in sorted(items, key=_sort_key):
+            _render_change(c, materiality, llm_text, lines)
 
     def emit_section_compact(label: str, items: list, empty_msg: str) -> None:
-        """Compact bullet-list rendering for Routine — smaller heading,
-        one line per entry. Stays scannable when there are many."""
+        """Compact bullet-list rendering for Routine — same source-weight
+        ordering as Material so the analyst sees important-ish routine
+        items first (e.g. a small SEC filing before a careers page diff)."""
         lines.append(f"### {label} ({len(items)})")
         lines.append("")
         if not items:
             lines.append(empty_msg)
             lines.append("")
             return
-        for c, materiality, llm_text in sorted(items, key=lambda t: t[0].ticker):
+        for c, materiality, llm_text in sorted(items, key=_sort_key):
             _render_change_compact(c, materiality, llm_text, lines)
         lines.append("")
 
@@ -471,6 +517,10 @@ def write_digest_html(today: str, tier_label: str,
     )
     parts.append("<hr>")
 
+    def _html_sort_key(tup):
+        c = tup[0]
+        return (-_weight(c.source), c.ticker)
+
     def emit_section_full(label: str, items: list, color_class: str,
                           empty_msg: str) -> None:
         parts.append(
@@ -480,12 +530,9 @@ def write_digest_html(today: str, tier_label: str,
         if not items:
             parts.append(f"<p><em>{empty_msg}</em></p>")
             return
-        by_ticker: dict[str, list] = {}
-        for tup in items:
-            by_ticker.setdefault(tup[0].ticker, []).append(tup)
-        for ticker in sorted(by_ticker):
-            for c, materiality, llm_text in by_ticker[ticker]:
-                parts.append(_html_entry(c, materiality, llm_text))
+        for tup in sorted(items, key=_html_sort_key):
+            c, materiality, llm_text = tup
+            parts.append(_html_entry(c, materiality, llm_text))
 
     def emit_section_compact(label: str, items: list, color_class: str,
                              empty_msg: str) -> None:
@@ -500,7 +547,7 @@ def write_digest_html(today: str, tier_label: str,
             parts.append(f"<p><em>{empty_msg}</em></p>")
             return
         parts.append('<ul class="routine-list">')
-        for tup in sorted(items, key=lambda t: t[0].ticker):
+        for tup in sorted(items, key=_html_sort_key):
             c, materiality, llm_text = tup
             src_label = _human_source(c.source)
             if c.source.startswith("edgar:"):
