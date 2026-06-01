@@ -105,9 +105,12 @@ def _strip_materiality_tag(text: str) -> tuple[str | None, str]:
 def _classify(c: Change) -> tuple[str, str | None]:
     """Return (materiality, llm_text_or_None).
 
-    For EDGAR/RSS materiality comes from the source itself (no LLM call).
-    For static-page sources we make one LLM call here so the result is
-    available to BOTH the ordering step and the renderer.
+    For EDGAR, materiality comes from the form type (no LLM call needed).
+    For everything else (newsroom RSS, reddit RSS, static pages) we make
+    one LLM call so the model can judge based on actual content. Reddit
+    in particular needs this — most random sub posts are user anecdotes,
+    not investment signal, even though they're "publisher-gated" in the
+    technical sense.
     """
     src = c.source
     if src.startswith("edgar:"):
@@ -115,10 +118,8 @@ def _classify(c: Change) -> tuple[str, str | None]:
         if "[MATERIAL]" in c.summary:
             return (MATERIAL, None)
         return (ROUTINE, None)
-    if src.endswith(":rss"):
-        return (MATERIAL, None)
 
-    # Static page → ask LLM, with analyst-written Monitoring Notes as context
+    # Static page OR RSS (newsroom / reddit) → ask LLM with analyst notes
     llm_text = llm_summarize.summarize(
         ticker=c.ticker, company_name=c.company,
         source=c.source, url=c.url, diff_text=c.diff,
@@ -150,7 +151,8 @@ def _render_edgar(c: Change, materiality: str, lines: list[str]) -> None:
     lines.append("")
 
 
-def _render_rss(c: Change, materiality: str, lines: list[str]) -> None:
+def _render_rss(c: Change, materiality: str, llm_text: str | None,
+                lines: list[str]) -> None:
     title = c.summary
     for prefix in (f"{c.source.split(':', 1)[0]}: ",):
         if title.lower().startswith(prefix.lower()):
@@ -159,6 +161,9 @@ def _render_rss(c: Change, materiality: str, lines: list[str]) -> None:
     icon = ICONS.get(materiality, "")
     lines.append(f"### {icon} {c.ticker} — {_human_source(c.source)}")
     lines.append(f"**{title}**")
+    if llm_text:
+        lines.append("")
+        lines.append(f"**What it means:** {llm_text}")
     published = None
     snippet = None
     for ln in c.diff.splitlines():
@@ -216,7 +221,7 @@ def _render_change(c: Change, materiality: str, llm_text: str | None,
     if c.source.startswith("edgar:"):
         _render_edgar(c, materiality, lines)
     elif c.source.endswith(":rss"):
-        _render_rss(c, materiality, lines)
+        _render_rss(c, materiality, llm_text, lines)
     else:
         _render_static(c, materiality, llm_text, lines)
 
@@ -348,6 +353,11 @@ def _html_entry(c: Change, materiality: str, llm_text: str | None) -> str:
                 title = title[len(prefix):]
                 break
         body_parts.append(f'<p class="what"><strong>{_html_escape(title)}</strong></p>')
+        if llm_text:
+            body_parts.append(
+                f'<p class="what"><strong>What it means:</strong> '
+                f'{_html_escape(llm_text)}</p>'
+            )
         published = None
         snippet = None
         for ln in c.diff.splitlines():
