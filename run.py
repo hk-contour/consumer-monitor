@@ -26,7 +26,7 @@ from digest import Change, write_digest
 # Single timestamp per process run — every Change emitted in this run shares it.
 RUN_TS = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
 from feedback_log import append_changes
-from scrapers import edgar, edgar_enrich, rss, static_pages
+from scrapers import careers, edgar, edgar_enrich, rss, static_pages
 from scrapers.config_reader import Company, load_companies
 from scrapers.snapshot_store import compare, log_change, write_snapshot
 from scrapers.tiers import blocker_reason
@@ -78,6 +78,81 @@ def check_static_url(c: Company, source: str, url: str) -> Change | None:
         detected_at=RUN_TS,
         company_notes=c.notes,
     )
+
+
+def check_careers_api(c: Company) -> list[Change]:
+    """Use Greenhouse / Lever API for careers when an ATS is configured for
+    this ticker. Emits one Change per new senior role (VP+, Director, Head
+    of, Chief), plus one aggregate Change if there are also junior roles
+    posted. Skips entirely on first run (silent baseline)."""
+    ats_entry = careers.ATS_REGISTRY.get(c.ticker.strip().upper())
+    if not ats_entry:
+        return []
+    ats_type, slug = ats_entry
+    try:
+        if ats_type == "greenhouse":
+            jobs = careers.fetch_greenhouse(slug)
+        elif ats_type == "lever":
+            jobs = careers.fetch_lever(slug)
+        else:
+            return []
+    except Exception as e:
+        print(f"  [{c.ticker}/careers/{ats_type}] error: {e}", file=sys.stderr)
+        return []
+
+    from scrapers.snapshot_store import _path  # internal helper
+    state_path = _path(c.ticker, "careers_job_ids")
+    seen_ids: set[str] = set()
+    if state_path.exists():
+        seen_ids = {ln.strip() for ln in state_path.read_text().splitlines()
+                    if ln.strip()}
+
+    current_ids = {j.job_id for j in jobs if j.job_id}
+    new_jobs = [j for j in jobs if j.job_id and j.job_id not in seen_ids]
+
+    # Persist current state regardless
+    write_snapshot(c.ticker, "careers_job_ids", "\n".join(sorted(current_ids)))
+
+    if not seen_ids:
+        # First-run silent baseline — same rule as static pages
+        return []
+
+    senior = [j for j in new_jobs if careers.is_senior(j.title)]
+    junior_count = len(new_jobs) - len(senior)
+
+    changes: list[Change] = []
+    for j in senior[:10]:  # cap so a hiring burst doesn't swamp digest
+        diff_body = (f"+ Title: {j.title}\n"
+                     f"+ Department: {j.department or '(unspecified)'}\n"
+                     f"+ Location: {j.location or '(unspecified)'}\n"
+                     f"+ Posted via {ats_type} board for {slug}")
+        changes.append(Change(
+            ticker=c.ticker, company=c.company,
+            source="careers",
+            url=j.url, summary=f"New senior role: {j.title}",
+            diff=diff_body,
+            detected_at=RUN_TS,
+            company_notes=c.notes,
+        ))
+        log_change(c.ticker, "careers", j.url, diff_body)
+
+    if junior_count > 0:
+        diff_body = (f"+ {junior_count} new non-senior job(s) posted to "
+                     f"{ats_type} board {slug}")
+        changes.append(Change(
+            ticker=c.ticker, company=c.company,
+            source="careers",
+            url=f"https://boards.greenhouse.io/{slug}"
+                if ats_type == "greenhouse"
+                else f"https://jobs.lever.co/{slug}",
+            summary=f"{junior_count} new non-senior roles posted",
+            diff=diff_body,
+            detected_at=RUN_TS,
+            company_notes=c.notes,
+        ))
+        log_change(c.ticker, "careers", "", diff_body)
+
+    return changes
 
 
 def check_edgar(c: Company) -> list[Change]:
@@ -173,9 +248,23 @@ def process_company(c: Company) -> list[Change]:
     #     reddit_rss = reddit_url.rstrip("/") + "/.rss"
     #     found.extend(check_rss(c, "reddit", reddit_rss, max_entries=5))
 
+    # Careers: prefer Greenhouse / Lever API when an ATS is configured for
+    # this ticker (richer structured data, avoids JS-shell + Cloudflare
+    # issues with the HTML careers page). Falls back to static HTML scrape
+    # below for tickers without an ATS entry.
+    ats_handled_careers = False
+    if c.ticker.strip().upper() in careers.ATS_REGISTRY:
+        api_changes = check_careers_api(c)
+        if api_changes is not None:
+            found.extend(api_changes)
+            ats_handled_careers = True
+
     for source in STATIC_SOURCES:
         # Skip newsroom HTML scrape if we already handled it via RSS
         if source == "newsroom" and rss_url:
+            continue
+        # Skip careers HTML scrape if we already handled it via ATS API
+        if source == "careers" and ats_handled_careers:
             continue
         url = c.urls.get(source)
         if not url:

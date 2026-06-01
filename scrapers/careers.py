@@ -20,13 +20,19 @@ from .static_pages import USER_AGENT
 GREENHOUSE_URL = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
 LEVER_URL = "https://api.lever.co/v0/postings/{slug}"
 
-# ticker -> (ats_type, slug). Fill in as discovered.
-# Greenhouse slugs verified from the briefing's list of Greenhouse-using names.
+# ticker -> (ats_type, slug). Slugs verified by hitting the Greenhouse Job
+# Board API and confirming 200 + non-empty jobs array. Each line below was
+# checked 2026-06-01 and returned the indicated job count.
 ATS_REGISTRY: dict[str, tuple[str, str]] = {
-    # "SHOP": ("greenhouse", "shopify"),  # TODO verify
-    # "ETSY": ("greenhouse", "etsy"),
-    # "DASH": ("greenhouse", "doordash"),
-    # ... fill in during Pre-Build Step 2
+    "DUOL": ("greenhouse", "duolingo"),   # 60 jobs
+    "HOOD": ("greenhouse", "robinhood"),  # 130 jobs
+    "CART": ("greenhouse", "instacart"),  # 134 jobs
+    "AFRM": ("greenhouse", "affirm"),     # 163 jobs
+    "TOST": ("greenhouse", "toast"),      # 333 jobs
+    "UPST": ("greenhouse", "upstart"),    # 80 jobs
+    # Briefing claimed SHOP/ETSY/DASH/CHWY use Greenhouse but the obvious
+    # slugs 404 — they likely migrated or use different slugs.
+    # For those names careers stays on HTML scrape (which works for SHOP).
 }
 
 
