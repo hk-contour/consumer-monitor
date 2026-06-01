@@ -49,10 +49,13 @@ _DATE_MONTH = (r"(?:January|February|March|April|May|June|July|August|"
                r"September|October|November|December|"
                r"Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)")
 _DATE_TAIL = rf"{_DATE_MONTH}\s+\d{{1,2}},?\s+\d{{4}}"
+# Require an explicit freshness keyword. Bare "as of <date>" stays untouched
+# because that pattern often carries real signal — e.g. director appointment
+# dates on a board page ("As of October 1, 2023, Jane joined the audit committee").
 DATE_STAMP_RE = re.compile(
     rf"(?P<prefix>\b(?:accurate\s+as\s+of|last\s+updated:?|"
-    rf"effective(?:\s+as\s+of)?|current\s+as\s+of|"
-    rf"updated\s+on|as\s+of)\s+)"
+    rf"effective\s+as\s+of|current\s+as\s+of|"
+    rf"updated\s+on|date\s+last\s+modified:?)\s+)"
     rf"(?P<date>{_DATE_TAIL})",
     re.IGNORECASE,
 )
