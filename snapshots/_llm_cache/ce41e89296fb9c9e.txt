@@ -1,0 +1,1 @@
+[ROUTINE] Terms of Service last-updated date changed from "May 7, 2026" to a placeholder "<DATE>" tag, likely indicating a templating or staging system refresh.
