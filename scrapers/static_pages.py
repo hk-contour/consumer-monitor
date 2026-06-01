@@ -176,9 +176,12 @@ def _is_binary_url(url: str) -> bool:
 
 def fetch_and_extract(url: str, selector: str | None = None,
                       retries: int = 2, backoff: float = 1.5) -> FetchResult:
-    # Skip non-HTML URLs entirely — they trigger noise diffs on every re-encoding.
-    # E.g. Robinhood publishes their customer agreement as a PDF; we can't extract
-    # meaningful text from the binary, only the bytes that change on re-compression.
+    # PDFs get text extraction via pdfplumber instead of being skipped.
+    # Other binary types (.doc/.xls/.zip) still skip — we don't have parsers.
+    lower = url.lower().split("?", 1)[0].split("#", 1)[0]
+    if lower.endswith(".pdf"):
+        from .pdf_pages import fetch_and_extract_pdf
+        return fetch_and_extract_pdf(url)
     if _is_binary_url(url):
         return FetchResult(
             ok=False, status=0,
