@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-05-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001783879</issuerCik>
+        <issuerName>Robinhood Markets, Inc.</issuerName>
+        <issuerTradingSymbol>HOOD</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001571355</rptOwnerCik>
+            <rptOwnerName>Malka Meyer</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O RIBBIT CAPITAL</rptOwnerStreet1>
+            <rptOwnerStreet2>364 UNIVERSITY AVE.</rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94301</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-05-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>249000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>80.3944</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3493427</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Fund</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1011</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3976234</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trusts</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>102183</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LLC</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $80.05 to $80.68, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range.</footnote>
+        <footnote id="F2">As previously reported, the Reporting Person is the founder and managing partner of the Ribbit Capital family of funds, and is contractually obligated to transfer and/or remit the proceeds of any sale of shares issued pursuant to stock awards or upon vesting and settlement of restricted stock units (&quot;RSUs&quot;) to certain entities affiliated with such funds. The reported amount reflects a previous transfer of 8,842 shares to Bullfrog Capital, L.P. (&quot;Bullfrog&quot;), for itself and as nominee for Bullfrog Founder Fund, L.P. (&quot;Bullfrog FF&quot;), which transfer was effected in accordance with Rule 16a-13 of the Securities Exchange Act of 1934, as amended.</footnote>
+        <footnote id="F3">Shares held by Bullfrog, for itself and as nominee for Bullfrog FF. Bullfrog Capital GP, L.P. (&quot;BF GP&quot;) is the general partner of Bullfrog and Bullfrog FF, and Bullfrog Capital GP, Ltd. (&quot;BF UGP&quot;) is the general partner of BF GP. The Reporting Person is a director BF UGP and disclaims beneficial ownership of such shares for purposes of Section 16 except to the extent of his pecuniary interest therein, if any, and this report shall not be deemed an admission that such shares are beneficially owned by him for Section 16 or any other purpose.</footnote>
+        <footnote id="F4">Represents (i) 325,411 shares held by each of the Aphrodite EM Trust, the Aphrodite MM Trust and the Aphrodite SM Trust (collectively, the &quot;Aphrodite Trusts&quot;), (ii) 2,000,000 shares held by the Malka Kleiner Revocable Trust dated July 16, 2012 (the &quot;Malka Trust&quot;), (iii) one share held by the Tibbir Trust and (iv) 1,000,000 shares held by Lassen Residential LLC, an entity controlled by the Malka Trust. The Reporting Person serves as trustee of the Malka Trust, and the Reporting Person's immediate family member serves as trustee of the Tibbir Trust and each of the Aphrodite Trusts. The Reporting Person disclaims beneficial ownership of such shares for purposes of Section 16 except to the extent of his pecuniary interest therein, if any, and this report shall not be deemed an admission that such shares are beneficially owned by him for Section 16 or any other purpose.</footnote>
+        <footnote id="F5">Shares held by Tibbir Holdings LLC, of which the Reporting Person serves as investment manager. The Reporting Person disclaims beneficial ownership of such Shares for purposes of Section 16 except to the extent of his pecuniary interest therein, if any, and this report shall not be deemed an admission that such shares are beneficially owned by him for Section 16 or any other purpose.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Meyer Malka</signatureName>
+        <signatureDate>2026-06-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
