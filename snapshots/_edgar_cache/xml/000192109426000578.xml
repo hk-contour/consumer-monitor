@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002034826</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001759509</issuerCik>
+      <issuerName>Lyft, Inc.</issuerName>
+      <secFileNumber>001-38846</secFileNumber>
+      <issuerAddress>
+        <com:street1>185 BERRY STREET, SUITE 400</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94107</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>844-250-2773</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Llewellyn Lindsay Catherine</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>11491</noOfUnitsSold>
+      <aggregateMarketValue>172365.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>379682532</noOfUnitsOutstanding>
+      <approxSaleDate>06/01/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>05/20/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>RSU / PSU - See Remarks</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>LYFT INC</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>11491</amountOfSecuritiesAcquired>
+      <paymentDate>05/20/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Lindsay Catherine Llewellyn</name>
+        <address>
+          <com:street1>185 BERRY STREET, SUITE 400</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Lyft, Inc.</securitiesClassTitle>
+      <saleDate>04/17/2026</saleDate>
+      <amountOfSecuritiesSold>23661</amountOfSecuritiesSold>
+      <grossProceeds>354915.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Lindsay Catherine Llewellyn</name>
+        <address>
+          <com:street1>185 BERRY STREET, SUITE 400</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Lyft, Inc.</securitiesClassTitle>
+      <saleDate>05/26/2026</saleDate>
+      <amountOfSecuritiesSold>11491</amountOfSecuritiesSold>
+      <grossProceeds>157341.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Shares sold in THE LINDSAY C. LLEWELLYN LIVING TRUST.</remarks>
+    <noticeSignature>
+      <noticeDate>06/01/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>05/23/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>LINDSAY CATHERINE LLEWELLYN TTEE</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

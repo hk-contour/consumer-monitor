@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001834152</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001559720</issuerCik>
+      <issuerName>Airbnb, Inc.</issuerName>
+      <secFileNumber>001-39778</secFileNumber>
+      <issuerAddress>
+        <com:street1>888 BRANNAN ST.</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94103</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>415.800.5959</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Chesky Brian</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>257273</noOfUnitsSold>
+      <aggregateMarketValue>34999202.84</aggregateMarketValue>
+      <noOfUnitsOutstanding>417930233</noOfUnitsOutstanding>
+      <approxSaleDate>06/01/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>11/10/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>107582</amountOfSecuritiesAcquired>
+      <paymentDate>11/10/2024</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>07/13/2008</acquiredDate>
+      <natureOfAcquisitionTransaction>Founders Shares</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>72760</amountOfSecuritiesAcquired>
+      <paymentDate>07/13/2008</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>05/25/2023</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>76931</amountOfSecuritiesAcquired>
+      <paymentDate>05/25/2023</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brian Chesky</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/27/2026</saleDate>
+      <amountOfSecuritiesSold>229550</amountOfSecuritiesSold>
+      <grossProceeds>30564952.30</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brian Chesky Legacy Trust B</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/27/2026</saleDate>
+      <amountOfSecuritiesSold>20000</amountOfSecuritiesSold>
+      <grossProceeds>2663417.01</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Mka Charitable Fund</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/27/2026</saleDate>
+      <amountOfSecuritiesSold>75000</amountOfSecuritiesSold>
+      <grossProceeds>9986378.84</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brian Chesky</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/28/2026</saleDate>
+      <amountOfSecuritiesSold>265746</amountOfSecuritiesSold>
+      <grossProceeds>35137596.47</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brian Chesky</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/29/2026</saleDate>
+      <amountOfSecuritiesSold>103937</amountOfSecuritiesSold>
+      <grossProceeds>13968430.74</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brian Chesky Legacy Trust B</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/29/2026</saleDate>
+      <amountOfSecuritiesSold>4774</amountOfSecuritiesSold>
+      <grossProceeds>645259.07</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Mka Charitable Fund</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/29/2026</saleDate>
+      <amountOfSecuritiesSold>17466</amountOfSecuritiesSold>
+      <grossProceeds>2361311.76</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>The sale today includes 15,226 shares from the Brian Chesky Legacy Trust B of which Brian Chesky is a trustee and account stakeholder and 57,534 shares from the Mka Charitable Fund of which Brian Chesky is an authorized individual and account stakeholder. Sales in the past 3 months also occurred in these accounts.</remarks>
+    <noticeSignature>
+      <noticeDate>06/01/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>02/26/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Tyler Johnson, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Brian Chesky</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>
