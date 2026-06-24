@@ -7,7 +7,6 @@ Communications
 Corporate Solutions
 Finance
 Human Resources
-Inclusion & Diversity
 Legal & Govt. Affairs
 Marketing
 Operations & Services
@@ -23,7 +22,6 @@ Communications
 Corporate Solutions
 Finance
 Human Resources
-Inclusion & Diversity
 Legal & Govt. Affairs
 Marketing
 Operations & Services
@@ -60,7 +58,6 @@ Communications
 Corporate Solutions
 Finance
 Human Resources
-Inclusion & Diversity
 Legal & Govt. Affairs
 Marketing
 Operations & Services
@@ -76,7 +73,6 @@ Communications
 Corporate Solutions
 Finance
 Human Resources
-Inclusion & Diversity
 Legal & Govt. Affairs
 Marketing
 Operations & Services
@@ -112,13 +108,14 @@ You’re now leaving the Expedia Group careers site and will be directed to our 
 *currently only offered in USA & UK
 Search Contract Jobs*
 Join Contract Talent Community
-Let’s transform
-travel together
+Build for the
+traveler in all of us
 Keyword
 Category
 All
 Administration
 Commercial
+Communications
 Corporate Solutions
 Creative Communication
 Finance
@@ -132,11 +129,12 @@ All
 Australia
 Brazil
 Canada
-China
+Colombia
+Costa Rica
 Czechia
-Denmark
+Dominican Republic
+Germany
 India
-Ireland
 Italy
 Japan
 Malaysia
@@ -144,6 +142,7 @@ Mexico
 Singapore
 Spain
 Switzerland
+Thailand
 United Kingdom
 United States
 Search Jobs
@@ -155,6 +154,7 @@ Expedia Group Team
 All
 Administration
 Commercial
+Communications
 Corporate Solutions
 Creative Communication
 Finance
@@ -166,28 +166,32 @@ Technology
 Role
 All
 Account Management
-Accounting
 Administration
-Advertising
 Architecture
 Brand Marketing
 Business Development
 Business Programs
 Creative Comms
+Customer Engagement Marketing
 Customer Product Support
 Customer Service
 Data Science
 Development
 Experience Design
-HR Business Partner
+Fraud and Risk
 Infrastructure & Enterprise Engineering
+Learning & Development
 Marketing Intelligence
+Media
 Media Solutions
+Partner Marketing
 Product Management
 Product Marketing
 Program Management (Technology)
+Public Relations
+Sales Operations
+Sourcing
 Strategy
-Talent Management
 Tax
 Technical Operations
 Treasury
@@ -197,11 +201,12 @@ All
 Australia
 Brazil
 Canada
-China
+Colombia
+Costa Rica
 Czechia
-Denmark
+Dominican Republic
+Germany
 India
-Ireland
 Italy
 Japan
 Malaysia
@@ -209,24 +214,25 @@ Mexico
 Singapore
 Spain
 Switzerland
+Thailand
 United Kingdom
 United States
 Search Jobs
 We currently have
-201
+204
 openings
 in
-17
+19
 countries.
 We're hiring in
 19
 offices
 .
 Featured Locations
-We are travelers and
-technologists.
-We work across time zones, hemispheres, cultures, and languages. We stay open and curious. We thrive on breaking things down and building them back up again until they're even better.
-We know travel can be hard. But we also know it's worth it every time. Because we believe travel is a force for good, we take our roles seriously. We're here to build great products and create connections that truly bring good into the world.
+Helping travelers explore the world.
+One journey at a time.
+We’re building a global travel technology platform and marketplace that helps millions of travelers discover, book, and experience travel around the world. Through our technology, brands, partnerships, and data, we power travel experiences across stays, flights, transportation, and activities.
+Here, you’ll do impactful work that helps solve real traveler challenges at global scale — transforming technology, data, and ideas into products and experiences used by millions of people every day. You’ll work alongside passionate global teams in a collaborative and supportive environment where people can build meaningful connections. All while delivering on our Purpose: To help travelers explore the world. One journey at a time.
 Explore our global teams.
 Administration
 Provide the crucial day-to-day support our teams rely on as they pursue key operational goals
@@ -246,9 +252,6 @@ Build a stable foundation for our business in areas such as accounting, complian
 Search jobs
 Human Resources
 Work with key leaders across the employee life-cycle, from recruitment and onboarding to compensation and benefits, to create seamless experiences that bring Expedians together as a global network
-Search jobs
-Inclusion & Diversity
-Nurture our open culture by planning and implementing strategies to build awareness, transform behaviours, and create real cultural change
 Search jobs
 Legal & Government Affairs
 Identify, analyze, and advise on the legal and governmental factors that impact on our business
@@ -270,40 +273,40 @@ Accommodations & adjustments
 We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. If you require an accommodation or adjustment for any part of the application or recruitment process, please let us know by completing our
 Accommodation Request Form
 .
-Opportunities for every journey.
+Careers for every journey.
 Emerging Talent & Careers
-Whether you’re new to the workforce or returning after time away, you can map out and build a great career with us.
+Whether you’re starting your career, returning to work, or taking your next professional step, Expedia Group offers opportunities to learn, grow, and build a meaningful career.
 Contract Positions
-Want to get a taste of life at EG? We’re looking for outstanding US and UK-based contractors who want to help us power global travel for everyone, everywhere.
+Get a taste of what it’s like to help travelers explore the world. We’re looking for exceptional contractors across the US and UK to help shape how the world explores.
 We're inspired by the
 travelers we serve.
 Connecting the world starts from within. When our teams reflect the rich diversity of travelers, everyone thrives. Building a truly inclusive space is how we create better experiences and grow together.
 Learn More
-Benefits that help you
-thrive.
+Support that helps you
+do your best work.
 Our industry-leading benefits package enables you to create a fulfilling career while staying healthy, happy, and well.
 Explore Our Benefits
 Incredible team.
 Outstanding awards.
 We are proud to be a workplace where people feel celebrated, supported, and can develop long-term careers — and it’s been recognized! It is all thanks to our team, every person contributes to our awarded environment.
 Life At Expedia Group Blog
-Expedia Group Arrivals: Daniel Shin Un Kang
-June 1, 2026
-Reflections from the The 2026 Wharton Hack-AI-thon sponsored by Expedia Group
-May 6, 2026
-Starting My Career in Account Management: Life on the Graduate Program with Hannah
-May 5, 2026
-Reflections on My Journey as a Commercial Graduate: with Zu
-April 14, 2026
+Career Check-In with Dario Amadori: Performance Marketing Manager
+June 22, 2026
+One Week With Aspasia Drizou – Pride Board Member
+June 22, 2026
+Expedia Group Arrivals: Ritcha Ranjan
+June 15, 2026
+Introducing EG’s Sustainability Focused Employee Resource Group
+June 4, 2026
 See More Posts
 Expedia Group Tech Blog
+The Most Expensive Milliseconds Are Unmeasured
+Jun 03, 2026
 Just Because We Can Build It, Should We?
 May 05, 2026
-Expedia’s Service Telemetry Analyzer
-Apr 28, 2026
 See More Posts
 Our Divisions
-Our six operating divisions set us up to drive EG forward by simplifying structure and aligning our employee skillsets. Supported by our corporate functions, these divisions allow us to focus on the work that will accelerate our Purpose to help travelers explore the world, one journey at a time.
+Our operating divisions set us up to drive Expedia Group forward — bringing together the right expertise to serve travelers, partners, and advertisers. Supported by our corporate teams, they help us focus on the products, partnerships, and experiences that accelerate our Purpose: to help travelers explore the world, one journey at a time.
 Marketing
 We create and deliver tailored marketing strategies for Expedia Group’s brands, focusing on establishing strong connections and cohesive experiences for travelers and partners. We leverage our functional expertise and creative excellence to build trust and loyalty for our brands through innovative marketing approaches and technology.
 Expedia Group B2B
@@ -332,6 +335,7 @@ Category
 All
 Administration
 Commercial
+Communications
 Corporate Solutions
 Creative Communication
 Finance
@@ -347,11 +351,12 @@ All
 Australia
 Brazil
 Canada
-China
+Colombia
+Costa Rica
 Czechia
-Denmark
+Dominican Republic
+Germany
 India
-Ireland
 Italy
 Japan
 Malaysia
@@ -359,6 +364,7 @@ Mexico
 Singapore
 Spain
 Switzerland
+Thailand
 United Kingdom
 United States
 State
