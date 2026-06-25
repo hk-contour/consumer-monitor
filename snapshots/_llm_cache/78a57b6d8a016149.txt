@@ -1,0 +1,1 @@
+[ROUTINE] Removal of tracking or internal reference identifiers from terms page footer.

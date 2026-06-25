@@ -120,9 +120,9 @@ Corporate Solutions
 Creative Communication
 Finance
 Human Resources
+Legal and Government Affairs
 Marketing
 Operations & Services
-Strategy
 Technology
 Country
 All
@@ -159,24 +159,24 @@ Corporate Solutions
 Creative Communication
 Finance
 Human Resources
+Legal and Government Affairs
 Marketing
 Operations & Services
-Strategy
 Technology
 Role
 All
 Account Management
 Administration
 Architecture
-Brand Marketing
 Business Development
 Business Programs
 Creative Comms
 Customer Engagement Marketing
-Customer Product Support
+Customer Experience
 Customer Service
 Data Science
 Development
+Executives – Technology
 Experience Design
 Fraud and Risk
 Infrastructure & Enterprise Engineering
@@ -184,6 +184,7 @@ Learning & Development
 Marketing Intelligence
 Media
 Media Solutions
+Paralegal
 Partner Marketing
 Product Management
 Product Marketing
@@ -191,9 +192,9 @@ Program Management (Technology)
 Public Relations
 Sales Operations
 Sourcing
-Strategy
-Tax
+Talent Management
 Technical Operations
+Total Rewards
 Treasury
 Vendor Service & Operations Management
 Location
@@ -219,7 +220,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-204
+227
 openings
 in
 19
@@ -290,14 +291,14 @@ Incredible team.
 Outstanding awards.
 We are proud to be a workplace where people feel celebrated, supported, and can develop long-term careers — and it’s been recognized! It is all thanks to our team, every person contributes to our awarded environment.
 Life At Expedia Group Blog
+Interns of Expedia Group 2026
+June 24, 2026
 Career Check-In with Dario Amadori: Performance Marketing Manager
 June 22, 2026
 One Week With Aspasia Drizou – Pride Board Member
 June 22, 2026
 Expedia Group Arrivals: Ritcha Ranjan
 June 15, 2026
-Introducing EG’s Sustainability Focused Employee Resource Group
-June 4, 2026
 See More Posts
 Expedia Group Tech Blog
 The Most Expensive Milliseconds Are Unmeasured
@@ -340,9 +341,9 @@ Corporate Solutions
 Creative Communication
 Finance
 Human Resources
+Legal and Government Affairs
 Marketing
 Operations & Services
-Strategy
 Technology
 EG Team
 All
