@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page updated with minor copy changes: "Try for free" changed to "Start for free" across all plan tiers, and yearly discount messaging simplified from "Pay yearly (Save up to 25%)" to "Pay yearly"; no pricing amounts or plan structure altered.
