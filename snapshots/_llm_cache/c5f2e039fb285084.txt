@@ -1,0 +1,1 @@
+[ROUTINE] Terms of Use page reorganized to separate returns information into a dedicated "Return Policy" section with a link, rather than embedding return contact details inline.
