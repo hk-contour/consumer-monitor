@@ -1,0 +1,1 @@
+[ROUTINE] Terms of service updated with UI controls ("Read only" labels), minor text reformatting in SMS opt-out section, and added disclosure link for "Freenow by Lyft" autonomous vehicle program in UK.

@@ -10,12 +10,12 @@ Human Resources
 Legal & Govt. Affairs
 Marketing
 Operations & Services
+Product
 Strategy
-Technology
 Opportunities for every journey
+Technology
 Contractor Positions
 Emerging Talent & Careers
-Executive Careers
 Administration
 Commercial
 Communications
@@ -61,12 +61,12 @@ Human Resources
 Legal & Govt. Affairs
 Marketing
 Operations & Services
+Product
 Strategy
-Technology
 Opportunities for every journey
+Technology
 Contractor Positions
 Emerging Talent & Careers
-Executive Careers
 Administration
 Commercial
 Communications
@@ -115,33 +115,29 @@ Category
 All
 Administration
 Commercial
-Communications
 Corporate Solutions
-Creative Communication
 Finance
 Human Resources
 Legal and Government Affairs
 Marketing
 Operations & Services
+Product
+Strategy
 Technology
 Country
 All
 Australia
 Brazil
 Canada
-Colombia
-Costa Rica
 Czechia
 Dominican Republic
 Germany
 India
 Italy
-Japan
 Malaysia
 Mexico
-Singapore
+Netherlands
 Spain
-Switzerland
 Thailand
 United Kingdom
 United States
@@ -154,76 +150,69 @@ Expedia Group Team
 All
 Administration
 Commercial
-Communications
 Corporate Solutions
-Creative Communication
 Finance
 Human Resources
 Legal and Government Affairs
 Marketing
 Operations & Services
+Product
+Strategy
 Technology
 Role
 All
 Account Management
 Administration
+Advertising
 Architecture
+Audit and Compliance
 Business Development
 Business Programs
-Creative Comms
 Customer Engagement Marketing
-Customer Experience
 Customer Service
 Data Science
 Development
-Executives – Technology
 Experience Design
-Fraud and Risk
+FinOps
 Infrastructure & Enterprise Engineering
-Learning & Development
-Marketing Intelligence
 Media
-Media Solutions
 Paralegal
 Partner Marketing
+Performance Marketing
 Product Management
 Product Marketing
 Program Management (Technology)
-Public Relations
-Sales Operations
 Sourcing
-Talent Management
+Strategy
+Tax
 Technical Operations
 Total Rewards
 Treasury
 Vendor Service & Operations Management
+Workforce Planning
 Location
 All
 Australia
 Brazil
 Canada
-Colombia
-Costa Rica
 Czechia
 Dominican Republic
 Germany
 India
 Italy
-Japan
 Malaysia
 Mexico
-Singapore
+Netherlands
 Spain
-Switzerland
 Thailand
 United Kingdom
 United States
 Search Jobs
 We currently have
-227
+195
 openings
 in
-19
+15
 countries.
 We're hiring in
 19
@@ -263,6 +252,9 @@ Search jobs
 Operations & Services
 Create unforgettable customer experiences and champion operational excellence in support of our broader goals
 Search jobs
+Product
+Create customer-centered products that improve travel, build loyalty, and drive growth.
+Search jobs
 Strategy
 Define and execute the long-range plans that bring us one step closer to our vision of a more open world through travel
 Search jobs
@@ -293,18 +285,18 @@ We are proud to be a workplace where people feel celebrated, supported, and can 
 Life At Expedia Group Blog
 Interns of Expedia Group 2026
 June 24, 2026
+From Japan to Malaysia: Building Careers Without Borders
+June 23, 2026
 Career Check-In with Dario Amadori: Performance Marketing Manager
 June 22, 2026
 One Week With Aspasia Drizou – Pride Board Member
 June 22, 2026
-Expedia Group Arrivals: Ritcha Ranjan
-June 15, 2026
 See More Posts
 Expedia Group Tech Blog
+Using LLMs to Analyze Spark SQL Plans: A Practical Approach to Debugging Long-Running Jobs
+Jun 30, 2026
 The Most Expensive Milliseconds Are Unmeasured
 Jun 03, 2026
-Just Because We Can Build It, Should We?
-May 05, 2026
 See More Posts
 Our Divisions
 Our operating divisions set us up to drive Expedia Group forward — bringing together the right expertise to serve travelers, partners, and advertisers. Supported by our corporate teams, they help us focus on the products, partnerships, and experiences that accelerate our Purpose: to help travelers explore the world, one journey at a time.
@@ -336,14 +328,14 @@ Category
 All
 Administration
 Commercial
-Communications
 Corporate Solutions
-Creative Communication
 Finance
 Human Resources
 Legal and Government Affairs
 Marketing
 Operations & Services
+Product
+Strategy
 Technology
 EG Team
 All
@@ -352,19 +344,15 @@ All
 Australia
 Brazil
 Canada
-Colombia
-Costa Rica
 Czechia
 Dominican Republic
 Germany
 India
 Italy
-Japan
 Malaysia
 Mexico
-Singapore
+Netherlands
 Spain
-Switzerland
 Thailand
 United Kingdom
 United States

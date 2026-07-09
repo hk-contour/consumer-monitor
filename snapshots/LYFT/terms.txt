@@ -1,6 +1,8 @@
+Read only
 Select jurisdiction
 United States
 Canada
+Read only
 Select language
 English
 Español (Estados Unidos)
@@ -1235,6 +1237,10 @@ Additional information regarding Lyft's privacy practices under jurisdiction-spe
 laws is available
 here
 .
+To learn more about the “Freenow by Lyft” autonomous vehicle program and the personal data
+processed in connection with the operation of that program in the United Kingdom, visit
+here
+.
 The Information We Collect
 When you use the Lyft Platform, we collect the information you provide, usage information, and
 information about your device. We also collect information about you from other sources like
@@ -1605,8 +1611,8 @@ promotional emails by clicking unsubscribe in those messages. We will still send
 transactional and relational emails about your use of the Lyft Platform.
 Text Messages.
 You can opt out of receiving commercial or promotional text
-messages by texting the word STOP to 46080 from the mobile device receiving the messages. You
-may also opt out of receiving all texts from Lyft (including transactional or relational
+messages by texting the word STOP to 46080 from the mobile device receiving the messages.
+You may also opt out of receiving all texts from Lyft (including transactional or relational
 messages) by texting the word STOPALL to 46080 from the mobile device receiving the
 messages. Note that opting out of receiving all texts may impact your use of the Lyft
 Platform. Drivers can also opt out of driver-specific messages by texting STOP in response

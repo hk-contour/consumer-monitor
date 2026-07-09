@@ -1,0 +1,1 @@
+[ROUTINE] Careers page reorganized navigation menus, updated job counts (227 to 195 openings; 19 to 15 countries), removed certain geographic locations (Colombia, Costa Rica, Japan, Singapore, Switzerland) and job categories, and rotated blog/news posts.
