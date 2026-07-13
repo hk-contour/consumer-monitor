@@ -1,0 +1,1 @@
+[ROUTINE] Careers page updated with Japan added to hiring locations, three new job categories (Advertising, Business Intelligence and Analytics, Learning & Development) added to filter options, and total openings adjusted from 196 to 189 across 16 countries (previously 15).

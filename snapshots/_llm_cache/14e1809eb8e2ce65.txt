@@ -1,0 +1,1 @@
+[ROUTINE] Footer navigation menu reordered; "People" section moved above "Lyft News" in the category filter list.

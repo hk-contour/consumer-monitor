@@ -134,6 +134,7 @@ Dominican Republic
 Germany
 India
 Italy
+Japan
 Malaysia
 Mexico
 Netherlands
@@ -163,9 +164,11 @@ Role
 All
 Account Management
 Administration
+Advertising
 Architecture
 Audit and Compliance
 Business Development
+Business Intelligence and Analytics
 Business Programs
 Customer Engagement Marketing
 Customer Service
@@ -174,6 +177,7 @@ Development
 Experience Design
 FinOps
 Infrastructure & Enterprise Engineering
+Learning & Development
 Media
 Paralegal
 Partner Marketing
@@ -199,6 +203,7 @@ Dominican Republic
 Germany
 India
 Italy
+Japan
 Malaysia
 Mexico
 Netherlands
@@ -208,10 +213,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-196
+189
 openings
 in
-15
+16
 countries.
 We're hiring in
 19
@@ -348,6 +353,7 @@ Dominican Republic
 Germany
 India
 Italy
+Japan
 Malaysia
 Mexico
 Netherlands
