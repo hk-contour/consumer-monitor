@@ -51,7 +51,7 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-11
+10
 Business Strategy and Development Jobs
 14
 Governmental Affairs Jobs
@@ -59,9 +59,11 @@ Governmental Affairs Jobs
 Human Resources Jobs
 15
 Legal and Business Affairs Jobs
-5
+6
 Project Management Jobs
 16
+Social Responsibility Jobs
+1
 View Selected Jobs
 Reset
 Consumer Goods
@@ -71,7 +73,7 @@ The Walt Disney Company is home to some of the most well-known brands in the wor
 Merchandising Jobs
 9
 Publishing Jobs
-3
+4
 View Selected Jobs
 Reset
 Creative
@@ -79,13 +81,13 @@ Close
 Creative
 From imagining the latest Toy Story movie to designing a costume made for a princess, being part of our creative teams allow you to bring imagination to life for families around the world! At The Walt Disney Company, creativity takes many forms - from gaming, animation, content development, design and more, you’ll have the opportunity to develop the innovative experiences Disney is known for and to be a part of our rich legacy of storytelling.
 Animation and Visual Effects Jobs
-38
+37
 Creative Jobs
-21
+24
 Gaming and Interactive Jobs
 7
 Marketing and Digital Media Jobs
-33
+36
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,9 +95,9 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-11
+14
 Finance and Accounting Jobs
-33
+30
 View Selected Jobs
 Reset
 Guest / Customer Service
@@ -105,7 +107,7 @@ The magic of our Parks, the wonder of our cruise ships and the luxury of our res
 Call Center Jobs
 3
 Culinary Jobs
-23
+22
 Food and Beverage Jobs
 23
 Hotel and Resorts Jobs
@@ -113,11 +115,11 @@ Hotel and Resorts Jobs
 Maritime and Cruise Operations Jobs
 22
 Retail Operations Jobs
-25
+26
 Sports and Recreation Jobs
 3
 Theme Park Operations Jobs
-35
+39
 View Selected Jobs
 Reset
 Innovation, Technology & Science(s)
@@ -125,11 +127,11 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-11
+14
 Engineering Jobs
 20
 Health Services Jobs
-3
+2
 Sciences and Animal Programs Jobs
 2
 Supply Chain Management Jobs
@@ -143,15 +145,15 @@ Close
 Marketing, Sales & Communications
 Make once-in-a-lifetime experiences part of your daily routine with access to some of the most memorable and recognizable characters and content around the world. The teams across The Walt Disney Company range from digital and social media to communications, sales and marketing, developing high-impact, unforgettable campaigns that entertain and engage customers around the world.
 Animation and Visual Effects Jobs
-38
+37
 Communications Jobs
 11
 Creative Jobs
-21
+24
 Marketing and Digital Media Jobs
-33
+36
 Sales Jobs
-16
+17
 View Selected Jobs
 Reset
 Operations Support
@@ -161,11 +163,11 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 2
 Building, Construction and Facilities Jobs
-65
+66
 Call Center Jobs
 3
 Health Services Jobs
-3
+2
 Horticulture and Landscaping Jobs
 1
 Maritime and Cruise Operations Jobs
@@ -173,7 +175,7 @@ Maritime and Cruise Operations Jobs
 Sciences and Animal Programs Jobs
 2
 Security Jobs
-13
+16
 Supply Chain Management Jobs
 2
 View Selected Jobs
@@ -183,9 +185,9 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-25
+23
 Stage Productions Jobs
-21
+22
 Talent Jobs
 9
 View Selected Jobs
@@ -257,11 +259,11 @@ Bay Lake, Florida, United States
 Bengaluru, India
 Branson, Missouri, United States
 Bristol, Connecticut, United States
-Brussels, Belgium
 Buenos Aires, Argentina
 Burbank, California, United States
 Canutillo, Texas, United States
 Celebration, Florida, United States
+Charlotte, North Carolina, United States
 Chessy, France
 Chiba, Japan
 Chicago, Illinois, United States
@@ -300,6 +302,7 @@ Marne-la-Vallée, France
 Melbourne, Australia
 Mexico City, Mexico
 Miami, Florida, United States
+Milan, Italy
 Minato-ku, Japan
 Moore Park, Australia
 Morrisville, North Carolina, United States

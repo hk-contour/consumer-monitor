@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001564475</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001326801</issuerCik>
+      <issuerName>Meta Platforms, Inc.</issuerName>
+      <secFileNumber>001-35551</secFileNumber>
+      <issuerAddress>
+        <com:street1>1 META WAY</com:street1>
+        <com:city>MENLO PARK</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>650-543-4800</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Olivan Javier</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A Common Shares</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>1466</noOfUnitsSold>
+      <aggregateMarketValue>969217.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>2196045588</noOfUnitsOutstanding>
+      <approxSaleDate>07/13/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>11/15/2018</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Unit Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>57</amountOfSecuritiesAcquired>
+      <paymentDate>11/15/2018</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>05/15/2019</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Unit Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>82</amountOfSecuritiesAcquired>
+      <paymentDate>05/15/2019</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>11/15/2019</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Unit Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>82</amountOfSecuritiesAcquired>
+      <paymentDate>11/15/2019</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>08/15/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Unit Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>408</amountOfSecuritiesAcquired>
+      <paymentDate>08/15/2024</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>05/15/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Unit Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>837</amountOfSecuritiesAcquired>
+      <paymentDate>05/15/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>04/13/2026</saleDate>
+      <amountOfSecuritiesSold>4665</amountOfSecuritiesSold>
+      <grossProceeds>2936559.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>04/20/2026</saleDate>
+      <amountOfSecuritiesSold>1555</amountOfSecuritiesSold>
+      <grossProceeds>1057540.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>04/27/2026</saleDate>
+      <amountOfSecuritiesSold>1555</amountOfSecuritiesSold>
+      <grossProceeds>1043157.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>05/04/2026</saleDate>
+      <amountOfSecuritiesSold>1555</amountOfSecuritiesSold>
+      <grossProceeds>945036.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>05/11/2026</saleDate>
+      <amountOfSecuritiesSold>1555</amountOfSecuritiesSold>
+      <grossProceeds>940106.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>05/18/2026</saleDate>
+      <amountOfSecuritiesSold>1466</amountOfSecuritiesSold>
+      <grossProceeds>893308.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>05/26/2026</saleDate>
+      <amountOfSecuritiesSold>1466</amountOfSecuritiesSold>
+      <grossProceeds>892765.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>06/01/2026</saleDate>
+      <amountOfSecuritiesSold>1466</amountOfSecuritiesSold>
+      <grossProceeds>922539.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>06/15/2026</saleDate>
+      <amountOfSecuritiesSold>1398</amountOfSecuritiesSold>
+      <grossProceeds>838800.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>JAVIER OLIVAN</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc</securitiesClassTitle>
+      <saleDate>07/06/2026</saleDate>
+      <amountOfSecuritiesSold>5235</amountOfSecuritiesSold>
+      <grossProceeds>3145422.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>The shares reported on this Form 144 will be sold pursuant to a Rule 10b5-1 trading plan.</remarks>
+    <noticeSignature>
+      <noticeDate>07/13/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>11/17/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>JAVIER OLIVAN</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

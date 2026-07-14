@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job count increased from 26 to 27 openings with minor title clarifications (Backend vs. Fullstack designation added to Sponsored Listings role) and "New" badge repositioning.

@@ -1,0 +1,1 @@
+[ROUTINE] Careers page updated with adjusted job opening count (196 vs. 189 openings) and reduced country count (15 vs. 16 countries); Brazil removed from location filters and several department categories reorganized (Brand Marketing added, Customer Engagement Marketing renamed to Customer Product Support, Tax removed).

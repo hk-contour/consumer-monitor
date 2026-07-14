@@ -1,0 +1,1 @@
+[ROUTINE] Stock quote timestamp and price updated from Jul 13 to Jul 14 with standard market data refresh.

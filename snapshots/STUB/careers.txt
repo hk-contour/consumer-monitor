@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-26 jobs
+27 jobs
 StubHub
 Business Development
 Job
@@ -56,13 +56,14 @@ Aliso Viejo, California, United States
 StubHub / Engineering / Enterprise Engineering
 Supply Engineering
 Job
-Senior Software Engineer - Sponsored Listings
+Senior Software Engineer - Sponsored Listings (Backend)
+New
+New York, New York, United States
+Senior Software Engineer - Sponsored Listings (Fullstack)
 New York, New York, United States
 Senior Software Engineer - Supply Core (Fullstack)
-New
 Aliso Viejo, California, United States
 Senior Software Engineer - Supply Core (Fullstack)
-New
 San Francisco, California, United States
 Senior Software Engineer - Supply Platform
 New
@@ -113,4 +114,5 @@ StubHub
 Strategic Communications
 Job
 Senior Manager, Consumer & Cultural Communications (Sports)
+New
 New York, New York, United States

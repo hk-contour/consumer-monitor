@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001006394</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0000764478</issuerCik>
+      <issuerName>BEST BUY CO INC</issuerName>
+      <secFileNumber>001-09595</secFileNumber>
+      <issuerAddress>
+        <com:street1>7601 PENN AVE SOUTH</com:street1>
+        <com:city>RICHFIELD</com:city>
+        <com:stateOrCountry>MN</com:stateOrCountry>
+        <com:zipCode>55423</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>6122911000</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>SCHULZE RICHARD M</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>10% Stockholder</relationshipToIssuer>
+        <relationshipToIssuer>Director Emeritus</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Piper Sandler &amp; Co Inc</name>
+        <address>
+          <com:street1>350 N 5th St</com:street1>
+          <com:street2>Ste 1000</com:street2>
+          <com:city>Minneapolis</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55401</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>900000</noOfUnitsSold>
+      <aggregateMarketValue>74520000.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>210767126</noOfUnitsOutstanding>
+      <approxSaleDate>07/13/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>04/18/1985</acquiredDate>
+      <natureOfAcquisitionTransaction>Founders Shares</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>900000</amountOfSecuritiesAcquired>
+      <paymentDate>04/18/1985</paymentDate>
+      <natureOfPayment>NA</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Richard M Schulze Revocable Tr C/O Best Buy Inc</name>
+        <address>
+          <com:street1>7601 Penn Ave S</com:street1>
+          <com:city>Richfield</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55423</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>06/25/2026</saleDate>
+      <amountOfSecuritiesSold>193896</amountOfSecuritiesSold>
+      <grossProceeds>15149501.66</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Richard M Schulze Revocable Tr C/O Best Buy Inc</name>
+        <address>
+          <com:street1>7601 Penn Ave S</com:street1>
+          <com:city>Richfield</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55423</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>06/16/2026</saleDate>
+      <amountOfSecuritiesSold>5100</amountOfSecuritiesSold>
+      <grossProceeds>397806.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Richard M Schulze Revocable Tr C/O Best Buy Inc</name>
+        <address>
+          <com:street1>7601 Penn Ave S</com:street1>
+          <com:city>Richfield</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55423</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>06/15/2026</saleDate>
+      <amountOfSecuritiesSold>76299</amountOfSecuritiesSold>
+      <grossProceeds>5968741.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Richard M Schulze Revocable Tr C/O Best Buy Inc</name>
+        <address>
+          <com:street1>7601 Penn Ave S</com:street1>
+          <com:city>Richfield</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55423</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>05/29/2026</saleDate>
+      <amountOfSecuritiesSold>500350</amountOfSecuritiesSold>
+      <grossProceeds>38085341.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Richard M Schulze Revocable Tr C/O Best Buy Inc</name>
+        <address>
+          <com:street1>7601 Penn Ave S</com:street1>
+          <com:city>Richfield</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55423</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>06/26/2026</saleDate>
+      <amountOfSecuritiesSold>224705</amountOfSecuritiesSold>
+      <grossProceeds>17545526.15</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>This Form 144 filing is being made on behalf of the Richard M Schulze Revocable Trust</remarks>
+    <noticeSignature>
+      <noticeDate>07/13/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>06/12/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>Will Britton, as a duly authorized representative of Piper Sandler &amp; Co Corporate &amp; Venture Services FA, as attorney-in-fact Richard M Schulze Rev Tr</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

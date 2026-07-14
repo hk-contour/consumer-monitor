@@ -1,0 +1,1 @@
+[ROUTINE] Removed asterisk character from investor relations page boilerplate text.

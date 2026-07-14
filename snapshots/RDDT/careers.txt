@@ -245,6 +245,10 @@ Remote - Ontario, Canada
 Senior Machine Learning Engineer
 Remote - United States
 Engineering
+Senior Machine Learning Engineer, Ads Content Understanding
+Senior Machine Learning Engineer, Ads Content Understanding
+Remote - United States
+Engineering
 Senior Machine Learning Engineer, Ads Foundational Representations
 Senior Machine Learning Engineer, Ads Foundational Representations
 Remote - The Netherlands
@@ -341,6 +345,10 @@ Remote - United States
 Engineering
 Senior Staff Machine Learning Systems Engineer, Indexing & Retrieval Search
 Senior Staff Machine Learning Systems Engineer, Indexing & Retrieval Search
+Remote - United States
+Engineering
+Senior Staff Software Engineer, Client Architecture
+Senior Staff Software Engineer, Client Architecture
 Remote - United States
 Engineering
 Senior iOS Engineer, Media Foundations
@@ -561,8 +569,8 @@ Client Account Manager, Mid-Market (App Dev - Acquisitions)
 Client Account Manager, Mid-Market (App Dev - Acquisitions)
 San Francisco, CA
 Sales
-Client Account Manager, Mid-Market Sales (Goods - Acquisitions)
-Client Account Manager, Mid-Market Sales (Goods - Acquisitions)
+Client Account Manager, Mid-Market Sales (Acquisitions)
+Client Account Manager, Mid-Market Sales (Acquisitions)
 Toronto, Canada
 Sales
 Client Partner, Mid-Market (B2B Services Acquisitions)
