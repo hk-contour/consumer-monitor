@@ -1,0 +1,1 @@
+[ROUTINE] Added "Don't sell or share my personal information" link to footer terms page, likely reflecting CCPA/state privacy law compliance updates. Also updated an internal tracking or version identifier (2549960 to 2595230).

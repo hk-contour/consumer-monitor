@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-27 jobs
+28 jobs
 StubHub
 Business Development
 Job
@@ -39,10 +39,8 @@ Senior Software Engineer - Core Platform - Streaming & Storages
 New
 San Francisco, California, United States
 Software Engineer I - Core Compute Platform
-New
 New York, New York, United States
 Software Engineer I - Core Platform - Streaming & Storage
-New
 New York, New York, United States
 StubHub / Engineering / Enterprise Engineering
 Security Engineering
@@ -108,6 +106,8 @@ StubHub / Product
 Product Consumer Experience
 Job
 Associate Product Manager - Marketing Operations and Automation
+New York, New York, United States
+Senior Product Manager - Payments
 New
 New York, New York, United States
 StubHub

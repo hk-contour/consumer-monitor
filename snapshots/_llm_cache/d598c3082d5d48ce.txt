@@ -1,0 +1,1 @@
+[ROUTINE] The "Streaming" section was moved higher on the newsroom page, appearing before "Press Releases" instead of after, with no content changes to the articles themselves.

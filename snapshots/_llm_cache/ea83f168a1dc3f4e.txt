@@ -1,0 +1,1 @@
+[ROUTINE] A new aviation news post (PlaneSync service integration, 15 July 2026) was added to the newsroom feed, pushing older posts down; the oldest visible aviation item was rotated off.

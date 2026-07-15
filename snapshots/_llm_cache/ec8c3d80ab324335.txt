@@ -1,0 +1,1 @@
+[ROUTINE] Navigation button text changed from "Explore Opportunities" to "Browse All Jobs" and "Search Opportunities" to "Browse All Jobs" across multiple sections of the careers page, with an additional "Browse All Jobs" button added to the main welcome section.

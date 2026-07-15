@@ -122,7 +122,6 @@ Legal and Government Affairs
 Marketing
 Operations & Services
 Product
-Strategy
 Technology
 Country
 All
@@ -157,7 +156,6 @@ Legal and Government Affairs
 Marketing
 Operations & Services
 Product
-Strategy
 Technology
 Role
 All
@@ -165,17 +163,18 @@ Account Management
 Administration
 Advertising
 Architecture
-Audit and Compliance
 Brand Marketing
 Business Development
 Business Intelligence and Analytics
 Business Programs
+Commercial Finance
 Customer Product Support
 Customer Service
 Data Science
 Development
 Experience Design
 FinOps
+FP&A
 Infrastructure & Enterprise Engineering
 Learning & Development
 Media
@@ -186,7 +185,6 @@ Product Management
 Product Marketing
 Program Management (Technology)
 Sourcing
-Strategy
 Technical Operations
 Total Rewards
 Treasury
@@ -211,7 +209,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-196
+188
 openings
 in
 15
@@ -285,20 +283,20 @@ Incredible team.
 Outstanding awards.
 We are proud to be a workplace where people feel celebrated, supported, and can develop long-term careers — and it’s been recognized! It is all thanks to our team, every person contributes to our awarded environment.
 Life At Expedia Group Blog
+Interns of Expedia Group 2026: Meet the Design Builders
+July 14, 2026
 Interns of Expedia Group 2026
 June 24, 2026
 From Japan to Malaysia: Building Careers Without Borders
 June 23, 2026
 Career Check-In with Dario Amadori: Performance Marketing Manager
 June 22, 2026
-One Week With Aspasia Drizou – Pride Board Member
-June 22, 2026
 See More Posts
 Expedia Group Tech Blog
+How Expedia Group Builds AI That Lasts at Scale
+Jul 14, 2026
 Using LLMs to Analyze Spark SQL Plans: A Practical Approach to Debugging Long-Running Jobs
 Jun 30, 2026
-The Most Expensive Milliseconds Are Unmeasured
-Jun 03, 2026
 See More Posts
 Our Divisions
 Our operating divisions set us up to drive Expedia Group forward — bringing together the right expertise to serve travelers, partners, and advertisers. Supported by our corporate teams, they help us focus on the products, partnerships, and experiences that accelerate our Purpose: to help travelers explore the world, one journey at a time.
@@ -337,7 +335,6 @@ Legal and Government Affairs
 Marketing
 Operations & Services
 Product
-Strategy
 Technology
 EG Team
 All

@@ -2,6 +2,9 @@ Newsroom
 The latest on our products and technology.
 Advanced Search
 Aviation
+15 July 2026
+Garmin expands service integrations to simplify and automate aircraft flight logging with PlaneSync
+Aviation
 8 July 2026
 Garmin unveils AXIS, a new generation of highly integrated flight displays
 Marine
@@ -26,6 +29,3 @@ Garmin achieves certification of the GFC 600 digital autopilot in Air Tractor an
 Aviation
 16 June 2026
 Garmin adds Daily Weather and other features to Garmin Pilot app
-Aviation
-11 June 2026
-Garmin avionics navigation database coverage expands to Africa

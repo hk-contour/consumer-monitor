@@ -1,0 +1,1 @@
+[ROUTINE] Open positions count decreased from 203 to 194, a routine staffing metric update on the careers page.

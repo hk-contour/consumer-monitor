@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job opening counts updated across multiple departments (Technology +9 to 236, Creative +3 to 27, Engineering +1 to 21, etc.) and office locations adjusted (Taiwan locations removed, Connecticut and Toronto locations added).

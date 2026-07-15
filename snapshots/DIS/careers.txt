@@ -57,7 +57,7 @@ Business Strategy and Development Jobs
 Governmental Affairs Jobs
 1
 Human Resources Jobs
-15
+17
 Legal and Business Affairs Jobs
 6
 Project Management Jobs
@@ -73,7 +73,7 @@ The Walt Disney Company is home to some of the most well-known brands in the wor
 Merchandising Jobs
 9
 Publishing Jobs
-4
+3
 View Selected Jobs
 Reset
 Creative
@@ -83,11 +83,11 @@ From imagining the latest Toy Story movie to designing a costume made for a prin
 Animation and Visual Effects Jobs
 37
 Creative Jobs
-24
+27
 Gaming and Interactive Jobs
 7
 Marketing and Digital Media Jobs
-36
+35
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -95,7 +95,7 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-14
+13
 Finance and Accounting Jobs
 30
 View Selected Jobs
@@ -109,15 +109,15 @@ Call Center Jobs
 Culinary Jobs
 22
 Food and Beverage Jobs
-23
+24
 Hotel and Resorts Jobs
-43
+42
 Maritime and Cruise Operations Jobs
 22
 Retail Operations Jobs
-26
+25
 Sports and Recreation Jobs
-3
+2
 Theme Park Operations Jobs
 39
 View Selected Jobs
@@ -127,17 +127,17 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-14
+13
 Engineering Jobs
-20
+21
 Health Services Jobs
 2
 Sciences and Animal Programs Jobs
-2
+1
 Supply Chain Management Jobs
 2
 Technology Jobs
-227
+236
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -147,11 +147,11 @@ Make once-in-a-lifetime experiences part of your daily routine with access to so
 Animation and Visual Effects Jobs
 37
 Communications Jobs
-11
+10
 Creative Jobs
-24
+27
 Marketing and Digital Media Jobs
-36
+35
 Sales Jobs
 17
 View Selected Jobs
@@ -163,7 +163,7 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 2
 Building, Construction and Facilities Jobs
-66
+67
 Call Center Jobs
 3
 Health Services Jobs
@@ -173,9 +173,9 @@ Horticulture and Landscaping Jobs
 Maritime and Cruise Operations Jobs
 22
 Sciences and Animal Programs Jobs
-2
+1
 Security Jobs
-16
+17
 Supply Chain Management Jobs
 2
 View Selected Jobs
@@ -185,9 +185,9 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-23
+24
 Stage Productions Jobs
-22
+21
 Talent Jobs
 9
 View Selected Jobs
@@ -308,7 +308,6 @@ Moore Park, Australia
 Morrisville, North Carolina, United States
 Mumbai, India
 Munich, Germany
-New Taipei City, Taiwan
 New York, New York, United States
 Nicasio, California, United States
 Orange, California, United States
@@ -334,15 +333,18 @@ Serris, France
 Sevierville, Tennessee, United States
 Singapore, Singapore
 Sofia, Bulgaria
+Southington, Connecticut, United States
 Stockholm, Sweden
 Sydney, Australia
-Taipei City, Taiwan
 Tampa, Florida, United States
 The Woodlands, Texas, United States
 Tlalpan, Mexico
 Tokyo, Japan
+Toronto, Canada
+Town of Southington, Connecticut, United States
 Vancouver, Canada
 Warsaw, Poland
+Washington, DC, United States
 Zurich, Switzerland
 Job Level
 Select
