@@ -140,6 +140,27 @@ def _fmt_shares(n: float) -> str:
     return f"{n:,.0f}"
 
 
+# Common-stock security titles that carry no extra signal — collapse to "shares".
+_PLAIN_STOCK_TITLES = {
+    "common stock", "class a common stock", "class b common stock",
+    "class c capital stock", "ordinary shares", "common shares",
+    "class a ordinary shares", "class b ordinary shares",
+}
+
+
+def _security_label(security: str) -> str:
+    """Human label for the unit transacted; generic 'shares' for plain common stock.
+
+    Derivative filings name the instrument (e.g. 'Performance Stock Units',
+    'Restricted Stock Units', 'Stock Option') — worth surfacing so a grant
+    reads as what it is rather than an anonymous share count.
+    """
+    s = (security or "").strip()
+    if not s or s.lower() in _PLAIN_STOCK_TITLES:
+        return "shares"
+    return s
+
+
 def summarize_form_4(filing_url: str, accession: str | None = None) -> str | None:
     """Fetch + parse Form 4 XML. Returns one-line summary or None on failure."""
     xml = _fetch_xml(_raw_xml_url(filing_url), accession)
@@ -169,31 +190,40 @@ def summarize_form_4(filing_url: str, accession: str | None = None) -> str | Non
     title_str = titles[0] if titles else "Insider"
     owner_str = f"{owner_name} ({title_str})" if owner_name else title_str
 
-    # Transactions — aggregate by code so multi-row Form 4s compress cleanly
+    # Transactions — aggregate by code so multi-row Form 4s compress cleanly.
+    # Scan BOTH the non-derivative (common stock) and derivative (options /
+    # RSUs / PSUs) tables: some filers — e.g. Fox's comp-heavy execs — report
+    # grants only in the derivative table and leave nonDerivativeTable empty,
+    # so scanning only the former returned no detail at all.
     sales: list[tuple[float, float, str]] = []     # (shares, price, date)
     purchases: list[tuple[float, float, str]] = []
-    grants: list[tuple[float, str]] = []           # (shares, date)
+    grants: list[tuple[float, str, str]] = []      # (shares, date, security)
     tax_with: list[tuple[float, str]] = []
-    other: list[tuple[str, float, str]] = []       # (code, shares, date)
+    other: list[tuple[str, float, str, str]] = []  # (code, shares, date, security)
 
-    for txn in root.findall(".//nonDerivativeTransaction"):
-        code = (txn.findtext(".//transactionCode") or "").strip()
-        date = (txn.findtext(".//transactionDate/value") or "").strip()
-        try:
-            shares = float(txn.findtext(".//transactionShares/value") or 0)
-            price = float(txn.findtext(".//transactionPricePerShare/value") or 0)
-        except ValueError:
-            continue
-        if code == "S":
-            sales.append((shares, price, date))
-        elif code == "P":
-            purchases.append((shares, price, date))
-        elif code == "A":
-            grants.append((shares, date))
-        elif code == "F":
-            tax_with.append((shares, date))
-        else:
-            other.append((code, shares, date))
+    def _bucket(txns) -> None:
+        for txn in txns:
+            code = (txn.findtext(".//transactionCode") or "").strip()
+            date = (txn.findtext(".//transactionDate/value") or "").strip()
+            security = (txn.findtext(".//securityTitle/value") or "").strip()
+            try:
+                shares = float(txn.findtext(".//transactionShares/value") or 0)
+                price = float(txn.findtext(".//transactionPricePerShare/value") or 0)
+            except ValueError:
+                continue
+            if code == "S":
+                sales.append((shares, price, date))
+            elif code == "P":
+                purchases.append((shares, price, date))
+            elif code == "A":
+                grants.append((shares, date, security))
+            elif code == "F":
+                tax_with.append((shares, date))
+            else:
+                other.append((code, shares, date, security))
+
+    _bucket(root.findall(".//nonDerivativeTransaction"))
+    _bucket(root.findall(".//derivativeTransaction"))
 
     parts: list[str] = []
     if sales:
@@ -211,16 +241,18 @@ def summarize_form_4(filing_url: str, accession: str | None = None) -> str | Non
         parts.append(f"BOUGHT {_fmt_shares(total_shares)} shares @ ${avg_price:.2f} "
                      f"({_fmt_value(total_value)}) on {date}")
     if grants and not (sales or purchases):
-        total_shares = sum(s for s, _ in grants)
+        total_shares = sum(s for s, _, _ in grants)
         date = grants[0][1]
-        parts.append(f"RSU/grant of {_fmt_shares(total_shares)} shares on {date}")
+        label = _security_label(grants[0][2])
+        parts.append(f"granted {_fmt_shares(total_shares)} {label} on {date}")
     if tax_with and not (sales or purchases or grants):
         total_shares = sum(s for s, _ in tax_with)
         date = tax_with[0][1]
         parts.append(f"{_fmt_shares(total_shares)} shares withheld for taxes (vest event) on {date}")
     if not parts and other:
-        code, shares, date = other[0]
-        parts.append(f"{TRANSACTION_CODES.get(code, code)}: {_fmt_shares(shares)} shares on {date}")
+        code, shares, date, security = other[0]
+        label = _security_label(security)
+        parts.append(f"{TRANSACTION_CODES.get(code, code)}: {_fmt_shares(shares)} {label} on {date}")
 
     if not parts:
         return None
