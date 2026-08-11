@@ -1,0 +1,1 @@
+[ROUTINE] Google newsroom homepage rotated featured content and reorganized layout sections; top stories changed from visual search anniversary and Waze updates to DeepMind weather/robotics and new Gemini models, with newsletter signup flow reformatted.

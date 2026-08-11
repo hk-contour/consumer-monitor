@@ -15,10 +15,6 @@ Doug Hott
 ,
 Chief Financial Officer
 Mr. Hott has served as Chief Financial Officer since May 2026 and previously served as our Vice President of Finance, Strategy, and Corporate Development since July 2024. Prior to that role, Mr. Hott served as our Vice President of Finance from August 2019 to July 2024. Mr. Hott holds a B.S. in Physics from Bradley University, and an M.S. in Astrophysics and an M.B.A. from the University of Cincinnati.
-Julie Henderson
-,
-Chief Communications Officer
-Ms. Henderson has served as Chief Communications Officer since April 2019. From July 2013 to April 2019, Ms. Henderson served as Executive Vice President, Chief Communications Officer at Twenty-First Century Fox, Inc. Ms. Henderson also previously served in roles at News Corporation, including as Senior Vice President, Corporate Affairs and Chief Communications Officer, and Senior Vice President, Communications and Corporate Strategy. Ms. Henderson holds a B.A. from Johnston Center, University of Redlands.
 Betsy Kenny Lack
 ,
 Vice President, Global Brand Experience
@@ -40,6 +36,11 @@ Scott Withycombe
 ,
 Chief People Officer
 Mr. Withycombe has served as our Chief People Officer since October 2022 and previously served in various roles, including Vice President of Talent & Rewards, Senior Director of Talent & Rewards, Senior Director of Talent Management, Senior Director of Human Resources, and Human Resources Director between November 2017 and August 2022. Mr. Withycombe also previously served in roles at DirectTV, Raytheon Company, and Del Monte Foods, Inc. Mr. Withycombe holds a B.A. in Economics and Political Science from Pepperdine University and M.S. in International Employment Relations and Human Resource Management from The London School of Economics and Political Science.
+Grace  Kao
+,
+Chief Marketing Officer
+With over 20 years of marketing and advertising experience, Grace is Snap’s Chief Marketing Officer, enabling brands around the world to connect with Snap’s 850+ million monthly users in meaningful and effective ways. She has led award-winning campaigns for iconic brands such as Pepsi, PlayStation, Crate&Barrel, Apple. Most recently, she led Spotify Advertising’s ‘Spreadbeats’ B2B campaign, which was one of the most awarded campaigns in 2024, across multiple categories for consumer and business at Cannes, including a Grand Prix. Grace was also named on Adweek’s Top 50 Indispensable Business Leaders. Before joining Snap, she served as Head of Global Business Marketing for Spotify and Instagram across businesses and creators.
+Grace has a master’s degree in Communications from Stanford University and resides in San Francisco, California with her husband, two children and cat.
 Executive Officers
 Evan Spiegel
 ,
@@ -66,11 +67,6 @@ Zach Briers
 ,
 General Counsel
 Mr. Briers has served as our General Counsel since November 2025. From August 2012 to October 2025, Mr. Briers was a lawyer in private practice at the law firm of Munger, Tolles & Olson LLP, where he focused his practice on advising companies and founders on litigation and transactional matters. Mr. Briers holds a J.D. from the New York University School of Law and a B.A. from John Carroll University.
-Grace  Kao
-,
-Chief Marketing Officer
-With over 20 years of marketing and advertising experience, Grace is Snap’s Chief Marketing Officer, enabling brands around the world to connect with Snap’s 850+ million monthly users in meaningful and effective ways. She has led award-winning campaigns for iconic brands such as Pepsi, PlayStation, Crate&Barrel, Apple. Most recently, she led Spotify Advertising’s ‘Spreadbeats’ B2B campaign, which was one of the most awarded campaigns in 2024, across multiple categories for consumer and business at Cannes, including a Grand Prix. Grace was also named on Adweek’s Top 50 Indispensable Business Leaders. Before joining Snap, she served as Head of Global Business Marketing for Spotify and Instagram across businesses and creators.
-Grace has a master’s degree in Communications from Stanford University and resides in San Francisco, California with her husband, two children and cat.
 Company
 Snap Inc.
 Careers
@@ -94,5 +90,5 @@ Terms of Service
 ©
 Snap Inc.
 Powered By Q4 Inc.
-5.183.0.4
+5.184.0.5
 (opens in new window)

@@ -8,55 +8,15 @@ Department
 Select...
 Office
 Select...
-28 jobs
-StubHub
-Business Development
-Job
-Head of DACH Open Distribution Partnerships
-Genève, Geneva, Switzerland
-StubHub / Engineering / Business Operations
-Active Support
-Job
-Software Engineer II - Active Support
-New York, New York, United States
-StubHub / Engineering / Business Operations
-Open Distribution
-Job
-Software Engineer I - Open Distribution (New Grad)
-Los Angeles, California, United States
-StubHub / Engineering
-Consumer Experience
-Job
-Engineering Manager - Consumer Product (Event)
-New
-New York, New York, United States
-Software Engineer II - Web Foundations
-New York, New York, United States
-StubHub / Engineering / Enterprise Engineering
-Core Platform
-Job
-Senior Software Engineer - Core Platform - Streaming & Storages
-New
-San Francisco, California, United States
-Software Engineer I - Core Compute Platform
-New York, New York, United States
-Software Engineer I - Core Platform - Streaming & Storage
-New York, New York, United States
+18 jobs
 StubHub / Engineering / Enterprise Engineering
 Security Engineering
 Job
-Senior Software Engineer - Edge-Services Security
-New York, New York, United States
-Senior Software Engineer - Edge-Services Security
+Software Engineer II - Product Security
 Los Angeles, California, United States
-Senior Software Engineer - Edge-Services Security
-Aliso Viejo, California, United States
 StubHub / Engineering / Enterprise Engineering
 Supply Engineering
 Job
-Senior Software Engineer - Sponsored Listings (Backend)
-New
-New York, New York, United States
 Senior Software Engineer - Sponsored Listings (Fullstack)
 New York, New York, United States
 Senior Software Engineer - Supply Core (Fullstack)
@@ -64,35 +24,31 @@ Aliso Viejo, California, United States
 Senior Software Engineer - Supply Core (Fullstack)
 San Francisco, California, United States
 Senior Software Engineer - Supply Platform
-New
 San Francisco, California, United States
-Software Engineer II - Supply Platform
-Aliso Viejo, California, United States
-StubHub / Engineering / Enterprise Engineering
-Technology Operations
-Job
-Governance, Risk and Compliance Analyst II
-New York, New York, United States
-StubHub
-Finance
-Job
-Director of Treasury Operations & Cash Management
-New York, New York, United States
 StubHub
 Global Customer Service
 Job
-GCS Executive Customer Care Specialist
+Director, Global Customer Success
 Atlanta, Georgia, United States
+GCS Executive Customer Care Specialist
+New
+Atlanta, Georgia, United States
+GCS Executive Customer Care Supervisor
+Atlanta, Georgia, United States
+StubHub
+Legal
+Job
+Senior Counsel - Employment and Labor Law
+New York, New York, United States
 StubHub / People Experience
 People Resources
 Job
 Head of Total Rewards
 New York, New York, United States
-StubHub / People Experience
-Workplace Experience
-Job
-Lead, Global Facilities & Workplace Experience
+People Operations Partner
 New York, New York, United States
+People Operations Partner
+Los Angeles, California, United States
 StubHub / Product
 Product Admission Ops
 Job
@@ -103,16 +59,17 @@ Los Angeles, California, United States
 Strategy & Analytics Manager - Customer Experience Efficiency
 New York, New York, United States
 StubHub / Product
+Product Catalog
+Job
+Senior Product Manager - Seller Experience
+New York, New York, United States
+StubHub / Product
 Product Consumer Experience
 Job
 Associate Product Manager - Marketing Operations and Automation
-New York, New York, United States
-Senior Product Manager - Payments
-New
 New York, New York, United States
 StubHub
 Strategic Communications
 Job
 Senior Manager, Consumer & Cultural Communications (Sports)
-New
 New York, New York, United States

@@ -1,6 +1,27 @@
 Newsroom
 The latest on our products and technology.
 Advanced Search
+Corporate
+earnings
+29 July 2026
+Garmin announces second quarter 2026 results
+Aviation
+23 July 2026
+Garmin Pilot adds Mobile Clearance Delivery for streamlined IFR clearances
+Corporate
+Sports & Fitness
+22 July 2026
+Garmin acquires TrainingPeaks and TrainHeroic, leading endurance and strength training platforms for athletes and coaches
+Wearables / Health
+21 July 2026
+Meet CIRQA Smart Band: The screen-free health and fitness tracker from Garmin
+Outdoor
+sports
+21 July 2026
+Take the guesswork out of the game with Approach Z10, a compact laser rangefinder from Garmin
+Aviation
+16 July 2026
+Garmin unveils G2000 PRIME Integrated Flight Deck
 Aviation
 15 July 2026
 Garmin expands service integrations to simplify and automate aircraft flight logging with PlaneSync
@@ -10,22 +31,3 @@ Garmin unveils AXIS, a new generation of highly integrated flight displays
 Marine
 7 July 2026
 Garmin launches LiveScope 2, its clearest live sonar yet
-Aviation
-6 July 2026
-Garmin Pilot update introduces new Flights page and other enhancements
-Aviation
-2 July 2026
-Garmin adds over a dozen more Guided Visual Approaches to aviation database lineup
-Corporate
-earnings
-24 June 2026
-Garmin Ltd. schedules second quarter 2026 earnings call
-Garmin Health
-23 June 2026
-Garmin announces finalists for the 2026 Garmin Health Awards
-Aviation
-17 June 2026
-Garmin achieves certification of the GFC 600 digital autopilot in Air Tractor and Piper Matrix aircraft
-Aviation
-16 June 2026
-Garmin adds Daily Weather and other features to Garmin Pilot app

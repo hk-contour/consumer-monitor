@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001543133</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001065280</issuerCik>
+            <issuerName>NETFLIX, INC.</issuerName>
+            <secFileNumber>001-35727</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>121 Albright Way</ns2:street1>
+                <ns2:city>Los Gatos</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>95032</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>408-540-3700</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>SPENCER NEUMANN</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>9248</noOfUnitsSold>
+            <aggregateMarketValue>700906.84</aggregateMarketValue>
+            <noOfUnitsOutstanding>4163939676</noOfUnitsOutstanding>
+            <approxSaleDate>08/10/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/03/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2455</amountOfSecuritiesAcquired>
+            <paymentDate>08/03/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/03/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>4409</amountOfSecuritiesAcquired>
+            <paymentDate>08/03/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/03/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2384</amountOfSecuritiesAcquired>
+            <paymentDate>08/03/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/10/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Spencer Neumann</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

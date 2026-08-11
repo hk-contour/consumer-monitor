@@ -136,9 +136,9 @@ for assistance accessing our careers.ea.com website. In your email, please inclu
 Important Recruitment Scam Alert
 Learn More
 Recruitment Scam Alert
-We are aware that individuals claiming to be either Electronic Arts (EA) employees or companies authorized to speak on our behalf have been fraudulently contacting prospective candidates with fictitious job opportunities and soliciting personal information directly through email or via third-party online platforms, including LinkedIn and Telegram. We take this fraud very seriously and are working with third-party platforms to investigate and remove fake profiles. Please read below for ways to check the authenticity of communications and protect yourself from these scams.
-There are a number of signs that a recruitment communication is fraudulent, including requests for money or funds (such as for visa fees, taxes, travel expenses) and requests for personal information (such as passport information, bank account information, credit card numbers, social security numbers). EA employees will never ask you for money or to provide personal financial information during our recruiting process.
-All EA employment offers will come only from someone using an official EA email address with one of the following domain names:
+We are aware that individuals falsely claiming to be either Electronic Arts (EA) employees or companies authorized to speak on our behalf have been contacting people with job opportunities and soliciting personal information. These communications can be through email or via third-party online platforms, including LinkedIn, WhatsApp, Facebook Marketplace, and Telegram. You should always verify the authenticity of communications and protect yourself from these scams.
+There are a number of signs that a recruitment communication is a scam, including requests for money or funds (such as for visa fees, taxes, travel expenses) and requests for personal information (such as passport information, bank account information, credit card numbers, social security numbers). EA employees will never ask you for money or to provide personal financial information during our recruiting process. If an offer seems too good to be true, then it probably is.
+EA employment offers will usually come from someone using an official EA email address, including one of the following domain names:
 ea.com
 (including
 contractor.ea.com
@@ -148,16 +148,6 @@ europe.ea.com
 dice.se
 bioware.com
 respawn.com
-criteriongames.com
-frostbite.com
-popcap.com
-maxis.com
-codemasters.com
-glu.com
-metalheadsoftware.com
-playdemic.com
-avature.net
-If you believe you’ve received unauthorized or fraudulent communications, we recommend that you do not respond. If you suspect but are unsure, you can confirm the email address of the person contacting you and know that anyone contacting you claiming to work for EA must have an official EA email address using one of the above domain names. You will not receive an offer or employment contract from EA without first being in contact with an EA representative from one of the above email addresses. You can also review the LinkedIn profile of the individual – many of our EA recruiters use the verification feature to confirm they are with EA; however, the best way to verify the communication is legitimate is to ensure the email address contains one of the domain names above.
-Please notify us of any fraudulent representation by sending an email to
+If you believe you’ve received unauthorized or scam communications, we recommend that you do not respond. If you suspect but are still unsure whether a communication is official, please notify us by sending an email to
 RecruitmentFraudReports@ea.com
 .

@@ -1,0 +1,1 @@
+[ROUTINE] Investor relations page updated to display Q3 2026 earnings materials (webcast, press release, snapshot) in place of Q2 2026 with minor reordering of link elements.

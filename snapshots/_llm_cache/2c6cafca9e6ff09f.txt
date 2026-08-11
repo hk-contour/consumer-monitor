@@ -1,0 +1,1 @@
+[ROUTINE] Reddit added localized terms pages in Indonesian, Farsi, Hebrew, and Urdu to its policies section, with consistent date stamps across translations.

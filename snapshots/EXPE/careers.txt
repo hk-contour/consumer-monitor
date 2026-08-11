@@ -118,25 +118,28 @@ Commercial
 Corporate Solutions
 Finance
 Human Resources
-Legal and Government Affairs
 Marketing
 Operations & Services
 Product
+Strategy
 Technology
 Country
 All
 Australia
+Brazil
 Canada
+China
+Colombia
 Czechia
-Dominican Republic
 Germany
 India
+Ireland
 Italy
 Japan
 Malaysia
-Mexico
-Netherlands
+New Zealand
 Spain
+Switzerland
 Thailand
 United Kingdom
 United States
@@ -152,39 +155,34 @@ Commercial
 Corporate Solutions
 Finance
 Human Resources
-Legal and Government Affairs
 Marketing
 Operations & Services
 Product
+Strategy
 Technology
 Role
 All
 Account Management
 Administration
-Advertising
 Architecture
-Brand Marketing
 Business Development
-Business Intelligence and Analytics
 Business Programs
 Commercial Finance
+Customer Engagement Marketing
 Customer Product Support
 Customer Service
 Data Science
 Development
 Experience Design
 FinOps
-FP&A
 Infrastructure & Enterprise Engineering
-Learning & Development
+Investor Relations
 Media
-Paralegal
-Partner Marketing
-Performance Marketing
+Partner Sales
 Product Management
-Product Marketing
 Program Management (Technology)
-Sourcing
+Regional HR
+Strategy
 Technical Operations
 Total Rewards
 Treasury
@@ -193,26 +191,29 @@ Workforce Planning
 Location
 All
 Australia
+Brazil
 Canada
+China
+Colombia
 Czechia
-Dominican Republic
 Germany
 India
+Ireland
 Italy
 Japan
 Malaysia
-Mexico
-Netherlands
+New Zealand
 Spain
+Switzerland
 Thailand
 United Kingdom
 United States
 Search Jobs
 We currently have
-188
+190
 openings
 in
-15
+19
 countries.
 We're hiring in
 19
@@ -293,10 +294,10 @@ Career Check-In with Dario Amadori: Performance Marketing Manager
 June 22, 2026
 See More Posts
 Expedia Group Tech Blog
+Focus on the Feature, Not the Fixture: GenAI powered GraphQL mocks
+Jul 31, 2026
 How Expedia Group Builds AI That Lasts at Scale
 Jul 14, 2026
-Using LLMs to Analyze Spark SQL Plans: A Practical Approach to Debugging Long-Running Jobs
-Jun 30, 2026
 See More Posts
 Our Divisions
 Our operating divisions set us up to drive Expedia Group forward — bringing together the right expertise to serve travelers, partners, and advertisers. Supported by our corporate teams, they help us focus on the products, partnerships, and experiences that accelerate our Purpose: to help travelers explore the world, one journey at a time.
@@ -331,27 +332,30 @@ Commercial
 Corporate Solutions
 Finance
 Human Resources
-Legal and Government Affairs
 Marketing
 Operations & Services
 Product
+Strategy
 Technology
 EG Team
 All
 Country
 All
 Australia
+Brazil
 Canada
+China
+Colombia
 Czechia
-Dominican Republic
 Germany
 India
+Ireland
 Italy
 Japan
 Malaysia
-Mexico
-Netherlands
+New Zealand
 Spain
+Switzerland
 Thailand
 United Kingdom
 United States

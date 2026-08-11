@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:edgarSubmission xmlns:com="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/ownership">
+    <ns2:headerData>
+        <ns2:submissionType>144</ns2:submissionType>
+        <ns2:filerInfo>
+            <ns2:filer>
+                <ns2:filerCredentials>
+                    <ns2:cik>0001223489</ns2:cik>
+                    <ns2:ccc>XXXXXXXX</ns2:ccc>
+                </ns2:filerCredentials>
+            </ns2:filer>
+            <ns2:liveTestFlag>LIVE</ns2:liveTestFlag>
+
+
+
+        </ns2:filerInfo>
+    </ns2:headerData>
+    <ns2:formData>
+        <ns2:issuerInfo>
+            <ns2:issuerCik>0000946581</ns2:issuerCik>
+            <ns2:issuerName>Take-Two Interactive Software, Inc.</ns2:issuerName>
+            <ns2:secFileNumber>001-34003</ns2:secFileNumber>
+            <ns2:issuerAddress>
+                <com:street1>110 West 44th Street</com:street1>
+                <com:city>New York</com:city>
+                <com:stateOrCountry>NY</com:stateOrCountry>
+                <com:zipCode>10036</com:zipCode>
+            </ns2:issuerAddress>
+            <ns2:issuerContactPhone>1-646-536-2842</ns2:issuerContactPhone>
+            <ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>H. Strauss Zelnick</ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <ns2:relationshipsToIssuer>
+                <ns2:relationshipToIssuer>Officer</ns2:relationshipToIssuer>
+            </ns2:relationshipsToIssuer>
+        </ns2:issuerInfo>
+        <ns2:securitiesInformation>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:brokerOrMarketmakerDetails>
+                <ns2:name>Goldman Sachs &amp; Co. LLC</ns2:name>
+                <ns2:address>
+                    <com:street1>200 West Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10282</com:zipCode>
+                </ns2:address>
+            </ns2:brokerOrMarketmakerDetails>
+            <ns2:noOfUnitsSold>40000</ns2:noOfUnitsSold>
+            <ns2:aggregateMarketValue>10142800</ns2:aggregateMarketValue>
+            <ns2:noOfUnitsOutstanding>186980443</ns2:noOfUnitsOutstanding>
+            <ns2:approxSaleDate>08/10/2026</ns2:approxSaleDate>
+            <ns2:securitiesExchangeName>NASD</ns2:securitiesExchangeName>
+        </ns2:securitiesInformation>
+        <ns2:securitiesToBeSold>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:acquiredDate>08/10/2026</ns2:acquiredDate>
+            <ns2:natureOfAcquisitionTransaction>Acquired as a gift</ns2:natureOfAcquisitionTransaction>
+            <ns2:nameOfPersonfromWhomAcquired>The Zelnick/Belzberg Living Trust</ns2:nameOfPersonfromWhomAcquired>
+            <ns2:isGiftTransaction>Y</ns2:isGiftTransaction>
+            <ns2:donarAcquiredDate>06/15/2011</ns2:donarAcquiredDate>
+            <ns2:amountOfSecuritiesAcquired>10000</ns2:amountOfSecuritiesAcquired>
+            <ns2:paymentDate>08/10/2026</ns2:paymentDate>
+            <ns2:natureOfPayment>None</ns2:natureOfPayment>
+        </ns2:securitiesToBeSold>
+        <ns2:securitiesToBeSold>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:acquiredDate>06/01/2026</ns2:acquiredDate>
+            <ns2:natureOfAcquisitionTransaction>Acquired as compensation -- Restricted Stock Units</ns2:natureOfAcquisitionTransaction>
+            <ns2:nameOfPersonfromWhomAcquired>Take Two Interative</ns2:nameOfPersonfromWhomAcquired>
+            <ns2:isGiftTransaction>N</ns2:isGiftTransaction>
+            <ns2:amountOfSecuritiesAcquired>30000</ns2:amountOfSecuritiesAcquired>
+            <ns2:paymentDate>06/01/2026</ns2:paymentDate>
+            <ns2:natureOfPayment>Compensation</ns2:natureOfPayment>
+        </ns2:securitiesToBeSold>
+        <ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>N</ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>The Zelnick/Belzberg Living Trust</ns2:name>
+                <ns2:address>
+                    <com:street1>110 West 44th Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10036</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:saleDate>05/26/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>44292</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>9831797.6</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>Wendy Jay Belzberg 2012 Family Trust</ns2:name>
+                <ns2:address>
+                    <com:street1>110 West 44th Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10036</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:saleDate>05/26/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>5708</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>1271505.57</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>The Zelnick/Belzberg Charitable Trust</ns2:name>
+                <ns2:address>
+                    <com:street1>110 West 44th Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10036</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:saleDate>05/26/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>20000</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>4447792.35</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:remarks>Selling 40,000 shares of TTWO total: 30,000 shares sold under The Zelnick/Belzberg Living Trust and 10,000 shares have been donated from The Zelnick/Belzberg Living Trust to the The Zelnick/Belzberg Charitable Trust and sold under the The Zelnick/Belzberg Charitable Trust.</ns2:remarks>
+        <ns2:noticeSignature>
+            <ns2:noticeDate>08/10/2026</ns2:noticeDate>
+            <ns2:planAdoptionDates/>
+            <ns2:signature>Goldman Sachs &amp; Co. LLC on behalf of H. Strauss Zelnick</ns2:signature>
+        </ns2:noticeSignature>
+    </ns2:formData>
+</ns2:edgarSubmission>

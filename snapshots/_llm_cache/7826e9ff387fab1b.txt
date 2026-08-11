@@ -1,0 +1,1 @@
+[ROUTINE] Careers page reorganized department listings with updated open position counts across multiple teams; Engineering increased to 37 positions, AI & Machine Learning to 19, while Business Development & Sales decreased to 28, and several departments reordered alphabetically.

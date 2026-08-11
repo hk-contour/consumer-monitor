@@ -53,17 +53,13 @@ The diverse teams of the Business Support function help The Walt Disney Company,
 Administration Jobs
 10
 Business Strategy and Development Jobs
-14
-Governmental Affairs Jobs
-1
+15
 Human Resources Jobs
-17
+20
 Legal and Business Affairs Jobs
-6
-Project Management Jobs
 16
-Social Responsibility Jobs
-1
+Project Management Jobs
+13
 View Selected Jobs
 Reset
 Consumer Goods
@@ -73,7 +69,7 @@ The Walt Disney Company is home to some of the most well-known brands in the wor
 Merchandising Jobs
 9
 Publishing Jobs
-3
+8
 View Selected Jobs
 Reset
 Creative
@@ -81,13 +77,13 @@ Close
 Creative
 From imagining the latest Toy Story movie to designing a costume made for a princess, being part of our creative teams allow you to bring imagination to life for families around the world! At The Walt Disney Company, creativity takes many forms - from gaming, animation, content development, design and more, you’ll have the opportunity to develop the innovative experiences Disney is known for and to be a part of our rich legacy of storytelling.
 Animation and Visual Effects Jobs
-37
-Creative Jobs
-27
-Gaming and Interactive Jobs
-7
-Marketing and Digital Media Jobs
 35
+Creative Jobs
+28
+Gaming and Interactive Jobs
+6
+Marketing and Digital Media Jobs
+39
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -95,31 +91,29 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-13
+8
 Finance and Accounting Jobs
-30
+31
 View Selected Jobs
 Reset
 Guest / Customer Service
 Close
 Guest / Customer Service
 The magic of our Parks, the wonder of our cruise ships and the luxury of our resorts would not be possible without the employees and cast members who ensure that exceptional customer service is a top priority at The Walt Disney Company. Be part of providing the exceptional service Disney is known for around the world in an operational role in our parks, hotels, ships, retail locations, and call centers.
-Call Center Jobs
-3
 Culinary Jobs
-22
+29
 Food and Beverage Jobs
-24
+26
 Hotel and Resorts Jobs
-42
-Maritime and Cruise Operations Jobs
-22
-Retail Operations Jobs
-25
-Sports and Recreation Jobs
-2
-Theme Park Operations Jobs
 39
+Maritime and Cruise Operations Jobs
+20
+Retail Operations Jobs
+32
+Sports and Recreation Jobs
+4
+Theme Park Operations Jobs
+36
 View Selected Jobs
 Reset
 Innovation, Technology & Science(s)
@@ -127,17 +121,21 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-13
+8
 Engineering Jobs
-21
+11
 Health Services Jobs
 2
-Sciences and Animal Programs Jobs
+Quality Assurance Jobs
+2
+Research and Development Jobs
 1
+Sciences and Animal Programs Jobs
+3
 Supply Chain Management Jobs
 2
 Technology Jobs
-236
+201
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -145,15 +143,15 @@ Close
 Marketing, Sales & Communications
 Make once-in-a-lifetime experiences part of your daily routine with access to some of the most memorable and recognizable characters and content around the world. The teams across The Walt Disney Company range from digital and social media to communications, sales and marketing, developing high-impact, unforgettable campaigns that entertain and engage customers around the world.
 Animation and Visual Effects Jobs
-37
-Communications Jobs
-10
-Creative Jobs
-27
-Marketing and Digital Media Jobs
 35
+Communications Jobs
+8
+Creative Jobs
+28
+Marketing and Digital Media Jobs
+39
 Sales Jobs
-17
+13
 View Selected Jobs
 Reset
 Operations Support
@@ -161,19 +159,15 @@ Close
 Operations Support
 No one can bring a story to life better than Disney. Our operations teams work to create a collaborative and pleasurable work environment, enabling our employees and cast members to create memorable experiences for our consumers and guests. Our diverse teams, ranging from architecture and design to facilities and horticulture, and even animal programs and sciences, maintain the surroundings that energize and inspire us to do our best.
 Architecture and Design Jobs
-2
-Building, Construction and Facilities Jobs
-67
-Call Center Jobs
 3
+Building, Construction and Facilities Jobs
+61
 Health Services Jobs
 2
-Horticulture and Landscaping Jobs
-1
 Maritime and Cruise Operations Jobs
-22
+20
 Sciences and Animal Programs Jobs
-1
+3
 Security Jobs
 17
 Supply Chain Management Jobs
@@ -185,11 +179,11 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-24
+25
 Stage Productions Jobs
 21
 Talent Jobs
-9
+10
 View Selected Jobs
 Reset
 Connect to a world of stories
@@ -206,7 +200,9 @@ Administration
 Animation and Visual Effects
 Architecture and Design
 Asset Management
+Autres
 Banking
+Bâtiment construction et installations
 Building Construction and Facilities
 Building, Construction and Facilities
 Business Strategy and Development
@@ -216,6 +212,7 @@ Creative
 Creatividad
 Culinary
 Data Science and Analytics
+Direction Générale
 Disneyland Resort Casting Hourly
 Engineering
 Finance and Accounting
@@ -251,8 +248,10 @@ Talent
 Technology
 Theme Park Operations
 Walt Disney World Casting Hourly
+法務／商務
 Location
 Select Location
+Amsterdam, Netherlands
 Anaheim, California, United States
 Bangkok, Thailand
 Bay Lake, Florida, United States
@@ -261,7 +260,6 @@ Branson, Missouri, United States
 Bristol, Connecticut, United States
 Buenos Aires, Argentina
 Burbank, California, United States
-Canutillo, Texas, United States
 Celebration, Florida, United States
 Charlotte, North Carolina, United States
 Chessy, France
@@ -270,19 +268,19 @@ Chicago, Illinois, United States
 City of Taguig, Philippines
 Commerce, California, United States
 Copenhagen, Denmark
-Coral Gables, Florida, United States
 Destin, Florida, United States
 Dublin, Ireland
 Durham, North Carolina, United States
 Elizabeth, New Jersey, United States
 Emeryville, California, United States
+Ferrières-en-Brie, France
 Fresno, California, United States
 Glendale, California, United States
 Helsinki, Finland
 Hilton Head Island, South Carolina, United States
 Ho Chi Minh City, Vietnam
 Houston, Texas, United States
-Istanbul, Turkey
+Inglewood, California, United States
 Iver Heath, United Kingdom
 Jakarta, Indonesia
 Kapolei, Hawaii, United States
@@ -299,18 +297,15 @@ Los Angeles, California, United States
 Madrid, Spain
 Makati City, Philippines
 Marne-la-Vallée, France
-Melbourne, Australia
-Mexico City, Mexico
-Miami, Florida, United States
-Milan, Italy
 Minato-ku, Japan
+Monroe, Ohio, United States
 Moore Park, Australia
 Morrisville, North Carolina, United States
 Mumbai, India
 Munich, Germany
+New Taipei City, Taiwan
 New York, New York, United States
 Nicasio, California, United States
-Orange, California, United States
 Orlando, Florida, United States
 Oslo, Norway
 Palm Desert, California, United States
@@ -322,6 +317,7 @@ Quarry Bay, Hong Kong
 Raleigh, North Carolina, United States
 Rancho Mirage, California, United States
 Richmond, Australia
+Riverside, California, United States
 San Antonio, Texas, United States
 San Francisco, California, United States
 San Marcos, Texas, United States
@@ -330,29 +326,29 @@ São Paulo, Brazil
 Seattle, Washington, United States
 Seoul, South Korea
 Serris, France
-Sevierville, Tennessee, United States
+Shanghai, Mainland China
 Singapore, Singapore
 Sofia, Bulgaria
-Southington, Connecticut, United States
 Stockholm, Sweden
 Sydney, Australia
+Taipei City, Taiwan
 Tampa, Florida, United States
 The Woodlands, Texas, United States
 Tlalpan, Mexico
 Tokyo, Japan
 Toronto, Canada
-Town of Southington, Connecticut, United States
 Vancouver, Canada
-Warsaw, Poland
+Villeneuve-le-Comte, France
 Washington, DC, United States
+Zagreb, Croatia
 Zurich, Switzerland
 Job Level
 Select
 Professional
 Operations / Production
 Management
-Business Support / Administrative
 Executive
+Business Support / Administrative
 Internships / Programs
 Add
 Remove

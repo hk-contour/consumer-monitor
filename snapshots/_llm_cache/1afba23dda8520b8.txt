@@ -1,0 +1,1 @@
+[ROUTINE] Open positions count decreased from 194 to 180, and news feed rotated with older posts removed and newer posts added (August 2026 dates now featured).

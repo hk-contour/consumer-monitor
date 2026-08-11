@@ -1,0 +1,1 @@
+[ROUTINE] Careers page added five new office locations (Buenos Aires, Madrid, Munich, Stockholm) and rotated blog feed posts with three new articles replacing three older ones.

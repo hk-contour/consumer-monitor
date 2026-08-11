@@ -6,29 +6,25 @@ Snap Inc. is a technology company.
 We believe the camera presents the greatest opportunity to improve the way people live and communicate.
 We contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
 Why Snap?
-956
+971
 million
 monthly active users (MAUs) use Snapchat every month on average.
 1
-More than
-75
+19
 %
-of Snapchatters are engaging with augmented reality every day on average.
+total revenue growth year-over-year.
 1
-Nearly
-70
+115
 %
-of advertising spend now uses at least one of our
-AI-powered automation solutions.
+growth in US Spotlight posters.
 1
-Over $
-1
-billion
-annualized run rate for our Direct Revenue business.
+85
+%
+other revenue growth year-over-year.
 1
 Advertiser Success Stories
-Q1'26 Earnings Slides
-Q1 2026 Quarterly Results
+Q2'26 Earnings Slides
+Q2 2026 Quarterly Results
 View All Results
 Press Releases
 View All News
@@ -55,7 +51,7 @@ Monthly Investor Newsletter
 Unsubscribe
 Email Alert Sign Up Confirmation
 1
-Snap Inc. internal data Q1 2026. See Snap Inc. public filings with the SEC
+Snap Inc. internal data Q2 2026. See Snap Inc. public filings with the SEC
 Company
 Snap Inc.
 Careers
@@ -79,5 +75,5 @@ Terms of Service
 ©
 Snap Inc.
 Powered By Q4 Inc.
-5.183.0.4
+5.184.0.5
 (opens in new window)

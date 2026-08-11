@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001932653</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001581760</issuerCik>
+      <issuerName>Life360, Inc.</issuerName>
+      <secFileNumber>001-42120</secFileNumber>
+      <issuerAddress>
+        <com:street1>1900 SOUTH NORFOLK STREET, SUITE 310</com:street1>
+        <com:city>SAN MATEO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94403</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>415-484-5244</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Morin Brit</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>15582</noOfUnitsSold>
+      <aggregateMarketValue>1012830.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>81480369</noOfUnitsOutstanding>
+      <approxSaleDate>08/10/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>08/10/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>9765</amountOfSecuritiesAcquired>
+      <paymentDate>08/10/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>09/10/2020</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>893</amountOfSecuritiesAcquired>
+      <paymentDate>09/10/2020</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/10/2021</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2060</amountOfSecuritiesAcquired>
+      <paymentDate>03/10/2021</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/08/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>449</amountOfSecuritiesAcquired>
+      <paymentDate>03/08/2022</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>09/08/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1111</amountOfSecuritiesAcquired>
+      <paymentDate>09/08/2022</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/08/2023</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1127</amountOfSecuritiesAcquired>
+      <paymentDate>03/08/2023</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/08/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>177</amountOfSecuritiesAcquired>
+      <paymentDate>06/08/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brittany B. Morin</name>
+        <address>
+          <com:street1>1900 South Norfolk Street</com:street1>
+          <com:street2>Suite 310</com:street2>
+          <com:city>San Mateo</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>06/29/2026</saleDate>
+      <amountOfSecuritiesSold>4655</amountOfSecuritiesSold>
+      <grossProceeds>257125.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Brittany B. Morin</name>
+        <address>
+          <com:street1>1900 South Norfolk Street</com:street1>
+          <com:street2>Suite 310</com:street2>
+          <com:city>San Mateo</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>08/04/2026</saleDate>
+      <amountOfSecuritiesSold>10701</amountOfSecuritiesSold>
+      <grossProceeds>642060.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/10/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>03/13/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Adam Gehring, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Brittany B. Morin</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

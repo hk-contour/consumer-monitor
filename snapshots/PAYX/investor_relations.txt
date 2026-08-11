@@ -9,15 +9,15 @@ Investor AI Presentation
 Latest News
 View Financial News
 View Company News
+Jul 16, 2026
+Paychex Declares Quarterly Dividend
+Read Press Release
 Jun 24, 2026
 Paychex Reports Fourth Quarter and Full-Year 2026 Results
-Read Press Release
 Jun 10, 2026
 Paychex Schedules Fourth Quarter Fiscal 2026 Earnings Conference Call on June 24, 2026
 May 1, 2026
 Paychex Declares a 10% Increase to Quarterly Cash Dividend
-Mar 25, 2026
-Paychex Reports Third Quarter Results
 View Financial News
 View Company News
 Latest Presentation
@@ -25,11 +25,6 @@ Jun 24, 2026
 Fourth Quarter 2026 Investor Presentation
 View Presentation
 View All Presentations
-Recent Event
-Jun 24, 2026 9:30 am EDT
-Fourth Quarter Fiscal 2026 Earnings Release Conference Call
-View Event
-View All Events
 Latest Quarterly Financial Results
 FY 2026
 Fiscal Year Ended May 31, 2026
@@ -40,6 +35,13 @@ Audio
 Earnings Webcast
 Investor Presentation
 PDF
+10-K
+Filing
+PDF
+HTML
+XBRL
+ZIP
+HTML
 $6.51B
 Total Revenue
 $2.81B
@@ -50,14 +52,13 @@ Source: Q4 2026 Earnings Release
 For complete information regarding our financials, see our
 periodic filings
 *Adjusted operating income and adjusted diluted earnings per share (“EPS”) are not U.S. generally accepted accounting principles (“GAAP”) measures. Refer to our Annual Report on Form 10-K for a discussion of these measures and a reconciliation to the corresponding GAAP measures.
-Latest Annual Report
-For Fiscal Year Ending May 31, 2025
-View Interactive Report
+Latest Annual Filing
+For Fiscal Year Ending May 31, 2026
 Download 10-K
 About Paychex
-Paychex, Inc. (Nasdaq: PAYX) is the digitally driven HR leader that is reimagining how companies address the needs of today's workforce with the most comprehensive, flexible, and innovative HCM solutions for organizations of all sizes. Offering a full spectrum of HR advisory and employee solutions, Paychex pays one out of every 11 American private sector workers and is raising the bar in HCM for nearly 800,000 customers in the U.S. and Europe. Every member of the Paychex team is committed to fulfilling the Company's purpose of helping businesses succeed. Visit
-www.paychex.com
-to learn more.
+Paychex, Inc. (Nasdaq: PAYX) provides a comprehensive suite of expert-enabled technology and advisory solutions that help businesses manage HR, payroll, and benefits. Serving approximately 840,000 customers and paying 1 in 11 U.S. private sector workers, Paychex combines scale, trusted expertise, and innovation to help businesses succeed. Built on more than 50 years of workforce experience and one of the industry’s largest proprietary HR datasets, Paychex’s WISE agentic AI engine embeds intelligence directly into workflows to improve productivity, enhance decision-making, and deliver better outcomes. Learn more at
+paychex.com
+.
 Management Solutions
 Our Management Solutions portfolio includes our HCM technology and service solutions including HR, payroll, and retirement services.  Clients can select services a la carte or pick a product bundle.
 Discover Our Solutions
@@ -70,13 +71,24 @@ Business Insurance
 Corporate Responsibility
 We believe in giving back and enriching the lives of those who live in our communities. We fulfill this initiative through community service, operating Paychex responsibly and being a good steward of the environment.
 Learn About Our Corporate Responsibility
+A Shareholder Friendly Company
+For the Fiscal Year ended May 31, 2026
+$1.59B
+Dividends Paid
+43.2%
+Adjusted operating income margin*
+45%
+Return on equity
+For complete information regarding our financials, see our
+periodic filings.
+*Adjusted operating income margin is not a U.S. generally accepted accounting principles (“GAAP”) measure. Refer to our Annual Report on Form 10-K for a discussion of these measures and a reconciliation to the corresponding GAAP measures.
 Paychex’s Growth Year Over Year
 Total Revenue ($M)
-As of May 31, 2025
+As of May 31, 2026
 Adjusted Operating Income ($M)*
-As of May 31, 2025
+As of May 31, 2026
 Adjusted EPS*
-As of May 31, 2025
+As of May 31, 2026
 *Adjusted Operating Income and Adjusted EPS are Non-GAAP measures. Refer to the Management’s Discussion and Analysis section of our quarterly and annual SEC filings for a discussion of this measure as well as a reconciliation to the closest GAAP measure.
 View Most Recent Reconciliation
 For complete information regarding our financials, see our

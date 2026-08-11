@@ -5,12 +5,15 @@ Location:
 Locations
 Amsterdam
 Berlin
+Buenos Aires
 Chicago
 Dublin
 Hamburg
 London
 Los Angeles
+Madrid
 Mexico City
+Munich
 New York
 Palo Alto
 Paris
@@ -19,6 +22,7 @@ San Francisco
 São Paulo
 Seattle
 Singapore
+Stockholm
 Sydney
 Tokyo
 Toronto
@@ -42,6 +46,18 @@ Discover your next career move
 View all jobs
 Life at Pinterest Blog
 Explore the blog
+Tuesday, July 28, 2026
+Inside Programmatic: Meet the Programmatic Tech Ops team
+In the next edition of Inside Programmatic, we’re introducing our global Programmatic Technical Operations team. You’ll hear from Megan Ericson, Director of Programmatic Tech Ops, who shares what the team is building. From there, you’ll meet the team and learn what inspired them to join Pinterest.
+Read the full article
+Thursday, July 23, 2026
+Create Belonging: Meet Ricky Romero from Latin@
+Our Create Belonging series introduces Pinclusion Group leaders and members who bring this core value to life through their day-to-day work, engagement within their ERG and involvement in the community. Meet Ricky Romero, who discusses taking on a new role as our Latin@ Executive Sponsor.
+Read the full article
+Thursday, July 16, 2026
+Spotlight on Zurich: Meet Florian Buron, Director, Engineering
+In our Spotlight on Zurich series, we’re meeting the people behind the product in Switzerland. Next up, meet Florian Buron, Director of Engineering. Florian tells us more about his experience joining Pinterest in early 2026, his advice to others interested in Pinterest and his work on shopping.
+Read the full article
 Tuesday, July 07, 2026
 Pinterest Engineering: Meet Grace Mtawali from Seattle
 Grace Mtawali interned at Pinterest during the Summer 2025 season. Now, she’s back on the team as a Software Engineer I within our Monetization org. Learn more about what led Grace back to Pinterest, how she’s using AI within her role and her note to aspiring interns.
@@ -61,18 +77,6 @@ Read the full article
 Monday, June 15, 2026
 The Future of Inclusion: Pride 2026
 This June, we’re celebrating Pride Month at Pinterest aligned to the theme, “The Future of Inclusion.” The Future of Inclusion is a celebration of possibility: a future where LGBTQIA+ people are not just welcomed, but empowered, represented, and able to thrive.
-Read the full article
-Friday, June 12, 2026
-In Conversation with Lucas Brinkmann, Managing Director, DACH
-Earlier this year, we were thrilled to welcome Lucas Brinkmann to Pinterest as our new Managing Director, DACH. We sat down with Lucas to learn what drew him to Pinterest, what his interview experience was like, and what makes the DACH market and team so special.
-Read the full article
-Friday, May 29, 2026
-Behind the Boards: Enterprise Sales Interview Insight
-I hire across our Global Business Organization, with a focus on our US Enterprise and Mid-Market Sales teams. My advice to candidates considering a role here would be to make sure your experience and examples clearly reflect the four themes I'm sharing in this blog article. Check it out!
-Read the full article
-Wednesday, May 20, 2026
-Behind the Screens with tvScientific: Meet Emily Robinson, VP, Marketing
-In April 2026, Pinterest announced tvScientific by Pinterest. It's a significant moment for the business, and exactly the kind of growth that brings remarkable people to our team. Meet Emily Robinson, VP of Marketing for tvScientific by Pinterest.
 Read the full article
 Back to top
 Join our talent community

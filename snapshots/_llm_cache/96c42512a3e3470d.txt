@@ -1,0 +1,1 @@
+[ROUTINE] Newsroom page footer added placeholder text and year-filter UI elements that appear to be under development or testing.
