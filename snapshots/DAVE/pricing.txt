@@ -10,7 +10,6 @@ Confirm your settlement
 When you transfer the money, your ExtraCash account balance becomes negative. Your settlement date is the day you agree to bring your ExtraCash account balance back to $0.
 Settle your balance
 On your settlement date, we automatically pay back the ExtraCash taken (plus express fees and optional tips) using your connected bank accounts based on your available funds. This brings your negative account balance to $0. If you canât pay the full balance, we run partial settlements instead. We donât charge interest or late fees, so settling up wonât come with surprises.
-Tip:
-To ensure your settlement runs smoothly, donât disconnect or change your connected bank account information between the time you request ExtraCash and your settlement date.
+Tip: To ensure your settlement runs smoothly, donât disconnect or change your connected bank account information between the time you request ExtraCash and your settlement date.
 Get ready for more money
 Your settlement can take 1â3 business days to post to your ExtraCash account. Once it does and your balance is $0 (or above), the âcool-off periodâ ends and you can try to get more ExtraCash.

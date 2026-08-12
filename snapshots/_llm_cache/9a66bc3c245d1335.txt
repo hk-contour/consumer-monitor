@@ -1,0 +1,1 @@
+[ROUTINE] Navigation menu labels changed from Korean to English across the newsroom blog page.

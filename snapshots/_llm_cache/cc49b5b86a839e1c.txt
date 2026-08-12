@@ -1,0 +1,1 @@
+[MATERIAL] Shopify repriced all core plans downward in USD (Basic CA$37→$29, Grow CA$99→$79, Advanced CA$389→$299, Plus CA$3,400→$2,300) and shifted pricing currency from CAD to USD; also increased payment processing rates across most card types and expanded shipping discounts (45%→87% on Grow plan). Added new Tax features section and PayPal Wallet as payment option.

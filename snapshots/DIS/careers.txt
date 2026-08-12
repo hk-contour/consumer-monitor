@@ -51,11 +51,11 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-9
+10
 Business Strategy and Development Jobs
 15
 Human Resources Jobs
-20
+21
 Legal and Business Affairs Jobs
 17
 Project Management Jobs
@@ -79,11 +79,11 @@ From imagining the latest Toy Story movie to designing a costume made for a prin
 Animation and Visual Effects Jobs
 34
 Creative Jobs
-28
+29
 Gaming and Interactive Jobs
-7
+8
 Marketing and Digital Media Jobs
-42
+43
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,7 +93,7 @@ There’s magic in numbers. And our innovative professionals in data, finance an
 Data Science and Analytics Jobs
 8
 Finance and Accounting Jobs
-31
+32
 View Selected Jobs
 Reset
 Guest / Customer Service
@@ -105,7 +105,7 @@ Culinary Jobs
 Food and Beverage Jobs
 26
 Hotel and Resorts Jobs
-38
+39
 Maritime and Cruise Operations Jobs
 20
 Retail Operations Jobs
@@ -123,7 +123,7 @@ Our company, products and services are powered by advanced technologies and dedi
 Data Science and Analytics Jobs
 8
 Engineering Jobs
-12
+13
 Health Services Jobs
 2
 Quality Assurance Jobs
@@ -133,9 +133,9 @@ Research and Development Jobs
 Sciences and Animal Programs Jobs
 3
 Supply Chain Management Jobs
-3
+4
 Technology Jobs
-200
+199
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -147,9 +147,9 @@ Animation and Visual Effects Jobs
 Communications Jobs
 9
 Creative Jobs
-28
+29
 Marketing and Digital Media Jobs
-42
+43
 Sales Jobs
 13
 View Selected Jobs
@@ -161,7 +161,7 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 3
 Building, Construction and Facilities Jobs
-61
+60
 Health Services Jobs
 2
 Maritime and Cruise Operations Jobs
@@ -171,7 +171,7 @@ Sciences and Animal Programs Jobs
 Security Jobs
 18
 Supply Chain Management Jobs
-3
+4
 View Selected Jobs
 Reset
 Production & Entertainment

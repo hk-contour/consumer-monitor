@@ -1,46 +1,46 @@
 You've got plans. Us too.
-Try 3 days free, then CA$1/month for 3 months.
+Try 3 days free, then $1/month for 3 months.
 Pay yearly
 Compare all features
 Basic
-CA$37
+$29
 /mo
 For solo entrepreneurs
 Start for free
 Sell online, in person, and in AI chats
-Card rates from 2.8% + 30¢ CAD
+Card rates from 2.9% + 30¢ USD
 AI assistant for commerce: content, insights, store tasks, and more
 Millions of tokens
-Earn up to $6,000 in credits
+Earn up to $5,000 in credits
 Grow
-CA$99
+$79
 /mo
 For small teams
 Start for free
 Everything in Basic
-Card rates from 2.6% + 30¢ CAD
+Card rates from 2.7% + 30¢ USD
 Up to 5 staff accounts
-Up to 50% off shipping
-Earn up to $9,500 in credits
+Up to 87% off shipping
+Earn up to $7,500 in credits
 Advanced
-CA$389
+$299
 /mo
 For global reach
 Start for free
 Everything in Grow
-Card rates from 2.4% + 30¢ CAD
+Card rates from 2.5% + 30¢ USD
 Up to 15 staff accounts
 Live 3rd-party shipping rates
 Tailor your store by region
-Earn up to $13,000 in credits
+Earn up to $10,000 in credits
 Plus
 from
-CA$3,400
+$2,300
 /mo
 For complex businesses
-Try for CA$517
+Try for $399
 Everything in Advanced
-Card rates from 2.15% + 30¢ CAD
+Card rates from 2.25% + 30¢ USD
 Unlimited staff accounts
 Fully customizable checkout
 Up to 200 POS Pro locations
@@ -75,7 +75,7 @@ Show up where shoppers scroll and search with multichannel integration.
 But wait, there’s more
 POS Pro
 Add on
-+CA$119
++$89
 /mo
 For physical storefronts
 Learn more
@@ -84,14 +84,14 @@ Unlimited staff roles & permissions
 In-store inventory management
 In-store pickup & flexible delivery
 Agentic
-CA$0
+$0
 /mo
 For selling in AI channels
 Start for free
 Add your products to Shopify's Catalog
 Choose which AI channels to sell in
 Only pay when you make a sale
-Card rates from 2.8% + 30¢ CAD online
+Card rates from 2.9% + 30¢ USD online
 Word on the street
 “Shopify’s ever-improving platform has made it easy for FTC to manage orders, inventory, marketing and analytics in one easy-to-use place.”
 —Kent Uyehara, Founder, FTC
@@ -107,12 +107,12 @@ Plus
 Start for free
 Pricing
 Pay monthly
-$49 CAD/mo
+$39 USD/mo
 Pay yearly
-$37 CAD/mo
+$29 USD/mo
 Core features
 Earn 1% back on all sales
-Up to $6,000 CAD
+Up to $5,000 USD
 Online store
 Full-featured
 Themes and templates
@@ -135,7 +135,7 @@ Free Shopify Academy courses
 In-person sales
 Casual, in-person sales at pop-ups and events
 POS Pro: Advanced tools for brick‑and‑mortar retailers
-$119 CAD/mo per location
+$89/mo per location
 AI features
 Website builder
 Millions of tokens
@@ -143,19 +143,23 @@ Sidekick, AI assistant for commerce
 Accepting payments
 Shopify Payments
 Online standard card rates
-2.8% + 30¢ CAD
-Online Amex card rates
-3.5% + 30¢ CAD
+2.9% + 30¢
+Online premium card rates
+3.5% + 30¢
 Online international rates
-3.5% + 30¢ CAD
++ 1%
+PayPal Wallet rates
+Starting at 3.49% + 49¢
 MB WAY rates
-3.5% + 30¢ CAD
+3.9% + 30¢
 Bizum rates
-3.5% + 30¢ CAD
+3.9% + 30¢
 In-person card rates
-2.6% + 0¢ CAD
-In-person Interac rates
-0% + 15¢ CAD
+2.6% + 10¢
+USDC rates
+2.9% + 30¢
+In-person manual rates
+3.5% + 10¢
 Third-party transaction fees
 2%
 Built-in fraud analysis*
@@ -178,7 +182,7 @@ Sell gift cards
 Acquire customers risk-free with Shop Campaigns
 Shipping
 Shipping discounts
-Up to 45% off
+Up to 87% off
 Buy and print shipping labels
 Shipping insurance*
 3rd-party calculated shipping rates
@@ -188,7 +192,7 @@ Import unlimited orders from marketplaces
 50 synced marketplace orders per month
 Free
 Over 50 synced marketplace orders
-1% up to $99 CAD/mo
+1% up to $99/mo
 Customization
 Integrate with 1000s of apps
 Checkout customization
@@ -214,6 +218,13 @@ Flexible growth funding through Shopify Capital²
 Shopify Credit pay-in-full Visa® card³
 Up to 3% cashback
 Schedule, pay, and manage bills with Shopify Bill Pay
+Tax
+Automated sales tax calculations
+Tax liability tracking
+Shopify Tax automated filing
+VAT validation, exemptions, and invoicing
+Advanced tax platform
+Add on
 Just for Plus
 High volume checkout
 Merchandise with Shopify Combined Listings
@@ -234,23 +245,23 @@ Start for free
 Advanced
 Start for free
 Plus
-Try for CA$517
+Try for $399
 Pricing
 Pay monthly
-$49 CAD/mo
-$132 CAD/mo
-$517 CAD/mo
-Starts at $3,400 CAD/mo
+$39 USD/mo
+$105 USD/mo
+$399 USD/mo
+Starts at $2,300 USD/mo
 Pay yearly
-$37 CAD/mo
-$99 CAD/mo
-$389 CAD/mo
+$29 USD/mo
+$79 USD/mo
+$299 USD/mo
 Core features
 Earn 1% back on all sales
-Up to $6,000 CAD
-Up to $9,500 CAD
-Up to $13,000 CAD
-Up to $18,000 CAD
+Up to $5,000 USD
+Up to $7,500 USD
+Up to $10,000 USD
+Up to $15,000 USD
 Online store
 Full-featured
 Full-featured
@@ -288,9 +299,9 @@ Free Shopify Academy courses
 In-person sales
 Casual, in-person sales at pop-ups and events
 POS Pro: Advanced tools for brick‑and‑mortar retailers
-$119 CAD/mo per location
-$119 CAD/mo per location
-$119 CAD/mo per location
+$89/mo per location
+$89/mo per location
+$89/mo per location
 Includes 20 locations. Up to 200 with Shopify Payments.
 AI features
 Website builder
@@ -299,39 +310,49 @@ Sidekick, AI assistant for commerce
 Accepting payments
 Shopify Payments
 Online standard card rates
-2.8% + 30¢ CAD
-2.6% + 30¢ CAD
-2.4% + 30¢ CAD
+2.9% + 30¢
+2.7% + 30¢
+2.5% + 30¢
 Most competitive rates
-Online Amex card rates
-3.5% + 30¢ CAD
-3.4% + 30¢ CAD
-3.3% + 30¢ CAD
+Online premium card rates
+3.5% + 30¢
+3.3% + 30¢
+3.1% + 30¢
 Most competitive rates
 Online international rates
-3.5% + 30¢ CAD
-3.4% + 30¢ CAD
-3.3% + 30¢ CAD
++ 1%
++ 1%
++ 1%
+Most competitive rates
+PayPal Wallet rates
+Starting at 3.49% + 49¢
+Starting at 3.49% + 49¢
+Starting at 3.49% + 49¢
 Most competitive rates
 MB WAY rates
-3.5% + 30¢ CAD
-3.4% + 30¢ CAD
-3.3% + 30¢ CAD
+3.9% + 30¢
+3.7% + 30¢
+3.5% + 30¢
 Most competitive rates
 Bizum rates
-3.5% + 30¢ CAD
-3.4% + 30¢ CAD
-3.3% + 30¢ CAD
+3.9% + 30¢
+3.7% + 30¢
+3.5% + 30¢
 Most competitive rates
 In-person card rates
-2.6% + 0¢ CAD
-2.5% + 0¢ CAD
-2.4% + 0¢ CAD
+2.6% + 10¢
+2.5% + 10¢
+2.4% + 10¢
 Most competitive rates
-In-person Interac rates
-0% + 15¢ CAD
-0% + 15¢ CAD
-0% + 15¢ CAD
+USDC rates
+2.9% + 30¢
+2.7% + 30¢
+2.5% + 30¢
+Most competitive rates
+In-person manual rates
+3.5% + 10¢
+3.5% + 10¢
+3.5% + 10¢
 Most competitive rates
 Third-party transaction fees
 2%
@@ -358,10 +379,10 @@ Sell gift cards
 Acquire customers risk-free with Shop Campaigns
 Shipping
 Shipping discounts
-Up to 45% off
-Up to 50% off
-Up to 53% off
-Up to 53% off
+Up to 87% off
+Up to 87% off
+Up to 87% off
+Up to 87% off
 Buy and print shipping labels
 Shipping insurance*
 3rd-party calculated shipping rates
@@ -375,10 +396,10 @@ Free
 Free
 Free
 Over 50 synced marketplace orders
-1% up to $99 CAD/mo
-1% up to $99 CAD/mo
-1% up to $99 CAD/mo
-1% up to $99 CAD/mo
+1% up to $99/mo
+1% up to $99/mo
+1% up to $99/mo
+1% up to $99/mo
 Customization
 Integrate with 1000s of apps
 Checkout customization
@@ -422,6 +443,16 @@ Up to 3% cashback
 Up to 3% cashback
 Up to 3% cashback
 Schedule, pay, and manage bills with Shopify Bill Pay
+Tax
+Automated sales tax calculations
+Tax liability tracking
+Shopify Tax automated filing
+VAT validation, exemptions, and invoicing
+Advanced tax platform
+Add on
+Add on
+Add on
+Add on
 Just for Plus
 High volume checkout
 Merchandise with Shopify Combined Listings
@@ -438,7 +469,7 @@ FAQs
 What is Shopify and how does it work?
 Shopify is an all-in-one commerce platform that lets you create an online store, accept payments, and sell on social channels and in person—all from one dashboard. Build a professional storefront, manage products and inventory, process orders and shipping, automate marketing and SEO, analyze sales, and run your business from web or mobile—no coding required.
 How much does Shopify cost?
-Shopify starts with a free 3-day trial—no credit card required. After your trial, most plans start at just CA$1 per month for the first 3 months, then switch to standard monthly pricing.
+Shopify starts with a free 3-day trial—no credit card required. After your trial, most plans start at just $1 per month for the first 3 months, then switch to standard monthly pricing.
 Additionally, you can choose to add POS Pro to your subscription for more advanced point of sale features like staff roles and permissions, exchanges, and flexible customer pickup and delivery options.
 Can I cancel or change my subscription anytime?
 Yes. If you ever decide that Shopify isn't the best commerce platform for your business, simply cancel your account.
@@ -459,8 +490,8 @@ Yes. Shopify includes secure commerce hosting with your Shopify plan, so you don
 Additionally, you can use the Buy Button sales channel to embed buy buttons on an external website or blog, and let customers check out using Shopify Checkout.
 Turn plans into progress
 3 days free
-Extend your trial for CA$1
-Earn up to CA$13,000 in credits
+Extend your trial for $1
+Earn up to $10,000 in credits
 Enter your email address
 Start for free
 Start for free

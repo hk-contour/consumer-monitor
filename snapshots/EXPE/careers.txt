@@ -134,6 +134,7 @@ Germany
 India
 Ireland
 Italy
+Japan
 Malaysia
 New Zealand
 Spain
@@ -196,6 +197,7 @@ Germany
 India
 Ireland
 Italy
+Japan
 Malaysia
 New Zealand
 Spain
@@ -205,10 +207,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-188
+182
 openings
 in
-17
+18
 countries.
 We're hiring in
 19
@@ -345,6 +347,7 @@ Germany
 India
 Ireland
 Italy
+Japan
 Malaysia
 New Zealand
 Spain

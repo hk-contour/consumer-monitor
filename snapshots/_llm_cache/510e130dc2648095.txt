@@ -1,0 +1,1 @@
+[ROUTINE] Careers page added Japan to list of hiring locations and updated job opening count from 188 to 182 across 18 countries (previously 17).

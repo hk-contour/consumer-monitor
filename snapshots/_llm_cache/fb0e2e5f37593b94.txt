@@ -1,0 +1,1 @@
+[ROUTINE] Internal identifier sequence reordered in account creation section footer; no functional change to terms content or user-facing functionality.

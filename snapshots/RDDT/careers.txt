@@ -104,6 +104,10 @@ Principal Data Scientist, Ads
 Principal Data Scientist, Ads
 Remote - United States
 Data Science
+Senior Data Scientist
+Senior Data Scientist
+San Francisco, CA
+Data Science
 Senior Data Scientist, Ads
 Senior Data Scientist, Ads
 Remote - Ontario, Canada
@@ -215,11 +219,9 @@ Senior Backend Engineer, IAM
 Senior Backend Engineer, IAM
 Remote - United States
 Engineering
-Senior Business Engineer
-Senior Business Engineer
-Remote - Ontario, Canada
-Engineering
 Senior Business Engineer - Ads
+Senior Business Engineer - Ads
+Remote - British Columbia, Canada
 Senior Business Engineer - Ads
 Remote - United States
 Engineering
@@ -235,6 +237,10 @@ Remote - United Kingdom
 Engineering
 Senior Machine Learning Engineer, GenAI Security
 Senior Machine Learning Engineer, GenAI Security
+Remote - United States
+Engineering
+Senior Machine Learning Manager, Video Ranking
+Senior Machine Learning Manager, Video Ranking
 Remote - United States
 Engineering
 Senior Machine Learning Systems Engineer
@@ -299,10 +305,6 @@ Remote - United States
 Engineering
 Senior Staff Machine Learning Engineer, GenAI Platform
 Senior Staff Machine Learning Engineer, GenAI Platform
-Remote - United States
-Engineering
-Senior Staff Machine Learning Engineer, ML Understanding
-Senior Staff Machine Learning Engineer, ML Understanding
 Remote - United States
 Engineering
 Senior Staff Machine Learning Engineer, Notifications
@@ -478,12 +480,8 @@ Senior Product Manager, Ads -  Shopping Catalogs
 Senior Product Manager, Ads -  Shopping Catalogs
 Remote - United States
 Product
-Staff Product Manager, Ads Trust and Safety
-Staff Product Manager, Ads Trust and Safety
-Remote - United States
-Product
-Staff Product Manager, Games Ecosystem
-Staff Product Manager, Games Ecosystem
+Staff Product Manager, Ads Safety (Ads Review)
+Staff Product Manager, Ads Safety (Ads Review)
 Remote - United States
 Product
 Staff Product Manager, Growth
@@ -541,14 +539,6 @@ Lead Product Adoption Strategist, Mid-Market
 Lead Product Adoption Strategist, Mid-Market
 Remote - United States
 Sales
-Manager, Large Customer Sales (Auto, Media & Entertainment, Telco)
-Manager, Large Customer Sales (Auto, Media & Entertainment, Telco)
-Toronto, Canada
-Sales
-Manager, Large Customer Sales (Financial Services)
-Manager, Large Customer Sales (Financial Services)
-Toronto, Canada
-Sales
 Manager, Technical Solutions
 Manager, Technical Solutions
 Los Angeles, CA
@@ -590,14 +580,6 @@ Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 Chicago, IL
 Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 New York City, NY
-Sales
-Senior Client Account Manager, Large Customer Sales (Retail)
-Senior Client Account Manager, Large Customer Sales (Retail)
-Toronto, Canada
-Sales
-Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)
-Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)
-Toronto, Canada
 Sales
 Senior Client Partner, Acquisitions DACH
 Senior Client Partner, Acquisitions DACH
