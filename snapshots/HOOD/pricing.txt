@@ -3,11 +3,8 @@ Account and login
 Investing
 Investing with stocks: Special cases
 Day trading
-Pattern day trading
 Trading fees on Robinhood
-Day trade calls
 About Regulation T calls
-Pattern Day Trade Protection
 Wash sales
 American Depositary Receipts
 Agentic trading and cards
@@ -21,6 +18,7 @@ Retirement
 Robinhood Concierge
 Bank transfers and linking
 Robinhood Banking
+Robinhood Platinum Credit Card
 Robinhood Gold Credit Card
 Spending
 Robinhood Wallet

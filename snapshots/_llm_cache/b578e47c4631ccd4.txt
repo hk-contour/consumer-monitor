@@ -1,0 +1,1 @@
+[ROUTINE] Navigation menu restructured with removal of three pattern day trading-related help articles and addition of Robinhood Platinum Credit Card link. No pricing or feature changes to core trading or subscription products.

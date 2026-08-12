@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page layout reorganized with navigation header reordered, form confirmation messages added, and comparison table for AP/AR tiers (Standard vs. Enterprise) inserted; minor formatting fixes to pricing display ("$49/month" hyphenation, button repositioning).

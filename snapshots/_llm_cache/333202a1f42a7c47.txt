@@ -1,0 +1,1 @@
+[ROUTINE] Careers page navigation menu restructured with breadcrumb links added; minor duplicate text in footer section.

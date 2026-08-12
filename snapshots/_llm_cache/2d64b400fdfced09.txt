@@ -1,0 +1,1 @@
+[MATERIAL] Shopify Balance earnings rates increased from 2.28% to 2.29% for standard plans and 3.30% to 3.31% for Plus plans. Added support for MB WAY and Bizum payment methods with 3.9% + 30¢ base rates and tiered competitive pricing.

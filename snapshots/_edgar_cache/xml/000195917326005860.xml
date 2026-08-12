@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001869139</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001650164</issuerCik>
+      <issuerName>Toast, Inc.</issuerName>
+      <secFileNumber>001-40819</secFileNumber>
+      <issuerAddress>
+        <com:street1>333 SUMMER STREET</com:street1>
+        <com:city>BOSTON</com:city>
+        <com:stateOrCountry>MA</com:stateOrCountry>
+        <com:zipCode>02210</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>617-297-1005</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Narang Aman</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>119843</noOfUnitsSold>
+      <aggregateMarketValue>4239826.23</aggregateMarketValue>
+      <noOfUnitsOutstanding>514000000</noOfUnitsOutstanding>
+      <approxSaleDate>08/10/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>12/22/2011</acquiredDate>
+      <natureOfAcquisitionTransaction>Founders Shares</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>119843</amountOfSecuritiesAcquired>
+      <paymentDate>12/22/2011</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Aman Narang</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/02/2026</saleDate>
+      <amountOfSecuritiesSold>14365</amountOfSecuritiesSold>
+      <grossProceeds>414418.76</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Starlight 2026 Charitable Remainder Trust</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/05/2026</saleDate>
+      <amountOfSecuritiesSold>124542</amountOfSecuritiesSold>
+      <grossProceeds>4395549.07</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Starlight 2026 Charitable Remainder Trust</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/06/2026</saleDate>
+      <amountOfSecuritiesSold>13510</amountOfSecuritiesSold>
+      <grossProceeds>473130.77</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Starlight 2026 Charitable Remainder Trust</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/07/2026</saleDate>
+      <amountOfSecuritiesSold>42105</amountOfSecuritiesSold>
+      <grossProceeds>1479138.78</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Todays trade and past 90 history took place in the Starlight 2026 Charitable Remainder Trust of whom Aman Narang is an an Account Stakeholder.</remarks>
+    <noticeSignature>
+      <noticeDate>08/10/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>03/13/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Joshua Schmitt, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Aman Narang.</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

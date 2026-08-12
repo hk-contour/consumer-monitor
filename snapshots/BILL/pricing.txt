@@ -1,6 +1,6 @@
-Pricing and plans
 For businesses
 For accountants
+Pricing and plans
 Spend 50% less time on AP and automate invoicing and get paid 2x faster. Access credit lines from $1000-$5M.
 *
 Startups, established brands, and accountants do more with BILL.
@@ -450,6 +450,15 @@ All BILL customers have access to our Help Center and dedicated support team. De
 Ready to get started?
 Join the millions who pay and get paid with BILL.
 Get Started
+Accounts Payable & Receivable
+Spend & Expense
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+By continuing, you agree to BILL's
+Terms of Service
+and acknowledge our
+Privacy Notice
+.
 Spend & Expense
 $
 0
@@ -473,8 +482,8 @@ Access API and developer resources
 1
 Credit lines and the advertised range are not guaranteed and will be determined upon application approval.
 What's included?
-Business Credit –
-Get access to the funding you need, no matter the size of your business.
+Business Credit
+- Get access to the funding you need, no matter the size of your business.
 Spend Management –
 Build a budget with admins and users, divvy out funds, and watch spend come in exactly on target.
 Expense Management –
@@ -551,31 +560,107 @@ All BILL customers have access to our Help Center and dedicated support team. De
 Ready to get started?
 Join the millions who pay and get paid with BILL.
 Get Started
+Accounts Payable & Receivable
+Spend & Expense
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+By continuing, you agree to BILL's
+Terms of Service
+and acknowledge our
+Privacy Notice
+.
+Pricing and plans
 Spend 50% less time on AP. Get paid 2X faster. Access credit lines from $1000-$5M
 *
 . Startups, established brands, and accountants do more with BILL.
 BILL AP & AR Partner
 $
 49
-month
-Get Started
+/month
 Access both BILL Accounts Payable and BILL Accounts Receivable
 Get wholesale client subscription pricing, which you can resell to clients at substantial margins or pass the savings on to them
 Get an additional 10-20% client subscription discount based on number of clients onboarded
+Get Started
 Explore all
 BILL AP & AR Partner Program benefits.
 BILL Spend & Expense Partner
 $
 0
 Free-to-use for you and your clients
-Get Started
 Access BILL Spend & Expense
 Get the credit your clients need and the software to manage it with no contracts and no hidden fees
-Access API and developer resources
+Get Started
 Explore all
 BILL Spend & Expense Partner Program benefits.
 *Credit lines and the advertised range are not guaranteed and will be determined upon application approval.
-Priority live chat and phone support for all accountant partners
+Compare All plans
+Scroll to view
+BILL Accounts Payable
+Standard
+Enterprise
+Easily enter bills
+Automate approval workflows
+Pay by ACH, virtual card, credit card, and more
+Manage bills from a centralized inbox
+Securely connect with vendors via the BILL network
+Standard approval policies
+Payable insights
+Custom approval policies
+6 standard user roles
+Custom user roles
+BILL Accounts Receivable
+Standard
+Enterprise
+Create professional, custom invoices
+Send invoices flexibly
+Track invoices easily
+Automate payment reminders
+Get paid by ACH and credit card
+Set auto-charge and auto-pay
+Integrations
+Standard
+Enterprise
+QuickBooks Online, Pro, Premier
+Xero
+QuickBooks Enterprise
+Oracle NetSuite, Sage Intacct, Microsoft Dynamics
+Procurement
+Standard
+Enterprise
+Easily create purchase requests
+Add-on
+Create and send purchase orders
+Add-on
+2-way matching
+Add-on
+Add unlimited purchase requesters for free
+Add-on
+Console
+Standard
+Enterprise
+One place to manage clients, tasks, and staff
+Multi-Entity
+Standard
+Enterprise
+Entity level bulk actions
+Add-on
+Centralized inbox
+Add-on
+Multi-Entity reporting
+Add-on
+Extras
+Standard
+Enterprise
+API access
+Cash flow forecasting (QBO users)
+Single sign-on
+Dual control
+Premium phone support
+Transaction discounts
+Standard
+Enterprise
+$0.59 ACH fees and $1.99 check fees
+Priority live chat and phone support for all accountant partners
 Visit the Help Center to connect with a support advocate and learn more about business hours.
 Get Help
 Frequently asked questions
@@ -641,8 +726,18 @@ Most firms can get started on
 BILL for Accounting Firms
 using the onboarding tools, templates, and training included with their program, without mandatory implementation fees.
 For larger or more complex practices—especially those rolling out BILL across many entities or ERPs—BILL may offer optional migration, configuration, or training services, which are scoped and priced based on your specific needs. The best way to understand what this would look like for your firm is to speak with BILL’s accountant team or request pricing through the Pricing for Accountants page.
-Over 90 of the top 100 US accounting firms partner with BILL
+98 of the top 100 US accounting
+firms partner with BILL
 *
 Become a Partner Today
-*
-As of December 2025.
+Accounts Payable & Receivable
+Spend & Expense
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+By continuing, you agree to BILL's
+Terms of Service
+and acknowledge our
+Privacy Notice
+.
+1
+As of March 2026.

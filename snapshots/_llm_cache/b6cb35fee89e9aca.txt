@@ -1,0 +1,1 @@
+[ROUTINE] Terms of Service page title changed from "Toast Guest Terms of Service" to "Terms of Service" with minor language updates removing "Guest" references; no substantive legal or operational changes detected.

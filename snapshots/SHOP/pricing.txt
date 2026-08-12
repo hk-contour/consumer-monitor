@@ -38,7 +38,7 @@ from
 $2,300
 /mo
 For complex businesses
-Start for $399
+Try for $399
 Everything in Advanced
 Card rates from 2.25% + 30¢ USD
 Unlimited staff accounts
@@ -118,7 +118,6 @@ Full-featured
 Themes and templates
 Sell unlimited products
 World's best-converting checkout
-Agentic commerce
 Sell on social and marketplaces
 Sell in AI chats
 Shopify B2B
@@ -151,6 +150,10 @@ Online international rates
 + 1%
 PayPal Wallet rates
 Starting at 3.49% + 49¢
+MB WAY rates
+3.9% + 30¢
+Bizum rates
+3.9% + 30¢
 In-person card rates
 2.6% + 10¢
 USDC rates
@@ -169,7 +172,7 @@ Marketing
 Unlimited contacts
 Create customer segments
 Create email campaigns
-Create SMS campaigns
+Pay-per-send SMS campaigns
 Capture customer leads
 Chat with customers
 Create marketing automations
@@ -201,7 +204,7 @@ Standard
 Build headless storefronts
 1
 Sell globally
-Integrated translations
+Translate your storefront
 Show prices in local currencies*
 Localized selling with Shopify Markets
 Accept local payment methods*
@@ -210,7 +213,7 @@ Estimate and collect duties and taxes
 *Requires Shopify Payments
 Finance
 Manage money with Shopify Balance¹
-2.28% earnings rate
+2.29% earnings rate
 Flexible growth funding through Shopify Capital²
 Shopify Credit pay-in-full Visa® card³
 Up to 3% cashback
@@ -242,7 +245,7 @@ Start for free
 Advanced
 Start for free
 Plus
-Start for $399
+Try for $399
 Pricing
 Pay monthly
 $39 USD/mo
@@ -267,7 +270,6 @@ Full-featured
 Themes and templates
 Sell unlimited products
 World's best-converting checkout
-Agentic commerce
 Sell on social and marketplaces
 Sell in AI chats
 Shopify B2B
@@ -327,6 +329,16 @@ Starting at 3.49% + 49¢
 Starting at 3.49% + 49¢
 Starting at 3.49% + 49¢
 Most competitive rates
+MB WAY rates
+3.9% + 30¢
+3.7% + 30¢
+3.5% + 30¢
+Most competitive rates
+Bizum rates
+3.9% + 30¢
+3.7% + 30¢
+3.5% + 30¢
+Most competitive rates
 In-person card rates
 2.6% + 10¢
 2.5% + 10¢
@@ -357,7 +369,7 @@ Marketing
 Unlimited contacts
 Create customer segments
 Create email campaigns
-Create SMS campaigns
+Pay-per-send SMS campaigns
 Capture customer leads
 Chat with customers
 Create marketing automations
@@ -411,7 +423,7 @@ Build headless storefronts
 1
 25
 Sell globally
-Integrated translations
+Translate your storefront
 Show prices in local currencies*
 Localized selling with Shopify Markets
 Accept local payment methods*
@@ -420,10 +432,10 @@ Estimate and collect duties and taxes
 *Requires Shopify Payments
 Finance
 Manage money with Shopify Balance¹
-2.28% earnings rate
-2.28% earnings rate
-2.28% earnings rate
-3.30% earnings rate
+2.29% earnings rate
+2.29% earnings rate
+2.29% earnings rate
+3.31% earnings rate
 Flexible growth funding through Shopify Capital²
 Shopify Credit pay-in-full Visa® card³
 Up to 3% cashback
@@ -494,7 +506,7 @@ Program Terms
 .
 The Balance earnings rate is a reward provided by Shopify and is not interest. The rate is variable, subject to change without notice, and accurate as of <DATE>. The reward accrues daily and is paid monthly in the form of a credit to your Balance account. ACH limits may apply. See
 Reward Terms
-. Stores on Shopify Plus are rewarded with 3.3%, and all other plans receive 2.28%.
+. Stores on Shopify Plus are rewarded with 3.31%, and all other plans receive 2.29%.
 "Cashback" refers to rewards earned as a percentage discount on eligible purchases. Earn 3% cashback as a statement credit on up to US$250,000 of annual eligible purchases in your monthly top spend category—either marketing, fulfillment, or wholesale, and 1% cashback thereafter. Earn 1% cashback on the other two spend categories. Restrictions apply. See
 Program Terms
 for details. By default, you are opted in to paying your full statement balance by an automatic debit from your designated bank account within 1 month to avoid fees. You have the option to switch to making daily payments from your sales and take up to 10 months to pay your full statement balance, for a fee. If payment is not received in full within 10 months, a 2% monthly late fee will apply to your past-due balance.

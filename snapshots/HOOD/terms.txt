@@ -1,4 +1,4 @@
-Revised May 29, 2026
+Revised July 6, 2026
 Robinhood Financial LLC & Robinhood Securities, LLC
 Customer Agreement
 1. Introduction.
@@ -8,8 +8,11 @@ Agreement, “Robinhood”) may open and operate one or more accounts on your be
 sale or carrying of securities or contracts relating thereto or the borrowing of funds (each, an “Account”),
 which transactions are cleared through Robinhood Securities. In this Agreement, “Customer”, “you”, or
 “your” (or similar) refer to the Account owner, and “we”, “us” or “our” (or similar) refers to Robinhood.
-References to this “Agreement” include these terms and conditions as well as any other agreements or
-disclosures that apply to your Account, each as amended or supplemented from time to time.
+Where an Account is a trust or custodial account, these terms shall also refer to the authorized individual
+acting in a fiduciary capacity (such as a trustee or custodian), both in their fiduciary capacity and in their
+individual capacity, where applicable. References to this “Agreement” include these terms and conditions as
+well as any other agreements or disclosures that apply to your Account, each as amended or supplemented
+from time to time.
 BY AGREEING TO THIS AGREEMENT AND OPENING OR USING AN ACCOUNT, YOU
 EXPRESSLY AGREE TO THE TERMS OF THIS AGREEMENT AND ANY OTHER AGREEMENTS OR
 TERMS INCORPORATED INTO IT. CLICKING OR TAPPING “SUBMIT APPLICATION”, “AGREE” OR
@@ -47,7 +50,7 @@ provided through or in connection with the Website and the Apps, collectively, t
 you are entering into direct contractual relationships with Robinhood Financial and Robinhood
 Securities. “Website” means the robinhood.com website, and any others through which
 Robinhood offers services.
-20260529-5534979-17456529
+20260702-5716670-18238441
 1
 2.2. To be eligible to open or have an Account you must be at least 18 years old, and otherwise
 be legally permitted to have an Account and in compliance with the terms and conditions of this
@@ -112,7 +115,7 @@ be subject to a lien. Robinhood may in its discretion recoup or offset funds acr
 individual Account and Joint Account, including the sale of customer securities and positions,
 such as when there is fraudulent activity or indications of fraudulent activity that create an
 account deficit in one of the customer’s accounts.
-20260529-5534979-17456529
+20260702-5716670-18238441
 2
 We may place a restriction on the Joint Account if we receive conflicting instructions or there is a
 dispute between the Joint Account owners. We may at our discretion require written instructions
@@ -135,19 +138,17 @@ Person may include information about either of the Joint Account owners, the Rob
 Account for which the Trusted Contact information was provided, any other Accounts at
 Robinhood in which any of the Joint Account owners has an interest, or any other information
 the Joint Account owners may have provided to Robinhood.
-2.8 Custodial Accounts. For purposes of this Section 2.8, "you," "your," or "Customer" refers to the
-individual acting as the Custodian for the Minor. A Robinhood customer in good standing may
-open or maintain a custodial account for a minor (a “Custodial Account”). These accounts are
-governed by the Uniform Transfers to Minors Act (“UTMA”) provisions (or, where applicable, the
-Uniform Gifts to Minors Act (“UGMA”)) of the governing state. For purposes of this Agreement,
-the “Minor” is the individual on whose behalf the Custodial Account is established, and the Minor,
-not the Custodian, is the client and legal owner of all assets in the Account. The person opening
-or maintaining the Account is the “Custodian,” who acts on the Minor’s behalf and whose
-authority and responsibilities are governed by the applicable UTMA or UGMA and other
-Applicable Law. Robinhood may decline to open a Custodial Account if the Minor is ineligible
-under governing law or if Robinhood reasonably believes a contribution would not constitute a
-valid gift. All funds and assets contributed to the Custodial Account irrevocably become the
-property of the Minor.
+2.8 Custodial Accounts. A Robinhood customer in good standing may open or maintain a custodial
+account for a minor (a “Custodial Account”). These accounts are governed by the Uniform
+Transfers to Minors Act (“UTMA”) provisions (or, where applicable, the Uniform Gifts to Minors
+Act (“UGMA”)) of the governing state. For purposes of this Agreement, the “Minor” is the
+individual on whose behalf the Custodial Account is established, and the Minor, not the
+Custodian, is the client and legal owner of all assets in the Account. The person opening or
+maintaining the Account is the “Custodian,” who acts on the Minor’s behalf and whose authority
+and responsibilities are governed by the applicable UTMA or UGMA and other Applicable Law.
+Robinhood may decline to open a Custodial Account if the Minor is ineligible under governing law
+or if Robinhood reasonably believes a contribution would not constitute a valid gift. All funds and
+assets contributed to the Custodial Account irrevocably become the property of the Minor.
 The statutory age of termination varies by state. You are responsible for determining the
 governing law, the age of termination, and the Minor’s eligibility; Robinhood is not responsible for
 doing so. Absent your election at account opening, Robinhood will apply the default age of
@@ -177,10 +178,10 @@ the Custodial Account as collateral for a loan from Robinhood or any third party
 Custodial Account into a fully paid securities lending program, you acknowledge that you may
 receive cash payments in lieu of dividends. These payments may not be afforded the same
 treatment as qualified dividends and are likely to be taxed at a higher rate than the preferential
-20260529-5534979-17456529
-3
 qualified dividend rate. You represent that you have determined such participation is in the
 Minor’s best interest after considering these tax and fiduciary implications.
+20260702-5716670-18238441
+3
 Upon the Minor reaching the age of termination, you are responsible for requesting the transfer of
 control. Robinhood reserves the right to restrict your access and authority at that time, which
 terminates Robinhood’s obligation to accept instructions from you. You agree to provide the
@@ -239,12 +240,47 @@ disable Equity Gifting at any time. Disabling the feature terminates your standi
 and subsequent Equity Gifts will remain as uninvested cash.
 Robinhood’s execution of purchases based on your standing instruction does not constitute
 investment advice, a recommendation, or a suitability determination. By opting into Equity Gifting,
-you represent that you have independently evaluated such securities and determined them to be
-20260529-5534979-17456529
+you represent that you have independently evaluated such securities and are solely responsible
+for ensuring that all purchases are prudent investments for the Minor in accordance with your
+fiduciary duties under Applicable Law.
+20260702-5716670-18238441
 4
-prudent investments for the Minor in accordance with your fiduciary duties under Applicable Law.
-You are solely responsible for determining whether the purchase is a prudent investment for the
-Minor and for ensuring compliance with your fiduciary duties under Applicable Law.
+2.9 Trust Accounts. If you open or maintain an Account on behalf of a trust (a "Trust Account"), you
+represent and warrant that the trust is currently active, valid, and has not been revoked or legally
+restricted. Robinhood may open and administer the Trust Account in reliance solely on the
+representations you provide and has no obligation to review the underlying trust instrument, verify
+your authority, or ensure your actions comply with its terms or applicable fiduciary law. You agree
+to promptly notify Robinhood of any material change to the Trust, including any amendment,
+revocation, or change in Trustee, and to provide the correct taxpayer identification number for the
+Trust in accordance with Section 18. You should consult a tax advisor regarding the appropriate
+taxpayer identification number for your Trust. Robinhood reserves the right to freeze the Trust
+Account or request updated documentation at any time.
+You represent and warrant that you have full authority to bind the Trust to this Agreement and to
+act on its behalf with respect to your Account. You agree that this Agreement, and all
+representations and certifications made during the application process, govern the initial Trust
+Account and any subsequent accounts opened at Robinhood on behalf of the same Trust. Any
+instruction you give Robinhood is binding on the Trust and all Co-Trustees. Robinhood may
+accept and rely on instructions from any onboarded Trustee without requiring the consent of any
+other Trustee and is not responsible for determining whether such instructions comply with the
+trust instrument or applicable fiduciary law.
+No Trustee may access or act in the Trust Account until they have completed Robinhood's
+identity verification requirements and executed the required Trust documentation. A Trustee who
+has not completed onboarding is not subject to personal liability, indemnification obligations, or
+offset under this Section 2.9 or Section 31.8 for Obligations arising in the Trust Account.
+Robinhood may restrict the Trust Account and require updated documentation following any
+change in Trustee identity or authority. Upon the death or incapacity of any Trustee or Grantor,
+Section 17 of this Agreement applies. Notice sent by Robinhood to any single authorized Trustee
+constitutes valid notice to the Trust and all Co-Trustees.
+You are personally liable for any obligations, debts, or Negative Equity (as defined in Section 31)
+incurred in the Trust Account to the extent resulting from your instructions, actions, or omissions,
+including any instruction given outside the scope of your authority under the trust instrument or
+Applicable Law. Where a Trust Account has more than one Trustee, a Trustee is not personally
+liable for Obligations arising solely from another Trustee's conduct, except where such other
+Trustee's conduct involved fraud, or where the Trustee being charged participated in, directed, or
+had actual knowledge of and failed to object to such conduct. You agree, individually and as
+Trustee, to indemnify and hold Robinhood and its Affiliates harmless from any losses, claims, or
+damages arising out of Robinhood's reliance on your instructions or representations, including
+any claim by a beneficiary or Co-Trustee challenging Robinhood's reliance on your authority.
 3. Market Data.
 We may provide or make available to you certain content, information, or data that may include information
 or data relating to securities and the securities markets, including last sale transaction data, bid and asked
@@ -269,6 +305,8 @@ Where you provide Robinhood with any information in any form from time to time i
 Account or your application for an Account or any services, you represent and warrant that such
 information is complete, true, accurate, and correct. You acknowledge that knowingly giving false
 information for the purpose of inducing Robinhood to extend credit is a federal crime.
+20260702-5716670-18238441
+5
 If any information that you have provided to Robinhood changes, you agree to promptly notify Robinhood
 of such changes in writing within ten days. You agree that this Agreement, the account application, and
 any other document you furnish in connection with your Account is Robinhood’s property.
@@ -300,8 +338,6 @@ associated with your Account including any risks in connection with the purchase
 (which includes the risk of loss).
 You acknowledge and agree to the Risk Disclosures. “Risk Disclosures” means the risk disclosure
 documentation available or referenced on the Website or the Disclosure Library from time to time.
-20260529-5534979-17456529
-5
 “Disclosure Library” means the disclosure library available on the Website, currently at
 robinhood.com/us/en/about/legal, as supplemented from time to time. As of the date of this Agreement,
 Risk Disclosures include (without limitation) the RHF Use and Risk Disclosures, Robinhood Financial
@@ -329,6 +365,8 @@ of an objection within two days from the date confirmations are sent or within t
 statements are sent.
 Such objection may be oral or in writing, but any oral objection must be immediately confirmed in writing.
 In all cases, Robinhood reserves the right to determine the validity of your objection. If you object to a
+20260702-5716670-18238441
+6
 transaction for any reason, you understand and agree that you are obligated to take action to limit any
 losses that may result from such transaction and that you will bear sole responsibility for any losses
 relating to the transaction, even if your objection to the transaction is ultimately determined to be valid.
@@ -360,8 +398,6 @@ on the Platform, or any other information or thing or service provided by Robinh
 Request and assistance provided relating to it will be limited to functional or operational explanation or
 assistance and, if requested by you, to the entry or correction by Robinhood or its Representatives of
 information or variables provided by you, and that such assistance and any communication from
-20260529-5534979-17456529
-6
 Robinhood or its Representatives in connection with a Support Request does not constitute investment
 advice, an opinion with respect to the suitability of any transaction, or solicitation of any orders.
 4.9. No Advice.
@@ -387,6 +423,8 @@ You may only use the Platform for your own personal, non-business, non-commercia
 4.12. Promotions Programs
 You agree to the terms or conditions of any Robinhood promotions programs that you participate in,
 including but not limited to the Robinhood Stock Referral Program. You understand that any such
+20260702-5716670-18238441
+7
 promotions may have significant limitations on eligibility or rewards.
 4.13. Third Party Authorized Representatives.
 You agree not to allow any person access to your Account, or your Account username or password, or
@@ -418,8 +456,6 @@ Account. Robinhood will not be responsible for any Losses caused by your use of 
 failure to download the App on your mobile device.
 5. Account Security.
 In order to set up and access your Account, you will be required to create or will be given security details,
-20260529-5534979-17456529
-7
 including an Account username and password. You are solely responsible for monitoring and
 safeguarding your Account and access to your Account. You are solely responsible for keeping your
 Account username, password, and other Account details safe, and for the safety and security of any
@@ -449,6 +485,8 @@ Potential Fraudulent Event. You acknowledge that if you fail to do any of these 
 encounter delays in regaining access to the funds in your Account. You agree to indemnify and hold
 Robinhood, its Affiliates, and their respective officers, directors, and employees harmless from and
 against any Losses arising out of or relating to any Potential Fraudulent Event.
+20260702-5716670-18238441
+8
 You understand that, pursuant to FINRA regulations, Robinhood is authorized to contact the “Trusted
 Contact Person” (as defined by FINRA Rule 4512) designated for your Account and to disclose
 information about any of the account owners, the account for which the Trusted Contact Person was
@@ -481,8 +519,6 @@ other identifying information that will allow Robinhood to identify you. Robinho
 of your driver’s license, passport, other unexpired, government-issued identifying documents with a
 photograph, or other identifying documents. From time to time, Robinhood may ask you to confirm or
 reverify your identity, or may require that you provide certain additional documents, as necessary.
-20260529-5534979-17456529
-8
 You understand that Robinhood may take steps to verify the accuracy of the information you provide to
 Robinhood relating to your Account in your application or otherwise. You authorize Robinhood or its
 agents or third-party vendors to contact any person or firm noted therein or in any other information you
@@ -512,6 +548,8 @@ Further, you acknowledge and consent to Robinhood restricting your Account and/o
 canceling any pending orders to the extent Robinhood believes you are accessing these from (1) a
 jurisdiction that is subject to comprehensive sanctions by OFAC or (2) any jurisdiction Robinhood has made
 a risk-based decision to restrict access to use of its application and website. If this happens, please contact
+20260702-5716670-18238441
+9
 help@robinhood.com, and you may be asked to provide supplemental information as part of this process.
 Additionally, you agree that you will notify Robinhood and close your Account and/or any subaccounts before
 establishing residency in any jurisdiction subject to U.S. sanctions. Robinhood is not liable for any Losses,
@@ -542,8 +580,6 @@ In the event Your Account is cancelled, closed, or terminated for any reason and
 receives funds to be applied to your Account, Robinhood reserves the right to apply the funds to any
 obligations you may have in your Account and/or transfer the funds to the balance of any active account
 you may own with a Robinhood Affiliate.
-20260529-5534979-17456529
-9
 You understand that, if you request that all assets be transferred from an Account to another brokerage
 firm and subsequently reactivate that Account, you are (i) rescinding any instruction to transfer securities
 or other assets from the Account and (ii) instructing Robinhood not to transfer credit balances that accrue
@@ -573,6 +609,8 @@ higher or lower than the previous closing price or the anticipated price. If you
 your market order is executed, which execution may occur on a subsequent trading day. You understand
 that the price you pay or receive may be significantly higher or lower than anticipated at the time you
 placed the order. To avoid buying a security at a higher price and possibly exceeding your purchasing
+20260702-5716670-18238441
+10
 power, you understand your option to enter a limit order with a limit price. You also understand that limit
 orders may not be executed within a particular period of time, or at all, if there is not sufficient trading at
 or better than the limit price you specify, and are subject to any applicable time-in- force restrictions. The
@@ -606,8 +644,6 @@ order’s time-in-force instructions, re-routed to one or more 24H Market Makers
 order on a principal basis or route the order for execution to another market center; and (11) if the order
 is canceled and re-routed as described in (9) or (10) above, the order will not be eligible for execution
 during the period of time between the cancelation of the order and its re-routing.
-20260529-5534979-17456529
-10
 As a customer of Robinhood, you understand that you have the ability to place certain orders in a queue
 for execution the following trading day (“Queued Order”). Queued Order requests are prioritized based
 on the order in which they are received, and orders based on Queued Orders are sent out for execution
@@ -638,6 +674,8 @@ Options markets are structurally different from equities markets in that all opt
 an exchange. Robinhood routes all options orders to other broker-dealers for execution. Executing
 broker-dealers, at their discretion and subject to their best execution obligations, may handle orders by
 routing them to exchanges, participating in price improvement mechanisms on those exchanges, or
+20260702-5716670-18238441
+11
 directing orders to other market makers or floor brokers for execution on an exchange. In the course of
 such handling and in light of prevailing market conditions, an order may be displayed on an exchange
 at a price superior to the order’s limit price at order entry. The above practices by executing broker-
@@ -669,8 +707,6 @@ Content is at your own risk. We do not make any warranty of any kind, express or
 Content or the accuracy, completeness, timeliness, or otherwise of the Content.
 Robinhood does not produce or provide first-party research providing specific investment strategies such
 as buy, sell, or hold recommendations, first-party ratings, or price targets. To the extent any Content is
-20260529-5534979-17456529
-11
 prepared by Robinhood or its associated persons and made available via that Platform or by other
 means, that Content is intended for informational and educational purposes only and does not constitute
 either research or a recommendation to enter into any securities transactions or to engage in any
@@ -696,6 +732,8 @@ remedies provided herein.
 14.1 Warranties.
 You agree that your use of the Platform or any other service provided by Robinhood or its Affiliates is at
 your sole risk. The Robinhood services (including the Platform, the provision of Market Data, Content, or
+20260702-5716670-18238441
+12
 any other information provided by Robinhood, any of its Affiliates, or any third-party content provider or
 market data provider) is provided on an "as is," "as available" basis without warranties of any kind, either
 express or implied, statutory (including without limitation, timeliness, truthfulness, sequence,
@@ -729,8 +767,6 @@ AS ANY COSTS, CHARGES, ATTORNEYS' FEES, OR OTHER FEES OR EXPENSES) BY REASON
 OF EXTRAORDINARY EVENTS OUTSIDE OF THEIR CONTROL OR THAT THEY DID NOT CAUSE
 INCLUDING, BUT NOT LIMITED TO, INTERRUPTIONS OF SERVICE DUE TO GOVERNMENT OR
 MARKET RESTRICTIONS, SUSPENSIONS OF TRADING, THE ACTION OF ANY EXCHANGE OR
-20260529-5534979-17456529
-12
 OTHER SELF-REGULATORY ORGANIZATION, HIGH MARKET VOLATILITY OR TRADING VOLUME,
 ARMED CONFLICTS, NATURAL DISASTERS, FORCES OF NATURE (INCLUDING EARTHQUAKES
 AND STORMS), POWER OUTAGES, NETWORK OR SYSTEM FAILURES, UNFORSEEABLE
@@ -760,6 +796,8 @@ Agreement, Applicable Rules, or applicable standards of conduct. Further, if you
 parties to gain access to Robinhood's services, including your Account, you will indemnify, defend and
 hold harmless the Indemnified Parties against any Losses arising out of claims or suits by such third
 parties based upon or relating to such access and use. Robinhood does not warrant against loss of use or
+20260702-5716670-18238441
+13
 any direct, indirect or consequential damages or Losses to you caused by your assent, expressed or
 implied, to a third party accessing your Account or information, including access provided through any
 other third-party systems or sites.
@@ -792,8 +830,6 @@ entitled to receive under FINRA rules or regulations or under applicable law.
 15. Exchange Traded Funds and Closed-End Funds.
 15.1. Exchange Traded Funds.
 You understand that you should consider the investment objectives and unique risk profile of Exchange
-20260529-5534979-17456529
-13
 Traded Funds (“ETFs”) carefully before investing, and that ETFs are subject to risks similar to those of
 other diversified portfolios. You further understand that leveraged and inverse ETFs may not be suitable
 for all investors and may increase exposure to volatility through the use of leverage, short sales of
@@ -822,6 +858,8 @@ from issuers or their third-party agents who distribute and make such documents 
 Additional regulatory guidance on CEFs can be found at the SEC website and at the FINRA website.
 16. Effect of Attachment or Sequestration of Accounts.
 Robinhood shall not be liable for refusing to obey any orders given by or for you with respect to your
+20260702-5716670-18238441
+14
 Account that has or have been subject to an attachment or sequestration in any legal proceeding against
 you, and Robinhood shall be under no obligation to contest the validity of any such attachment or
 sequestration.
@@ -842,6 +880,13 @@ the receipt by Robinhood of the written notice of the death of the decedent or i
 of the Account or the adjustment of the interests of the respective parties, and for all other obligations
 pursuant to this Agreement. Such notice shall not affect Robinhood’s rights under this Agreement to take
 any action that Robinhood could have taken if you had not died.
+The death of a Trustee does not automatically close a Trust Account. You agree to promptly notify
+Robinhood of the death of any Trustee or Grantor. Upon receipt of notice of a Trustee's death,
+Robinhood may immediately restrict that Trustee's access to the Trust Account and may restrict the
+Trust Account generally until successor Trustee onboarding is complete. Upon receipt of notice of a
+Grantor's death, Robinhood may restrict the Trust Account pending review of updated trust
+documentation reflecting any change in the trust's revocability, beneficiaries, or terms triggered by such
+death.
 18. Tax; Tax Reporting; Tax Withholding.
 18.1. Tax.
 You acknowledge that it is your responsibility to declare and pay any income, gains, or similar to all
@@ -852,8 +897,6 @@ will comply in full with all applicable tax laws and obligations to which you ar
 The proceeds of sale transactions and dividends (and substitute payments in lieu of dividends) paid will
 be reported to the Internal Revenue Service (“IRS”) in accordance with applicable law.
 18.3. U.S. Persons.
-20260529-5534979-17456529
-14
 This subsection is applicable if you are a U.S. person. Under penalties of perjury, you certify that the
 taxpayer identification number that you have provided or will provide to Robinhood (including any
 taxpayer identification number on any Form W-9 that you have provided or will provide to Robinhood) is
@@ -875,6 +918,8 @@ Robinhood to provide any such Form W-8BEN to Robinhood Securities or any withhol
 control, receipt, or custody of the income of which you are the beneficial owner or any withholding agent
 that can disburse or make payments of the income of which you are the beneficial owner. You agree that
 you will submit a new Form W-8BEN to Robinhood within 30 days if any certification made on any
+20260702-5716670-18238441
+15
 previously submitted Form W-8BEN becomes incorrect. You understand that the IRS does not require
 your consent to any provisions of such Form W-8BEN other than the certifications required to establish
 your status as a non-U.S. Person and, if applicable, obtain a reduced rate of withholding.
@@ -914,28 +959,30 @@ such as account value/balance or customer loyalty. You also agree to pay all app
 local, and foreign taxes, and any fees, costs, or expenses incurred by Robinhood in connection with
 collection of any unpaid balance due on your Account, including attorney’s fees allowed by law.
 You authorize Robinhood to automatically debit your Account for any fees, charges or other amounts
-20260529-5534979-17456529
-15
 owed to Robinhood by you, and for any taxes owed by you.
 21. ACH Transactions.
 21.1. Debit Transactions.
-Robinhood will initiate an ACH debit at your request to debit funds from an account that you own at
-another financial institution (“External Account”) for deposit into your Account. You understand that in
-order for Robinhood to initiate an ACH debit, the financial institution holding your External Account must
+Robinhood will initiate an ACH debit at your request to debit funds from an account that you own or are
+authorized to use (e.g., an account titled in the name of a Trust for which you are Trustee) at another
+financial institution (“External Account”) for deposit into your Account. You understand that in order for
+Robinhood to initiate an ACH debit, the financial institution holding your External Account must
 participate in the ACH system. You understand that for the ACH transfers to be established, at least one
-common name must match exactly between your Account and your External Account. You authorize
-Robinhood to take such steps as it deems appropriate to verify your ownership of External Account,
+common name must match exactly between your Account and your External Account, which for a Trust
+Account, may include the name of the Trust or an individual Grantor. You authorize Robinhood to take
+such steps as it deems appropriate to verify your authority over and ownership of External Account,
 including by telling the bank at which such External Account is held that you have authorized and
 consented to such bank disclosing to Robinhood any information that Robinhood may request about you
-or your External Account. You also agree to cooperate with Robinhood’s verification of your ownership of
-such External Account by promptly providing any identification or other documentation that Robinhood
-may request regarding such External Account. You represent and warrant that there are sufficient funds
-in your External Account to cover the amount of the deposit to your Account. Robinhood will initiate the
-ACH debit to your External Account on the Business Day or next Business Day after you request the
-transfer. A transfer request will be deemed to have been made on a Business Day if it is received by
-Robinhood by 7:00 p.m. Eastern on such Business Day; if received after that time, the transfer request
-will be deemed to have been made on the next Business Day. “Business Days” are Monday through
-Friday, excluding U.S. federal holidays.
+or your External Account. You also agree to cooperate with Robinhood’s verification of your authority
+over and ownership of such External Account by promptly providing any identification or other
+documentation that Robinhood may request regarding such External Account. You represent and
+warrant that there are sufficient funds in your External Account to cover the amount of the deposit to your
+Account. Robinhood will initiate the ACH debit to your External Account on the Business Day or next
+Business Day after you request the transfer. A transfer request will be deemed to have been made on a
+20260702-5716670-18238441
+16
+Business Day if it is received by Robinhood by 7:00 p.m. Eastern on such Business Day; if received after
+that time, the transfer request will be deemed to have been made on the next Business Day. “Business
+Days” are Monday through Friday, excluding U.S. federal holidays.
 Within 60 days of the date of your ACH deposit, your funds may only be withdrawn to the External
 Account from which such funds were debited.
 You understand that an ACH debit transfer may be reversed or rejected if: (A) there are insufficient funds
@@ -969,8 +1016,6 @@ that a dollar-based order is an order to purchase or sell shares that have a not
 the dollar value specified by the order and that, if the order is executed, the notional value of the
 purchased or sold shares may vary from the dollar value specified by the order.
 You understand that if you enter repeated Fractional Share orders with individual notional values of less
-20260529-5534979-17456529
-16
 than $0.01, your Account may be restricted.
 Robinhood only supports the holding or trading of Fractional Shares for national exchange-listed
 securities (“NMS Securities”), and not for stocks traded over the counter (“OTC”). If an NMS Security is
@@ -988,6 +1033,8 @@ based orders), (iii) to invest in a portfolio of exchange traded funds (ETFs) pu
 recommendation from Robinhood Financial, or (iv) to invest in a security pursuant to a customer
 instruction provided in connection with the customer’s participation in the Paycheck Recurring
 Investment (split-your-paycheck) program offered by Robinhood Money, LLC and certain of its affiliates.
+20260702-5716670-18238441
+17
 As described in Sections 23 and 24 below, orders to invest in a security pursuant to customer
 instructions provided in connection with the customer’s participation in the Recurring Investment program
 and the Dividend Reinvestment Program, each offered by Robinhood Financial, will be routed by
@@ -1030,8 +1077,6 @@ Because Fractional Share positions cannot be transferred, reorganized, or issued
 your partial interest will be liquidated, without commission charges to you, at prevailing market prices in
 the event your Account is transferred or closed, the stock is reorganized, or stock certificates are
 ordered out of your Account. The timing of such liquidations will be at the discretion of Robinhood.
-20260529-5534979-17456529
-17
 23. Dividends
 23.1. Early Dividends
 The Early Dividends feature (“Early Dividends”) allows eligible customers to receive certain dividend
@@ -1049,6 +1094,8 @@ Robinhood credits your account in advance of receiving a dividend from the issue
 pay the dividend, pays a reduced amount, or reverses the payment for any reason, you agree that you
 remain fully liable to Robinhood for the credited amount or any over-credited amount. Securities held in
 retirement accounts are not eligible for Early Dividends.
+20260702-5716670-18238441
+18
 The early payment is treated as an advancement of dividends earned from a tax reporting
 perspective. Regardless of whether dividends are paid early, tax reporting will be based upon the issuer
 announced payment date. Payments that cross tax years may be excluded from the early dividend
@@ -1090,8 +1137,6 @@ which may take up to five Business Days. You will not have use of the funds prio
 You understand that your participation in the DRIP is voluntary and that Robinhood has not made any
 recommendation that you should participate. You further understand that Robinhood is not
 recommending or offering any advice regarding the purchase of any security included as an Eligible
-20260529-5534979-17456529
-18
 Security in the DRIP. You further understand that dividend reinvestment does not assure profits on your
 investments, nor does it protect against losses in declining markets. Robinhood does not intend to
 charge a fee for transactions executed pursuant to the DRIP.
@@ -1110,6 +1155,8 @@ execution. Robinhood Securities will allocate executions received by the BOE to 
 principal basis. The allocations may include Fractional Shares, rounded to six decimal places. If the BOE
 routes multiple child orders to execute a single bulk order, each customer order represented by the bulk
 order will receive a share allocation based on the weighted average price per share of the child order
+20260702-5716670-18238441
+19
 executions. If a bulk order is not fully executed, the customers whose orders are represented by the bulk
 order will be refunded the dollar amount corresponding to the unfilled portion of the bulk order on a pro
 rata basis. Robinhood Financial will deem each order that it routes to the BOE to be a not held order, i.e.,
@@ -1150,8 +1197,6 @@ means all shares available for fractional investing through Robinhood that Robin
 Recurring Investments.
 Robinhood will process RI orders on the schedule that you choose for a Recurring Eligible Security. If
 Robinhood is unable to process an RI order on the specified day, it will process the order as soon as
-20260529-5534979-17456529
-19
 reasonably possible thereafter, which may take up to five Business Days. If your RI order falls on a day
 that the market is closed, like a weekend or holiday, it will be scheduled for the next trading day. On
 partial market holidays, recurring orders will process earlier in the day to accommodate for the early
@@ -1171,6 +1216,8 @@ processing of your notice.
 Orders to invest in a security pursuant to your instructions provided in connection with your
 participation in RI generally will be routed as dollar-based orders by Robinhood Financial to the
 BOE. The BOE will aggregate the orders it receives in a given security on a given day in connection
+20260702-5716670-18238441
+20
 with RI into one or more bulk orders. Each bulk order may represent orders from multiple customers.
 The BOE will convert each bulk order to one or more share-based child orders that the BOE will
 route to the market for execution. Robinhood Securities will allocate executions received by the
@@ -1213,8 +1260,6 @@ and you no longer hold the shares that you held on the publication date of the c
 responsible for covering those shares.
 25. Disclosure of Information.
 You agree and understand that all disclosures of your non-public personal information shall be made in
-20260529-5534979-17456529
-20
 accordance with the terms of this Agreement or the Robinhood Privacy Policy (available in the
 Disclosure Library), as applicable. You agree that your consent to sharing certain types of non-public
 personal information will remain in effect until you revoke such consent by updating your settings.
@@ -1233,6 +1278,8 @@ Policy.
 You acknowledge and agree that funds that you deposit to your Account may be subject to one or more
 hold periods, which are described in the RHF Funds Availability schedule available in the Disclosure
 Library. You understand and agree that Robinhood reserves the right to modify the RHF Funds
+20260702-5716670-18238441
+21
 Availability schedule at any time by posting an updated schedule in the Disclosure Library or otherwise
 providing notice to you. During the applicable hold period, your funds will not be available for Payments,
 withdrawal, or the settling of securities transactions, in each case as described in the RHF Funds
@@ -1272,8 +1319,6 @@ in your Account. You understand that Robinhood may, but is not obligated to, att
 before taking any such action. You understand and agree that Robinhood reserves the right to take any
 such action without prior notice or demand for additional collateral, and free of any right of redemption,
 and that any prior demand, call or notice will not be considered a waiver of our right to sell or buy without
-20260529-5534979-17456529
-21
 demand, call or notice.
 You further understand that Robinhood may choose which securities to buy or sell, which transactions to
 close, and the sequence and timing of liquidation, and may take such actions on whatever exchange or
@@ -1291,6 +1336,8 @@ sole discretion, including, but not limited to, whenever any of the following oc
 • You die or become incapacitated or incompetent; or
 • Your Account is closed.
 29. API & MCP.
+20260702-5716670-18238441
+22
 29.1. Overview; Definitions.
 Robinhood may, in Robinhood’s sole discretion, provide third parties with an application programming
 interface (“API”) and other materials, including through a Model Context Protocol (“MCP”) server hosted
@@ -1332,8 +1379,6 @@ provided by API Licensees or by the Licensee Products shall not constitute Robin
 API Licensees or the Licensee Products.
 29.4. Data Provided by Robinhood to API.
 From time to time, and subject to then-in-effect agreements between Robinhood and API Licensees,
-20260529-5534979-17456529
-22
 Robinhood may, in its own discretion, make market data feeds received from third parties available via
 the API Products. Robinhood does not make any guarantees in regard to such market data feeds.
 Furthermore, API Licensees or Licensee Products may make available to you market data feeds
@@ -1354,6 +1399,8 @@ through any API Products are not vetted until they are received by Robinhood. It
 Robinhood may reject an order placed through any API Products. Robinhood cannot guarantee that any
 order will be accepted when such order is routed to the market for execution, and Robinhood cannot
 guarantee that notifications and Personal Information provided to you by Robinhood will be successfully
+20260702-5716670-18238441
+23
 delivered to or displayed by any API Products.
 Without limiting the generality of any other terms in this Agreement, you agree that:
 (a) Robinhood or its Affiliates shall not be liable for any Losses as a result of any issues addressed in
@@ -1395,8 +1442,6 @@ and execution of orders using API Products may vary from orders placed through o
 Specifically, Robinhood may treat orders placed using API Products differently for purposes of order
 handling and routing, which may result in adverse execution quality and/or speed.
 (g) Per Section 4.10 of this Agreement, Robinhood has the discretion to terminate your account or disable
-20260529-5534979-17456529
-23
 your API/MCP connectivity for any reason, including, but not limited to, excessive market data usage. In
 the event of a disruption, you should attempt to place orders through our App or Website, as they API/MCP
 connectivity is not guaranteed.
@@ -1417,6 +1462,8 @@ You acknowledge that AI agents may misinterpret your prompts, generate erroneous
 unintended outputs, experience latency, disconnection, or other malfunction, and otherwise behave in ways
 you did not intend or anticipate. Notwithstanding the foregoing, any instruction submitted to Robinhood from
 an authenticated session of your AI agent shall be final and binding upon you upon receipt by Robinhood,
+20260702-5716670-18238441
+24
 and Robinhood shall have no liability for any Losses arising out of or relating to any such error, malfunction,
 or unintended behavior of your AI agent.
 You represent that, if you are an associated person of a FINRA member, a person associated with a
@@ -1456,8 +1503,6 @@ extended to you in connection with your Margin Account is provided by Robinhood 
 You understand that you are liable for the full amount of funds borrowed in your Margin Account and will
 be liable to repay this amount in full on demand.
 31.2. Margin Risks.
-20260529-5534979-17456529
-24
 Margin Accounts are not necessarily appropriate for everyone. Nothing in this Agreement, any application,
 or any communication or other statement by Robinhood or its Representatives constitutes any form of
 recommendation to open a Margin Account or make any specific investment or strategy.
@@ -1477,6 +1522,8 @@ held by Robinhood, or carried by Robinhood in any Account for you (either indivi
 others), or deposited to secure same, may from time to time, without any notice, be carried in your
 general loans and may be pledged, repledged, hypothecated or re-hypothecated, separately or in
 common with other securities for the sum due to you thereon or for a greater sum and without retaining
+20260702-5716670-18238441
+25
 in your possession or control for delivery a like amount of similar securities. The IRS requires Broker
 Dealers to treat dividend payments on loaned securities positions as payments received in lieu of
 dividends for 1099 tax reporting purposes. Taxation of substitute dividend payments may be greater than
@@ -1513,12 +1560,12 @@ Robinhood Securities is hereby authorized to sell or purchase any and all securi
 any of your Accounts, or to transfer any such securities and other Property among any of your Accounts,
 to the fullest extent allowed by law and without notice where allowed by law. Robinhood shall have the
 right to transfer securities and other Property so held by Robinhood from or to any other of your Accounts
-whenever Robinhood so determines.
+whenever Robinhood so determines. For Trust Accounts, the lien and security interest described above
+extends to all assets held in the Trust Account to secure any Obligations owed to Robinhood by the Trust
+or by the Grantor, subject to the limitations in Section 31.8.
 31.7. Liquidation
 In the event of your death, or in the event the margin in any Margin Account in which you have an
 interest shall in either Robinhood Securities’ or Robinhood Financial’s discretion become unsatisfactory
-20260529-5534979-17456529
-25
 or be deemed insufficient, Robinhood is hereby authorized; (a) to sell any or all securities or other
 Property which Robinhood may hold for you (either individually or jointly with others); (b) to buy any or all
 securities and other Property which may be short in such accounts; or (c) to cancel any open orders and
@@ -1537,8 +1584,13 @@ Robinhood, and you shall be liable to Robinhood for any deficiency remaining in 
 event of the liquidation thereof (as contemplated in this Section or otherwise), in whole or in part, by
 Robinhood or by you; and you shall make payment of such Obligations upon demand. You authorize
 Robinhood to recover amounts you owe, and to debit, charge or otherwise exercise a right of offset to
+20260702-5716670-18238441
+26
 recover funds from the balance in your Account, your external bank account, any account you own with an
-Affiliate of Robinhood, or any other payment instrument linked to your Account.
+Affiliate of Robinhood, any other present or future account carried by Robinhood or its Affiliates in which
+you have a beneficial interest (meaning you are entitled to the economic benefit of the account's assets,
+whether or not you are the account's registered owner), or any other payment instrument linked to your
+Account.
 In the event that you have a negative balance in any account you own with an Affiliate of Robinhood, you
 authorize Robinhood, at our option and without notice to you, to settle any and all negative balances in an
 account you own with an Affiliate of Robinhood or debts owed to us or our Affiliates by liquidating or
@@ -1549,7 +1601,13 @@ Robinhood’s attempt to recover funds is not successful, you agree that the aut
 offset hereunder includes a grant to Robinhood of any additional authorizations and/or rights of offset
 required to recover the amount you owe to Robinhood in complete compliance with any applicable laws,
 rules or industry regulations. Robinhood may take these actions without prior notice to you.
-31.9. Sales/Short Sales.
+31.9. If you are the Grantor of a trust in which you retain a beneficial interest, you are deemed to
+have a beneficial interest in its assets and Robinhood may offset obligations between your
+individual accounts and any Trust Accounts for which you are the Grantor. A Trustee who
+is not also a beneficial owner of the Trust's assets does not have a beneficial interest for
+purposes of this section, and Robinhood will not offset a Trust Account obligation against
+such Trustee's personal account except where such Trustee's instructions or actions gave
+rise to the obligation.Sales/Short Sales.
 You agree to specifically designate any order to sell a security that you do not hold in your Account as a
 “short sale” and understand that Robinhood will mark such an order as a short sale. You agree that any
 order which is not specifically designated as a short sale is a “long sale” of securities held in your
@@ -1579,8 +1637,6 @@ associated with borrowing stocks as a result of short selling. If you have an op
 Account, whether it is established through short selling, option exercise or assignment, account transfer, or
 otherwise, Robinhood can charge a Stock Borrow Fee. The fee is calculated as the largest short position
 you held open that day multiplied by the end of day market price multiplied by the quoted borrow rate
-20260529-5534979-17456529
-26
 divided by 360. This Stock Borrow Fee is subject to change daily and can be charged until a trade closing
 the short position settles. The daily fees will be aggregated monthly and will appear on your account
 statement. The borrow rate charged will vary depending on the supply and demand for the particular
@@ -1590,6 +1646,8 @@ consistent with Robinhood’s view of competitive necessities.
 Without limitation to any other indemnities in this Agreement, all Losses, including but not limited to
 reasonable attorneys’ fees and expenses, incurred and payable or paid by Robinhood in the (i)
 collection of a debit balance or any unpaid deficiency in any of your Accounts with Robinhood or (ii)
+20260702-5716670-18238441
+27
 defense of any matter arising out of your securities transactions, shall be payable to Robinhood by you.
 32. Extended Trading Hours
 In certain circumstances, you may be able to engage in Extended Hours trading, meaning, for purposes
@@ -1640,16 +1698,18 @@ Further, Robinhood reserves the right to send Account Documents to your postal o
 record, or via the Platform. You agree that all Account Documents provided to you in any of the foregoing
 manners are considered delivered to you personally when sent or posted by Robinhood, whether you
 receive it or not.
-20260529-5534979-17456529
-27
 All email notifications regarding Account Documents will be sent to your e-mail address of record. You
 agree to maintain the email address that you have provided Robinhood until you provide Robinhood with
-a new one. You agree that Robinhood may send email communications to you at any time of day,
+a new one. For Trust Accounts, Robinhood may treat the email address of any authorized Trustee as the
+valid email address of record, and delivery to that address constitutes valid delivery to the Trust and all
+Co-Trustees. You agree that Robinhood may send email communications to you at any time of day,
 without restriction. You understand that email messages may fail to transmit promptly or properly,
 including being delivered to SPAM folders. You further understand that it is your sole responsibility to
 ensure that any emails from Robinhood or its Affiliates are not marked as SPAM. If a notification cannot
 be delivered to you because you failed to maintain a valid and/or deliverable email address with
 Robinhood, such notification will be sent to you via postal mail for a fee, as described in Section 34.3,
+20260702-5716670-18238441
+28
 below, and in the Fee Schedule. Regardless of whether or not you receive an email notification, you
 agree to check the Website regularly to avoid missing any information, including amendments or
 supplements to this Agreement, or time-sensitive or otherwise important communications. If you
@@ -1701,8 +1761,6 @@ may receive electronic notifications until such consent is processed.
 34.7. Hardware and Software Requirements.
 You understand that in order to receive electronic deliveries, you must have access to a computer or
 Mobile Device with Internet access, a valid e-mail address, and the ability to download such applications
-20260529-5534979-17456529
-28
 as Robinhood Financial may specify and to which you have access. You also understand that if you wish
 to download, print, or save any information you wish to retain, you must have access to a printer or other
 device in order to do so.
@@ -1710,6 +1768,8 @@ device in order to do so.
 You hereby agree that you have carefully read the above information regarding informed consent to
 electronic delivery and fully understand the implications thereof. Additionally, you hereby agree to all
 conditions outlined above with respect to electronic delivery of any Account Document. You will maintain
+20260702-5716670-18238441
+29
 a valid email address and continue to have access to the Internet. If your email address changes, you
 agree to immediately notify Robinhood Financial of your new email address in writing.
 35. Recording and Monitoring of Communications.
@@ -1760,8 +1820,6 @@ procedures, terms, and conditions that apply to your use of the Platform or your
 from time to time including in the Disclosure Library, and that this includes updates or amendments to this
 Agreement or other agreements or Risk Disclosures incorporated in or referenced in this Agreement
 (“Website Postings”). You understand that it is your continuing obligation to monitor the Website and the
-20260529-5534979-17456529
-29
 Disclosure Library for Website Postings and to understand the terms of the Website Postings. You agree
 to be bound by the Website Postings (and the most current version of this Agreement) as are in effect at
 the time of your access or use of the Platform or the giving of any order or instruction relating to your
@@ -1769,6 +1827,8 @@ Account.
 37.6. Entirety of Agreement.
 This Agreement, any attachments hereto, other agreements and policies referred to in this Agreement
 (including the Website Postings and Risk Disclosures), and the terms and conditions contained in your
+20260702-5716670-18238441
+30
 Account statements and confirmations, contain the entire agreement between Robinhood and you and
 supersede all prior or contemporaneous communications and proposals, whether electronic, oral, or
 written, between Robinhood and you, provided, however, that any and all other agreements between
@@ -1820,8 +1880,6 @@ This Agreement and all transactions made in your Account shall be governed by th
 California (regardless of the choice of law rules thereof), except to the extent governed by the federal
 securities laws, FINRA Rules, and the regulations, customs and usage of the exchanges or market (and
 its clearing house) on which transactions are executed.
-20260529-5534979-17456529
-30
 39. Arbitration.
 This Agreement contains a pre-dispute arbitration clause. By signing an arbitration agreement, the
 parties agree as follows: (1) All parties to this Agreement are giving up the right to sue each other
@@ -1829,6 +1887,8 @@ in court, including the right to a trial by jury, except as provided by the rule
 forum in which a claim is filed. (2) Arbitration awards are generally final and binding; a party’s
 ability to have a court reverse or modify an arbitration award is very limited. (3) The ability of the
 parties to obtain documents, witness statements and other discovery is generally more limited in
+20260702-5716670-18238441
+31
 arbitration than in court proceedings. (4) The arbitrators do not have to explain the reason(s) for
 their award unless, in an eligible case, a joint request for an explained decision has been submitted
 by all parties to the panel at least 20 days prior to the first scheduled hearing date. (5) The panel of
@@ -1864,8 +1924,8 @@ DISCLOSURES, ROBINHOOD FINANCIAL PRODUCT FEATURES DISCLOSURES, EXTENDED
 HOURS TRADING DISCLOSURE, ETF DISCLOSURE, RHF FUNDS AVAILABILITY, RHF AND RHS
 BUSINESS CONTINUITY PLAN SUMMARY, AND FINRA PUBLIC DISCLOSURE PROGRAM, WHICH
 ARE INCORPORATED BY REFERENCE INTO THIS AGREEMENT.
-20260529-5534979-17456529
-31
+20260702-5716670-18238441
+32
 Appendix A: Electronic Fund Transfer Services Disclosures
 Addendum
 The following disclosures apply to EFT transactions.
@@ -1909,8 +1969,8 @@ App, if applicable. You understand and agree that Robinhood reserves the right t
 any transfer or attempted transfer, for any purpose including, but not limited to, suspected fraud or other
 illicit activity and for purposes of maintaining account security. The following lists the limitations for each
 type of transaction:
-20260529-5534979-17456529
-32
+20260702-5716670-18238441
+33
 Originated ACH Withdrawals:
 Originated ACH Withdrawals submitted before 7 p.m. Eastern Time will be counted towards that
 business day’s withdrawal limits set forth in the App and on the Website, otherwise, they will count
@@ -1958,8 +2018,8 @@ which Bank and Robinhood share information about you, or (ii) request correction
 Bank or Robinhood maintain about you. You agree that information you provide in connection with EFT
 services you use is being provided directly to both Robinhood as the holder of the Account associated
 with the service and the Bank as the provider of the EFT service.
-20260529-5534979-17456529
-33
+20260702-5716670-18238441
+34
 7. Documentation.
 Preauthorized Credits. If you have arranged to have direct deposits made to your Account at least once
 every 60 days from the same person or company, the person or company making the deposit will tell you
@@ -2000,12 +2060,12 @@ or communication failure) prevent the completion of the transaction, despite rea
 precautions that Robinhood or the Bank have taken; or
 5. For any other exception stated in this Agreement with you or by applicable law.
 10. Errors or Questions About Electronic Transfers.
-20260529-5534979-17456529
-34
+20260702-5716670-18238441
+35
 In case of errors or questions about your electronic transfers, telephone us at 888-275-8523, write us at 85
 Willow Road, Menlo Park, CA 94025, or email us at help@robinhood.com as soon as you can.
-20260529-5534979-17456529
-35
+20260702-5716670-18238441
+36
 Revised April 10, 2026
 Robinhood Market Data Addendum
 This agreement (the “Market Data Addendum” or the “Addendum”) supplements and forms part of the
@@ -2052,8 +2112,8 @@ Agreement including this Market Data Addendum and the agreements constituted her
 You must not use Market Data for any purpose not directly related to the Platform or your Account,
 and you must not provide, retransmit, redistribute or publish any Market Data to any other person or
 entity.
-20260529-5534979-17456529
-36
+20260702-5716670-18238441
+37
 Unless and until you have expressly notified us in writing to the contrary, you represent and warrant to us
 on a continuing basis that you qualify as a “Non-professional”. If you think you are or might be a
 “Securities Professional” or if you think that you do not or might not qualify as a “Non-professional”, you
@@ -2099,8 +2159,8 @@ time to time designate as "Market Data"; and (c) all information that derives fr
 To receive or have made available to you any NYSE Market Data, you enter into the “Agreement for
 Market Data Display Services” in the form attached at Appendix 1 to this Market Data Addendum (the
 “NYSE Market Data Agreement”) with Robinhood Financial.
-20260529-5534979-17456529
-37
+20260702-5716670-18238441
+38
 The NYSE Market Data Agreement will be deemed to have been executed and entered into by you by
 your agreement to the Customer Agreement and this Market Data Addendum, and in addition to being
 incorporated into the Customer Agreement by virtue of this Market Data Addendum, constitutes a separate
@@ -2159,8 +2219,8 @@ not relieve NASDAQ, you, or any other Person from liability for damages that res
 their own gross negligence or willful tortious misconduct or from personal injury or
 wrongful death claims. You understand and agree that the terms of this section reflect a
 reasonable allocation of risk and limitation of liability.
-20260529-5534979-17456529
-38
+20260702-5716670-18238441
+39
 8. Disclaimers of Warranties. NASDAQ and its third-party information providers make no
 warranties of any kind — express, implied or statutory (including without limitation, timeliness,
 truthfulness, sequence, completeness, accuracy, freedom from interruption), any implied
@@ -2220,8 +2280,8 @@ provided directly or indirectly by OTC Market Group, Inc. and its affiliates (�
 As a condition of receiving any OTC Markets Market Data, you are deemed to enter into an agreement
 with Robinhood Financial in the form of the OTC Markets Subscriber Agreement, as defined below, as
 amended from time to time.
-20260529-5534979-17456529
-39
+20260702-5716670-18238441
+40
 The OTC Markets Group Market Data Subscriber Agreement in the form attached as Appendix A to the
 OTC Markets Group Market Data Distribution Agreement (the “OTC Markets Subscriber Agreement”)
 (which may be described as the ‘Market Data Distribution Agreement Subscriber Addendum’) is
@@ -2274,8 +2334,8 @@ Robinhood may provide or make available to you through the Platform certain Mark
 historical corporate actions that is provided directly or indirectly by ICE Data Services, Inc. (“ICE”). To
 receive or have made available to you any ICE Market Data, you enter into the “ICE Market Data
 Addendum” in the form attached at Appendix 2 to this Market Data Addendum with Robinhood Financial.
-20260529-5534979-17456529
-40
+20260702-5716670-18238441
+41
 4. Amendments and Modifications
 THIS MARKET DATA ADDENDUM AND ITS TERMS AND ANY AND ALL AGREEMENTS
 CONSTITUTED BY IT MAY BE SUPPLEMENTED OR AMENDED FROM TIME TO TIME BY
@@ -2287,8 +2347,8 @@ AND WILL BE LEGALLY BOUND BY ITS TERMS.
 5. Governing Law and Jurisdiction
 Section 38 (Governing Law) and Section 39 (Arbitration) of the Customer Agreement apply to and are
 incorporated into this Addendum as if set out in full.
-20260529-5534979-17456529
-41
+20260702-5716670-18238441
+42
 APPENDIX 1: NYSE Market Data Agreement
 AGREEMENT FOR MARKET DATA DISPLAY SERVICES
 (Usage-Based Services/Nonprofessional Subscriber Status) (Electronic Version)
@@ -2335,8 +2395,8 @@ only for its individual use in its business.
 6. Dissemination Discontinuance or Modification – Subscriber understands and
 acknowledges that, at any time, the Authorizing SROs may discontinue disseminating any category of
 Market Data, may change or eliminate any transmission method and may change transmission speeds
-20260529-5534979-17456529
-42
+20260702-5716670-18238441
+43
 or other signal characteristics. The Authorizing SROs shall not be liable for any resulting liability, loss or
 damages that may arise therefrom.
 7. Duration; Survival – This Agreement remains in effect for so long as Subscriber has the
@@ -2385,8 +2445,8 @@ receive Market Data solely for his or her personal, non-business use.
 have provided to Robinhood Financial the following information, and you represent and warrant that
 such information continues to be true, complete and accurate in all respects:
 ● Your name
-20260529-5534979-17456529
-43
+20260702-5716670-18238441
+44
 ● Your address
 ● Your employer
 ● Your occupation and job description
@@ -2420,8 +2480,8 @@ may cause any of them to be untrue in respect of you.
 she falls within Paragraph 9's definition of "Nonprofessional Subscriber" and that the personal and
 employment information that he or she has provided to Robinhood Financial in connection with their
 Account and confirmed in Paragraph 12 is truthful and accurate.
-20260529-5534979-17456529
-44
+20260702-5716670-18238441
+45
 APPENDIX 2: ICE Market Data Addendum (Required Data Agreement Provisions)
 1. Robinhood has entered into an agreement with ICE Data Services, Inc. or its affiliate (“ICE Data
 Services”) under which Robinhood is authorized to incorporate data it receives from ICE Data Services
@@ -2475,8 +2535,8 @@ distributor whereby you receive ICE Data Services’ data or information
 services available from ICE Data Services and/or its affiliates.
 For Professional Clients: If you are a “Securities Professional” customer, you agree to keep complete and
 accurate books, records and related documentation concerning the use of the ICE Data Services’ Data. ICE
-20260529-5534979-17456529
-45
+20260702-5716670-18238441
+46
 Data Services and/or its Third Party Suppliers, either directly or through a third party independent auditor,
 are hereby granted the right to (i) audit and examine, upon reasonable notice, your books, records and
 applicable computer equipment, devices, components, transmission equipment and software used by you in
@@ -2485,5 +2545,5 @@ you of the ICE Data Services’ Data, and (ii) observe, upon reasonable notice, 
 relating to the use of the Data. This right will be exercised by ICE Data Services not more than once during
 any twelve (12) month period pursuant to any reasonable security or confidentiality provisions at your
 request.
-20260529-5534979-17456529
-46
+20260702-5716670-18238441
+47
