@@ -13,7 +13,7 @@ on:
         required: false
         default: 'high'
         type: choice
-        options: [high, medium, all, universe]
+        options: [high, medium, all]
       tickers:
         description: 'Optional comma-separated tickers (e.g. SHOP,WIX,DASH,CART). Overrides tier.'
         required: false
@@ -50,14 +50,19 @@ jobs:
 
       - name: Decide run args
         id: args
+        env:
+          # The daily scheduled run = the analyst's v4 coverage: 41 names
+          # (tiers v2 + v4). Kept as an explicit list so his coverage stays
+          # fixed even if names get retagged in the xlsx.
+          V4_TICKERS: 'ABNB,ADP,APP,BBY,BKNG,CDW,CHH,DIS,EA,EXPE,FOXA,GOOG,GRMN,INTU,LAMR,LIF,LION,LOGI,LYFT,LYV,META,NFLX,NYT,OUT,PAYC,PAYX,PCTY,PINS,RBLX,RDDT,SNAP,SPHR,SPOT,STUB,TSLA,TTWO,U,UBER,UMG,WMG,YOU'
         run: |
           if [ -n "${{ inputs.tickers }}" ]; then
             echo "mode=tickers" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tickers }}" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event_name }}" = "schedule" ]; then
-            # Daily run = full curated universe (high + v2 + v3 + v4).
-            echo "mode=tier" >> "$GITHUB_OUTPUT"
-            echo "value=universe" >> "$GITHUB_OUTPUT"
+            # Daily run = the 41-name v4 coverage set.
+            echo "mode=tickers" >> "$GITHUB_OUTPUT"
+            echo "value=$V4_TICKERS" >> "$GITHUB_OUTPUT"
           elif [ -n "${{ inputs.tier }}" ]; then
             echo "mode=tier" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
