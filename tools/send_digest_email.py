@@ -24,6 +24,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -89,10 +90,22 @@ def main() -> int:
                 print(f"Sent '{subject}' to {to} via webhook "
                       f"(HTTP {resp.status}, {html_path.name}).")
                 return 0
-        except Exception as e:  # noqa: BLE001 — surface any transport error
+        except urllib.error.HTTPError as e:
+            # Surface the response body — Power Automate returns a JSON error
+            # explaining a 4xx (schema/validation mismatch at the trigger).
+            body = ""
+            try:
+                body = e.read().decode("utf-8", "replace")[:1000]
+            except Exception:  # noqa: BLE001
+                pass
+            last_err = f"HTTP {e.code} {e.reason} — {body}"
+            if 400 <= e.code < 500:
+                break  # client-side; retrying won't help
+            time.sleep(2 ** attempt)
+        except Exception as e:  # noqa: BLE001 — transport/timeout
             last_err = str(e)
             time.sleep(2 ** attempt)
-    print(f"Email send failed after retries: {last_err}", file=sys.stderr)
+    print(f"Email send failed: {last_err}", file=sys.stderr)
     return 1
 
 
