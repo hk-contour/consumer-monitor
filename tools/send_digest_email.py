@@ -66,7 +66,10 @@ def main() -> int:
         print("EMAIL_TO not set — skipping email.")
         return 0
 
-    html_path = _latest_html()
+    # Prefer the exact path the run emitted (deterministic); only guess by
+    # mtime if it wasn't provided (e.g. a local invocation).
+    env_path = os.environ.get("DIGEST_HTML", "").strip()
+    html_path = Path(env_path) if env_path and Path(env_path).exists() else _latest_html()
     if html_path is None:
         print("No digest .html found — nothing to send.")
         return 0

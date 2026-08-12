@@ -311,6 +311,9 @@ def write_digest(changes: list[Change], tier_label: str) -> Path:
         lines.append("")
         lines.append("**No changes detected this run.**")
         out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        # Always emit a matching .html so downstream (email) has a file to send
+        # and never falls back to a stale digest from another run.
+        write_digest_html(today, tier_label, [], [])
         return out
 
     # Pre-classify every change once. This is also where LLM calls happen

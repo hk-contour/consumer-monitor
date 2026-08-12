@@ -78,6 +78,7 @@ jobs:
         run: python tools/test_llm.py
 
       - name: Run monitor (${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }})
+        id: run
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
@@ -111,4 +112,5 @@ jobs:
         env:
           EMAIL_WEBHOOK_URL: ${{ secrets.EMAIL_WEBHOOK_URL }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DIGEST_HTML: ${{ steps.run.outputs.digest_html }}
         run: python tools/send_digest_email.py

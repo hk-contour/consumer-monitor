@@ -16,6 +16,7 @@ changelog.
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 import time
 import traceback
@@ -325,6 +326,15 @@ def main() -> int:
     digest_path = write_digest(all_changes, tier_label)
     print(f"\nDigest written: {digest_path}")
     print(f"Flagged changes: {len(all_changes)}")
+
+    # Expose the exact digest paths as step outputs so the workflow's email
+    # step sends THIS run's digest, not whatever file happens to be newest.
+    gh_out = os.environ.get("GITHUB_OUTPUT")
+    if gh_out:
+        html_path = digest_path.with_suffix(".html")
+        with open(gh_out, "a", encoding="utf-8") as fh:
+            fh.write(f"digest_md={digest_path}\n")
+            fh.write(f"digest_html={html_path}\n")
 
     if all_changes:
         try:
