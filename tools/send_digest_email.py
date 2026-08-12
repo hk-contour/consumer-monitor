@@ -56,6 +56,18 @@ def _counts(md_path: Path) -> str:
     return ""
 
 
+def _change_total(md_path: Path) -> int | None:
+    """Total flagged changes from the digest .md. 0 for a no-change run,
+    None if it can't be determined (in which case we send, to be safe)."""
+    if not md_path.exists():
+        return None
+    text = md_path.read_text(encoding="utf-8")
+    if "No changes detected this run" in text:
+        return 0
+    m = re.search(r"\*\*(\d+) flagged changes\*\*", text)
+    return int(m.group(1)) if m else None
+
+
 def main() -> int:
     webhook = os.environ.get("EMAIL_WEBHOOK_URL", "").strip()
     to = os.environ.get("EMAIL_TO", "").strip().replace(",", ";")
@@ -73,10 +85,16 @@ def main() -> int:
     if html_path is None:
         print("No digest .html found — nothing to send.")
         return 0
+    # Don't email a digest with nothing in it — an empty inbox-filler is noise.
+    md_path = html_path.with_suffix(".md")
+    if _change_total(md_path) == 0:
+        print(f"No changes this run ({html_path.name}) — skipping email.")
+        return 0
+
     html = html_path.read_text(encoding="utf-8")
 
     date = html_path.name.split("_", 1)[0]
-    counts = _counts(html_path.with_suffix(".md"))
+    counts = _counts(md_path)
     subject = f"Consumer Monitor — Morning digest {date}"
     if counts:
         subject += f" ({counts})"
