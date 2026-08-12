@@ -1,0 +1,1 @@
+[ROUTINE] Job listing order reordered on careers page; two existing positions (Professional Services Delivery Manager roles) swapped and one new security role (Security Incident Response, Senior Analyst) added to open positions.

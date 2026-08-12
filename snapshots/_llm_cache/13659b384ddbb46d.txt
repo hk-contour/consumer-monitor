@@ -1,0 +1,1 @@
+[ROUTINE] Addition of standard cookie consent banner to careers page with accept/reject options.

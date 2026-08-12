@@ -1,0 +1,1 @@
+[MATERIAL] Shopify converted all pricing from USD to CAD across all plans (Basic $29→CA$37, Grow $79→CA$99, Advanced $299→CA$389, Plus $2,300→CA$3,400) and reduced payment processing rates by 0.1-0.2% while restructuring transaction fee tiers. Removed tax platform feature line from pricing table and reduced shipping discount claim from 87% to 45% for Grow plan.
