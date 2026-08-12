@@ -1,0 +1,1 @@
+[ROUTINE] Careers page restructured with navigation reorganization, content consolidation, and removal of detailed job opening counts by segment and function. The underlying job categories and hiring areas remain substantively unchanged.
