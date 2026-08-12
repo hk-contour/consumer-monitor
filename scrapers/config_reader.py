@@ -61,6 +61,7 @@ class Company:
     urls: dict[str, str] = field(default_factory=dict)  # field_name -> url
     selectors: dict[str, str] = field(default_factory=dict)  # source -> CSS selector
     notes: str = ""
+    analyst: str = ""  # coverage owner from the "Analyst" xlsx column ("1"/"2")
 
     def url(self, key: str) -> str | None:
         return self.urls.get(key)
@@ -102,6 +103,11 @@ def load_companies(xlsx_path: Path = DEFAULT_XLSX) -> list[Company]:
                       if "Active" in header_idx else True)
         active = active_val if active_val is not None else True
 
+        # Coverage owner ("Analyst" column): "1" / "2"
+        analyst_val = (row[header_idx["Analyst"]]
+                       if "Analyst" in header_idx else None)
+        analyst = str(analyst_val).strip() if analyst_val is not None else ""
+
         # Per-source CSS selectors (Phase 1D)
         selectors: dict[str, str] = {}
         for col_header, source_field in SELECTOR_COLUMN_MAP.items():
@@ -119,6 +125,7 @@ def load_companies(xlsx_path: Path = DEFAULT_XLSX) -> list[Company]:
                 exchange=str(row[header_idx.get("Exchange", 2)] or "").strip(),
                 tier=tier,
                 active=bool(active),
+                analyst=analyst,
                 urls=urls,
                 selectors=selectors,
                 notes=str(row[header_idx["Monitoring Notes"]] or "").strip()

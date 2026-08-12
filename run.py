@@ -288,6 +288,9 @@ def main() -> int:
     p.add_argument("--ticker",
                    help="Run for one ticker or comma-separated list "
                         "(e.g. SHOP or SHOP,WIX,DASH); overrides --tier")
+    p.add_argument("--analyst",
+                   help="Run one analyst's coverage list (value of the xlsx "
+                        "'Analyst' column, e.g. 1 or 2); overrides --tier")
     args = p.parse_args()
 
     companies = load_companies()
@@ -300,6 +303,12 @@ def main() -> int:
             print(f"Tickers not found: {', '.join(sorted(missing))}", file=sys.stderr)
             return 1
         tier_label = "_".join(sorted(t.ticker.upper().replace(" ", "") for t in target))
+    elif args.analyst:
+        target = [c for c in companies if c.analyst == args.analyst.strip()]
+        if not target:
+            print(f"No names assigned to analyst '{args.analyst}'", file=sys.stderr)
+            return 1
+        tier_label = f"analyst{args.analyst.strip()}"
     else:
         wanted = {"high"} if args.tier == "high" else (
             {"medium"} if args.tier == "medium" else {"high", "medium"}
@@ -307,13 +316,15 @@ def main() -> int:
         target = [c for c in companies if c.tier in wanted]
         tier_label = args.tier
 
-    # Honor Active flag from xlsx — applies to both --ticker and --tier branches
+    # Honor Active flag from xlsx — applies to every selector branch
     target = [c for c in target if c.active]
 
-    # Skip blocked names with a clear log entry
-    for c in companies:
-        if c.tier == "blocked":
-            print(f"[{c.ticker}] BLOCKED: {blocker_reason(c.ticker)}", file=sys.stderr)
+    # Skip blocked names (URL/CIK/ticker issues) with a clear log entry —
+    # they can land in a target via --ticker or --analyst (analyst 2 owns a
+    # few blocked foreign names), so filter them out of the actual run.
+    for c in [c for c in target if c.tier == "blocked"]:
+        print(f"[{c.ticker}] BLOCKED: {blocker_reason(c.ticker)}", file=sys.stderr)
+    target = [c for c in target if c.tier != "blocked"]
 
     all_changes: list[Change] = []
     for c in target:

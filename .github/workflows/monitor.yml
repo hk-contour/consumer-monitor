@@ -2,24 +2,30 @@ name: monitor
 
 on:
   schedule:
-    # Weekday mornings — runs the v4 coverage set and emails the digest.
-    # 11:30 UTC ≈ 7:30am ET (EDT) / 6:30am ET (EST). GitHub may delay cron
-    # a few minutes under load. Change the time by editing this one line.
+    # Weekday mornings — scrapes both analysts' coverage and emails each their
+    # own digest. 11:30 UTC ≈ 7:30am ET (EDT). GitHub may delay cron a few
+    # minutes under load. Change the time by editing this one line.
     - cron: '30 11 * * 1-5'
   workflow_dispatch:
     inputs:
+      analyst:
+        description: "Run one analyst's coverage list (1 or 2). Overrides tier."
+        required: false
+        type: choice
+        options: ['', '1', '2']
+        default: ''
       tier:
-        description: 'Tier to run (ignored if tickers is set)'
+        description: 'Tier to run (ignored if analyst/tickers is set)'
         required: false
         default: 'high'
         type: choice
         options: [high, medium, all]
       tickers:
-        description: 'Optional comma-separated tickers (e.g. SHOP,WIX,DASH,CART). Overrides tier.'
+        description: 'Optional comma-separated tickers (e.g. SHOP,WIX,DASH). Overrides tier + analyst.'
         required: false
         type: string
       send_email:
-        description: 'Email the digest after this run (needs EMAIL_WEBHOOK_URL + EMAIL_TO secrets)'
+        description: 'Email the digest after a manual run (goes to EMAIL_TO)'
         required: false
         default: false
         type: boolean
@@ -34,6 +40,13 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    env:
+      REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+      REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+      REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+      EMAIL_WEBHOOK_URL: ${{ secrets.EMAIL_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v4
 
@@ -48,51 +61,61 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Decide run args
-        id: args
-        env:
-          # The daily scheduled run = the analyst's v4 coverage: 41 names
-          # (tiers v2 + v4). Kept as an explicit list so his coverage stays
-          # fixed even if names get retagged in the xlsx.
-          V4_TICKERS: 'ABNB,ADP,APP,BBY,BKNG,CDW,CHH,DIS,EA,EXPE,FOXA,GOOG,GRMN,INTU,LAMR,LIF,LION,LOGI,LYFT,LYV,META,NFLX,NYT,OUT,PAYC,PAYX,PCTY,PINS,RBLX,RDDT,SNAP,SPHR,SPOT,STUB,TSLA,TTWO,U,UBER,UMG,WMG,YOU'
-        run: |
-          if [ -n "${{ inputs.tickers }}" ]; then
-            echo "mode=tickers" >> "$GITHUB_OUTPUT"
-            echo "value=${{ inputs.tickers }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event_name }}" = "schedule" ]; then
-            # Daily run = the 41-name v4 coverage set.
-            echo "mode=tickers" >> "$GITHUB_OUTPUT"
-            echo "value=$V4_TICKERS" >> "$GITHUB_OUTPUT"
-          elif [ -n "${{ inputs.tier }}" ]; then
-            echo "mode=tier" >> "$GITHUB_OUTPUT"
-            echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
-          else
-            echo "mode=tier" >> "$GITHUB_OUTPUT"
-            echo "value=high" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: LLM smoke test
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
         run: python tools/test_llm.py
 
-      - name: Run monitor (${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }})
-        id: run
+      # ---------------- Manual dispatch: one targeted run ----------------
+      - name: Run monitor (manual)
+        id: runm
+        if: github.event_name == 'workflow_dispatch'
         env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          IN_TICKERS: ${{ inputs.tickers }}
+          IN_ANALYST: ${{ inputs.analyst }}
+          IN_TIER: ${{ inputs.tier }}
         run: |
-          if [ "${{ steps.args.outputs.mode }}" = "tickers" ]; then
-            python run.py --ticker "${{ steps.args.outputs.value }}"
+          if [ -n "$IN_TICKERS" ]; then
+            python run.py --ticker "$IN_TICKERS"
+          elif [ -n "$IN_ANALYST" ]; then
+            python run.py --analyst "$IN_ANALYST"
           else
-            python run.py --tier "${{ steps.args.outputs.value }}"
+            python run.py --tier "$IN_TIER"
           fi
 
-      - name: Commit snapshots and digest
+      - name: Email digest (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_email == true }}
+        env:
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DIGEST_HTML: ${{ steps.runm.outputs.digest_html }}
+        run: python tools/send_digest_email.py
+
+      # ---------- Scheduled: both analysts, each their own email ----------
+      - name: Run monitor — Analyst 1
+        id: run1
+        if: github.event_name == 'schedule'
+        run: python run.py --analyst 1
+
+      - name: Run monitor — Analyst 2
+        id: run2
+        if: github.event_name == 'schedule'
+        run: python run.py --analyst 2
+
+      - name: Email digest — Analyst 1
+        if: github.event_name == 'schedule'
+        env:
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DIGEST_HTML: ${{ steps.run1.outputs.digest_html }}
+        run: python tools/send_digest_email.py
+
+      - name: Email digest — Analyst 2
+        if: github.event_name == 'schedule'
+        env:
+          EMAIL_TO: ${{ secrets.EMAIL_TO_2 }}
+          DIGEST_HTML: ${{ steps.run2.outputs.digest_html }}
+        run: python tools/send_digest_email.py
+
+      # ---------------- Commit everything once ----------------
+      - name: Commit snapshots and digests
+        if: always()
         run: |
           git config user.name  "consumer-monitor-bot"
           git config user.email "consumer-monitor-bot@users.noreply.github.com"
@@ -100,17 +123,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "monitor: ${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }} run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "monitor: run $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
-
-      # Email the digest on the daily schedule, or on a manual run when the
-      # send_email toggle is set. Soft-skips (exit 0) if the webhook/recipient
-      # secrets aren't configured yet, so runs never fail for a missing address.
-      - name: Email digest
-        if: ${{ github.event_name == 'schedule' || inputs.send_email == true }}
-        env:
-          EMAIL_WEBHOOK_URL: ${{ secrets.EMAIL_WEBHOOK_URL }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          DIGEST_HTML: ${{ steps.run.outputs.digest_html }}
-        run: python tools/send_digest_email.py
