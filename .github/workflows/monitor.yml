@@ -1,11 +1,11 @@
 name: monitor
 
 on:
-  # Scheduled cron disabled while iterating on signal quality. Re-enable
-  # by uncommenting the two cron strings below.
-  # schedule:
-  #   - cron: '6 11,13,15,17,19,21,23 * * 1-5'   # high tier every 2h weekdays
-  #   - cron: '6 11 * * 1-5'                     # all tiers once daily at 11:06 UTC
+  schedule:
+    # Weekday mornings — runs the v4 coverage set and emails the digest.
+    # 11:30 UTC ≈ 7:30am ET (EDT) / 6:30am ET (EST). GitHub may delay cron
+    # a few minutes under load. Change the time by editing this one line.
+    - cron: '30 11 * * 1-5'
   workflow_dispatch:
     inputs:
       tier:
@@ -18,6 +18,11 @@ on:
         description: 'Optional comma-separated tickers (e.g. SHOP,WIX,DASH,CART). Overrides tier.'
         required: false
         type: string
+      send_email:
+        description: 'Email the digest after this run (needs EMAIL_WEBHOOK_URL + EMAIL_TO secrets)'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write   # need to commit snapshots + updated xlsx back
@@ -45,21 +50,19 @@ jobs:
 
       - name: Decide run args
         id: args
+        env:
+          # The daily scheduled run covers this set (v4 production coverage).
+          V4_TICKERS: 'BKNG,EXPE,ABNB,YOU,CHH,META,GOOG,SNAP,PINS,RDDT,APP,U,UBER,LYFT,TSLA,NFLX,SPOT,NYT,LIF,LOGI,GRMN,BBY,DIS,FOXA,UMG,WMG,LYV,SPHR,STUB,LION,OUT,LAMR,TTWO,EA,RBLX,INTU,ADP,PAYX,PAYC,PCTY,CDW'
         run: |
           if [ -n "${{ inputs.tickers }}" ]; then
             echo "mode=tickers" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tickers }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "mode=tickers" >> "$GITHUB_OUTPUT"
+            echo "value=$V4_TICKERS" >> "$GITHUB_OUTPUT"
           elif [ -n "${{ inputs.tier }}" ]; then
             echo "mode=tier" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.schedule }}" = "6 11,13,15,17,19,21,23 * * 1-5" ]; then
-            HOUR=$(date -u +%H)
-            echo "mode=tier" >> "$GITHUB_OUTPUT"
-            if [ "$HOUR" = "11" ]; then
-              echo "value=all" >> "$GITHUB_OUTPUT"
-            else
-              echo "value=high" >> "$GITHUB_OUTPUT"
-            fi
           else
             echo "mode=tier" >> "$GITHUB_OUTPUT"
             echo "value=high" >> "$GITHUB_OUTPUT"
@@ -96,3 +99,13 @@ jobs:
             git commit -m "monitor: ${{ steps.args.outputs.mode }}=${{ steps.args.outputs.value }} run $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
+
+      # Email the digest on the daily schedule, or on a manual run when the
+      # send_email toggle is set. Soft-skips (exit 0) if the webhook/recipient
+      # secrets aren't configured yet, so runs never fail for a missing address.
+      - name: Email digest
+        if: ${{ github.event_name == 'schedule' || inputs.send_email == true }}
+        env:
+          EMAIL_WEBHOOK_URL: ${{ secrets.EMAIL_WEBHOOK_URL }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python tools/send_digest_email.py
