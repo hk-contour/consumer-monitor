@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001620093</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001616707</issuerCik>
+      <issuerName>Wayfair Inc.</issuerName>
+      <secFileNumber>001-36666</secFileNumber>
+      <issuerAddress>
+        <com:street1>4 COPLEY PLACE</com:street1>
+        <com:city>BOSTON</com:city>
+        <com:stateOrCountry>MA</com:stateOrCountry>
+        <com:zipCode>02116</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>617 532 6100</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Shah Niraj</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>6000</noOfUnitsSold>
+      <aggregateMarketValue>636000.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>115990166</noOfUnitsOutstanding>
+      <approxSaleDate>08/10/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>01/01/2002</acquiredDate>
+      <natureOfAcquisitionTransaction>Founders Shares</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>6000</amountOfSecuritiesAcquired>
+      <paymentDate>01/01/2002</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shah Charitable Foundation</name>
+        <address>
+          <com:street1>4 Copley Place</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/11/2026</saleDate>
+      <amountOfSecuritiesSold>4000</amountOfSecuritiesSold>
+      <grossProceeds>263840.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shah Charitable Foundation</name>
+        <address>
+          <com:street1>4 Copley Place</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>05/27/2026</saleDate>
+      <amountOfSecuritiesSold>1000</amountOfSecuritiesSold>
+      <grossProceeds>75000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shah Charitable Foundation</name>
+        <address>
+          <com:street1>4 Copley Place,</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/10/2026</saleDate>
+      <amountOfSecuritiesSold>4000</amountOfSecuritiesSold>
+      <grossProceeds>278080.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shah Charitable Foundation</name>
+        <address>
+          <com:street1>4 Copley Place</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/11/2026</saleDate>
+      <amountOfSecuritiesSold>1000</amountOfSecuritiesSold>
+      <grossProceeds>75000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shah Charitable Foundation</name>
+        <address>
+          <com:street1>4 Copley Place</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/10/2026</saleDate>
+      <amountOfSecuritiesSold>5000</amountOfSecuritiesSold>
+      <grossProceeds>455950.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shah Charitable Foundation</name>
+        <address>
+          <com:street1>4 Copley Place</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/04/2026</saleDate>
+      <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+      <grossProceeds>669780.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Today's sale and the sales from the past 3 months occurred in the Shah Charitable Foundation account of which Niraj S. Shah is an Account Stakeholder.</remarks>
+    <noticeSignature>
+      <noticeDate>08/10/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>08/07/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/Wade Moss, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Niraj S. Shah</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

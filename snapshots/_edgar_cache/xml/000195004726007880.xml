@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0002082975</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001433195</issuerCik>
+            <issuerName>AppFolio, Inc.</issuerName>
+            <secFileNumber>001-37468</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>70 Castilian Drive</ns2:street1>
+                <ns2:city>Santa Barbara</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>93117</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>8053646093</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>DON RIGLER</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>300</noOfUnitsSold>
+            <aggregateMarketValue>59622.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>24087367</noOfUnitsOutstanding>
+            <approxSaleDate>08/10/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>05/10/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>300</amountOfSecuritiesAcquired>
+            <paymentDate>05/10/2026</paymentDate>
+            <natureOfPayment>N/A</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for DON RIGLER</name>
+                <address>
+                    <ns2:street1>70 Castilian Drive</ns2:street1>
+                    <ns2:city>Santa Barbara</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>93117</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/12/2026</saleDate>
+            <amountOfSecuritiesSold>150</amountOfSecuritiesSold>
+            <grossProceeds>23934.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <remarks>The securities to be sold were acquired upon the vesting of restricted stock units during the period of 05/10/2026 through 08/10/2026.
+</remarks>
+        <noticeSignature>
+            <noticeDate>08/10/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>03/13/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Don Rigler</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -1,0 +1,1 @@
+[ROUTINE] Removed promotional banner ("Get a domain free for 1 year with any annual site plan") and search box from pricing page header. No changes to plan offerings, pricing tiers, or features.

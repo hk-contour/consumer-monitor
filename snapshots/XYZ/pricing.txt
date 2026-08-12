@@ -1,0 +1,102 @@
+Please update your browser.
+Download the latest version of a supported browser below to get the most out of this website:
+Google Chrome
+Mozilla Firefox
+Microsoft Edge
+I understand. Proceed anyway
+Join Square experts and real service business owners for a live discussion on how smarter payment tools are helping HVAC pros, contractors, and other service pros get paid faster, look more professional, and stay organized.
+Register
+now!
+Processing fees
+Tap, dip, or swipe
+Tap, dip, or swipe
+Applies to in-person payments when a card is present.
+2.6% + 15¢
+2.5% + 15¢
+2.4% + 15¢
+Online
+Online
+Applies to card payments made online or through an invoice.
+3.3% + 30¢
+2.9% + 30¢
+2.9% + 30¢
+Online API
+Online API
+Applies to card payments made within your web or mobile application's workflow using our payments APIs.
+2.9% + 30¢
+2.9% + 30¢
+2.9% + 30¢
+ACH bank transfer (via invoice)
+ACH bank transfer (via invoice)
+Applies to payments made on invoices with an ACH bank transfer.
+1%, $1 min
+1%, $1 min,
+$10 fee cap
+1%, $1 min,
+$10 fee cap
+ACH bank transfer (via API)
+ACH bank transfer (via API)
+Applies to ACH transfers through the Web Payments SDK and Payments API.
+1%, $1 min, $5 fee cap
+1%, $1 min, $5 fee cap
+1%, $1 min, $5 fee cap
+Manual entry or card on file
+Manual entry or card on file
+Applies to payments when a card number is manually entered or when a saved card on file is used.
+3.5% + 15¢
+3.5% + 15¢
+3.5% + 15¢
+Afterpay
+Afterpay
+You get paid immediately, but customers pay over time in four installments.
+6% + 30¢
+6% + 30¢
+6% + 30¢
+Cash or check
+Cash or check
+Applies to any payment made via cash or check.
+Free
+Free
+Free
+Bitcoin payments
+Bitcoin payments
+Applies to in-person payments where buyer scans a QR code to pay in bitcoin.
+0% until 2027
+0% until 2027
+0% until 2027
+EBT
+EBT
+Applies to in-person payments made with an EBT card for SNAP-eligible items. Processing fees are waived for EBT payments while the feature is in beta, through fall 2026.
+1.8% + 5¢
+1.8% + 5¢
+1.8% + 5¢
+Learn more about our
+fees
+Get one plan to run your entire business
+Learn more
+Get started
+Best value
+Try free for {{sub2_api.num_free_trial_days}} days
+Try free for {{sub2_api.num_free_trial_days}} days
+Square Pro
+Get custom pricing
+Talk to our team
+If you process over $250,000 per year, talk to our team to see if you’re eligible for custom pricing and processing fees. You can also ask about hardware discounts, onboarding and implementation support, technical specialists, and account management.
+How much will I pay in processing fees?
+Processing fees vary based on the Square plan you choose. Square Premium offers the lowest processing fees. If you process over $250,000 per year, you can
+talk to our team
+about custom pricing and processing fees.
+Learn more about our
+fees
+Is there a free trial and can I cancel later?
+Square Plus and Square Premium each offer a free 30-day trial, and you can cancel or switch plans at any point. With Square Free, there are no monthly subscription costs — you only pay processing fees when you take a payment.
+Can I accept any type of credit card?
+You can accept every major card — Visa, Mastercard, American Express, and Discover — all for the same processing fees. You can also take cash, checks, and Square Gift Cards.
+Do I need to purchase hardware?
+You do not need to purchase hardware. There are several ways to take payments without any hardware, including invoicing, payment links, virtual terminal, Tap to Pay on iPhone, and Tap to Pay on Android.
+How can I get in touch for support?
+You can
+contact sales
+for support getting started or with your account.
+How can I switch from my current solution?
+With Square you can get set up quickly. Import existing customer contacts and connect third–party apps you already use.

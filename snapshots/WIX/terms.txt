@@ -5,23 +5,23 @@ Pricing
 Log In
 Get Started
 Getting started with Wix
-Learn how to build your website and business using Wix.
+Build your website and business with Wix. Try using our AI tools to create your website, customize templates, or hire professionals to build or enhance your online presence.
 Creating a website
-Design and manage your site with smart functionalities.
+Read how to use the Wix Editor and manage content on your site. Discover how to protect your visitors' privacy and make your site accessible.
 Account & billing
-Manage subscriptions, plans and invoices.
+Review your account settings, manage your subscriptions and plans and understand your invoices.
 Using the Wix mobile apps
-Run your business and connect with members.
+Use our mobile apps to run your business efficiently on the go and set up a dedicated app for your site members to stay in touch.
 Connecting a domain
-Learn to purchase, connect or transfer a domain to your site.
+Follow our step-by step guides to learn how to purchase, connect or transfer a domain for your site, and find out how to keep your site’s data secure.
 Managing your business
-Get tools to grow your business and web presence.
+Get tools to grow your business and web presence. Find the right tools for your specific needs, set up online payments and keep track of your site's analytics.
 Promoting your site
-Boost your visibility with SEO and marketing tools.
+Learn to make your site more visible promoting it on search engines, sending emails and running paid ads. Improve your online presence with practical tips.
 Studio, Partners & Enterprise
-Get advanced features to help you work more efficiently.
+Get the most out of your Studio or Enterprise account with advanced features that'll help you work more efficiently.
 Need more help?
-Find solutions, learn about known issues or contact us.
+Find solutions for site performance and technical issues, learn about issues we’re working to fix or contact us for help.
 Wix Learn
 Improve your skills with our courses and tutorials.
 Wix Blog
@@ -36,7 +36,6 @@ About Wix
 Terms of Use
 Wix Terms of Use
 Wix Terms of Use
-1 min
 Wix users can upload songs, images, text and SWF files.
 The nature of the content users choose to upload to their website is their responsibility.
 Like any other website in the world, a website created through Wix is subject to international law.
@@ -53,12 +52,6 @@ Start Now
 Helpmate
 Hello
 Need a bit more guidance?
-Summary of this article
-Related articles
-Security of Wix's Billing Services and PCI Compliance
-Security of Wix's Sign Up Services and User Information
-Wix Site Copyright Protection
-Wix Site and Content Ownership
 Unlock personalized help
 Log in to get the most out of Helpmate.
 Log In
