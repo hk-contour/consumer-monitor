@@ -283,7 +283,8 @@ def process_company(c: Company) -> list[Change]:
 
 def main() -> int:
     p = argparse.ArgumentParser()
-    p.add_argument("--tier", choices=["high", "medium", "all"], default="high")
+    p.add_argument("--tier", choices=["high", "medium", "all", "universe"],
+                   default="high")
     p.add_argument("--ticker",
                    help="Run for one ticker or comma-separated list "
                         "(e.g. SHOP or SHOP,WIX,DASH); overrides --tier")
@@ -300,9 +301,17 @@ def main() -> int:
             return 1
         tier_label = "_".join(sorted(t.ticker.upper().replace(" ", "") for t in target))
     else:
-        wanted = {"high"} if args.tier == "high" else (
-            {"medium"} if args.tier == "medium" else {"high", "medium"}
-        )
+        # "universe" = the full curated coverage we actively run daily:
+        # high + the v2/v3/v4 expansion tiers. Excludes the broader "medium"
+        # watchlist, plus blocked/unknown names. New names inherit membership
+        # from their Priority Tier in the xlsx — no code change needed.
+        tier_sets = {
+            "high": {"high"},
+            "medium": {"medium"},
+            "all": {"high", "medium"},
+            "universe": {"high", "v2", "v3", "v4"},
+        }
+        wanted = tier_sets[args.tier]
         target = [c for c in companies if c.tier in wanted]
         tier_label = args.tier
 

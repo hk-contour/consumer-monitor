@@ -13,7 +13,7 @@ on:
         required: false
         default: 'high'
         type: choice
-        options: [high, medium, all]
+        options: [high, medium, all, universe]
       tickers:
         description: 'Optional comma-separated tickers (e.g. SHOP,WIX,DASH,CART). Overrides tier.'
         required: false
@@ -50,16 +50,14 @@ jobs:
 
       - name: Decide run args
         id: args
-        env:
-          # The daily scheduled run covers this set (v4 production coverage).
-          V4_TICKERS: 'BKNG,EXPE,ABNB,YOU,CHH,META,GOOG,SNAP,PINS,RDDT,APP,U,UBER,LYFT,TSLA,NFLX,SPOT,NYT,LIF,LOGI,GRMN,BBY,DIS,FOXA,UMG,WMG,LYV,SPHR,STUB,LION,OUT,LAMR,TTWO,EA,RBLX,INTU,ADP,PAYX,PAYC,PCTY,CDW'
         run: |
           if [ -n "${{ inputs.tickers }}" ]; then
             echo "mode=tickers" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tickers }}" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "mode=tickers" >> "$GITHUB_OUTPUT"
-            echo "value=$V4_TICKERS" >> "$GITHUB_OUTPUT"
+            # Daily run = full curated universe (high + v2 + v3 + v4).
+            echo "mode=tier" >> "$GITHUB_OUTPUT"
+            echo "value=universe" >> "$GITHUB_OUTPUT"
           elif [ -n "${{ inputs.tier }}" ]; then
             echo "mode=tier" >> "$GITHUB_OUTPUT"
             echo "value=${{ inputs.tier }}" >> "$GITHUB_OUTPUT"
