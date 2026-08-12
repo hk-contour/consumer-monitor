@@ -19,9 +19,13 @@ Alcohol Orders
 View all
 Popular Articles
 Is DoorDash available in my city?
+Get Started with DoorDash
 Can I schedule a delivery in advance?
+Get Started with DoorDash
 How can I report a missing or incorrect item from my order?
+Your DoorDash Order
 How do I cancel my order?
+Your DoorDash Order
 Can't find what you are looking for?
 Our chat and call support are available 24/7
 Chat with Us in the DoorDash App
@@ -35,3 +39,5 @@ I'm a Dasher
 Dasher Support
 I'm a Corporate Customer
 Business Support
+I'm an Advertiser
+Ads Support
