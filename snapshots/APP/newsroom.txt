@@ -1,10 +1,10 @@
 AppLovin blog
 Our thoughts on building products, growing teams, and driving innovation.
-Latest
-Product
-Company
-Team
-Academy
+최신
+제품
+회사 소식
+팀
+아카데미
 search
 Date published
 arrow_downward
@@ -44,11 +44,11 @@ arrow_back
 arrow_forward
 AppLovin blog
 Our thoughts on building products, growing teams, and driving innovation.
-Latest
-Product
-Company
-Team
-Academy
+최신
+제품
+회사 소식
+팀
+아카데미
 search
 Date published
 arrow_downward

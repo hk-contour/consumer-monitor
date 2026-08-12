@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-07</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001810806</issuerCik>
+        <issuerName>Unity Software Inc.</issuerName>
+        <issuerTradingSymbol>U</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001651403</rptOwnerCik>
+            <rptOwnerName>Durban Egon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O SILVER LAKE</rptOwnerStreet1>
+            <rptOwnerStreet2>2775 SAND HILL ROAD, SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>MENLO PARK</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94025</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21537</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21537</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19943044</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held through Silver Lake Partners IV, L.P.</value>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14422668</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held through SLP Union Aggregator, L.P.</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>369692</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held through Silver Lake Technology Investors IV (Delaware II), L.P.</value>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F9"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>80846</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F6"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4818</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>139874</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F8"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of Common Stock acquired from a limited partnership pursuant to a redemption request made on June 30, 2026.</footnote>
+        <footnote id="F2">Represents shares of Common Stock beneficially owned indirectly by Mr. Durban through a limited partnership for the benefit of certain family members.</footnote>
+        <footnote id="F3">These securities are directly owned by Silver Lake Partners IV, L.P. (&quot;SLP IV&quot;).</footnote>
+        <footnote id="F4">These securities are directly owned by SLP Union Aggregator, L.P. (&quot;SLP Union&quot;), the general partner of which is SLP Union GP, L.L.C. (&quot;SLP Union GP&quot;).</footnote>
+        <footnote id="F5">These securities are directly owned by Silver Lake Technology Investors IV (Delaware II), L.P. (&quot;SLTI IV&quot;).</footnote>
+        <footnote id="F6">These securities are held by Mr. Durban, a director of Unity Software Inc. (the &quot;Issuer&quot;) and Co-CEO and a Managing Partner of Silver Lake Group, L.L.C. (&quot;SLG&quot;) and Mr. James Whitehurst, a director of the Issuer and a Managing Director of SLG. for the benefit of Silver Lake Technology Management, L.L.C., certain of its affiliates, and certain of the funds they manage (&quot;Silver Lake&quot;). Pursuant to Mr. Durban's and Mr. Whitehurst's arrangement with Silver Lake with respect to director compensation, upon the sale of these securities, the proceeds from such sale(s) are expected to be remitted to Silver Lake and/or its limited partners. Mr. Durban, through his role at Silver Lake and its affiliates, may be deemed to have an indirect interest in the securities reported herein. Includes unvested restricted stock units.</footnote>
+        <footnote id="F7">Represents shares of Common Stock beneficially owned indirectly by Mr. Durban through a trust for the benefit of certain family members.</footnote>
+        <footnote id="F8">Represents shares of Common Stock held by Mr. Durban.</footnote>
+        <footnote id="F9">Silver Lake Technology Associates IV, L.P. (&quot;SLTA IV&quot;) is the general partner of SLP IV and SLTI IV and the managing member of SLP Union GP. The general partner of SLTA IV is SLTA IV (GP), L.L.C. (&quot;SLTA IV GP&quot;), the managing member of which is SLG. Mr. Durban serves as a director of the Issuer and Co-CEO and a Managing Member of SLG. Mr. Whitehurst serves as a director of the Issuer and a Managing Director of SLG. Each of SLP IV, SLTI IV, SLP Union, SLP Union GP, SLTA IV, SLTA IV GP and SLG may be deemed to be a director by deputization of the Issuer.</footnote>
+    </footnotes>
+
+    <remarks>This filing shall not be deemed an admission that the Reporting Person is the beneficial owner of all securities covered by this filing for purposes of Section 16 of the Exchange Act or otherwise, and Reporting Person disclaims beneficial ownership of these securities, except to the extent of such Reporting Person's pecuniary interest therein, if any.</remarks>
+
+    <ownerSignature>
+        <signatureName>By: /s/ Justin G. Hamill, Attorney-in-fact for Egon Durban</signatureName>
+        <signatureDate>2026-08-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

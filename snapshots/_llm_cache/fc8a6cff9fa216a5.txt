@@ -1,0 +1,1 @@
+[ROUTINE] Reddit careers page showing job listing updates: added Senior Staff ML Engineer (Feed Relevance), Senior PM (Ads - Shopping Catalogs), and Principal UX Engineer (Ads); renamed "Media Foundations" to "Media Experience"; removed several sales roles (Mid-Market Acquisitions, KarmaLab, EMEA, DACH, Signals teams).

@@ -1,0 +1,1 @@
+[ROUTINE] Open positions count decreased from 180 to 177 on careers page.

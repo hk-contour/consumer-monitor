@@ -293,6 +293,10 @@ Senior Staff ML Engineer, Search & Recommendation
 Senior Staff ML Engineer, Search & Recommendation
 Remote - United States
 Engineering
+Senior Staff Machine Learning Engineer, Feed Relevance
+Senior Staff Machine Learning Engineer, Feed Relevance
+Remote - United States
+Engineering
 Senior Staff Machine Learning Engineer, GenAI Platform
 Senior Staff Machine Learning Engineer, GenAI Platform
 Remote - United States
@@ -309,8 +313,8 @@ Senior Staff Software Engineer, Client Architecture
 Senior Staff Software Engineer, Client Architecture
 Remote - United States
 Engineering
-Senior iOS Engineer, Media Foundations
-Senior iOS Engineer, Media Foundations
+Senior iOS Engineer, Media Experience
+Senior iOS Engineer, Media Experience
 Remote - United States
 Engineering
 Software Engineer
@@ -470,6 +474,10 @@ Senior Frontend Software Engineer, Home Experience
 Senior Frontend Software Engineer, Home Experience
 Remote - United States
 Product
+Senior Product Manager, Ads -  Shopping Catalogs
+Senior Product Manager, Ads -  Shopping Catalogs
+Remote - United States
+Product
 Staff Product Manager, Ads Trust and Safety
 Staff Product Manager, Ads Trust and Safety
 Remote - United States
@@ -521,14 +529,6 @@ Los Angeles, CA
 Client Account Manager, Large Customer Sales (Tech)
 San Francisco, CA
 Sales
-Client Account Manager, Mid-Market Sales (Acquisitions)
-Client Account Manager, Mid-Market Sales (Acquisitions)
-Toronto, Canada
-Sales
-Client Partner, Mid-Market (B2B Services Acquisitions)
-Client Partner, Mid-Market (B2B Services Acquisitions)
-San Francisco, CA
-Sales
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 New York City, NY
@@ -536,10 +536,6 @@ Sales
 Creative Strategist - App Dev
 Creative Strategist - App Dev
 New York City, NY
-Sales
-Creative Strategist, KarmaLab
-Creative Strategist, KarmaLab
-London, United Kingdom
 Sales
 Lead Product Adoption Strategist, Mid-Market
 Lead Product Adoption Strategist, Mid-Market
@@ -567,10 +563,6 @@ Sales Manager, Mid-Market - UK
 Sales Manager, Mid-Market - UK
 London, United Kingdom
 Sales
-Senior Agile Client Account Executive - EMEA
-Senior Agile Client Account Executive - EMEA
-Amsterdam, Netherlands
-Sales
 Senior Agile Client Partner, Large Customer Sales
 Senior Agile Client Partner, Large Customer Sales
 New York City, NY
@@ -583,6 +575,10 @@ Senior Client Account Manager, Global Strategic Accounts (UK)
 Senior Client Account Manager, Global Strategic Accounts (UK)
 London, United Kingdom
 Sales
+Senior Client Account Manager, Large Customer Sales (CPG)
+Senior Client Account Manager, Large Customer Sales (CPG)
+New York City, NY
+Sales
 Senior Client Account Manager, Large Customer Sales (Pharma)
 Senior Client Account Manager, Large Customer Sales (Pharma)
 Chicago, IL
@@ -610,10 +606,6 @@ Sales
 Senior Client Partner, Global Strategic Accounts (UK)
 Senior Client Partner, Global Strategic Accounts (UK)
 London, United Kingdom
-Sales
-Senior Client Partner, Large Customer Sales - DACH
-Senior Client Partner, Large Customer Sales - DACH
-Berlin, Germany
 Sales
 Senior Client Partner, Large Customer Sales, Pharma
 Senior Client Partner, Large Customer Sales, Pharma
@@ -647,12 +639,6 @@ Senior Technical Solutions Manager
 Senior Technical Solutions Manager
 Sydney, Australia
 Sales
-Senior Technical Solutions Manager, Signals
-Senior Technical Solutions Manager, Signals
-Los Angeles, CA
-Senior Technical Solutions Manager, Signals
-San Francisco, CA
-Sales
 Senior Vendor Performance Manager, North America
 Senior Vendor Performance Manager, North America
 Salt Lake City, UT
@@ -683,6 +669,10 @@ Staff Technical Program Manager
 Staff Technical Program Manager
 Remote - United States
 See all departments with jobs
+User Experience
+Principal UX Engineer, Ads
+Principal UX Engineer, Ads
+Remote - United States
 User Experience
 Staff Product Designer, Growth
 Staff Product Designer, Growth

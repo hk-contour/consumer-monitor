@@ -1,0 +1,1 @@
+[ROUTINE] Careers page removed Australia and Japan from country filter dropdowns and job posting locations; total openings decreased from 190 to 188 across 17 countries (down from 19), likely reflecting routine hiring fluctuations. Tech blog post order was also reordered with a new Keras 3 article featured.

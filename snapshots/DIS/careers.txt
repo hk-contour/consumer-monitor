@@ -51,15 +51,15 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-10
+9
 Business Strategy and Development Jobs
 15
 Human Resources Jobs
 20
 Legal and Business Affairs Jobs
-16
+17
 Project Management Jobs
-13
+14
 View Selected Jobs
 Reset
 Consumer Goods
@@ -67,7 +67,7 @@ Close
 Consumer Goods
 The Walt Disney Company is home to some of the most well-known brands in the world.  Whether Marvel, Star Wars or Disney, our consumer goods teams license and market our iconic intellectual properties. Consumer goods is responsible for growing and monetizing our brands through packaged goods, merchandising, licensing, publishing and retail to markets around the world, letting consumers of all ages own a piece of Disney magic.
 Merchandising Jobs
-9
+10
 Publishing Jobs
 8
 View Selected Jobs
@@ -77,13 +77,13 @@ Close
 Creative
 From imagining the latest Toy Story movie to designing a costume made for a princess, being part of our creative teams allow you to bring imagination to life for families around the world! At The Walt Disney Company, creativity takes many forms - from gaming, animation, content development, design and more, you’ll have the opportunity to develop the innovative experiences Disney is known for and to be a part of our rich legacy of storytelling.
 Animation and Visual Effects Jobs
-35
+34
 Creative Jobs
 28
 Gaming and Interactive Jobs
-6
+7
 Marketing and Digital Media Jobs
-39
+42
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -101,17 +101,17 @@ Close
 Guest / Customer Service
 The magic of our Parks, the wonder of our cruise ships and the luxury of our resorts would not be possible without the employees and cast members who ensure that exceptional customer service is a top priority at The Walt Disney Company. Be part of providing the exceptional service Disney is known for around the world in an operational role in our parks, hotels, ships, retail locations, and call centers.
 Culinary Jobs
-29
+28
 Food and Beverage Jobs
 26
 Hotel and Resorts Jobs
-39
+38
 Maritime and Cruise Operations Jobs
 20
 Retail Operations Jobs
 32
 Sports and Recreation Jobs
-4
+5
 Theme Park Operations Jobs
 36
 View Selected Jobs
@@ -123,7 +123,7 @@ Our company, products and services are powered by advanced technologies and dedi
 Data Science and Analytics Jobs
 8
 Engineering Jobs
-11
+12
 Health Services Jobs
 2
 Quality Assurance Jobs
@@ -133,9 +133,9 @@ Research and Development Jobs
 Sciences and Animal Programs Jobs
 3
 Supply Chain Management Jobs
-2
+3
 Technology Jobs
-201
+200
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -143,13 +143,13 @@ Close
 Marketing, Sales & Communications
 Make once-in-a-lifetime experiences part of your daily routine with access to some of the most memorable and recognizable characters and content around the world. The teams across The Walt Disney Company range from digital and social media to communications, sales and marketing, developing high-impact, unforgettable campaigns that entertain and engage customers around the world.
 Animation and Visual Effects Jobs
-35
+34
 Communications Jobs
-8
+9
 Creative Jobs
 28
 Marketing and Digital Media Jobs
-39
+42
 Sales Jobs
 13
 View Selected Jobs
@@ -169,9 +169,9 @@ Maritime and Cruise Operations Jobs
 Sciences and Animal Programs Jobs
 3
 Security Jobs
-17
+18
 Supply Chain Management Jobs
-2
+3
 View Selected Jobs
 Reset
 Production & Entertainment
@@ -181,7 +181,7 @@ Our production teams are passionate about storytelling both on screen and on sta
 Production Jobs
 25
 Stage Productions Jobs
-21
+23
 Talent Jobs
 10
 View Selected Jobs
@@ -269,6 +269,7 @@ City of Taguig, Philippines
 Commerce, California, United States
 Copenhagen, Denmark
 Destin, Florida, United States
+Dubai, United Arab Emirates
 Dublin, Ireland
 Durham, North Carolina, United States
 Elizabeth, New Jersey, United States
@@ -314,9 +315,9 @@ Paris, France
 Petaling Jaya, Malaysia
 Philadelphia, Pennsylvania, United States
 Quarry Bay, Hong Kong
-Raleigh, North Carolina, United States
 Rancho Mirage, California, United States
 Richmond, Australia
+Richmond, Virginia, United States
 Riverside, California, United States
 San Antonio, Texas, United States
 San Francisco, California, United States

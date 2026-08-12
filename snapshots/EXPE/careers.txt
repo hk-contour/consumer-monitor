@@ -125,7 +125,6 @@ Strategy
 Technology
 Country
 All
-Australia
 Brazil
 Canada
 China
@@ -135,7 +134,6 @@ Germany
 India
 Ireland
 Italy
-Japan
 Malaysia
 New Zealand
 Spain
@@ -169,7 +167,6 @@ Business Development
 Business Programs
 Commercial Finance
 Customer Engagement Marketing
-Customer Product Support
 Customer Service
 Data Science
 Development
@@ -190,7 +187,6 @@ Vendor Service & Operations Management
 Workforce Planning
 Location
 All
-Australia
 Brazil
 Canada
 China
@@ -200,7 +196,6 @@ Germany
 India
 Ireland
 Italy
-Japan
 Malaysia
 New Zealand
 Spain
@@ -210,10 +205,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-190
+188
 openings
 in
-19
+17
 countries.
 We're hiring in
 19
@@ -294,10 +289,10 @@ Career Check-In with Dario Amadori: Performance Marketing Manager
 June 22, 2026
 See More Posts
 Expedia Group Tech Blog
+How Keras 3 Helped Modernise Expedia Group’s Lodging Ranking Stack
+Aug 11, 2026
 Focus on the Feature, Not the Fixture: GenAI powered GraphQL mocks
 Jul 31, 2026
-How Expedia Group Builds AI That Lasts at Scale
-Jul 14, 2026
 See More Posts
 Our Divisions
 Our operating divisions set us up to drive Expedia Group forward — bringing together the right expertise to serve travelers, partners, and advertisers. Supported by our corporate teams, they help us focus on the products, partnerships, and experiences that accelerate our Purpose: to help travelers explore the world, one journey at a time.
@@ -341,7 +336,6 @@ EG Team
 All
 Country
 All
-Australia
 Brazil
 Canada
 China
@@ -351,7 +345,6 @@ Germany
 India
 Ireland
 Italy
-Japan
 Malaysia
 New Zealand
 Spain
