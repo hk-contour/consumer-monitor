@@ -1,0 +1,1 @@
+[MATERIAL] A new chess feature called "Chess Game Review" has been added to the product lineup, replacing a basic chess terms guide post. This aligns with Duolingo's pattern of AI-driven feature rollouts that have historically moved the stock.

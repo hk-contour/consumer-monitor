@@ -1,0 +1,1 @@
+[ROUTINE] Carousel item count increased from 11 to 12 on the pricing/promotions banner; likely a new promotional tile added to rotation.

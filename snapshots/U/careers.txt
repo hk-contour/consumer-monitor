@@ -21,19 +21,16 @@ See more
 The teams that make it happen
 See open positions
 Engineering
-39 positions
+44 positions
 See careers
 Data & Analytics
 6 positions
 See careers
 Finance & Accounting
-10 positions
+11 positions
 See careers
 Business Development & Sales
-28 positions
-See careers
-Human Resources
-6 positions
+27 positions
 See careers
 IT & Security
 7 positions
@@ -42,7 +39,10 @@ AI & Machine Learning
 20 positions
 See careers
 Students & Early Career
-2 positions
+3 positions
+See careers
+Human Resources
+5 positions
 See careers
 Marketing & Communications
 5 positions
@@ -57,6 +57,9 @@ Design
 1 position
 See careers
 Legal
+1 position
+See careers
+Facilities & Admin
 1 position
 See careers
 Benefits

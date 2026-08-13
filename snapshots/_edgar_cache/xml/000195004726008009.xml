@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001933928</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001512673</issuerCik>
+            <issuerName>BLOCK, INC.</issuerName>
+            <secFileNumber>001-37622</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                <ns2:city>Oakland</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94612</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>415-375-3176</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>ANTHONY M EISEN</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Director</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>6000</noOfUnitsSold>
+            <aggregateMarketValue>471720.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>540816000</noOfUnitsOutstanding>
+            <approxSaleDate>08/12/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/31/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>ISSUER</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>6000</amountOfSecuritiesAcquired>
+            <paymentDate>01/31/2022</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/11/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>472920.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/10/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>470820.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/07/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>473400.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/06/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>498420.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/05/2026</saleDate>
+            <amountOfSecuritiesSold>41000</amountOfSecuritiesSold>
+            <grossProceeds>3519850.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/04/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>493860.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/03/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>489120.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/31/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>493620.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/30/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>487020.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/29/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>493320.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/28/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>490200.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/27/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>473280.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/24/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>462180.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/23/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>463920.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/22/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>474600.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/21/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>475860.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/20/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>473400.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/17/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>474780.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/16/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>492660.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/15/2026</saleDate>
+            <amountOfSecuritiesSold>141000</amountOfSecuritiesSold>
+            <grossProceeds>11776380.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/14/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>471480.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/13/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>470100.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/10/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>473460.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/09/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>456840.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/08/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>459960.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/07/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>476940.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/06/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>472620.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/02/2026</saleDate>
+            <amountOfSecuritiesSold>36000</amountOfSecuritiesSold>
+            <grossProceeds>2873820.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/01/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>458400.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/30/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>472800.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/29/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>473580.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/26/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>448800.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/25/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>454200.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/24/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>444060.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/23/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>433740.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/22/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>445680.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/18/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>443940.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/17/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>444600.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/16/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>449700.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/15/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>433560.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/12/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>418680.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/11/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>396420.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/10/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>399840.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/09/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>412920.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/08/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>409320.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/05/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>421140.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/04/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>425040.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/03/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>436920.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/02/2026</saleDate>
+            <amountOfSecuritiesSold>6000</amountOfSecuritiesSold>
+            <grossProceeds>458100.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>ANTHONY M EISEN</name>
+                <address>
+                    <ns2:street1>1955 Broadway, Suite 600</ns2:street1>
+                    <ns2:city>Oakland</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94612</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/01/2026</saleDate>
+            <amountOfSecuritiesSold>135750</amountOfSecuritiesSold>
+            <grossProceeds>10426411.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/12/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>03/02/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Anthony Mathew Eisen</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -176,7 +176,9 @@ FinOps
 Infrastructure & Enterprise Engineering
 Investor Relations
 Media
+Partner Marketing
 Partner Sales
+Performance Marketing
 Product Management
 Program Management (Technology)
 Regional HR
@@ -207,7 +209,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-182
+184
 openings
 in
 18

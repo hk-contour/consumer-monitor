@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001669081</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001820953</issuerCik>
+            <issuerName>Affirm Holdings, Inc.</issuerName>
+            <secFileNumber>001-39888</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>650 California Street</ns2:street1>
+                <ns2:city>San Francisco</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94108</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>4159601518</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>NOEL WATSON </nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>2000</noOfUnitsSold>
+            <aggregateMarketValue>153410.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>294357801</noOfUnitsOutstanding>
+            <approxSaleDate>08/12/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>12/04/2024</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2000</amountOfSecuritiesAcquired>
+            <paymentDate>12/04/2024</paymentDate>
+            <natureOfPayment>N/A</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for NOEL WATSON</name>
+                <address>
+                    <ns2:street1>650 California Street</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94108</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>05/13/2026</saleDate>
+            <amountOfSecuritiesSold>2000</amountOfSecuritiesSold>
+            <grossProceeds>130000.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <remarks>The securities to be sold were acquired upon the vesting of restricted stock units during the period of 12/4/2024 through 9/1/2025
+</remarks>
+        <noticeSignature>
+            <noticeDate>08/12/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>12/02/2025</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Noel Watson</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

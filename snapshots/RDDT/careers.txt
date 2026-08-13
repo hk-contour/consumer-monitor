@@ -108,16 +108,12 @@ Senior Data Scientist
 Senior Data Scientist
 San Francisco, CA
 Data Science
-Senior Data Scientist, Ads
-Senior Data Scientist, Ads
-Remote - Ontario, Canada
-Senior Data Scientist, Ads
+Senior Data Scientist - Consumer
+Senior Data Scientist - Consumer
 Remote - United States
 Data Science
-Senior Data Scientist, Consumer
-Senior Data Scientist, Consumer
-Remote - Ontario, Canada
-Senior Data Scientist, Consumer
+Senior Data Scientist, Ads
+Senior Data Scientist, Ads
 Remote - United States
 Data Science
 Senior Staff Data Scientist - Consumer Experimentation
@@ -235,8 +231,16 @@ Remote - The Netherlands
 Senior Machine Learning Engineer, Ads Foundational Representations
 Remote - United Kingdom
 Engineering
+Senior Machine Learning Engineer, Ads ML Platform
+Senior Machine Learning Engineer, Ads ML Platform
+Remote - United States
+Engineering
 Senior Machine Learning Engineer, GenAI Security
 Senior Machine Learning Engineer, GenAI Security
+Remote - United States
+Engineering
+Senior Machine Learning Infrastructure Engineer, Embedding Platform
+Senior Machine Learning Infrastructure Engineer, Embedding Platform
 Remote - United States
 Engineering
 Senior Machine Learning Manager, Video Ranking
@@ -335,10 +339,6 @@ Remote - United States
 Engineering
 Staff Android Engineer, Brand Ad Formats
 Staff Android Engineer, Brand Ad Formats
-Chicago, IL
-Staff Android Engineer, Brand Ad Formats
-New York City, NY
-Staff Android Engineer, Brand Ad Formats
 Remote - United States
 Engineering
 Staff Engineer, Ads Business Manager
@@ -371,8 +371,8 @@ Staff Machine Learning Engineer, Shopping Ads
 Staff Machine Learning Engineer, Shopping Ads
 Remote - United States
 Engineering
-Staff Machine Learning Software Engineer, Embeddings Platform
-Staff Machine Learning Software Engineer, Embeddings Platform
+Staff Machine Learning Infrastructure Engineer, Embedding Platform
+Staff Machine Learning Infrastructure Engineer, Embedding Platform
 Remote - United States
 Engineering
 Staff Machine Learning Systems Engineer
@@ -580,6 +580,10 @@ Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 Chicago, IL
 Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 New York City, NY
+Sales
+Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)
+Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)
+Toronto, Canada
 Sales
 Senior Client Partner, Acquisitions DACH
 Senior Client Partner, Acquisitions DACH
