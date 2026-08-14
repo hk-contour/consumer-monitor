@@ -1,40 +1,14 @@
-Gemini App
-More than 1 billion people use Gemini every month
-The Gemini app has officially surpassed 1 billion monthly users, making it the fastest-growing product in Google's history.
-Read more
-Google DeepMind
-WeatherNext 2: A leap forward in predicting cyclones
-Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.
-Read more
-Maps
-Food ordering and more: Ask Maps gets more helpful
-From agentic capabilities and real-time information to personalized recommendations, Ask Maps makes it easier than ever to get more done.
-Read more
-Google DeepMind
-Introducing Gemini Robotics ER 2
-Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
-Read more
-Company announcements
-Welcome to Sail Tower, our newest Austin office
-Our new Austin office, Sail Tower, features flexible workspace for Googlers and a Google.org nonprofit venue for community members.
-Read more
 Gemini models
-Introducing three new Gemini models
-Our newest models deliver the efficiency, speed, and reliability needed for building AI agents at scale.
+Introducing Gemini 3.7 Flash
+Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 Read more
-More news
-Spotlight
-Videos
-10:25
-How Gemini 3.6 Flash helps this dairy farmer run his business
-Paul, a Michigan dairy farmer, uses Gemini 3.6 Flash in Google Antigravity to build an AI dashboard that automates daily performance tracking.
-More Videos
-How Gemini 3.6 Flash helps this dairy farmer run his business
-Gemini Robotics 2: whole-body intelligence for robots
-Reconstructing Pelé’s lost goal
-Jump to position 1
-Jump to position 2
-Jump to position 3
+Collection
+Made by Google 2026
+Check out the latest announcements about Pixel devices at Made by Google 2026.
+By Shakil Barkat,
+Vice President, Devices & Services
+View the collection
+Learn more
 Get the latest news from Google in your inbox
 Sign up for our newsletters with product updates, event information, special offers, and more.
 Done. Just one step more.
@@ -45,4 +19,3 @@ different email address
 Your information will be used in accordance with
 Google's privacy policy.
 You may opt out at any time.
-More stories

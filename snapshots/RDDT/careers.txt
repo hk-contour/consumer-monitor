@@ -60,9 +60,6 @@ See Roles
 Finance & Accounting
 We work hand-in-hand with leaders across the company to execute on our business objectives and in doing so create financial value for our employees and shareholders
 See Roles
-Legal
-Legal provides practical and strategic advice to facilitate Reddit’s growth and manage risks.
-See Roles
 Marketing
 The marketing team is focused on making Reddit a more recognizable, relevant, and reputable brand with our target audience.
 See Roles
@@ -223,6 +220,12 @@ Remote - United States
 Engineering
 Senior Engineering Manager, Unified Embeddings Platform
 Senior Engineering Manager, Unified Embeddings Platform
+Remote - United States
+Engineering
+Senior Machine Learning Engineer
+Senior Machine Learning Engineer
+Remote - Ontario, Canada
+Senior Machine Learning Engineer
 Remote - United States
 Engineering
 Senior Machine Learning Engineer, Ads Foundational Representations
@@ -414,16 +417,16 @@ Staff iOS Engineer, Media Foundation
 Remote - United States
 See all departments with jobs
 Finance & Accounting
-Director, Technology FP&A
-Director, Technology FP&A
-Remote - United States
-Finance & Accounting
 Enterprise Architect, Finance Technology
 Enterprise Architect, Finance Technology
 Remote - United States
 Finance & Accounting
 Group Product Manager, Finance Technology
 Group Product Manager, Finance Technology
+Remote - United States
+Finance & Accounting
+Senior Director, Product & Finance Technology
+Senior Director, Product & Finance Technology
 Remote - United States
 Finance & Accounting
 Senior, Business Risk & AI Automation
@@ -431,15 +434,6 @@ Senior, Business Risk & AI Automation
 Remote - British Columbia, Canada
 Senior, Business Risk & AI Automation
 Remote - Ontario, Canada
-Finance & Accounting
-Tax, Senior Manager
-Tax, Senior Manager
-Remote - United States
-See all departments with jobs
-Legal
-Director, Ads Product Legal
-Director, Ads Product Legal
-Remote - United States
 See all departments with jobs
 Marketing
 Country Lead, Business Marketing, UK
@@ -504,10 +498,6 @@ Sales
 Acquisition Account Manager, Mid-Market (Southern Europe)
 Acquisition Account Manager, Mid-Market (Southern Europe)
 Amsterdam, Netherlands
-Sales
-Agency Development Lead III
-Agency Development Lead III
-New York City, NY
 Sales
 Agency Development Lead, DACH
 Agency Development Lead, DACH
@@ -633,6 +623,10 @@ Sr. Manager, Large Customer Sales (Big Box Retail)
 Sr. Manager, Large Customer Sales (Big Box Retail)
 Chicago, IL
 See all departments with jobs
+Security, Privacy, & Assurance
+Senior Backend Engineer, Compliance Engineering
+Senior Backend Engineer, Compliance Engineering
+Remote - United States
 Security, Privacy, & Assurance
 Senior Security Engineer, AI Security
 Senior Security Engineer, AI Security

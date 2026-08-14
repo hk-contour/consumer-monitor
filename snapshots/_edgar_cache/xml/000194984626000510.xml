@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001419485</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001324424</issuerCik>
+      <issuerName>Expedia Group, Inc.</issuerName>
+      <secFileNumber>001-37429</secFileNumber>
+      <issuerAddress>
+        <com:street1>1111 EXPEDIA GROUP WAY W.</com:street1>
+        <com:city>SEATTLE</com:city>
+        <com:stateOrCountry>WA</com:stateOrCountry>
+        <com:zipCode>98119</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(206) 481-4252</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Jacobson Craig A</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>3133</noOfUnitsSold>
+      <aggregateMarketValue>1025681.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>114495891</noOfUnitsOutstanding>
+      <approxSaleDate>08/13/2026</approxSaleDate>
+      <securitiesExchangeName>Nasdaq</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>06/01/2015</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Award</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>970</amountOfSecuritiesAcquired>
+      <paymentDate>06/01/2015</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>06/01/2023</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Award</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2163</amountOfSecuritiesAcquired>
+      <paymentDate>06/01/2023</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <remarks>2a) Jacobson Family Trust #1 4/20/2006, Craig &amp; Lynn Jacobson TTEES</remarks>
+    <noticeSignature>
+      <noticeDate>08/13/2026</noticeDate>
+      <signature>Craig A. Jacobson TTEE for Jacobson Fam Tr #1 4/20/2006</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

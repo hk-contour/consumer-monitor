@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-18 jobs
+19 jobs
 StubHub / Engineering / Enterprise Engineering
 Security Engineering
 Job
@@ -31,7 +31,6 @@ Job
 Director, Global Customer Success
 Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist
-New
 Atlanta, Georgia, United States
 GCS Executive Customer Care Supervisor
 Atlanta, Georgia, United States
@@ -71,5 +70,8 @@ New York, New York, United States
 StubHub
 Strategic Communications
 Job
+Communications Manager, viagogo - DACH
+New
+Genève, Geneva, Switzerland
 Senior Manager, Consumer & Cultural Communications (Sports)
 New York, New York, United States

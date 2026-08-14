@@ -1,0 +1,1 @@
+[ROUTINE] Removal of "Don't sell or share my personal information" link from terms footer; likely reflects UI consolidation rather than policy change.

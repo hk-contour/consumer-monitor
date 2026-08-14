@@ -1,0 +1,1 @@
+[MATERIAL] Toast pricing page completely restructured with explicit tier introduction: Starter Kit ($0/month), Point of Sale ($69/month flat-rate processing), Build Your Own (custom), and new bundled Payroll offer ($69/month + $9/employee/month). Detailed feature comparison matrix added showing hardware, payment processing, and module availability across plans.

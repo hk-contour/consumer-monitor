@@ -1,0 +1,1 @@
+[ROUTINE] Duplicate "Trust & Safety" link added to footer navigation; no functional or content change.

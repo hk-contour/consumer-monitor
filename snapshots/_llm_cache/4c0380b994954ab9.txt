@@ -1,0 +1,1 @@
+[ROUTINE] Careers page removed "Customer Service" from the listed departments and updated total hiring countries from 18 to 17.

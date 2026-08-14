@@ -1,0 +1,1 @@
+[ROUTINE] Google newsroom homepage reorganized with different featured posts and collection links; Gemini 1B user milestone post removed and replaced with product announcement rotation.

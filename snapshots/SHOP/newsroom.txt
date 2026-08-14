@@ -1,5 +1,8 @@
 Skip to Content
 POV
+Commerce now moves at the speed of culture. And anyone can move with it.
+Entrepreneurs turn culture's biggest moments into something you can hold. New data shows how fast they do it, and how it shapes the way we live and connect.
+POV
 The next era of commerce, built by partners
 Every partner building on Shopify is making an entrepreneurial bet. Shopify’s VP of Partnerships believes AI will make that bet pay off for more people than ever.
 POV
@@ -11,10 +14,10 @@ Shopify's Spring '26 Edition: 150+ updates that put your products everywhere peo
 Product
 Agentic commerce for every developer: The Spring '26 Edition
 Anyone can now build end-to-end agentic commerce on Shopify, and the platform underneath every app gets a foundational rebuild.
-Product
-Spring '26 Edition: Five apps that show what Catalog API and UCP make possible
-A trip, a film, a horoscope, a game night, a room. Five shopping apps built on Catalog API and UCP show what becomes possible when commerce can live anywhere.
 Latest from Shopify
+POV
+August 13, 2026
+Commerce now moves at the speed of culture. And anyone can move with it.
 POV
 July 28, 2026
 The next era of commerce, built by partners
@@ -30,9 +33,6 @@ Agentic commerce for every developer: The Spring '26 Edition
 Product
 June 17, 2026
 Spring '26 Edition: Five apps that show what Catalog API and UCP make possible
-Company
-June 16, 2026
-Two decades building commerce infrastructure: Jeanne DeWitt Grosser joins Shopify’s board
 Featured podcasts and videos
 Company
 Shopify VP Vanessa Lee Explains the "Everywhere" Edition

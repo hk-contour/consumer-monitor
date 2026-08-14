@@ -168,7 +168,6 @@ Business Development
 Business Programs
 Commercial Finance
 Customer Engagement Marketing
-Customer Service
 Data Science
 Development
 Experience Design
@@ -212,7 +211,7 @@ We currently have
 184
 openings
 in
-18
+17
 countries.
 We're hiring in
 19
