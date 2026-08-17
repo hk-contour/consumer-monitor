@@ -51,15 +51,15 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-15
+12
 Business Strategy and Development Jobs
-13
+14
 Human Resources Jobs
-18
+17
 Legal and Business Affairs Jobs
 18
 Project Management Jobs
-10
+12
 View Selected Jobs
 Reset
 Consumer Goods
@@ -67,9 +67,9 @@ Close
 Consumer Goods
 The Walt Disney Company is home to some of the most well-known brands in the world.  Whether Marvel, Star Wars or Disney, our consumer goods teams license and market our iconic intellectual properties. Consumer goods is responsible for growing and monetizing our brands through packaged goods, merchandising, licensing, publishing and retail to markets around the world, letting consumers of all ages own a piece of Disney magic.
 Merchandising Jobs
-9
-Publishing Jobs
 8
+Publishing Jobs
+7
 View Selected Jobs
 Reset
 Creative
@@ -79,13 +79,13 @@ From imagining the latest Toy Story movie to designing a costume made for a prin
 Animation and Visual Effects Jobs
 35
 Creative Jobs
-31
+33
 Gaming and Interactive Jobs
-8
+9
 Graphic Design Jobs
 1
 Marketing and Digital Media Jobs
-41
+40
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,7 +93,7 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-8
+9
 Finance and Accounting Jobs
 32
 View Selected Jobs
@@ -103,19 +103,19 @@ Close
 Guest / Customer Service
 The magic of our Parks, the wonder of our cruise ships and the luxury of our resorts would not be possible without the employees and cast members who ensure that exceptional customer service is a top priority at The Walt Disney Company. Be part of providing the exceptional service Disney is known for around the world in an operational role in our parks, hotels, ships, retail locations, and call centers.
 Culinary Jobs
-30
+26
 Food and Beverage Jobs
-27
+26
 Hotel and Resorts Jobs
-40
+44
 Maritime and Cruise Operations Jobs
-20
+16
 Retail Operations Jobs
-33
+34
 Sports and Recreation Jobs
-5
+4
 Theme Park Operations Jobs
-47
+48
 View Selected Jobs
 Reset
 Innovation, Technology & Science(s)
@@ -123,19 +123,19 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-8
+9
 Engineering Jobs
-17
+18
 Health Services Jobs
 2
 Quality Assurance Jobs
 2
 Sciences and Animal Programs Jobs
-2
+3
 Supply Chain Management Jobs
-5
+7
 Technology Jobs
-197
+193
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -145,13 +145,13 @@ Make once-in-a-lifetime experiences part of your daily routine with access to so
 Animation and Visual Effects Jobs
 35
 Communications Jobs
-10
+9
 Creative Jobs
-31
+33
 Marketing and Digital Media Jobs
-41
+40
 Sales Jobs
-16
+12
 View Selected Jobs
 Reset
 Operations Support
@@ -161,17 +161,17 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 3
 Building, Construction and Facilities Jobs
-61
+62
 Health Services Jobs
 2
 Maritime and Cruise Operations Jobs
-20
+16
 Sciences and Animal Programs Jobs
-2
+3
 Security Jobs
-18
+15
 Supply Chain Management Jobs
-5
+7
 View Selected Jobs
 Reset
 Production & Entertainment
@@ -179,9 +179,9 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-27
+26
 Stage Productions Jobs
-25
+27
 Talent Jobs
 10
 View Selected Jobs
@@ -264,7 +264,6 @@ Celebration, Florida, United States
 Charlotte, North Carolina, United States
 Chessy, France
 Chiba, Japan
-Chicago, Illinois, United States
 City of Taguig, Philippines
 Commerce, California, United States
 Copenhagen, Denmark
@@ -300,6 +299,7 @@ Makati City, Philippines
 Marne-la-Vallée, France
 Minato-ku, Japan
 Monroe, Ohio, United States
+Montévrain, France
 Moore Park, Australia
 Morrisville, North Carolina, United States
 Mumbai, India
@@ -315,6 +315,7 @@ Paris, France
 Petaling Jaya, Malaysia
 Philadelphia, Pennsylvania, United States
 Quarry Bay, Hong Kong
+Ramat Gan, Israel
 Rancho Mirage, California, United States
 Richmond, Australia
 Richmond, Virginia, United States
@@ -338,8 +339,11 @@ The Woodlands, Texas, United States
 Tlalpan, Mexico
 Tokyo, Japan
 Toronto, Canada
+Tulalip, Washington, United States
 Vancouver, Canada
+Vero Beach, Florida, United States
 Villeneuve-le-Comte, France
+Warsaw, Poland
 Washington, DC, United States
 Zagreb, Croatia
 Zurich, Switzerland

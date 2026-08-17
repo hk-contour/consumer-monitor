@@ -121,13 +121,11 @@ Human Resources
 Marketing
 Operations & Services
 Product
-Strategy
 Technology
 Country
 All
 Brazil
 Canada
-China
 Colombia
 Czechia
 Germany
@@ -139,7 +137,6 @@ Malaysia
 New Zealand
 Spain
 Switzerland
-Thailand
 United Kingdom
 United States
 Search Jobs
@@ -157,7 +154,6 @@ Human Resources
 Marketing
 Operations & Services
 Product
-Strategy
 Technology
 Role
 All
@@ -181,7 +177,6 @@ Performance Marketing
 Product Management
 Program Management (Technology)
 Regional HR
-Strategy
 Technical Operations
 Total Rewards
 Treasury
@@ -191,7 +186,6 @@ Location
 All
 Brazil
 Canada
-China
 Colombia
 Czechia
 Germany
@@ -203,15 +197,14 @@ Malaysia
 New Zealand
 Spain
 Switzerland
-Thailand
 United Kingdom
 United States
 Search Jobs
 We currently have
-184
+162
 openings
 in
-17
+15
 countries.
 We're hiring in
 19
@@ -333,7 +326,6 @@ Human Resources
 Marketing
 Operations & Services
 Product
-Strategy
 Technology
 EG Team
 All
@@ -341,7 +333,6 @@ Country
 All
 Brazil
 Canada
-China
 Colombia
 Czechia
 Germany
@@ -353,7 +344,6 @@ Malaysia
 New Zealand
 Spain
 Switzerland
-Thailand
 United Kingdom
 United States
 State

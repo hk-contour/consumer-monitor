@@ -1,0 +1,1 @@
+[ROUTINE] Addition of "Don't sell or share my personal information" link to footer terms page and minor reformatting of a tracking/version identifier string. This is a standard privacy notice boilerplate update, likely driven by CCPA/CPRA compliance requirements.

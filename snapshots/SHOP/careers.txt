@@ -11,9 +11,7 @@ How did we get here, you ask? It started with one programmer who couldn't find t
 How we build
 Everyone at Shopify works on product.
 (Yes, even the finance team.) Product thinking, combined with our reflexive use of AI, is why our people have superpowers. It’s why we build what our merchants need before they know they need it. In a world where AI can make anything, taste and craft become our differentiator.
-Dive deeper: Read our open-sourced
-Product Principles
-and
+Dive deeper: Read
 Tobi's AI memo
 .
 Where we hire
@@ -133,11 +131,9 @@ Remote - Americas
 Operations
 Driving Shopify to get shit done at all levels - faster, better, and with precision.
 Professional Services Delivery Manager
-Remote - United Kingdom, Ireland
+Remote - Americas
 Professional Services Delivery Manager
-Remote - Americas
-Senior Lead, Product Operations, Growth
-Remote - Americas
+Remote - United Kingdom, Ireland
 Senior Lead, Strategy & Operations
 Remote - Americas
 Senior Lead, Strategy & Operations -Revenue Marketing

@@ -228,12 +228,6 @@ Remote - Ontario, Canada
 Senior Machine Learning Engineer
 Remote - United States
 Engineering
-Senior Machine Learning Engineer, Ads Foundational Representations
-Senior Machine Learning Engineer, Ads Foundational Representations
-Remote - The Netherlands
-Senior Machine Learning Engineer, Ads Foundational Representations
-Remote - United Kingdom
-Engineering
 Senior Machine Learning Engineer, Ads ML Platform
 Senior Machine Learning Engineer, Ads ML Platform
 Remote - United States
@@ -276,6 +270,10 @@ Remote - United States
 Engineering
 Senior Software Engineer, Ads
 Senior Software Engineer, Ads
+Remote - United States
+Engineering
+Senior Software Engineer, Ads Creative Effectiveness
+Senior Software Engineer, Ads Creative Effectiveness
 Remote - United States
 Engineering
 Senior Software Engineer, Core Platform
@@ -290,10 +288,6 @@ Remote - United States
 Senior Software Engineer, Core Platform
 San Francisco, CA
 Engineering
-Senior Software Engineer, GraphQL
-Senior Software Engineer, GraphQL
-Remote - United States
-Engineering
 Senior Software Engineer, Presence
 Senior Software Engineer, Presence
 Remote - United States
@@ -351,6 +345,12 @@ Engineering
 Staff Frontend Engineer, Ads Creative
 Staff Frontend Engineer, Ads Creative
 Remote - United States
+Engineering
+Staff Machine Learning Engineer, Ads Foundational Representations
+Staff Machine Learning Engineer, Ads Foundational Representations
+Remote - The Netherlands
+Staff Machine Learning Engineer, Ads Foundational Representations
+Remote - United Kingdom
 Engineering
 Staff Machine Learning Engineer, Ads Measurement Modeling
 Staff Machine Learning Engineer, Ads Measurement Modeling
@@ -399,6 +399,10 @@ Staff Site Reliability Engineer - Site Experience
 Dublin, Ireland
 Staff Site Reliability Engineer - Site Experience
 Remote - United Kingdom
+Engineering
+Staff Software Engineer , Observability
+Staff Software Engineer , Observability
+Remote - United States
 Engineering
 Staff Software Engineer, DevPlatform
 Staff Software Engineer, DevPlatform
@@ -456,10 +460,6 @@ People & Culture
 Experience Coordinator, San Francisco
 Experience Coordinator, San Francisco
 San Francisco, CA
-People & Culture
-Staff People Integrations Engineer
-Staff People Integrations Engineer
-Remote - United States
 See all departments with jobs
 Product
 Senior Director of Product, Ads Platform
@@ -494,10 +494,6 @@ Sales
 3rd Party Partnerships Manager - Signals
 3rd Party Partnerships Manager - Signals
 New York City, NY
-Sales
-Acquisition Account Manager, Mid-Market (Southern Europe)
-Acquisition Account Manager, Mid-Market (Southern Europe)
-Amsterdam, Netherlands
 Sales
 Agency Development Lead, DACH
 Agency Development Lead, DACH
@@ -543,10 +539,6 @@ Sales Manager, Mid-Market - UK
 Sales Manager, Mid-Market - UK
 London, United Kingdom
 Sales
-Senior Agile Client Partner, Large Customer Sales
-Senior Agile Client Partner, Large Customer Sales
-New York City, NY
-Sales
 Senior Client Account Executive, Mid-Market Sales (B2B Services)
 Senior Client Account Executive, Mid-Market Sales (B2B Services)
 San Francisco, CA
@@ -570,10 +562,6 @@ Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 Chicago, IL
 Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 New York City, NY
-Sales
-Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)
-Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)
-Toronto, Canada
 Sales
 Senior Client Partner, Acquisitions DACH
 Senior Client Partner, Acquisitions DACH

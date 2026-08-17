@@ -1,0 +1,1 @@
+[ROUTINE] Removed asterisk character from Email Alert Sign Up Confirmation section on investor relations page.

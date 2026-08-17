@@ -1,0 +1,1 @@
+[ROUTINE] Careers page removed "Strategy" department filter option and eliminated China and Thailand from country filters; total open positions decreased from 184 to 162 across 15 countries (down from 17).
