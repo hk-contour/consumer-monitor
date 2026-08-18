@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001229265</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001075531</issuerCik>
+      <issuerName>Booking Holdings Inc.</issuerName>
+      <secFileNumber>001-36691</secFileNumber>
+      <issuerAddress>
+        <com:street1>800 CONNECTICUT AVE</com:street1>
+        <com:city>NORWALK</com:city>
+        <com:stateOrCountry>CT</com:stateOrCountry>
+        <com:zipCode>06854</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>203-299-8000</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>WITTMAN VANESSA AMES</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Merrill Lynch</name>
+        <address>
+          <com:street1>225 Liberty Street</com:street1>
+          <com:street2>Floor 37</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10281</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>375</noOfUnitsSold>
+      <aggregateMarketValue>79125.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>751380500</noOfUnitsOutstanding>
+      <approxSaleDate>08/17/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>06/09/2020</acquiredDate>
+      <natureOfAcquisitionTransaction>Vesting of restricted stock unit award</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Booking Holdings Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>375</amountOfSecuritiesAcquired>
+      <paymentDate>06/09/2020</paymentDate>
+      <natureOfPayment>Granted as part of issuer equity compensation plan</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Vanessa Wittman</name>
+        <address>
+          <com:street1>800 CONNECTICUT AVE</com:street1>
+          <com:city>NORWALK</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06854</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>07/28/2026</saleDate>
+      <amountOfSecuritiesSold>1125</amountOfSecuritiesSold>
+      <grossProceeds>216000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/17/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>06/02/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>Vanessa Wittman</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

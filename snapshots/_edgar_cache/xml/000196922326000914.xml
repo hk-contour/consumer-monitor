@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001731746</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001370637</issuerCik>
+      <issuerName>ETSY INC</issuerName>
+      <secFileNumber>001-36911</secFileNumber>
+      <issuerAddress>
+        <com:street1>117 ADAMS STREET</com:street1>
+        <com:city>BROOKLYN</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry>
+        <com:zipCode>11201</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(718) 880-3660</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Blow Marla J</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>UBS Financial Services, Inc</name>
+        <address>
+          <com:street1>11 Madison Ave</com:street1>
+          <com:street2>4th Floor</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>300</noOfUnitsSold>
+      <aggregateMarketValue>24348.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>91781748</noOfUnitsOutstanding>
+      <approxSaleDate>08/17/2026</approxSaleDate>
+      <securitiesExchangeName>Nasdaq</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/13/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>RSU Vest</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>211</amountOfSecuritiesAcquired>
+      <paymentDate>06/13/2024</paymentDate>
+      <natureOfPayment>NA</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/15/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>RSU Vest</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>89</amountOfSecuritiesAcquired>
+      <paymentDate>06/15/2022</paymentDate>
+      <natureOfPayment>NA</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/17/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>08/21/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ UBS Financial Services Inc, as attorney-in-fact for Marla Blow</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

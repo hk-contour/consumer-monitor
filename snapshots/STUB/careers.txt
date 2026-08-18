@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-19 jobs
+15 jobs
 StubHub / Engineering / Enterprise Engineering
 Security Engineering
 Job
@@ -36,8 +36,6 @@ Director, Global Customer Success
 Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist
 Atlanta, Georgia, United States
-GCS Executive Customer Care Supervisor
-Atlanta, Georgia, United States
 StubHub
 Legal
 Job
@@ -52,15 +50,6 @@ People Operations Partner
 New York, New York, United States
 People Operations Partner
 Los Angeles, California, United States
-StubHub / Product
-Product Admission Ops
-Job
-Senior Product Manager - Marketplace Quality
-New York, New York, United States
-Senior Product Manager - Marketplace Quality
-Los Angeles, California, United States
-Strategy & Analytics Manager - Customer Experience Efficiency
-New York, New York, United States
 StubHub / Product
 Product Catalog
 Job

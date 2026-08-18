@@ -27,28 +27,28 @@ Data & Analytics
 6 positions
 See careers
 Finance & Accounting
-11 positions
+10 positions
 See careers
 Business Development & Sales
-24 positions
-See careers
-IT & Security
-7 positions
+23 positions
 See careers
 AI & Machine Learning
 18 positions
 See careers
 Students & Early Career
-2 positions
-See careers
-Human Resources
-6 positions
-See careers
-Marketing & Communications
-5 positions
+3 positions
 See careers
 Product Management
 3 positions
+See careers
+Human Resources
+5 positions
+See careers
+Marketing & Communications
+4 positions
+See careers
+IT & Security
+6 positions
 See careers
 Customer Experience
 2 positions
@@ -60,6 +60,9 @@ Legal
 1 position
 See careers
 Facilities & Admin
+1 position
+See careers
+Project Management
 1 position
 See careers
 Benefits

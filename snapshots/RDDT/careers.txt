@@ -60,6 +60,9 @@ See Roles
 Finance & Accounting
 We work hand-in-hand with leaders across the company to execute on our business objectives and in doing so create financial value for our employees and shareholders
 See Roles
+Legal
+Legal provides practical and strategic advice to facilitate Reddit’s growth and manage risks.
+See Roles
 Marketing
 The marketing team is focused on making Reddit a more recognizable, relevant, and reputable brand with our target audience.
 See Roles
@@ -429,6 +432,10 @@ Group Product Manager, Finance Technology
 Group Product Manager, Finance Technology
 Remote - United States
 Finance & Accounting
+International Payroll Lead
+International Payroll Lead
+Remote - United States
+Finance & Accounting
 Senior Director, Product & Finance Technology
 Senior Director, Product & Finance Technology
 Remote - United States
@@ -438,6 +445,11 @@ Senior, Business Risk & AI Automation
 Remote - British Columbia, Canada
 Senior, Business Risk & AI Automation
 Remote - Ontario, Canada
+See all departments with jobs
+Legal
+Senior Litigation Paralegal
+Senior Litigation Paralegal
+San Francisco, CA
 See all departments with jobs
 Marketing
 Country Lead, Business Marketing, UK
@@ -506,12 +518,6 @@ Sales
 Client Account Manager, Large Customer Sales (Retail Beauty)
 Client Account Manager, Large Customer Sales (Retail Beauty)
 New York City, NY
-Sales
-Client Account Manager, Large Customer Sales (Tech)
-Client Account Manager, Large Customer Sales (Tech)
-Los Angeles, CA
-Client Account Manager, Large Customer Sales (Tech)
-San Francisco, CA
 Sales
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 Client Partner, Mid-Market Sales (Services - Acquisitions)
@@ -582,6 +588,8 @@ Sales
 Senior Manager, Large Customer Sales (Entertainment)
 Senior Manager, Large Customer Sales (Entertainment)
 Los Angeles, CA
+Senior Manager, Large Customer Sales (Entertainment)
+New York City, NY
 Sales
 Senior Manager, Large Customer Sales - UK
 Senior Manager, Large Customer Sales - UK

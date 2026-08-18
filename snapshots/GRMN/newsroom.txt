@@ -1,6 +1,9 @@
 Newsroom
 The latest on our products and technology.
 Advanced Search
+Sports & Fitness
+18 August 2026
+Garmin makes virtual riding more seamless with Tacx NEO 2T with Zwift Cog and Click
 Corporate
 earnings
 29 July 2026
@@ -28,6 +31,3 @@ Garmin expands service integrations to simplify and automate aircraft flight log
 Aviation
 8 July 2026
 Garmin unveils AXIS, a new generation of highly integrated flight displays
-Marine
-7 July 2026
-Garmin launches LiveScope 2, its clearest live sonar yet

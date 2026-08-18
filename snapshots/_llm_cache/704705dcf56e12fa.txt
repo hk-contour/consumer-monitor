@@ -1,0 +1,1 @@
+[ROUTINE] Removed navigation UI elements (Arrow Left, Arrow Right, Item counter) from pricing page header; promotional messaging and call-to-action unchanged.

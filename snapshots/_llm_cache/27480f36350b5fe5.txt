@@ -1,0 +1,1 @@
+[ROUTINE] Total open positions decreased from 8 to 4; Product Management category removed entirely and Member Success category removed, while Software Engineering positions remain listed.

@@ -1,0 +1,1 @@
+[ROUTINE] Newsroom category navigation menu reordered; "Under the Hood" and "Lyft News" moved higher in the category list while "Impact" shifted lower.

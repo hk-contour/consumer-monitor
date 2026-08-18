@@ -167,7 +167,6 @@ Customer Engagement Marketing
 Data Science
 Development
 Experience Design
-FinOps
 Infrastructure & Enterprise Engineering
 Investor Relations
 Media
@@ -201,7 +200,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-162
+161
 openings
 in
 15

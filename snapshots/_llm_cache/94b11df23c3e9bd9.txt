@@ -1,0 +1,1 @@
+[ROUTINE] Newsroom page reordered with article repositioning and section header moves; no new content, pricing, metrics, or features added.

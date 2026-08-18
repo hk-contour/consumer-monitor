@@ -1,0 +1,1 @@
+[ROUTINE] Job posting counts across multiple categories have shifted (Technology +2, Production +6, Theme Park Operations +3, Building/Facilities +2, etc.) and hiring locations have been added/removed (Cypress TX added, Lisbon removed, Melbourne added). These appear to be standard operational adjustments to the careers page with no strategic implications.

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001727396</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001564408</issuerCik>
+      <issuerName>Snap Inc</issuerName>
+      <secFileNumber>001-38017</secFileNumber>
+      <issuerAddress>
+        <com:street1>3000 31ST STREET</com:street1>
+        <com:city>SANTA MONICA</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>90405</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(310) 399-3339</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Morrow Rebecca</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>17336</noOfUnitsSold>
+      <aggregateMarketValue>90114.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>1437047479</noOfUnitsOutstanding>
+      <approxSaleDate>08/17/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>08/17/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse - See Remarks</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>SNAP INC.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>17336</amountOfSecuritiesAcquired>
+      <paymentDate>08/17/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>REBECCA MORROW</name>
+        <address>
+          <com:street1>3000 31st Street</com:street1>
+          <com:city>Santa Monica</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90405</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>SNAP INC.</securitiesClassTitle>
+      <saleDate>05/18/2026</saleDate>
+      <amountOfSecuritiesSold>16729</amountOfSecuritiesSold>
+      <grossProceeds>93650.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>REBECCA MORROW</name>
+        <address>
+          <com:street1>3000 31st Street</com:street1>
+          <com:city>Santa Monica</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90405</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>SNAP INC.</securitiesClassTitle>
+      <saleDate>05/19/2026</saleDate>
+      <amountOfSecuritiesSold>3570</amountOfSecuritiesSold>
+      <grossProceeds>20492.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Shares sold to cover tax obligation from settlement of vested Restricted Stock Units.</remarks>
+    <noticeSignature>
+      <noticeDate>08/17/2026</noticeDate>
+      <signature>REBECCA MORROW</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>
