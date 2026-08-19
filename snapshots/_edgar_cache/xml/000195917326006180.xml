@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001932498</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001581760</issuerCik>
+      <issuerName>Life360, Inc.</issuerName>
+      <secFileNumber>001-42120</secFileNumber>
+      <issuerAddress>
+        <com:street1>1900 SOUTH NORFOLK STREET, SUITE 310</com:street1>
+        <com:city>SAN MATEO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94403</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>415-484-5244</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Hulls Chris</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>250000</noOfUnitsSold>
+      <aggregateMarketValue>11708952.38</aggregateMarketValue>
+      <noOfUnitsOutstanding>81480369</noOfUnitsOutstanding>
+      <approxSaleDate>08/18/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>12/04/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>7473</amountOfSecuritiesAcquired>
+      <paymentDate>12/04/2025</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/06/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>9048</amountOfSecuritiesAcquired>
+      <paymentDate>03/06/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/19/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>11867</amountOfSecuritiesAcquired>
+      <paymentDate>03/19/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>04/16/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>6703</amountOfSecuritiesAcquired>
+      <paymentDate>04/16/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>04/16/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>10895</amountOfSecuritiesAcquired>
+      <paymentDate>04/16/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>05/28/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>10621</amountOfSecuritiesAcquired>
+      <paymentDate>05/28/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/08/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>7278</amountOfSecuritiesAcquired>
+      <paymentDate>06/08/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/18/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>10958</amountOfSecuritiesAcquired>
+      <paymentDate>06/18/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>07/16/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>12655</amountOfSecuritiesAcquired>
+      <paymentDate>07/16/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>08/18/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>162502</amountOfSecuritiesAcquired>
+      <paymentDate>08/18/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Christopher Hulls</name>
+        <address>
+          <com:street1>1900 South Norfolk Street</com:street1>
+          <com:street2>Suite 310</com:street2>
+          <com:city>San Mateo</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>05/28/2026</saleDate>
+      <amountOfSecuritiesSold>16379</amountOfSecuritiesSold>
+      <grossProceeds>660686.27</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Christopher Hulls</name>
+        <address>
+          <com:street1>1900 South Norfolk Street</com:street1>
+          <com:street2>Suite 310</com:street2>
+          <com:city>San Mateo</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>06/18/2026</saleDate>
+      <amountOfSecuritiesSold>16042</amountOfSecuritiesSold>
+      <grossProceeds>755124.21</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Christopher Hulls</name>
+        <address>
+          <com:street1>1900 South Norfolk Street</com:street1>
+          <com:street2>Suite 310</com:street2>
+          <com:city>San Mateo</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>07/16/2026</saleDate>
+      <amountOfSecuritiesSold>14345</amountOfSecuritiesSold>
+      <grossProceeds>799603.21</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Christopher Hulls</name>
+        <address>
+          <com:street1>1900 South Norfolk Street</com:street1>
+          <com:street2>Suite 310</com:street2>
+          <com:city>San Mateo</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>08/04/2026</saleDate>
+      <amountOfSecuritiesSold>27000</amountOfSecuritiesSold>
+      <grossProceeds>1710074.70</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/18/2026</noticeDate>
+      <signature>/s/ Joshua Schmitt, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Christopher Hulls.</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

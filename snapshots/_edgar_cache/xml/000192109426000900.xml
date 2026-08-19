@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001917373</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001326801</issuerCik>
+      <issuerName>Meta Platforms, Inc.</issuerName>
+      <secFileNumber>001-35551</secFileNumber>
+      <issuerAddress>
+        <com:street1>1 META WAY</com:street1>
+        <com:city>MENLO PARK</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>650-543-4800</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Bosworth Andrew</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A Common Shares</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>7848</noOfUnitsSold>
+      <aggregateMarketValue>4379184.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>2205128509</noOfUnitsOutstanding>
+      <approxSaleDate>08/18/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>08/15/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Unit Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>7848</amountOfSecuritiesAcquired>
+      <paymentDate>08/15/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Andrew Bosworth</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc.</securitiesClassTitle>
+      <saleDate>05/18/2026</saleDate>
+      <amountOfSecuritiesSold>7847</amountOfSecuritiesSold>
+      <grossProceeds>4769642.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>The shares reported on this Form 144 will be sold pursuant to a Rule 10b5-1 trading plan.</remarks>
+    <noticeSignature>
+      <noticeDate>08/18/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>01/31/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>ANDREW BOSWORTH</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

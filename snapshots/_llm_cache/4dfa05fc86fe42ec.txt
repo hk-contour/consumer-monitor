@@ -1,0 +1,1 @@
+[ROUTINE] Removed "Learn more" link from Devices & Services collection section; newsletter signup copy unchanged.

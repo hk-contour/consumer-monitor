@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001530267</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001324424</issuerCik>
+            <issuerName>EXPEDIA GROUP, INC.</issuerName>
+            <secFileNumber>001-37429</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>1111 Expedia Group Way W.</ns2:street1>
+                <ns2:city>Seattle</ns2:city>
+                <ns2:stateOrCountry>WA</ns2:stateOrCountry>
+                <ns2:zipCode>98119</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>(206) 481-4252</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>LANCE SOLIDAY</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>2810</noOfUnitsSold>
+            <aggregateMarketValue>909456.50</aggregateMarketValue>
+            <noOfUnitsOutstanding>114495891</noOfUnitsOutstanding>
+            <approxSaleDate>08/18/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>02/15/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>126</amountOfSecuritiesAcquired>
+            <paymentDate>02/15/2022</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>02/15/2024</acquiredDate>
+            <natureOfAcquisitionTransaction>Performance Shares</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>406</amountOfSecuritiesAcquired>
+            <paymentDate>02/15/2024</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/15/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>852</amountOfSecuritiesAcquired>
+            <paymentDate>08/15/2025</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/15/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>733</amountOfSecuritiesAcquired>
+            <paymentDate>08/15/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>02/15/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Performance Shares</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>693</amountOfSecuritiesAcquired>
+            <paymentDate>02/15/2022</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>LANCE SOLIDAY</name>
+                <address>
+                    <ns2:street1>1111 Expedia Group Way W.</ns2:street1>
+                    <ns2:city>Seattle</ns2:city>
+                    <ns2:stateOrCountry>WA</ns2:stateOrCountry>
+                    <ns2:zipCode>98119</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>05/26/2026</saleDate>
+            <amountOfSecuritiesSold>940</amountOfSecuritiesSold>
+            <grossProceeds>208547.33</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/18/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Lance Soliday</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -1,0 +1,1 @@
+[ROUTINE] Careers page updated to add Austria as a new country filter option, add "Customer Service" and "Marketing Intelligence" to department listings, and refresh job opening counts from 161 to 174 openings across 16 countries (up from 15).

@@ -1,0 +1,1 @@
+[ROUTINE] Careers page headcount shifts across multiple departments (Engineering +1, Finance +1, Students -1, Product Management -1, HR +1, Marketing -1) and section reordering with no net change to total open positions.

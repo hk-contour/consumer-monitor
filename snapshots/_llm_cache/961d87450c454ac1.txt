@@ -1,0 +1,1 @@
+[MATERIAL] Instacart+ pricing page removed the "$109.99 value" callout from the Peacock benefit, potentially signaling a change to the bundled Peacock offering or its perceived value within the subscription. The removal of "Your Privacy Choices" link appears to be a routine footer cleanup.

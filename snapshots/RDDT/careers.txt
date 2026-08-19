@@ -203,16 +203,16 @@ Principal Engineer, iOS Performance
 Principal Engineer, iOS Performance
 Remote - United States
 Engineering
-Principal Technical Program Manager, Developer Productivity
-Principal Technical Program Manager, Developer Productivity
-Remote - United States
-Engineering
 Senior Android Engineer, Design System
 Senior Android Engineer, Design System
 Remote - United States
 Engineering
 Senior Backend Engineer, IAM
 Senior Backend Engineer, IAM
+Remote - United States
+Engineering
+Senior Backend Engineer, Safety
+Senior Backend Engineer, Safety
 Remote - United States
 Engineering
 Senior Business Engineer - Ads
@@ -337,6 +337,10 @@ Remote - Ontario, Canada
 Software Engineer, Ads
 Remote - United States
 Engineering
+Software Engineer, Content Platform
+Software Engineer, Content Platform
+Remote - United States
+Engineering
 Staff Android Engineer, Brand Ad Formats
 Staff Android Engineer, Brand Ad Formats
 Remote - United States
@@ -388,20 +392,6 @@ Engineering
 Staff Research Engineer, Post-training & Evaluation
 Staff Research Engineer, Post-training & Evaluation
 Remote - United States
-Engineering
-Staff SRE, Ads
-Staff SRE, Ads
-Remote - Ireland
-Staff SRE, Ads
-Remote - The Netherlands
-Staff SRE, Ads
-Remote - United Kingdom
-Engineering
-Staff Site Reliability Engineer - Site Experience
-Staff Site Reliability Engineer - Site Experience
-Dublin, Ireland
-Staff Site Reliability Engineer - Site Experience
-Remote - United Kingdom
 Engineering
 Staff Software Engineer , Observability
 Staff Software Engineer , Observability
@@ -459,10 +449,6 @@ Marketing
 EMEA Insights Specialist
 EMEA Insights Specialist
 Remote - Germany
-Marketing
-Lead, Advertising Measurement (Australia)
-Lead, Advertising Measurement (Australia)
-Sydney, Australia
 Marketing
 Senior Brand Marketing Lead
 Senior Brand Marketing Lead
@@ -531,6 +517,10 @@ Lead Product Adoption Strategist, Mid-Market
 Lead Product Adoption Strategist, Mid-Market
 Remote - United States
 Sales
+Manager, Large Customer Sales - UK
+Manager, Large Customer Sales - UK
+London, United Kingdom
+Sales
 Manager, Technical Solutions
 Manager, Technical Solutions
 Los Angeles, CA
@@ -591,10 +581,6 @@ Los Angeles, CA
 Senior Manager, Large Customer Sales (Entertainment)
 New York City, NY
 Sales
-Senior Manager, Large Customer Sales - UK
-Senior Manager, Large Customer Sales - UK
-London, United Kingdom
-Sales
 Senior Product Adoption Strategist, Lower Funnel, EMEA
 Senior Product Adoption Strategist, Lower Funnel, EMEA
 London, United Kingdom
@@ -645,6 +631,10 @@ Staff Technical Program Manager
 Staff Technical Program Manager
 Remote - United States
 See all departments with jobs
+User Experience
+Principal Product Designer, Presence
+Principal Product Designer, Presence
+Remote - United States
 User Experience
 Principal UX Engineer, Ads
 Principal UX Engineer, Ads

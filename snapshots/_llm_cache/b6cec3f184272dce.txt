@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job listing reordering and removals; Principal Technical Program Manager and Staff SRE/Site Reliability positions removed, while several engineering and sales roles added or repositioned with no net headcount or strategic shift indicated.

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001763986</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001121788</issuerCik>
+      <issuerName>Garmin Ltd</issuerName>
+      <secFileNumber>001-41118</secFileNumber>
+      <issuerAddress>
+        <com:street1>Muhlentalstrasse 36/38</com:street1>
+        <com:city>Schaffhausen</com:city>
+        <com:stateOrCountry>V8</com:stateOrCountry>
+        <com:zipCode>8200</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>913-440-6455</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Cheng-Wei Wang</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>UBS Financial Services Inc</name>
+        <address>
+          <com:street1>1000 Harbor Blvd</com:street1>
+          <com:street2>3rd Floor</com:street2>
+          <com:city>Weehawken</com:city>
+          <com:stateOrCountry>NJ</com:stateOrCountry>
+          <com:zipCode>07086</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>9941</noOfUnitsSold>
+      <aggregateMarketValue>2975418.74</aggregateMarketValue>
+      <noOfUnitsOutstanding>192852536</noOfUnitsOutstanding>
+      <approxSaleDate>08/18/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>common</securitiesClassTitle>
+      <acquiredDate>02/25/2021</acquiredDate>
+      <natureOfAcquisitionTransaction>performance stock release</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2897</amountOfSecuritiesAcquired>
+      <paymentDate>02/25/2021</paymentDate>
+      <natureOfPayment>n/a</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>common</securitiesClassTitle>
+      <acquiredDate>02/25/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>performance stock release</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2919</amountOfSecuritiesAcquired>
+      <paymentDate>02/25/2022</paymentDate>
+      <natureOfPayment>n/a</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>common</securitiesClassTitle>
+      <acquiredDate>02/25/2023</acquiredDate>
+      <natureOfAcquisitionTransaction>performance stock release</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2919</amountOfSecuritiesAcquired>
+      <paymentDate>02/25/2023</paymentDate>
+      <natureOfPayment>n/a</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>common</securitiesClassTitle>
+      <acquiredDate>02/25/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>performance stock release</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1206</amountOfSecuritiesAcquired>
+      <paymentDate>02/25/2024</paymentDate>
+      <natureOfPayment>n/a</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/18/2026</noticeDate>
+      <signature>/s/Mijo  Suric, for UBS Financial Services Inc, as attorney-in-fact for Cheng-Wei Wang</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

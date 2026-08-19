@@ -124,6 +124,7 @@ Product
 Technology
 Country
 All
+Austria
 Brazil
 Canada
 Colombia
@@ -164,11 +165,13 @@ Business Development
 Business Programs
 Commercial Finance
 Customer Engagement Marketing
+Customer Service
 Data Science
 Development
 Experience Design
 Infrastructure & Enterprise Engineering
 Investor Relations
+Marketing Intelligence
 Media
 Partner Marketing
 Partner Sales
@@ -183,6 +186,7 @@ Vendor Service & Operations Management
 Workforce Planning
 Location
 All
+Austria
 Brazil
 Canada
 Colombia
@@ -200,10 +204,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-161
+174
 openings
 in
-15
+16
 countries.
 We're hiring in
 19
@@ -330,6 +334,7 @@ EG Team
 All
 Country
 All
+Austria
 Brazil
 Canada
 Colombia

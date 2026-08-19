@@ -10,11 +10,6 @@ Office
 Select...
 15 jobs
 StubHub / Engineering / Enterprise Engineering
-Security Engineering
-Job
-Software Engineer II - Product Security
-Los Angeles, California, United States
-StubHub / Engineering / Enterprise Engineering
 Supply Engineering
 Job
 Senior Software Engineer - Sponsored Listings (Fullstack)
@@ -68,3 +63,9 @@ New
 Genève, Geneva, Switzerland
 Senior Manager, Consumer & Cultural Communications (Sports)
 New York, New York, United States
+viagogo
+viagogo Business Development
+Job
+Supply Manager
+New
+Limerick, Limerick, Ireland

@@ -1,0 +1,1 @@
+[ROUTINE] Minor copy revision changing conditional language ("Would you like to see") to direct language ("See what Affirm offers") on regional selection prompt.

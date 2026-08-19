@@ -11,7 +11,7 @@ $0 restaurant delivery fees*
 On eligible orders of $25+. *Service fees apply.
 Share membership perks
 Add family members to your account to share carts & benefits
-Peacock ($109.99 value)
+Peacock
 Hit movies, TV, live sports, and more.
 New York Times Cooking ($50 annual value)
 Enjoy recipes, advice and inspiration daily.
@@ -170,6 +170,5 @@ Enable high contrast colors
 Legal
 Terms of Use
 Privacy Policy
-Your Privacy Choices
 © 2026, Maplebear Inc. dba Instacart. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC. Terms for $0 delivery fee (First Order): Offer valid on first order made through Instacart with a minimum basket size as set forth in the offer promotion. Offer expires on the date indicated in the user’s account settings or displayed in the offer promotion.
 View more details here.

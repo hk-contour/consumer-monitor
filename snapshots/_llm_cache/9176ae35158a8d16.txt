@@ -1,0 +1,1 @@
+[ROUTINE] Newsroom page restructured with simplified navigation layout and condensed article preview formatting; no changes to news content or company announcements.
