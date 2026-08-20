@@ -1,0 +1,1 @@
+[ROUTINE] Added "Your Privacy Choices" link to footer navigation on Instacart+ pricing page.

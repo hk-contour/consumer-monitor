@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001833431</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001579877</issuerCik>
+      <issuerName>OUTFRONT Media Inc.</issuerName>
+      <secFileNumber>001-36367</secFileNumber>
+      <issuerAddress>
+        <com:street1>90 PARK AVENUE</com:street1>
+        <com:street2>9TH FLOOR</com:street2>
+        <com:city>NEW YORK</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry>
+        <com:zipCode>10016</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>212-297-6400</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>MARTIN PATRICK</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>10000</noOfUnitsSold>
+      <aggregateMarketValue>301000.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>176135251</noOfUnitsOutstanding>
+      <approxSaleDate>08/19/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>02/16/2020</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>449</amountOfSecuritiesAcquired>
+      <paymentDate>02/16/2020</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>02/20/2020</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1769</amountOfSecuritiesAcquired>
+      <paymentDate>02/20/2020</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>02/22/2020</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1663</amountOfSecuritiesAcquired>
+      <paymentDate>02/22/2020</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>02/22/2021</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1538</amountOfSecuritiesAcquired>
+      <paymentDate>02/22/2021</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>02/20/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>4581</amountOfSecuritiesAcquired>
+      <paymentDate>02/20/2022</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/19/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>05/20/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Jared Cook, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Patrick J. Martin</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

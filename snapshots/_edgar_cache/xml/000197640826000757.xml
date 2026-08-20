@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001314246</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001810806</issuerCik>
+      <issuerName>Unity Software Inc.</issuerName>
+      <secFileNumber>001-39497</secFileNumber>
+      <issuerAddress>
+        <com:street1>116 NEW MONTGOMERY STREET</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94105-3607</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(415) 638-9950</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Dovrat Shlomo</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Former Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Oppenheimer &amp; Co. Inc.</name>
+        <address>
+          <com:street1>85 Broad St.</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10004</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>58598</noOfUnitsSold>
+      <aggregateMarketValue>2738870.52</aggregateMarketValue>
+      <noOfUnitsOutstanding>440088933</noOfUnitsOutstanding>
+      <approxSaleDate>08/19/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>12/31/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Distribution In Kind</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Viola</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>289089</amountOfSecuritiesAcquired>
+      <paymentDate>12/31/2024</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Shlomo Dovrat</name>
+        <address>
+          <com:street1>116 NEW MONTGOMERY STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105-3607</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <saleDate>08/11/2026</saleDate>
+      <amountOfSecuritiesSold>50000</amountOfSecuritiesSold>
+      <grossProceeds>2157090.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/19/2026</noticeDate>
+      <signature>Shlomo Dovrat By: /s/ Yohanan Azriel Title: Authorized Signatory, Oppenheimer Israel (pursuant to delegation)</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001589043</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001506293</issuerCik>
+      <issuerName>PINTEREST, INC.</issuerName>
+      <secFileNumber>001-38872</secFileNumber>
+      <issuerAddress>
+        <com:street1>651 BRANNAN STREET</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94107</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>4157627100</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Rajaram Gokul</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>1050</noOfUnitsSold>
+      <aggregateMarketValue>24182.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>492198008</noOfUnitsOutstanding>
+      <approxSaleDate>08/19/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/20/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Pinterest, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1050</amountOfSecuritiesAcquired>
+      <paymentDate>03/20/2022</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>GOKUL RAJARAM</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>05/27/2026</saleDate>
+      <amountOfSecuritiesSold>1050</amountOfSecuritiesSold>
+      <grossProceeds>21000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>GOKUL RAJARAM</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/17/2026</saleDate>
+      <amountOfSecuritiesSold>1050</amountOfSecuritiesSold>
+      <grossProceeds>21892.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>GOKUL RAJARAM</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/15/2026</saleDate>
+      <amountOfSecuritiesSold>1050</amountOfSecuritiesSold>
+      <grossProceeds>23993.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/19/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>11/25/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>GOKUL RAJARAM</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

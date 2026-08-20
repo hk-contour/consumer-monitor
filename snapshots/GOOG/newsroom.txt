@@ -1,3 +1,11 @@
+Gemini App
+Start the semester with one year of Gemini, on us
+We’re offering one year of a Google AI plan free of charge for eligible college students. Plus, we’re launching new and enhanced study tools.
+Read more
+Google Research
+Reducing aviation climate impact with AI
+Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.
+Read more
 Gemini models
 Introducing Gemini 3.7 Flash
 Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.

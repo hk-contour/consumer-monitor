@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002121555</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001744489</issuerCik>
+      <issuerName>Walt Disney Co</issuerName>
+      <secFileNumber>001-38842</secFileNumber>
+      <issuerAddress>
+        <com:street1>500 SOUTH BUENA VISTA STREET</com:street1>
+        <com:city>BURBANK</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>91521</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(818) 560-1000</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Roeder Paul M</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Merrill Lynch</name>
+        <address>
+          <com:street1>225 Liberty Street</com:street1>
+          <com:street2>Floor 37</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10281</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>3596</noOfUnitsSold>
+      <aggregateMarketValue>382326.72</aggregateMarketValue>
+      <noOfUnitsOutstanding>1726686902</noOfUnitsOutstanding>
+      <approxSaleDate>08/19/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>01/15/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Vesting of restricted stock unit awards</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Walt Disney Co</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2</amountOfSecuritiesAcquired>
+      <paymentDate>01/15/2026</paymentDate>
+      <natureOfPayment>Granted as part of issuer equity compensation plan</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>06/15/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Vesting of restricted stock unit awards</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Walt Disney Co</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>983</amountOfSecuritiesAcquired>
+      <paymentDate>06/15/2026</paymentDate>
+      <natureOfPayment>Granted as part of issuer equity compensation plan</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>07/15/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Vesting of restricted stock unit awards</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Walt Disney Co</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1996</amountOfSecuritiesAcquired>
+      <paymentDate>07/15/2026</paymentDate>
+      <natureOfPayment>Granted as part of issuer equity compensation plan</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>07/17/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Vesting of restricted stock unit awards</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Walt Disney Co</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>612</amountOfSecuritiesAcquired>
+      <paymentDate>07/17/2026</paymentDate>
+      <natureOfPayment>Granted as part of issuer equity compensation plan</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>07/22/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Vesting of restricted stock unit awards</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Walt Disney Co</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>3</amountOfSecuritiesAcquired>
+      <paymentDate>07/22/2026</paymentDate>
+      <natureOfPayment>Granted as part of issuer equity compensation plan</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/19/2026</noticeDate>
+      <signature>Paul M Roeder</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

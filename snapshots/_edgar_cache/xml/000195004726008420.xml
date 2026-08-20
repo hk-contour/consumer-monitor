@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001835037</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001315098</issuerCik>
+            <issuerName>Roblox Corporation</issuerName>
+            <secFileNumber>001-39763</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>3150 South Delaware Street</ns2:street1>
+                <ns2:city>San Mateo</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94403</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>8888582569</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>MARK REINSTRA</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>6250</noOfUnitsSold>
+            <aggregateMarketValue>235437.50</aggregateMarketValue>
+            <noOfUnitsOutstanding>669992988</noOfUnitsOutstanding>
+            <approxSaleDate>08/19/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>05/20/2024</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>6250</amountOfSecuritiesAcquired>
+            <paymentDate>05/20/2024</paymentDate>
+            <natureOfPayment>N/A</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for MARK REINSTRA</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/06/2026</saleDate>
+            <amountOfSecuritiesSold>4512</amountOfSecuritiesSold>
+            <grossProceeds>258733.42</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for MARK REINSTRA</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/08/2026</saleDate>
+            <amountOfSecuritiesSold>5978</amountOfSecuritiesSold>
+            <grossProceeds>249342.38</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for MARK REINSTRA</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>05/21/2026</saleDate>
+            <amountOfSecuritiesSold>5460</amountOfSecuritiesSold>
+            <grossProceeds>253356.56</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>MARK REINSTRA</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>05/20/2026</saleDate>
+            <amountOfSecuritiesSold>17275</amountOfSecuritiesSold>
+            <grossProceeds>782169.62</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <remarks>The securities to be sold were acquired upon the vesting of restricted stock units during the period of 05/20/2024 through 08/20/2024.
+</remarks>
+        <noticeSignature>
+            <noticeDate>08/19/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>02/19/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Mark Reinstra</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -104,10 +104,6 @@ Principal Data Scientist, Ads
 Principal Data Scientist, Ads
 Remote - United States
 Data Science
-Senior Data Scientist
-Senior Data Scientist
-San Francisco, CA
-Data Science
 Senior Data Scientist - Consumer
 Senior Data Scientist - Consumer
 Remote - United States
@@ -229,10 +225,6 @@ Senior Machine Learning Engineer
 Senior Machine Learning Engineer
 Remote - Ontario, Canada
 Senior Machine Learning Engineer
-Remote - United States
-Engineering
-Senior Machine Learning Engineer, Ads ML Platform
-Senior Machine Learning Engineer, Ads ML Platform
 Remote - United States
 Engineering
 Senior Machine Learning Engineer, GenAI Security
@@ -449,10 +441,6 @@ Marketing
 EMEA Insights Specialist
 EMEA Insights Specialist
 Remote - Germany
-Marketing
-Senior Brand Marketing Lead
-Senior Brand Marketing Lead
-New York City, NY
 See all departments with jobs
 People & Culture
 Experience Coordinator, San Francisco
@@ -512,10 +500,6 @@ Sales
 Creative Strategist - App Dev
 Creative Strategist - App Dev
 New York City, NY
-Sales
-Lead Product Adoption Strategist, Mid-Market
-Lead Product Adoption Strategist, Mid-Market
-Remote - United States
 Sales
 Manager, Large Customer Sales - UK
 Manager, Large Customer Sales - UK
@@ -581,13 +565,19 @@ Los Angeles, CA
 Senior Manager, Large Customer Sales (Entertainment)
 New York City, NY
 Sales
+Senior Principal Program Manager, GTM Excellence
+Senior Principal Program Manager, GTM Excellence
+Chicago, IL
+Senior Principal Program Manager, GTM Excellence
+Los Angeles, CA
+Senior Principal Program Manager, GTM Excellence
+New York City, NY
+Senior Principal Program Manager, GTM Excellence
+San Francisco, CA
+Sales
 Senior Product Adoption Strategist, Lower Funnel, EMEA
 Senior Product Adoption Strategist, Lower Funnel, EMEA
 London, United Kingdom
-Sales
-Senior Product Adoption Strategist, Shopping
-Senior Product Adoption Strategist, Shopping
-Remote - United States
 Sales
 Senior Product Manager, GTM Automation
 Senior Product Manager, GTM Automation

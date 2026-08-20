@@ -35,14 +35,7 @@ Moderator Code of Conduct
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Earn Terms
@@ -91,14 +84,7 @@ Verhaltenskodex für Mods
 Informationen für Nutzer*innen in der EU
 Informationen für Nutzer*innen im Vereinigten Königreich
 Informationen für Nutzer*innen in Australien
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Verdienstbedingungen
@@ -147,14 +133,7 @@ Código de Conducta del Moderador
 Información para los usuarios de la UE
 Información para los usuarios del Reino Unido
 Información para los usuarios australianos
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Términos de los programas de ingresos
@@ -203,14 +182,7 @@ Código de Conducta para Moderación
 Información para los usuarios de la Unión Europea
 Información para usuarios del Reino Unido
 Información para usuarios de Australia
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Condiciones sobre ganancias
@@ -259,14 +231,7 @@ Code de conduite de la modération
 Informations pour les membres de l’UE
 Informations pour les membres britanniques
 Informations pour les membres australiens
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Conditions de rémunération
@@ -315,14 +280,7 @@ Codice di Condotta per Moderatori
 Informazioni per gli utenti dell'UE
 Informazioni per gli utenti inglesi
 Informazioni per gli utenti australiani
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Termini Earn
@@ -370,14 +328,7 @@ Gedragscode voor moderators
 Informatie voor gebruikers in de EU
 Informatie voor gebruikers in het VK
 Informatie voor Australische gebruikers
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Verdienvoorwaarden
@@ -426,14 +377,7 @@ Código de Conduta da Moderação
 Informações para usuários da UE
 Informações para usuários do Reino Unido
 Informações para usuários australianos
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Termos de Ganhos
@@ -482,14 +426,7 @@ Código de Conduta da Moderação
 Informações para os utilizadores da UE
 Informações para utilizadores do Reino Unido
 Informações para utilizadores australianos
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Termos de Rendimentos
@@ -536,14 +473,7 @@ Uppförandekod för moderatorer
 Information för användare i EU
 Information för användare i Storbritannien
 Information för användare i Australien
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Intäktsvillkor
@@ -583,14 +513,7 @@ Reddit-এর নিয়ম
 ইউরোপীয় ইউনিয়নের ব্যবহারকারীদের জন্য তথ্য
 যুক্তরাজ্যের ব্যবহারকারীদের জন্য তথ্য
 অস্ট্রেলিয়ান ব্যবহারকারীদের জন্য তথ্য
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 উপার্জনের শর্তাবলী
@@ -627,14 +550,7 @@ Reddit के नियम
 यूरोपीय संघ के सदस्यों के लिए जानकारी
 यूनाइटेड किंगडम के उपयोगकर्ताओं के लिए जानकारी
 ऑस्ट्रेलियाई सदस्यों के लिए जानकारी
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 अर्जन प्रोग्राम के नियम
@@ -671,7 +587,7 @@ Code of Conduct ng Moderator
 Impormasyon para sa mga user sa EU
 Impormasyon para sa mga user sa UK
 Impormasyon para sa mga user sa Australia
-Advertising Platform Terms
+Advertising Platform Terms & Conditions
 Reddit Business Tool Terms
 Reddit Advertising Data Processing Agreement
 Reddit Jurisdiction Specific Terms
@@ -715,14 +631,7 @@ Responsible Disclosure and Bug Bounty Program Terms
 ข้อมูลสำหรับผู้ใช้ในสหภาพยุโรป
 ข้อมูลสำหรับผู้ใช้ในสหราชอาณาจักร
 ข้อมูลสำหรับผู้ใช้ในออสเตรเลีย
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 ข้อกำหนดการสร้างรายได้
@@ -758,7 +667,7 @@ Kodeks postępowania osób moderujących
 Informacje dla użytkowników z UE
 Informacje dla użytkowników w Zjednoczonym Królestwie
 Informacje dla użytkowników w Australii
-Advertising Platform Terms
+Advertising Platform Terms & Conditions
 Reddit Business Tool Terms
 Reddit Advertising Data Processing Agreement
 Reddit Jurisdiction Specific Terms
@@ -802,14 +711,7 @@ Moderator Code of Conduct
 Informații pentru utilizatorii din UE
 Informații pentru utilizatorii din Regatul Unit
 Informații pentru utilizatorii din Australia
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Earn Terms
@@ -846,14 +748,7 @@ Moderator Code of Conduct
 Thông tin cho người dùng ở EU
 Thông tin cho người dùng ở Vương quốc Anh
 Thông tin cho người dùng ở Úc
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Earn Terms
@@ -890,13 +785,7 @@ Moderator Code of Conduct
 Maklumat untuk pengguna EU
 Maklumat untuk pengguna UK
 Maklumat untuk pengguna Australia
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Earn Terms
@@ -933,14 +822,7 @@ Moderátori magatartási kódex
 Információ EU-s felhasználóknak
 Információk az egyesült királyságbeli felhasználók számára
 Információk ausztrál felhasználók számára
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Jövedelemszerzésre vonatkozó feltételek
@@ -977,14 +859,7 @@ Cookie Notice
 Πληροφορίες για χρήστες στην Ε.Ε.
 Πληροφορίες για χρήστες στο Ηνωμένο Βασίλειο
 Πληροφορίες για χρήστες στην Αυστραλία
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Όροι περί κέρδους
@@ -1021,14 +896,7 @@ Moderaattoreiden eettiset toimintaohjeet
 Tietoa EU-käyttäjille
 Tietoa Yhdistyneen kuningaskunnan käyttäjille
 Tietoa australialaisille käyttäjille
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Ansaintaehdot
@@ -1065,7 +933,7 @@ Regler for god oppførsel for moderatorer
 Informasjon for brukere i EU
 Informasjon for britiske brukere
 Informasjon for brukere i Australia
-Advertising Platform Terms
+Advertising Platform Terms & Conditions
 Reddit Business Tool Terms
 Reddit Advertising Data Processing Agreement
 Reddit Jurisdiction Specific Terms
@@ -1109,14 +977,7 @@ Cookie Notice
 информация для пользователей из ЕС
 информация для пользователей из Великобритании
 Information for Australian users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Условия получения заработка
@@ -1153,14 +1014,7 @@ Moderatör İlkeleri
 AB kullanıcıları için bilgiler
 Birleşik Krallık kullanıcıları için bilgiler
 Avustralyalı kullanıcılar için bilgiler
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Kazanç Şartları
@@ -1197,14 +1051,7 @@ Reddit 规则
 欧盟用户须知
 英国用户须知
 Information for Australian users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 创收条款
@@ -1241,14 +1088,7 @@ Reddit 規則
 歐盟使用者參考資訊
 英國使用者資訊
 Information for Australian users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 《營利條款》
@@ -1283,14 +1123,7 @@ Moderátorská pravidla chování
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Podmínky výdělečné činnosti
@@ -1323,14 +1156,7 @@ Mod Code of Conduct
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Indtjeningsvilkår
@@ -1363,14 +1189,7 @@ Reddit 規則
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 収益化規約
@@ -1403,14 +1222,7 @@ Reddit 콘텐츠 규정
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 수익화 약관
@@ -1443,14 +1255,7 @@ Kodeks ponašanja moderatora
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Uslovi zarade
@@ -1483,14 +1288,7 @@ Cookie Notice
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Умови щодо прибутків
@@ -1524,14 +1322,7 @@ Cookie Notice
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Условия за доходи
@@ -1566,14 +1357,7 @@ Kodeks ponašanja moderatora
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Uvjeti za zaradu
@@ -1608,14 +1392,7 @@ Kódex správania moderátora
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Podmienky zarábania
@@ -1650,14 +1427,7 @@ Cookie Notice
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 شروط الربح
@@ -1692,14 +1462,7 @@ Kode Etik Moderator
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 Syarat Penghasilan
@@ -1733,14 +1496,7 @@ Reddit Rules
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 شرایط درآمد
@@ -1774,14 +1530,7 @@ Reddit Rules
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 תנאי הרווח
@@ -1815,14 +1564,7 @@ Reddit Rules
 Information for EU users
 Information for UK users
 Information for AU users
-Advertising Platform Terms
-Reddit Business Tool Terms
-Reddit Advertising Data Processing Agreement
-Reddit Jurisdiction Specific Terms
-Reddit Ads Subprocessors
-Ads API Terms
-Third Party Audience Targeting (Beta) Terms
-Advertising Policies and Billing
+Advertising Platform Terms & Conditions
 Brand Guidelines
 Press & Broadcast Guidelines
 کمائی کی شرائط

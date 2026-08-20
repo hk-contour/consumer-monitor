@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001835963</issuerCik>
+        <issuerName>Global-E Online Ltd.</issuerName>
+        <issuerTradingSymbol>GLBE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001964286</rptOwnerCik>
+            <rptOwnerName>Schlachet Amir</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>true</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>26 HAR DAFNA ST</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAVYON</rptOwnerCity>
+            <rptOwnerNonUSStateTerritory></rptOwnerNonUSStateTerritory>
+            <rptOwnerCountry>L3</rptOwnerCountry>
+            <rptOwnerZipCode>5650626</rptOwnerZipCode>
+            <rptOwnerStateDescription>ISRAEL</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>true</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>24999</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>41.3709</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3741731</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F8"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1.201</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-04-17</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-04-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>604200</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>604200</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F9"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.1645</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2021-04-20</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-04-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Ordinary Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>882600</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>882600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 3,046,464 ordinary shares.</footnote>
+        <footnote id="F2">Includes 51,546 RSUs granted to the Reporting Person by the Issuer on June 22, 2021. As of the date hereof, all of the RSUs have fully vested.</footnote>
+        <footnote id="F3">Includes 89,499 RSUs granted to the Reporting Person by the Issuer on April 14, 2022. As of the date hereof, all of the RSUs have fully vested.</footnote>
+        <footnote id="F4">Includes 100,159 RSUs granted to the Reporting Person by the Issuer on April 20, 2023. As of the date hereof, all of the RSUs have fully vested.</footnote>
+        <footnote id="F5">Includes 87,018 RSUs granted to the Reporting Person by the Issuer on April 26, 2024,  with a vesting commencement date of April 1, 2024 (the &quot;Grant Date&quot;). The RSUs vest as follows: 33% of the RSUs shall vest on the first anniversary of the Grant Date, and the remaining RSUs shall vest in equal quarterly installments thereafter through April 2027, subject to the Reporting Person's provision of service to the Issuer on each vesting date. Each RSU represents the right to receive one ordinary share upon vesting and settlement.</footnote>
+        <footnote id="F6">Includes 84,873 RSUs granted to the Reporting Person by the Issuer on April 14, 2025, with a vesting commencement date of April 1, 2025 (the &quot;Grant Date&quot;). The RSUs vest as follows: 33% of the RSUs shall vest on the first anniversary of the Grant Date, and the remaining RSUs shall vest in equal quarterly installments thereafter through April 2028, subject to the Reporting Person's provision of service to the Issuer on each vesting date. Each RSU represents the right to receive one ordinary share upon vesting and settlement.</footnote>
+        <footnote id="F7">Includes 282,172 RSUs granted to the Reporting Person by the Issuer on May 13, 2026, with a vesting commencement date of April 1, 2026 (the &quot;Grant Date&quot;). The RSUs vest as follows: 33% vest on the first anniversary of the Grant Date, and the remaining RSUs vest in equal quarterly installments thereafter through April 2029, subject to the Reporting Person's continued service to the Issuer on each applicable vesting date. Each RSU represents the right to receive one ordinary share upon vesting and settlement.</footnote>
+        <footnote id="F8">There were no transactions effected in respect of the securities reported in this row, and the holdings in this row are being included for informational purposes only. The options are now fully vested but remain unexercised.</footnote>
+        <footnote id="F9">There were no transactions effected in respect of the securities reported in this row, and the holdings in this row are being included for informational purposes only. The options are now fully vested but remain unexercised.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Michal Yardeni</signatureName>
+        <signatureDate>2026-08-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

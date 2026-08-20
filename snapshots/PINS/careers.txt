@@ -12,6 +12,7 @@ Hamburg
 London
 Los Angeles
 Mexico City
+Milan
 Munich
 New York
 Palo Alto

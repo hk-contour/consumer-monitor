@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001988460</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001579091</issuerCik>
+      <issuerName>Maplebear Inc.</issuerName>
+      <secFileNumber>001-41805</secFileNumber>
+      <issuerAddress>
+        <com:street1>50 BEALE STREET, SUITE 600</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94105</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(888) 246-7822</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Gupta Ravi</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+        <relationshipToIssuer>10% Stockholder</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>150000</noOfUnitsSold>
+      <aggregateMarketValue>7591522.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>231500067</noOfUnitsOutstanding>
+      <approxSaleDate>08/19/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/26/2013</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Maplebear Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>59093</amountOfSecuritiesAcquired>
+      <paymentDate>06/26/2013</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>06/10/2014</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Maplebear Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>90907</amountOfSecuritiesAcquired>
+      <paymentDate>06/03/2014</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Ravi Gupta TTEE</name>
+        <address>
+          <com:street1>50 BEALE STREET, SUITE 600</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Maplebear Inc.</securitiesClassTitle>
+      <saleDate>06/02/2026</saleDate>
+      <amountOfSecuritiesSold>181000</amountOfSecuritiesSold>
+      <grossProceeds>7513887.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Shares sold in THE MERCER STREET TRUST, RAVINDER GUPTA TTEE.</remarks>
+    <noticeSignature>
+      <noticeDate>08/19/2026</noticeDate>
+      <signature>Ravi Gupta TTEE</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

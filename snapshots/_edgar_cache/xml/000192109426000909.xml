@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002082930</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001579091</issuerCik>
+      <issuerName>Maplebear Inc.</issuerName>
+      <secFileNumber>001-41805</secFileNumber>
+      <issuerAddress>
+        <com:street1>50 BEALE STREET, SUITE 600</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94105</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(888) 246-7822</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Rogers Chris</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way,</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>7606</noOfUnitsSold>
+      <aggregateMarketValue>372287.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>231500067</noOfUnitsOutstanding>
+      <approxSaleDate>08/19/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>08/15/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Maplebear, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>7606</amountOfSecuritiesAcquired>
+      <paymentDate>08/15/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Chris Rogers</name>
+        <address>
+          <com:street1>50 BEALE STREET, SUITE 600</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Maplebear Inc.</securitiesClassTitle>
+      <saleDate>06/01/2026</saleDate>
+      <amountOfSecuritiesSold>7893</amountOfSecuritiesSold>
+      <grossProceeds>320929.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Chris Rogers</name>
+        <address>
+          <com:street1>50 BEALE STREET, SUITE 600</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Maplebear Inc.</securitiesClassTitle>
+      <saleDate>08/07/2026</saleDate>
+      <amountOfSecuritiesSold>4933</amountOfSecuritiesSold>
+      <grossProceeds>246650.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>The shares reported on this Form 144 will be sold pursuant to a Rule 10b5-1 trading plan.</remarks>
+    <noticeSignature>
+      <noticeDate>08/19/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>11/20/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>CHRIS ROGERS</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

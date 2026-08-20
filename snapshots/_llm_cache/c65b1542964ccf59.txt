@@ -1,0 +1,1 @@
+[MATERIAL] Reddit consolidated nine separate advertising-related legal documents into a single "Advertising Platform Terms & Conditions" document across all language versions of its user agreement. This consolidation removes previously distinct terms for business tools, data processing, jurisdiction-specific rules, API access, and beta audience targeting programs.

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001810806</issuerCik>
+        <issuerName>Unity Software Inc.</issuerName>
+        <issuerTradingSymbol>U</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001680979</rptOwnerCik>
+            <rptOwnerName>Bromberg Matthew S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O UNITY SOFTWARE INC</rptOwnerStreet1>
+            <rptOwnerStreet2>116 NEW MONTGOMERY STREET</rptOwnerStreet2>
+            <rptOwnerCity>SAN FRANCISCO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94105-3607</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President and CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance-Based Price Vesting Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>880000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>880000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>880000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents performance-based price vesting restricted stock units (&quot;PPSUs&quot;) granted under the Issuer's 2020 Equity Incentive Plan. Each PPSU represents a contingent right to receive one share of the Issuer's common stock upon vesting, for no cash consideration. The number reported is the maximum number of PPSUs that may vest.</footnote>
+        <footnote id="F2">The PPSUs are eligible to vest in three tranches, in each case on the later of the date the applicable service condition is satisfied and the date the applicable stock price hurdle is achieved, subject to the Reporting Person's continued service as Chief Executive Officer of the Issuer through that later date. 293,333 PPSUs are subject to a $50.00 stock price hurdle and a service condition running through the first anniversary of the grant date; 293,333 PPSUs are subject to a $60.00 stock price hurdle and a service condition running through the second anniversary of the grant date; and 293,334 PPSUs are subject to a $75.00 stock price hurdle and a service condition running through the third anniversary of the grant date.</footnote>
+        <footnote id="F3">A stock price hurdle is achieved if the volume-weighted average closing price of the Issuer's common stock over any period of thirty consecutive calendar days equals or exceeds the applicable hurdle. Stock price hurdles may be achieved only during the performance period beginning on the grant date and ending on the fifth anniversary of the grant date. PPSUs for which the applicable stock price hurdle is not achieved during the performance period will be forfeited for no consideration.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Connie Wu, Attorney-in-fact</signatureName>
+        <signatureDate>2026-08-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
