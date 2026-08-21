@@ -1,0 +1,1 @@
+[ROUTINE] Footer link changed from "Your Privacy Choices" to "Health Data Notice" on the Instacart+ pricing page.

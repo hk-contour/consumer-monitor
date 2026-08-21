@@ -51,15 +51,15 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-13
+14
 Business Strategy and Development Jobs
-16
+15
 Human Resources Jobs
-20
+19
 Legal and Business Affairs Jobs
 17
 Project Management Jobs
-12
+14
 View Selected Jobs
 Reset
 Consumer Goods
@@ -79,13 +79,13 @@ From imagining the latest Toy Story movie to designing a costume made for a prin
 Animation and Visual Effects Jobs
 32
 Creative Jobs
-32
+30
 Gaming and Interactive Jobs
-7
+6
 Graphic Design Jobs
 1
 Marketing and Digital Media Jobs
-36
+34
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,9 +93,9 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-11
+13
 Finance and Accounting Jobs
-29
+28
 View Selected Jobs
 Reset
 Guest / Customer Service
@@ -105,15 +105,15 @@ The magic of our Parks, the wonder of our cruise ships and the luxury of our res
 Culinary Jobs
 20
 Food and Beverage Jobs
-28
+27
 Hotel and Resorts Jobs
-43
+41
 Maritime and Cruise Operations Jobs
 16
 Retail Operations Jobs
-33
+35
 Sports and Recreation Jobs
-3
+2
 Theme Park Operations Jobs
 50
 View Selected Jobs
@@ -123,7 +123,7 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-11
+13
 Engineering Jobs
 16
 Health Services Jobs
@@ -131,11 +131,11 @@ Health Services Jobs
 Quality Assurance Jobs
 2
 Sciences and Animal Programs Jobs
-2
+4
 Supply Chain Management Jobs
-5
+6
 Technology Jobs
-199
+194
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -147,9 +147,9 @@ Animation and Visual Effects Jobs
 Communications Jobs
 10
 Creative Jobs
-32
+30
 Marketing and Digital Media Jobs
-36
+34
 Sales Jobs
 15
 View Selected Jobs
@@ -161,17 +161,17 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 2
 Building, Construction and Facilities Jobs
-66
+71
 Health Services Jobs
 3
 Maritime and Cruise Operations Jobs
 16
 Sciences and Animal Programs Jobs
-2
+4
 Security Jobs
 19
 Supply Chain Management Jobs
-5
+6
 View Selected Jobs
 Reset
 Production & Entertainment
@@ -179,7 +179,7 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-30
+25
 Stage Productions Jobs
 27
 Talent Jobs
@@ -277,6 +277,7 @@ Emeryville, California, United States
 Ferrières-en-Brie, France
 Fresno, California, United States
 Glendale, California, United States
+Grapevine, Texas, United States
 Helsinki, Finland
 Hilton Head Island, South Carolina, United States
 Ho Chi Minh City, Vietnam
@@ -293,7 +294,6 @@ Las Vegas, Nevada, United States
 Livermore, California, United States
 London, United Kingdom
 Los Angeles, California, United States
-Madrid, Spain
 Makati City, Philippines
 Marne-la-Vallée, France
 Melbourne, Australia
@@ -306,12 +306,12 @@ Munich, Germany
 New Taipei City, Taiwan
 New York, New York, United States
 Nicasio, California, United States
+Ontario, California, United States
 Orlando, Florida, United States
 Oslo, Norway
 Palm Desert, California, United States
 Papenburg, Germany
 Paris, France
-Philadelphia, Pennsylvania, United States
 Quarry Bay, Hong Kong
 Ramat Gan, Israel
 Rancho Mirage, California, United States

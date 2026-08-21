@@ -1,0 +1,1 @@
+[ROUTINE] Internal reference identifier updated in terms page footer (tracking/versioning change with no impact to user-facing terms or policies).

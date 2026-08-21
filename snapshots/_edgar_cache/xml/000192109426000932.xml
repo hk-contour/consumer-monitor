@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002044191</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001315098</issuerCik>
+      <issuerName>Roblox Corp</issuerName>
+      <secFileNumber>001-39763</secFileNumber>
+      <issuerAddress>
+        <com:street1>3150 SOUTH DELAWARE STREET</com:street1>
+        <com:city>SAN MATEO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94403</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(888) 858-2569</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Kaufman Matthew D</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>14904</noOfUnitsSold>
+      <aggregateMarketValue>565761.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>669992988</noOfUnitsOutstanding>
+      <approxSaleDate>08/20/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>08/20/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse - See Remarks</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>ROBLOX CORP</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>14904</amountOfSecuritiesAcquired>
+      <paymentDate>08/20/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Matthew D Kaufman</name>
+        <address>
+          <com:street1>3150 SOUTH DELAWARE STREET</com:street1>
+          <com:city>SAN MATEO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94403</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Roblox Corp</securitiesClassTitle>
+      <saleDate>05/20/2026</saleDate>
+      <amountOfSecuritiesSold>14356</amountOfSecuritiesSold>
+      <grossProceeds>649956.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Shares sold to cover tax obligation from settlement of vested Restricted Stock Units.</remarks>
+    <noticeSignature>
+      <noticeDate>08/20/2026</noticeDate>
+      <signature>Matthew D Kaufman</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

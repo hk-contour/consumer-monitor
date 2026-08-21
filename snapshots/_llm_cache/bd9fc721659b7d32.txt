@@ -1,0 +1,1 @@
+[ROUTINE] Internal tracking IDs and session tokens updated in user agreement page footer.

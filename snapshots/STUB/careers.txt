@@ -8,7 +8,13 @@ Department
 Select...
 Office
 Select...
-15 jobs
+16 jobs
+StubHub / Engineering
+Consumer Experience
+Job
+Engineering Manager - Consumer Product (Event)
+New
+New York, New York, United States
 StubHub / Engineering / Enterprise Engineering
 Supply Engineering
 Job
@@ -65,7 +71,6 @@ StubHub
 Strategic Communications
 Job
 Communications Manager, viagogo - DACH
-New
 Genève, Geneva, Switzerland
 viagogo
 viagogo Business Development

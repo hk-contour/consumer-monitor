@@ -38,6 +38,7 @@ Event
 SEC Filing
 Financial Reports
 Enter the code shown above.
+*
 Email Alert Sign Up Confirmation
 IR Contact
 Investor Relations Department

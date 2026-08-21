@@ -34,13 +34,13 @@ Executive
 Expansion
 0 open roles
 Facilities And Office Operations
-4 open roles
+7 open roles
 Finance & Accounting
 1 open roles
 Information Technology
 4 open roles
 Invoicing & Incentives
-0 open roles
+1 open roles
 Learning & Development
 0 open roles
 Legal
@@ -54,7 +54,7 @@ Marketing & Creative
 New Development
 3 open roles
 Operations
-7 open roles
+8 open roles
 People & Culture
 4 open roles
 PR / Communications
@@ -64,7 +64,7 @@ Product & User Experience
 Security and Compliance
 9 open roles
 Strategic Growth
-67 open roles
+64 open roles
 Strategic Partnerships
 0 open roles
 Title

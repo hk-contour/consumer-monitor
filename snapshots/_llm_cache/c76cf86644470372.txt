@@ -1,0 +1,1 @@
+[ROUTINE] Asterisk character added after CAPTCHA entry field on Financial Reports section; likely formatting or placeholder adjustment.

@@ -90,6 +90,14 @@ Community Manager - French speaker (contract)
 Community Manager - French speaker (contract)
 Remote - United Kingdom
 Community
+Community Manager, French Speaking (Contract)
+Community Manager, French Speaking (Contract)
+Remote - United Kingdom
+Community
+Senior Growth Manager (Contract)
+Senior Growth Manager (Contract)
+Remote - United Kingdom
+Community
 Senior Growth Manager,  UK
 Senior Growth Manager,  UK
 London, United Kingdom
@@ -221,6 +229,10 @@ Senior Engineering Manager, Unified Embeddings Platform
 Senior Engineering Manager, Unified Embeddings Platform
 Remote - United States
 Engineering
+Senior Frontend Engineer, Community Builders
+Senior Frontend Engineer, Community Builders
+Remote - United States
+Engineering
 Senior Machine Learning Engineer
 Senior Machine Learning Engineer
 Remote - Ontario, Canada
@@ -344,12 +356,6 @@ Engineering
 Staff Frontend Engineer, Ads Creative
 Staff Frontend Engineer, Ads Creative
 Remote - United States
-Engineering
-Staff Machine Learning Engineer, Ads Foundational Representations
-Staff Machine Learning Engineer, Ads Foundational Representations
-Remote - The Netherlands
-Staff Machine Learning Engineer, Ads Foundational Representations
-Remote - United Kingdom
 Engineering
 Staff Machine Learning Engineer, Ads Measurement Modeling
 Staff Machine Learning Engineer, Ads Measurement Modeling

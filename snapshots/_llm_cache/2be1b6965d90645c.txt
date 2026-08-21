@@ -1,0 +1,1 @@
+[ROUTINE] Careers page removed Colombia from location filters and removed "Workforce Planning" from department filters; job openings increased from 187 to 189 while country count decreased from 17 to 16.

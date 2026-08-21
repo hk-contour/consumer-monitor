@@ -127,7 +127,6 @@ All
 Austria
 Brazil
 Canada
-Colombia
 Czechia
 Germany
 India
@@ -185,13 +184,11 @@ Technical Operations
 Total Rewards
 Treasury
 Vendor Service & Operations Management
-Workforce Planning
 Location
 All
 Austria
 Brazil
 Canada
-Colombia
 Czechia
 Germany
 India
@@ -206,10 +203,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-187
+189
 openings
 in
-17
+16
 countries.
 We're hiring in
 19
@@ -339,7 +336,6 @@ All
 Austria
 Brazil
 Canada
-Colombia
 Czechia
 Germany
 India
