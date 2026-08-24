@@ -117,7 +117,6 @@ Administration
 Commercial
 Corporate Solutions
 Finance
-Human Resources
 Marketing
 Operations & Services
 Product
@@ -125,7 +124,6 @@ Technology
 Country
 All
 Austria
-Brazil
 Canada
 Czechia
 Germany
@@ -134,7 +132,6 @@ Ireland
 Italy
 Japan
 Malaysia
-New Zealand
 Spain
 Switzerland
 United Kingdom
@@ -150,7 +147,6 @@ Administration
 Commercial
 Corporate Solutions
 Finance
-Human Resources
 Marketing
 Operations & Services
 Product
@@ -166,6 +162,7 @@ Business Programs
 Commercial Finance
 Customer Engagement Marketing
 Customer Experience
+Customer Product Support
 Customer Service
 Data Science
 Development
@@ -179,15 +176,13 @@ Partner Sales
 Performance Marketing
 Product Management
 Program Management (Technology)
-Regional HR
+Social Media Marketing
 Technical Operations
-Total Rewards
 Treasury
 Vendor Service & Operations Management
 Location
 All
 Austria
-Brazil
 Canada
 Czechia
 Germany
@@ -196,17 +191,16 @@ Ireland
 Italy
 Japan
 Malaysia
-New Zealand
 Spain
 Switzerland
 United Kingdom
 United States
 Search Jobs
 We currently have
-189
+191
 openings
 in
-16
+14
 countries.
 We're hiring in
 19
@@ -324,7 +318,6 @@ Administration
 Commercial
 Corporate Solutions
 Finance
-Human Resources
 Marketing
 Operations & Services
 Product
@@ -334,7 +327,6 @@ All
 Country
 All
 Austria
-Brazil
 Canada
 Czechia
 Germany
@@ -343,7 +335,6 @@ Ireland
 Italy
 Japan
 Malaysia
-New Zealand
 Spain
 Switzerland
 United Kingdom

@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-16 jobs
+17 jobs
 StubHub / Engineering
 Consumer Experience
 Job
@@ -28,7 +28,6 @@ StubHub / Engineering / Enterprise Engineering
 Technology Operations
 Job
 Technical SOX Program Manager
-New
 New York, New York, United States
 StubHub / Finance
 Strategic Finance and Investor Relations
@@ -47,6 +46,12 @@ StubHub
 Legal
 Job
 Senior Counsel - Employment and Labor Law
+New York, New York, United States
+StubHub / Marketing
+Performance Marketing
+Job
+Product Manager - Paid Search
+New
 New York, New York, United States
 StubHub / People Experience
 People Resources

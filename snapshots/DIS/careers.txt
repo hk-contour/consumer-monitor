@@ -51,15 +51,15 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-14
+12
 Business Strategy and Development Jobs
-15
+13
 Human Resources Jobs
 19
 Legal and Business Affairs Jobs
 17
 Project Management Jobs
-14
+13
 View Selected Jobs
 Reset
 Consumer Goods
@@ -69,7 +69,7 @@ The Walt Disney Company is home to some of the most well-known brands in the wor
 Merchandising Jobs
 7
 Publishing Jobs
-7
+8
 View Selected Jobs
 Reset
 Creative
@@ -79,13 +79,13 @@ From imagining the latest Toy Story movie to designing a costume made for a prin
 Animation and Visual Effects Jobs
 32
 Creative Jobs
-30
+43
 Gaming and Interactive Jobs
-6
+5
 Graphic Design Jobs
 1
 Marketing and Digital Media Jobs
-34
+32
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,9 +93,9 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-13
+20
 Finance and Accounting Jobs
-28
+30
 View Selected Jobs
 Reset
 Guest / Customer Service
@@ -103,19 +103,19 @@ Close
 Guest / Customer Service
 The magic of our Parks, the wonder of our cruise ships and the luxury of our resorts would not be possible without the employees and cast members who ensure that exceptional customer service is a top priority at The Walt Disney Company. Be part of providing the exceptional service Disney is known for around the world in an operational role in our parks, hotels, ships, retail locations, and call centers.
 Culinary Jobs
-20
+21
 Food and Beverage Jobs
-27
+34
 Hotel and Resorts Jobs
-41
+52
 Maritime and Cruise Operations Jobs
 16
 Retail Operations Jobs
-35
+34
 Sports and Recreation Jobs
 2
 Theme Park Operations Jobs
-50
+63
 View Selected Jobs
 Reset
 Innovation, Technology & Science(s)
@@ -123,19 +123,19 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-13
+20
 Engineering Jobs
-16
+53
 Health Services Jobs
 3
 Quality Assurance Jobs
 2
 Sciences and Animal Programs Jobs
-4
+1
 Supply Chain Management Jobs
 6
 Technology Jobs
-194
+201
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -147,9 +147,9 @@ Animation and Visual Effects Jobs
 Communications Jobs
 10
 Creative Jobs
-30
+43
 Marketing and Digital Media Jobs
-34
+32
 Sales Jobs
 15
 View Selected Jobs
@@ -159,17 +159,17 @@ Close
 Operations Support
 No one can bring a story to life better than Disney. Our operations teams work to create a collaborative and pleasurable work environment, enabling our employees and cast members to create memorable experiences for our consumers and guests. Our diverse teams, ranging from architecture and design to facilities and horticulture, and even animal programs and sciences, maintain the surroundings that energize and inspire us to do our best.
 Architecture and Design Jobs
-2
+3
 Building, Construction and Facilities Jobs
-71
+90
 Health Services Jobs
 3
 Maritime and Cruise Operations Jobs
 16
 Sciences and Animal Programs Jobs
-4
+1
 Security Jobs
-19
+16
 Supply Chain Management Jobs
 6
 View Selected Jobs
@@ -179,9 +179,9 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-25
+24
 Stage Productions Jobs
-27
+32
 Talent Jobs
 10
 View Selected Jobs
@@ -261,7 +261,6 @@ Bristol, Connecticut, United States
 Buenos Aires, Argentina
 Burbank, California, United States
 Celebration, Florida, United States
-Charlotte, North Carolina, United States
 Chessy, France
 Chiba, Japan
 City of Taguig, Philippines
@@ -294,11 +293,12 @@ Las Vegas, Nevada, United States
 Livermore, California, United States
 London, United Kingdom
 Los Angeles, California, United States
+Madrid, Spain
 Makati City, Philippines
 Marne-la-Vallée, France
 Melbourne, Australia
+Milan, Italy
 Minato-ku, Japan
-Montévrain, France
 Moore Park, Australia
 Morrisville, North Carolina, United States
 Mumbai, India
@@ -306,12 +306,14 @@ Munich, Germany
 New Taipei City, Taiwan
 New York, New York, United States
 Nicasio, California, United States
+Oklahoma City, Oklahoma, United States
 Ontario, California, United States
 Orlando, Florida, United States
 Oslo, Norway
 Palm Desert, California, United States
 Papenburg, Germany
 Paris, France
+Philadelphia, Pennsylvania, United States
 Quarry Bay, Hong Kong
 Ramat Gan, Israel
 Rancho Mirage, California, United States
@@ -331,7 +333,6 @@ Sofia, Bulgaria
 Stockholm, Sweden
 Sydney, Australia
 Taipei City, Taiwan
-Tampa, Florida, United States
 The Woodlands, Texas, United States
 Tlalpan, Mexico
 Tokyo, Japan
@@ -348,9 +349,9 @@ Select
 Professional
 Operations / Production
 Management
+Internships / Programs
 Executive
 Business Support / Administrative
-Internships / Programs
 Add
 Remove
 First Name

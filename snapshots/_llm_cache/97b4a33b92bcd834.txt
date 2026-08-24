@@ -1,0 +1,1 @@
+[ROUTINE] Removal of sign-in option text ("or use one of these options") and reordering of tracking/analytics identifiers in terms page footer.
