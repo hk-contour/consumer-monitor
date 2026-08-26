@@ -1,0 +1,1 @@
+[ROUTINE] Removed Q3 2026 earnings documents (release, webcast, transcript, fact sheet, 10-Q) from Latest Financial Results section and reshuffled news feed ordering; Aug 25 earnings announcement now appears as top news item with guidance information.

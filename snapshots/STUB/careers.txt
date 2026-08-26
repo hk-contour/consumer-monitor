@@ -8,12 +8,12 @@ Department
 Select...
 Office
 Select...
-17 jobs
+16 jobs
 StubHub / Engineering
 Consumer Experience
 Job
 Engineering Manager - Consumer Product (Event)
-New
+tags.new
 New York, New York, United States
 StubHub / Engineering / Enterprise Engineering
 Supply Engineering
@@ -28,36 +28,32 @@ StubHub / Engineering / Enterprise Engineering
 Technology Operations
 Job
 Technical SOX Program Manager
-New York, New York, United States
+Los Angeles, California, United States; New York, New York, United States
 StubHub / Finance
 Strategic Finance and Investor Relations
 Job
 Senior Manager of Strategic Finance
-New
+tags.new
 New York, New York, United States
 StubHub
 Global Customer Service
 Job
 Director, Global Customer Success
 Atlanta, Georgia, United States
+Director, Global Workforce Optimization
+tags.new
+Atlanta, Georgia, United States
 GCS Executive Customer Care Supervisor
 Atlanta, Georgia, United States
-StubHub
-Legal
-Job
-Senior Counsel - Employment and Labor Law
-New York, New York, United States
 StubHub / Marketing
 Performance Marketing
 Job
 Product Manager - Paid Search
-New
+tags.new
 New York, New York, United States
 StubHub / People Experience
 People Resources
 Job
-Head of Total Rewards
-New York, New York, United States
 People Operations Partner
 New York, New York, United States
 People Operations Partner
@@ -81,5 +77,4 @@ viagogo
 viagogo Business Development
 Job
 Supply Manager
-New
 Limerick, Limerick, Ireland

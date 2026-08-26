@@ -1,0 +1,1 @@
+[MATERIAL] Wix announced a partnership with Google to integrate Wix Harmony website creation directly into Gemini as a connected app, allowing users to build websites without leaving the Gemini platform. This integration represents a new distribution channel for Wix's core website builder product and expands Studio AI ecosystem accessibility.

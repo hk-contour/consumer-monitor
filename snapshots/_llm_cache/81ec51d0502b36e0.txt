@@ -1,0 +1,1 @@
+[ROUTINE] Careers page reordered department listings and adjusted open position counts across multiple categories (Engineering +1, Finance & Accounting -1, Data & Analytics -1, AI & Machine Learning -1, Business Development & Sales -1, IT & Security -1, Customer Experience -1, Human Resources -2, with some departments removed from view).

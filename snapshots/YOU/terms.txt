@@ -23,7 +23,7 @@ Consent to the Collection, Use, Disclosure, and Storage of Biometric Data
 E-Signature Consent
 General Terms
 How to Contact Us
-Effective Date: October 15, 2025
+Effective Date: August 24, 2026
 ‍
 Welcome to CLEAR! These Member Terms (“
 Terms
@@ -91,7 +91,7 @@ You may cancel your subscription and access to our paid Services at any time fro
 Memberservices@clearme.com
 or
 +1.855.253.2763
-. If you cancel your access to paid Services within the first fourteen (14) days of the date you were charged for your current paid Services access, you will receive a full refund of Fees for that term and will no longer be permitted to use our paid Services as of your date of cancellation, but you will continue to receive access to free Services unless you request that we terminate your access to free Services. If you cancel your access to paid Services more than fourteen (14) days from the date on which you were charged, you will retain access to paid Services through the expiration date of the then-current term of your paid Membership, but but you can continue to use our free Services after your term expires, unless you request deletion of your account as set forth below. Please note that if you cancel your paid Membership, any promotional terms will be voided / will not apply to you if you later renew your paid Membership.
+. If you cancel your access to paid Services within the first fourteen (14) days of the date you were charged for your current paid Services access, you will receive a full refund of Fees for that term and will no longer be permitted to use our paid Services as of your date of cancellation, but you will continue to receive access to free Services unless you request that we terminate your access to free Services. If you cancel your access to paid Services more than fourteen (14) days from the date on which you were charged, you will retain access to paid Services through the expiration date of the then-current term of your paid Membership, but you can continue to use our free Services after your term expires, unless you request deletion of your account as set forth below. Please note that if you cancel your paid Membership, any promotional terms will be voided / will not apply to you if you later renew your paid Membership.
 ‍
 You may cancel your paid Membership, request to delete your account and stop receiving access to our free Services by emailing your request to
 Memberservices@clearme.com
@@ -220,7 +220,7 @@ Colorado
 2 years from your last interaction with CLEAR
 Texas
 2 years from your last interaction with CLEAR
-Canadá
+Canada
 3 years from your last interaction with CLEAR
 Europe
 2 years from your last interaction with CLEAR
@@ -265,7 +265,7 @@ Without prejudice to your rights as a consumer, and to the extent permitted by A
 You may not assign these Terms (or any rights, benefits or obligations hereunder) by operation of law or otherwise without our prior written consent, which we may withhold in our sole discretion. Any attempted assignment by you that does not comply with the terms of this section shall be null and void. CLEAR may assign these Terms, in whole or in part, to any third party in its sole discretion by providing notice to you. You retain the right to terminate these Terms at any time prior to the assignment by providing notice to us in accordance with these Terms.
 ‍
 8.6 SMS and Text Messaging
-By accepting these Terms, you acknowledge and agree to receive text messages (including SMS and MMS messages) regarding your use of CLEAR, as well as announcements regarding CLEAR policies, Services, and promotions.
+By accepting these Terms, you acknowledge and agree to receive text messages through our marketing or OTP programs (including SMS and MMS messages) regarding your use of CLEAR, as well as announcements regarding CLEAR policies, Services, one-time passwords (OTP), two-factor authentications (2FA) and promotions.
 ‍
 You can opt out of receiving text messages from CLEAR by contacting
 privacy@clearme.com

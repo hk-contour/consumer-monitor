@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001439115</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001335258</issuerCik>
+            <issuerName>LIVE NATION ENTERTAINMENT, INC.</issuerName>
+            <secFileNumber>001-32601</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>9348 Civic Center Drive</ns2:street1>
+                <ns2:city>Beverly Hills</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>90210</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>310-867-7000</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>BRIAN CAPO</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>2900</noOfUnitsSold>
+            <aggregateMarketValue>533600.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>235633860</noOfUnitsOutstanding>
+            <approxSaleDate>08/24/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/06/2015</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>841</amountOfSecuritiesAcquired>
+            <paymentDate>01/06/2015</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/06/2016</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>841</amountOfSecuritiesAcquired>
+            <paymentDate>01/06/2016</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/22/2016</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>336</amountOfSecuritiesAcquired>
+            <paymentDate>01/22/2016</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/22/2017</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>336</amountOfSecuritiesAcquired>
+            <paymentDate>01/22/2017</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/16/2020</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>439</amountOfSecuritiesAcquired>
+            <paymentDate>03/16/2020</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/19/2020</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>107</amountOfSecuritiesAcquired>
+            <paymentDate>03/19/2020</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/24/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Brian Joseph Capo</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

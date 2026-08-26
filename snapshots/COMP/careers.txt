@@ -20,13 +20,13 @@ Business Operations
 Customer Growth
 0 open roles
 Customer Operations
-26 open roles
+27 open roles
 Customer Success Team
 0 open roles
 Data & Analytics
-4 open roles
+9 open roles
 Engineering
-44 open roles
+40 open roles
 Escrow
 0 open roles
 Executive
@@ -34,7 +34,7 @@ Executive
 Expansion
 0 open roles
 Facilities And Office Operations
-7 open roles
+8 open roles
 Finance & Accounting
 1 open roles
 Information Technology
@@ -50,7 +50,7 @@ Luxury Marketing
 M&A Integration
 0 open roles
 Marketing & Creative
-16 open roles
+12 open roles
 New Development
 3 open roles
 Operations
@@ -64,7 +64,7 @@ Product & User Experience
 Security and Compliance
 9 open roles
 Strategic Growth
-63 open roles
+53 open roles
 Strategic Partnerships
 0 open roles
 Title

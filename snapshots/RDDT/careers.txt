@@ -106,10 +106,6 @@ Corporate Technology
 Lead Physical Security Engineer
 Lead Physical Security Engineer
 Amsterdam, Netherlands
-Corporate Technology
-Senior Support Engineer, Snoo Operations & Support
-Senior Support Engineer, Snoo Operations & Support
-New York City, NY
 See all departments with jobs
 Data Science
 Principal Data Scientist, Ads
@@ -237,6 +233,10 @@ Senior Frontend Engineer, Community Builders
 Senior Frontend Engineer, Community Builders
 Remote - United States
 Engineering
+Senior Frontend Engineer, Media
+Senior Frontend Engineer, Media
+Remote - United States
+Engineering
 Senior Machine Learning Engineer
 Senior Machine Learning Engineer
 Remote - Ontario, Canada
@@ -280,6 +280,8 @@ Senior Software Engineer - Messaging
 Remote - United States
 Engineering
 Senior Software Engineer, Ads
+Senior Software Engineer, Ads
+Remote - Ontario, Canada
 Senior Software Engineer, Ads
 Remote - United States
 Engineering
@@ -299,6 +301,14 @@ Remote - United States
 Senior Software Engineer, Core Platform
 San Francisco, CA
 Engineering
+Senior Software Engineer, Media Creation
+Senior Software Engineer, Media Creation
+Remote - United States
+Engineering
+Senior Software Engineer, Media Experience
+Senior Software Engineer, Media Experience
+Remote - United States
+Engineering
 Senior Software Engineer, Presence
 Senior Software Engineer, Presence
 Remote - United States
@@ -323,6 +333,10 @@ Senior Staff Machine Learning Engineer, Notifications
 Senior Staff Machine Learning Engineer, Notifications
 Remote - United States
 Engineering
+Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+Senior Staff Machine Learning Systems Engineer, Ads ML Platform
+Remote - United States
+Engineering
 Senior Staff Software Engineer, Client Architecture
 Senior Staff Software Engineer, Client Architecture
 Remote - United States
@@ -330,10 +344,6 @@ Engineering
 Senior iOS Engineer, Media Experience
 Senior iOS Engineer, Media Experience
 Remote - United States
-Engineering
-Software Engineer
-Software Engineer
-Remote - Ontario, Canada
 Engineering
 Software Engineer - Data Movement Platform
 Software Engineer - Data Movement Platform
@@ -366,10 +376,6 @@ Staff Machine Learning Engineer, Ads Foundational Representations
 Remote - The Netherlands
 Staff Machine Learning Engineer, Ads Foundational Representations
 Remote - United Kingdom
-Engineering
-Staff Machine Learning Engineer, Ads Measurement Modeling
-Staff Machine Learning Engineer, Ads Measurement Modeling
-Remote - United States
 Engineering
 Staff Machine Learning Engineer, Consumer
 Staff Machine Learning Engineer, Consumer
@@ -503,10 +509,6 @@ Berlin, Germany
 Sales
 Client Account Manager, Large Customer Sales (Financial Services)
 Client Account Manager, Large Customer Sales (Financial Services)
-New York City, NY
-Sales
-Client Account Manager, Large Customer Sales (Retail Beauty)
-Client Account Manager, Large Customer Sales (Retail Beauty)
 New York City, NY
 Sales
 Client Partner, Mid-Market Sales (Services - Acquisitions)

@@ -8,6 +8,8 @@ Role
 Name
 Chief Executive Officer
 Sebastian Siemiatkowski
+President and Chief Commercial Officer
+David Sykes
 Chief Financial Officer
 Niclas Neglén
 Chief Product and Design Officer
@@ -16,8 +18,6 @@ Chief Technology Officer
 Yaron Shaer
 Chief Marketing Officer
 David Sandström
-Chief Commercial Officer
-David Sykes
 Chief Risk Officer
 Joachim Reuss
 Chief Compliance Officer

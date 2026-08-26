@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001975805</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001576789</issuerCik>
+      <issuerName>Wix.com Ltd.</issuerName>
+      <secFileNumber>001-36158</secFileNumber>
+      <issuerAddress>
+        <com:street1>5 Yunitsman St.</com:street1>
+        <com:city>Tel Aviv</com:city>
+        <com:stateOrCountry>L3</com:stateOrCountry>
+        <com:zipCode>6936025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>97235454900</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Nir Zohar</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Oppenheimer &amp; Co. Inc.</name>
+        <address>
+          <com:street1>85 Broad St.</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10004</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>974</noOfUnitsSold>
+      <aggregateMarketValue>79936.18</aggregateMarketValue>
+      <noOfUnitsOutstanding>54989523</noOfUnitsOutstanding>
+      <approxSaleDate>08/24/2026</approxSaleDate>
+      <securitiesExchangeName>Nasdaq</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <acquiredDate>09/11/2019</acquiredDate>
+      <natureOfAcquisitionTransaction>Shares acquired upon exercise of employee stock options</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Wix.com Ltd.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>152934</amountOfSecuritiesAcquired>
+      <paymentDate>09/11/2019</paymentDate>
+      <natureOfPayment>Cash payment upon exercise of stock options</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <remarks>The securities are being sold pursuant to a Rule 10b5-1 trading plan adopted on 03/26/2026</remarks>
+    <noticeSignature>
+      <noticeDate>08/24/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>03/26/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>Nir Zohar By: /s/ Liron Avigdor Title: Authorized Signatory, Oppenheimer Israel (pursuant to delegation)</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

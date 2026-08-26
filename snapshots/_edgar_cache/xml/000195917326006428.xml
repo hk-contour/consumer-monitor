@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002031990</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001662991</issuerCik>
+      <issuerName>Sezzle Inc.</issuerName>
+      <secFileNumber>001-41781</secFileNumber>
+      <issuerAddress>
+        <com:street1>700 NICOLLET MALL</com:street1>
+        <com:street2>SUITE 640</com:street2>
+        <com:city>MINNEAPOLIS</com:city>
+        <com:stateOrCountry>MN</com:stateOrCountry>
+        <com:zipCode>55402</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>651-240-6001</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Brehm Kyle M.</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock </securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services</name>
+        <address>
+          <com:street1>245 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02110</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>1000</noOfUnitsSold>
+      <aggregateMarketValue>118180.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>33675014</noOfUnitsOutstanding>
+      <approxSaleDate>08/25/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>05/15/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Award</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>ISSUER</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>750</amountOfSecuritiesAcquired>
+      <paymentDate>05/15/2025</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>06/14/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>ISSUER</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>250</amountOfSecuritiesAcquired>
+      <paymentDate>06/14/2024</paymentDate>
+      <natureOfPayment>Cash/Check</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/25/2026</noticeDate>
+      <signature>/s/ Dylan Troy as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Brehm Kyle M.</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

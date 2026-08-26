@@ -1,0 +1,1 @@
+[ROUTINE] Effective date updated from October 15, 2025 to August 24, 2026; minor typo fix (removed duplicate "but but"), corrected "Canadá" to "Canada," and clarified SMS/text messaging policy to specify marketing, OTP, 2FA programs.

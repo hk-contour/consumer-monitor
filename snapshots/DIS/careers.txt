@@ -53,13 +53,13 @@ The diverse teams of the Business Support function help The Walt Disney Company,
 Administration Jobs
 12
 Business Strategy and Development Jobs
-13
+14
 Human Resources Jobs
-19
+20
 Legal and Business Affairs Jobs
-17
+16
 Project Management Jobs
-13
+16
 View Selected Jobs
 Reset
 Consumer Goods
@@ -67,9 +67,9 @@ Close
 Consumer Goods
 The Walt Disney Company is home to some of the most well-known brands in the world.  Whether Marvel, Star Wars or Disney, our consumer goods teams license and market our iconic intellectual properties. Consumer goods is responsible for growing and monetizing our brands through packaged goods, merchandising, licensing, publishing and retail to markets around the world, letting consumers of all ages own a piece of Disney magic.
 Merchandising Jobs
-7
+5
 Publishing Jobs
-8
+7
 View Selected Jobs
 Reset
 Creative
@@ -77,15 +77,15 @@ Close
 Creative
 From imagining the latest Toy Story movie to designing a costume made for a princess, being part of our creative teams allow you to bring imagination to life for families around the world! At The Walt Disney Company, creativity takes many forms - from gaming, animation, content development, design and more, you’ll have the opportunity to develop the innovative experiences Disney is known for and to be a part of our rich legacy of storytelling.
 Animation and Visual Effects Jobs
-32
+30
 Creative Jobs
-43
+40
 Gaming and Interactive Jobs
 5
 Graphic Design Jobs
-1
+2
 Marketing and Digital Media Jobs
-32
+29
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,9 +93,9 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-20
+21
 Finance and Accounting Jobs
-30
+33
 View Selected Jobs
 Reset
 Guest / Customer Service
@@ -105,17 +105,17 @@ The magic of our Parks, the wonder of our cruise ships and the luxury of our res
 Culinary Jobs
 21
 Food and Beverage Jobs
-34
+32
 Hotel and Resorts Jobs
-52
+53
 Maritime and Cruise Operations Jobs
-16
+17
 Retail Operations Jobs
-34
+32
 Sports and Recreation Jobs
 2
 Theme Park Operations Jobs
-63
+57
 View Selected Jobs
 Reset
 Innovation, Technology & Science(s)
@@ -123,17 +123,17 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-20
+21
 Engineering Jobs
-53
+51
 Health Services Jobs
-3
-Quality Assurance Jobs
 2
+Quality Assurance Jobs
+1
 Sciences and Animal Programs Jobs
 1
 Supply Chain Management Jobs
-6
+5
 Technology Jobs
 201
 View Selected Jobs
@@ -143,15 +143,15 @@ Close
 Marketing, Sales & Communications
 Make once-in-a-lifetime experiences part of your daily routine with access to some of the most memorable and recognizable characters and content around the world. The teams across The Walt Disney Company range from digital and social media to communications, sales and marketing, developing high-impact, unforgettable campaigns that entertain and engage customers around the world.
 Animation and Visual Effects Jobs
-32
+30
 Communications Jobs
 10
 Creative Jobs
-43
+40
 Marketing and Digital Media Jobs
-32
+29
 Sales Jobs
-15
+14
 View Selected Jobs
 Reset
 Operations Support
@@ -161,17 +161,17 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 3
 Building, Construction and Facilities Jobs
-90
+92
 Health Services Jobs
-3
+2
 Maritime and Cruise Operations Jobs
-16
+17
 Sciences and Animal Programs Jobs
 1
 Security Jobs
-16
+15
 Supply Chain Management Jobs
-6
+5
 View Selected Jobs
 Reset
 Production & Entertainment
@@ -179,11 +179,11 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-24
+22
 Stage Productions Jobs
-32
+28
 Talent Jobs
-10
+9
 View Selected Jobs
 Reset
 Connect to a world of stories
@@ -260,6 +260,7 @@ Branson, Missouri, United States
 Bristol, Connecticut, United States
 Buenos Aires, Argentina
 Burbank, California, United States
+Camarillo, California, United States
 Celebration, Florida, United States
 Chessy, France
 Chiba, Japan
@@ -268,8 +269,6 @@ Commerce, California, United States
 Copenhagen, Denmark
 Cypress, Texas, United States
 Destin, Florida, United States
-Dubai, United Arab Emirates
-Dublin, Ireland
 Durham, North Carolina, United States
 Elizabeth, New Jersey, United States
 Emeryville, California, United States
@@ -281,6 +280,7 @@ Helsinki, Finland
 Hilton Head Island, South Carolina, United States
 Ho Chi Minh City, Vietnam
 Houston, Texas, United States
+Istanbul, Turkey
 Iver Heath, United Kingdom
 Jakarta, Indonesia
 Kapolei, Hawaii, United States
@@ -337,7 +337,6 @@ The Woodlands, Texas, United States
 Tlalpan, Mexico
 Tokyo, Japan
 Toronto, Canada
-Tulalip, Washington, United States
 Vancouver, Canada
 Villeneuve-le-Comte, France
 Warsaw, Poland

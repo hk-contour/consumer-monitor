@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page restructured with plan details reorganized into cleaner card-based layout and hero copy simplified from "ultimate home" to "home"; no pricing or offer terms changed.

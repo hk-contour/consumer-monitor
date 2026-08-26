@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001924412</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001713445</issuerCik>
+            <issuerName>REDDIT, INC.</issuerName>
+            <secFileNumber>001-41983</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>303 2nd Street</ns2:street1>
+                <ns2:street2>South Tower</ns2:street2>
+                <ns2:city>San Francisco</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94107</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>415-494-8016</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>ROBERT A SAUERBERG JR 2002 REV TR</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Director</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>5128</noOfUnitsSold>
+            <aggregateMarketValue>820070.27</aggregateMarketValue>
+            <noOfUnitsOutstanding>146103200</noOfUnitsOutstanding>
+            <approxSaleDate>08/25/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>05/30/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>5128</amountOfSecuritiesAcquired>
+            <paymentDate>05/30/2025</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/25/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Robert A. Sauerberg, Trustee</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

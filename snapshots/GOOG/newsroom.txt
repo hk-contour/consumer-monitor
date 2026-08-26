@@ -6,9 +6,9 @@ Gemini App
 Start the semester with one year of Gemini, on us
 We’re offering one year of a Google AI plan free of charge for eligible college students. Plus, we’re launching new and enhanced study tools.
 Read more
-Arts & Culture
-Explore U.S. national parks
-Take an interactive journey through over 60 national parks on Google Arts & Culture.
+Maps
+Explore America's national parks
+Here's how to celebrate National Parks Week with Maps, Search, and Gemini.
 Read more
 Google Research
 Reducing aviation climate impact with AI
@@ -18,12 +18,6 @@ Gemini models
 Introducing Gemini 3.7 Flash
 Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 Read more
-Collection
-Made by Google 2026
-Check out the latest announcements about Pixel devices at Made by Google 2026.
-By Shakil Barkat,
-Vice President, Devices & Services
-View the collection
 What's new
 Get the latest news from Google in your inbox
 Sign up for our newsletters with product updates, event information, special offers, and more.
@@ -35,3 +29,10 @@ different email address
 Your information will be used in accordance with
 Google's privacy policy.
 You may opt out at any time.
+Tips and tricks
+Collection
+Made by Google 2026
+Check out the latest announcements about Pixel devices at Made by Google 2026.
+By Shakil Barkat,
+Vice President, Devices & Services
+View the collection

@@ -167,6 +167,7 @@ Customer Service
 Data Science
 Development
 Experience Design
+FP&A
 Infrastructure & Enterprise Engineering
 Investor Relations
 Marketing Intelligence
@@ -175,6 +176,7 @@ Partner Marketing
 Partner Sales
 Performance Marketing
 Product Management
+Product Marketing
 Program Management (Technology)
 Social Media Marketing
 Technical Operations
@@ -197,10 +199,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-191
+203
 openings
 in
-14
+13
 countries.
 We're hiring in
 19
@@ -281,10 +283,10 @@ Career Check-In with Dario Amadori: Performance Marketing Manager
 June 22, 2026
 See More Posts
 Expedia Group Tech Blog
+The Context Tax of Agentic Development
+Aug 25, 2026
 How Keras 3 Helped Modernise Expedia Group’s Lodging Ranking Stack
 Aug 11, 2026
-Focus on the Feature, Not the Fixture: GenAI powered GraphQL mocks
-Jul 31, 2026
 See More Posts
 Our Divisions
 Our operating divisions set us up to drive Expedia Group forward — bringing together the right expertise to serve travelers, partners, and advertisers. Supported by our corporate teams, they help us focus on the products, partnerships, and experiences that accelerate our Purpose: to help travelers explore the world, one journey at a time.
@@ -344,7 +346,6 @@ All
 City
 All
 See Results
-Expedia Group | Careers
 Go to top
 Expedia Group serves communities across multiple states.
 Candidates can search for jobs by city, state, or region using the job search tool.
