@@ -1,24 +1,25 @@
+Search
+3 new ways to plan and book travel in Search
+Our latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.
+Read more
 Developer tools
-Celebrating one billion Gemma downloads
-Here's how developers are bringing a positive impact with our open models.
+Gemini Omni 1.1 Flash lets you build with more control
+Omni now delivers studio-quality video production, including the ability to extend a scene, crisp 4K upscaling, faster prototyping, and more.
+Read more
+Gemini models
+Intelligent transcription with Gemini 3.5 Transcribe
+Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
+Read more
+Gemini App
+Turn your voice into action with Gemini Live
+We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.
 Read more
 Gemini App
 Start the semester with one year of Gemini, on us
 We’re offering one year of a Google AI plan free of charge for eligible college students. Plus, we’re launching new and enhanced study tools.
 Read more
-Maps
-Explore America's national parks
-Here's how to celebrate National Parks Week with Maps, Search, and Gemini.
-Read more
-Google Research
-Reducing aviation climate impact with AI
-Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.
-Read more
-Gemini models
-Introducing Gemini 3.7 Flash
-Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
-Read more
-What's new
+National Parks Week
+Hardware updates
 Get the latest news from Google in your inbox
 Sign up for our newsletters with product updates, event information, special offers, and more.
 Done. Just one step more.
@@ -30,9 +31,3 @@ Your information will be used in accordance with
 Google's privacy policy.
 You may opt out at any time.
 Tips and tricks
-Collection
-Made by Google 2026
-Check out the latest announcements about Pixel devices at Made by Google 2026.
-By Shakil Barkat,
-Vice President, Devices & Services
-View the collection

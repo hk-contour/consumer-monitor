@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001962731</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001594805</issuerCik>
+            <issuerName>SHOPIFY INC.</issuerName>
+            <secFileNumber>001-37400</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>8488 Rozita Lee Ave</ns2:street1>
+                <ns2:street2>Bldg 3 Suite 100</ns2:street2>
+                <ns2:city>Las Vegas</ns2:city>
+                <ns2:stateOrCountry>NV</ns2:stateOrCountry>
+                <ns2:zipCode>89113</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>(613) 241-2828</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>JESSICA HERTZ</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>10394</noOfUnitsSold>
+            <aggregateMarketValue>1606337.61</aggregateMarketValue>
+            <noOfUnitsOutstanding>1208570347</noOfUnitsOutstanding>
+            <approxSaleDate>08/27/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>12/29/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>68</amountOfSecuritiesAcquired>
+            <paymentDate>12/29/2025</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>12/29/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>84</amountOfSecuritiesAcquired>
+            <paymentDate>12/29/2025</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>12/29/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>305</amountOfSecuritiesAcquired>
+            <paymentDate>12/29/2025</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>12/29/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1455</amountOfSecuritiesAcquired>
+            <paymentDate>12/29/2025</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>01/28/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>373</amountOfSecuritiesAcquired>
+            <paymentDate>01/28/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>01/28/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1487</amountOfSecuritiesAcquired>
+            <paymentDate>01/28/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>07/28/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>37</amountOfSecuritiesAcquired>
+            <paymentDate>07/28/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>07/28/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1140</amountOfSecuritiesAcquired>
+            <paymentDate>07/28/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>07/28/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2595</amountOfSecuritiesAcquired>
+            <paymentDate>07/28/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>03/09/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>364</amountOfSecuritiesAcquired>
+            <paymentDate>03/09/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>03/09/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2486</amountOfSecuritiesAcquired>
+            <paymentDate>03/09/2026</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/27/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Jessica Rose Hertz</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

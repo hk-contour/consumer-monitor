@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001911779</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0000896878</issuerCik>
+            <issuerName>INTUIT INC.</issuerName>
+            <secFileNumber>000-21180</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>2700 Coast Avenue</ns2:street1>
+                <ns2:city>Mountain View</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94043</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>650-944-6000</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>LAUREN DALE HOTZ</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>908</noOfUnitsSold>
+            <aggregateMarketValue>314654.60</aggregateMarketValue>
+            <noOfUnitsOutstanding>273537000</noOfUnitsOutstanding>
+            <approxSaleDate>08/27/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>10/01/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>845</amountOfSecuritiesAcquired>
+            <paymentDate>10/01/2025</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>09/15/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Employee Stock Purchase Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>63</amountOfSecuritiesAcquired>
+            <paymentDate>09/15/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <remarks>The securities to be sold were acquired upon the vesting of restricted stock during the period of 10/01/2025 through 07/01/2026.
+The securities to be sold were acquired upon the purchase of Employee Stock Purchase Plan shares during the period of 09/15/2023 through 06/15/2026.</remarks>
+        <noticeSignature>
+            <noticeDate>08/27/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Lauren Dale Hotz</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -1,0 +1,1 @@
+[MATERIAL] Toast has removed its entire pricing page content, including all plan tiers (Starter Kit at $0/month, Point of Sale at $69/month, Build Your Own at custom pricing) and the detailed feature comparison matrix. The page structure has been gutted from 271 lines to 4 lines, suggesting a major pricing page redesign or restructuring in progress.

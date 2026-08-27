@@ -1,0 +1,1 @@
+[ROUTINE] Footer navigation reordered: "Website Accessibility" added, "Terms of Use" and "Privacy Policy" moved or removed from visible footer section.

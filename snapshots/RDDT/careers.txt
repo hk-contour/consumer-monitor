@@ -69,6 +69,9 @@ See Roles
 People & Culture
 The people team’s mission is to build a talented community of employees and a strong culture that enables us to achieve our ambitious goals.
 See Roles
+Policy
+Policy develops thoughtful, consistent, transparent rules for our platform and products and advocates for Reddit before governments and policymakers.
+See Roles
 Product
 Product defines the vision, strategy, and roadmap of Reddit. We translate strategy and roadmap into features, working with Engineering, Design and Research to build specs and design, and ultimately ship product.
 See Roles
@@ -173,6 +176,10 @@ Engineering Manager, Advanced Signals (SWE)
 Engineering Manager, Advanced Signals (SWE)
 Remote - United States
 Engineering
+Engineering Manager, Notifications Platform
+Engineering Manager, Notifications Platform
+Remote - United States
+Engineering
 Engineering Manager, Search Storage
 Engineering Manager, Search Storage
 Remote - United States
@@ -196,12 +203,6 @@ Engineering
 Machine Learning Manager, Feed Relevance (Retrieval)
 Machine Learning Manager, Feed Relevance (Retrieval)
 Remote - United States
-Engineering
-Machine Learning Systems Engineer, Ads ML Platform
-Machine Learning Systems Engineer, Ads ML Platform
-Remote - The Netherlands
-Machine Learning Systems Engineer, Ads ML Platform
-Remote - United Kingdom
 Engineering
 Principal Engineer, iOS Performance
 Principal Engineer, iOS Performance
@@ -267,10 +268,6 @@ Senior Machine Learning Systems Engineer, Ranking Platform
 Senior Machine Learning Systems Engineer, Ranking Platform
 Remote - United States
 Engineering
-Senior Software Engineer - DevX
-Senior Software Engineer - DevX
-Remote - United States
-Engineering
 Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)
 Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)
 Remote - United States
@@ -301,6 +298,10 @@ Remote - United States
 Senior Software Engineer, Core Platform
 San Francisco, CA
 Engineering
+Senior Software Engineer, Home Experience
+Senior Software Engineer, Home Experience
+Remote - United States
+Engineering
 Senior Software Engineer, Media Creation
 Senior Software Engineer, Media Creation
 Remote - United States
@@ -339,6 +340,10 @@ Remote - United States
 Engineering
 Senior Staff Software Engineer, Client Architecture
 Senior Staff Software Engineer, Client Architecture
+Remote - United States
+Engineering
+Senior iOS Engineer, Community Builders
+Senior iOS Engineer, Community Builders
 Remote - United States
 Engineering
 Senior iOS Engineer, Media Experience
@@ -459,16 +464,21 @@ Marketing
 Country Lead, Business Marketing, UK
 Country Lead, Business Marketing, UK
 London, United Kingdom
-Marketing
-EMEA Insights Specialist
-EMEA Insights Specialist
-Remote - Germany
 See all departments with jobs
 People & Culture
 Experience Coordinator, San Francisco
 Experience Coordinator, San Francisco
 San Francisco, CA
 See all departments with jobs
+Policy
+Trust and Safety Policy, Ads Policy,  Lead
+Trust and Safety Policy, Ads Policy,  Lead
+Remote - United States
+See all departments with jobs
+Product
+Backend Software Engineer, PDP Experience
+Backend Software Engineer, PDP Experience
+Remote - United States
 Product
 Senior Director of Product, Ads Platform
 Senior Director of Product, Ads Platform
@@ -529,16 +539,16 @@ Los Angeles, CA
 Manager, Technical Solutions
 San Francisco, CA
 Sales
-Marketing Science Partnerships & Insights Lead
-Marketing Science Partnerships & Insights Lead
-London, United Kingdom
-Sales
 Sales Manager, Mid-Market - UK
 Sales Manager, Mid-Market - UK
 London, United Kingdom
 Sales
 Senior Client Account Executive, Mid-Market Sales (B2B Services)
 Senior Client Account Executive, Mid-Market Sales (B2B Services)
+San Francisco, CA
+Sales
+Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
+Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
 San Francisco, CA
 Sales
 Senior Client Account Manager, Global Strategic Accounts (UK)
@@ -571,10 +581,6 @@ London, United Kingdom
 Sales
 Senior Client Partner, Large Customer Sales, Pharma
 Senior Client Partner, Large Customer Sales, Pharma
-New York City, NY
-Sales
-Senior Lead, Marketing Science Partnerships & Insights
-Senior Lead, Marketing Science Partnerships & Insights
 New York City, NY
 Sales
 Senior Manager, Large Customer Sales (Entertainment)

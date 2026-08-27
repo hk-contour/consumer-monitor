@@ -1,0 +1,1 @@
+[MATERIAL] Wix removed annual billing discount messaging (previously "$159/mo with 50% savings" annual option) from at least two pricing tiers, and increased the Accessibility Text plan from $17.77 to $19.77 monthly.

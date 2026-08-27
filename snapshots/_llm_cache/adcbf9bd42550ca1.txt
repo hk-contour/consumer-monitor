@@ -1,0 +1,1 @@
+[ROUTINE] Duplicate "Careers" and "View Positions" section added to careers page; appears to be a navigation or layout element duplication with no substantive content change.
