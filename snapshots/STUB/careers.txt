@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-17 jobs
+16 jobs
 StubHub / Engineering
 Consumer Experience
 Job
@@ -21,8 +21,6 @@ Senior Software Engineer - Sponsored Listings (Fullstack)
 New York, New York, United States
 Senior Software Engineer - Supply Core (Fullstack)
 Aliso Viejo, California, United States
-Senior Software Engineer - Supply Platform
-San Francisco, California, United States
 StubHub / Engineering / Enterprise Engineering
 Technology Operations
 Job
@@ -47,7 +45,6 @@ StubHub / Marketing
 Performance Marketing
 Job
 Product Manager - Paid Search
-New
 New York, New York, United States
 StubHub / Product
 Product Admission Ops

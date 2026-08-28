@@ -1,0 +1,1 @@
+[ROUTINE] Careers page filter/category updates including addition of Human Resources, Accounting, FinOps, and Tax departments; job opening count increased from 203 to 208; Austria replaced with Brazil in country filter options.

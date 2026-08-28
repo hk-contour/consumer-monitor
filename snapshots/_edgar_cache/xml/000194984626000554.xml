@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001539835</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0000719955</issuerCik>
+      <issuerName>WILLIAMS SONOMA INC</issuerName>
+      <secFileNumber>001-14077</secFileNumber>
+      <issuerAddress>
+        <com:street1>3250 VAN NESS AVENUE</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94109</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>415-421-7900</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>King David Randolph</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab Corp.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>21024</noOfUnitsSold>
+      <aggregateMarketValue>4915936.80</aggregateMarketValue>
+      <noOfUnitsOutstanding>117746611</noOfUnitsOutstanding>
+      <approxSaleDate>08/28/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/21/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Equity Compensation</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>12452</amountOfSecuritiesAcquired>
+      <paymentDate>03/21/2025</paymentDate>
+      <natureOfPayment>N/A</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>03/22/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Equity Compensation</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>588</amountOfSecuritiesAcquired>
+      <paymentDate>03/22/2025</paymentDate>
+      <natureOfPayment>N/A</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>04/15/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Equity Compensation</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1996</amountOfSecuritiesAcquired>
+      <paymentDate>04/15/2025</paymentDate>
+      <natureOfPayment>N/A</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>04/16/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Equity Compensation</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>5988</amountOfSecuritiesAcquired>
+      <paymentDate>04/16/2024</paymentDate>
+      <natureOfPayment>N/A</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <remarks>This sale is for the DAVID R. KING TRUST</remarks>
+    <noticeSignature>
+      <noticeDate>08/28/2026</noticeDate>
+      <signature>DAVID RANDOLPH KING</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

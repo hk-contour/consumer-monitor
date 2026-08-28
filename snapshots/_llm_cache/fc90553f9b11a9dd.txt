@@ -1,0 +1,1 @@
+[ROUTINE] Added "Equal Opportunity Employer" disclosure line to careers page footer, above existing Candidate Privacy Notice link.

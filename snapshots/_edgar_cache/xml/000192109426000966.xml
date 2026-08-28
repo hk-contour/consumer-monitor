@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002042056</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001810806</issuerCik>
+      <issuerName>Unity Software Inc.</issuerName>
+      <secFileNumber>001-39497</secFileNumber>
+      <issuerAddress>
+        <com:street1>116 NEW MONTGOMERY STREET</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94105-3607</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(415) 638-9950</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Blum Alexander</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>43556</noOfUnitsSold>
+      <aggregateMarketValue>1895144.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>440088933</noOfUnitsOutstanding>
+      <approxSaleDate>08/28/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>08/25/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>UNITY SOFTWARE INC</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>21053</amountOfSecuritiesAcquired>
+      <paymentDate>08/25/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>05/25/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>UNITY SOFTWARE INC</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>22503</amountOfSecuritiesAcquired>
+      <paymentDate>05/25/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Alexander Blum</name>
+        <address>
+          <com:street1>116 NEW MONTGOMERY STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105-3607</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Unity Software Inc.</securitiesClassTitle>
+      <saleDate>05/28/2026</saleDate>
+      <amountOfSecuritiesSold>2099</amountOfSecuritiesSold>
+      <grossProceeds>57450.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Alexander Blum</name>
+        <address>
+          <com:street1>116 NEW MONTGOMERY STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105-3607</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Unity Software Inc.</securitiesClassTitle>
+      <saleDate>08/25/2026</saleDate>
+      <amountOfSecuritiesSold>20595</amountOfSecuritiesSold>
+      <grossProceeds>933072.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Alexander Blum</name>
+        <address>
+          <com:street1>116 NEW MONTGOMERY STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105-3607</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Unity Software Inc.</securitiesClassTitle>
+      <saleDate>08/27/2026</saleDate>
+      <amountOfSecuritiesSold>1964</amountOfSecuritiesSold>
+      <grossProceeds>88007.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/28/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>05/15/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>Alexander Blum</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

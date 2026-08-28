@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001206264</issuerCik>
+        <issuerName>SOMNIGROUP INTERNATIONAL INC.</issuerName>
+        <issuerTradingSymbol>SGI</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001166334</rptOwnerCik>
+            <rptOwnerName>GLASSMAN KARL G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>100 CRESCENT CT. SUITE 700</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO - Leggett &amp; Platt</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>39105</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>39105</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>74835</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>74835</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Glassman Living Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4239</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4239</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48369</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F4"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>48369</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48369</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Cash Settled Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>48369</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F5"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>48369</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>48369</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10749</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F6"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10749</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10749</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65556</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F7"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2027-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>65556</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65556</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Cash Settled Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>65556</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F8"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2027-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>65556</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>65556</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>29136</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F9"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F9"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>29136</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>29136</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55923</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F10"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2028-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>55923</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55923</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Cash Settled Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>55923</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F11"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2028-12-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-12-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>55923</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55923</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>37282</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F12"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F12"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F12"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>37282</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37282</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>249.69</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>8009</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F13"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-08-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-12-16</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>8009</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8009</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>335.95</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5953</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F14"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2026-08-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-12-29</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5953</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5953</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Leggett &amp; Platt, Incorporated (&quot;Leggett&quot;), Issuer and Sparrow Unity Corporation, a direct, wholly owned subsidiary of Issuer (&quot;Merger Sub&quot;) entered into an Agreement and Plan of Merger, dated April 13, 2026 (the &quot;Merger Agreement&quot;) pursuant to which Merger Sub merged into Leggett (the &quot;Merger&quot;).  Pursuant to the terms of the Merger Agreement, at the effective time of the Merger, each share of Leggett common stock was cancelled and converted into the right to receive 0.1455 shares of Issuer common stock. At the effective time of the Merger, the reporting person received the shares of Issuer common stock reflected above in exchange for 268,764 shares of Leggett common stock.</footnote>
+        <footnote id="F2">Received  shares of Issuer common stock in exchange for 514,335 shares of Leggett common stock in connection with the Merger.</footnote>
+        <footnote id="F3">Received shares of Issuer common stock in exchange for 29,140 shares of Leggett common stock in connection with the Merger.</footnote>
+        <footnote id="F4">Received in the Merger in exchange for employee performance stock units to acquire 166,216 shares of Leggett common stock at target. Pursuant to the terms of the Merger Agreement and as of the effective time of the Merger, the Leggett performance stock units were assumed by the Issuer and converted into the right to receive 0.1455 of Issuer restricted stock units on the same terms as initially awarded except the performance vesting conditions were deemed achieved at 200% of target (the &quot;2024 Assumed PSU Awards&quot;). The total in column 5 reflects the 2024 Assumed PSU Awards which were converted to time-based restricted stock units of Issuer and will be settled solely in shares of Issuer common stock.</footnote>
+        <footnote id="F5">The total in columns 5 and 7 represents the portion of the  2024 Assumed PSU Awards held by the reporting person that, by their original terms, were to be settled in cash.  At the effective time of the Merger,  the 2024 Assumed PSU Awards were assumed by the Issuer and converted into an Issuer restricted stock unit that represents a conditional right to receive a cash payment equal to the closing price of Issuer common stock on the vesting date of December 31, 2026. The cash payment for the 2024 Assumed PSU Awards will be delivered to the reporting person no later than March 15, 2027.</footnote>
+        <footnote id="F6">Received in the Merger in exchange for employee restricted stock units to acquire 73,874 shares of Leggett common stock. Pursuant to the terms of the Merger Agreement and at the effective time of the Merger, the Leggett restricted stock units were assumed by the Issuer and converted into the right to receive 0.1455 of Issuer restricted stock units on the same terms as initially awarded (the &quot;2024 Assumed RSU Awards&quot;). The total in column 5 reflects the 2024 Assumed RSU Awards which were converted to time-based restricted stock units of Issuer and will be settled solely in shares of Issuer common stock. These 2024 Assumed RSU Awards will vest on 5/20/2027.</footnote>
+        <footnote id="F7">Received in the Merger in exchange for employee performance stock units to acquire 225,280 shares of Leggett common stock at target. Pursuant to the terms of the Merger Agreement and as of the effective time of the Merger, the Leggett performance stock units were assumed by the Issuer and converted into the right to receive 0.1455 of Issuer restricted stock units on the same terms as initially awarded except the performance vesting conditions were deemed achieved at 200% of target (the &quot;2025 Assumed PSU Awards&quot;). The total in column 5 reflects the 2025 Assumed PSU Awards which were converted to time-based restricted stock units of Issuer and will be settled solely in shares of Issuer common stock.</footnote>
+        <footnote id="F8">The total in columns 5 and 7 represents the portion of the  2025 Assumed PSU Awards held by the reporting person that, by their original terms, were to be settled in cash.  At the effective time of the Merger,  the 2025 Assumed PSU Awards were assumed by the Issuer and converted into an Issuer restricted stock unit that represents a conditional right to receive a cash payment equal to the closing price of Issuer common stock on the vesting date of December 31, 2027. The cash payment for the 2025 Assumed PSU Awards will be delivered to the reporting person no later than March 15, 2028.</footnote>
+        <footnote id="F9">Received in the Merger in exchange for employee restricted stock units to acquire 200,248 shares of Leggett common stock. Pursuant to the terms of the Merger Agreement and at the effective time of the Merger, the Leggett restricted stock units were assumed by the Issuer and converted into the right to receive 0.1455 of Issuer restricted stock units on the same terms as initially awarded (the &quot;2025 Assumed RSU Awards&quot;). The total in column 5 reflects the 2025 Assumed RSU Awards which were converted to time-based restricted stock units of Issuer and will be settled solely in shares of Issuer common stock. These 2025 Assumed RSU Awards will vest in approximately two equal installments on 2/28/2027 and 2/28/2028.</footnote>
+        <footnote id="F10">Received in the Merger in exchange for employee performance stock units to acquire 192,176 shares of Leggett common stock at target. Pursuant to the terms of the Merger Agreement and as of the effective time of the Merger, the Leggett performance stock units were assumed by the Issuer and converted into the right to receive 0.1455 of Issuer restricted stock units on the same terms as initially awarded except the performance vesting conditions were deemed achieved at 200% of target (the &quot;2026 Assumed PSU Awards&quot;). The total in column 5 reflects the 2026 Assumed PSU Awards which were converted to time-based restricted stock units of Issuer and will be settled solely in shares of Issuer common stock.</footnote>
+        <footnote id="F11">The total in columns 5 and 7 represents the portion of the  2026 Assumed PSU Awards held by the reporting person that, by their original terms, were to be settled in cash.  At the effective time of the Merger,  the 2026 Assumed PSU Awards were assumed by the Issuer and converted into an Issuer restricted stock unit that represents a conditional right to receive a cash payment equal to the closing price of Issuer common stock on the vesting date of December 31, 2028. The cash payment for the 2026 Assumed PSU Awards will be delivered to the reporting person no later than March 15, 2029.</footnote>
+        <footnote id="F12">Received in the Merger in exchange for employee restricted stock units to acquire 256,235 shares of Leggett common stock. Pursuant to the terms of the Merger Agreement and at the effective time of the Merger, the Leggett restricted stock units were assumed by the Issuer and converted into the right to receive 0.1455 of Issuer restricted stock units on the same terms as initially awarded (the &quot;2026 Assumed RSU Awards&quot;). The total in column 5 reflects the  2026 Assumed RSU Awards which were converted to time-based restricted stock units of Issuer and will be settled solely in shares of Issuer common stock. These 2026 Assumed RSU Awards will vest in approximately three equal installments on 2/26/2027,  2/26/2028 and 2/26/2029.</footnote>
+        <footnote id="F13">Received in the Merger in exchange for an employee stock option to acquire 55,051 shares of Leggett common stock, with a previous exercise price of $36.33 per share.</footnote>
+        <footnote id="F14">Received in the Merger in exchange for an employee stock option to acquire 40,917 shares of Leggett common stock, with a previous exercise price of $48.88 per share.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Bhaskar Rao Attorney-in-Fact</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001721984</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0000891103</issuerCik>
+            <issuerName>MATCH GROUP, INC.</issuerName>
+            <secFileNumber>001-34148</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>8750 NORTH CENTRAL EXPRESSWAY</ns2:street1>
+                <ns2:street2>SUITE 1400</ns2:street2>
+                <ns2:city>DALLAS</ns2:city>
+                <ns2:stateOrCountry>TX</ns2:stateOrCountry>
+                <ns2:zipCode>75231</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>2145769352</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>PHILIP EIGENMANN</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>15000</noOfUnitsSold>
+            <aggregateMarketValue>625498.50</aggregateMarketValue>
+            <noOfUnitsOutstanding>229550985</noOfUnitsOutstanding>
+            <approxSaleDate>08/28/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>07/01/2021</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>15000</amountOfSecuritiesAcquired>
+            <paymentDate>07/01/2021</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <remarks>The securities to be sold were acquired upon the vesting of restricted stock during the period of 07/01/2021 through 09/01/2024.</remarks>
+        <noticeSignature>
+            <noticeDate>08/28/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Philip Eigenmann</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

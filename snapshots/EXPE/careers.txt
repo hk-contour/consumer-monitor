@@ -117,13 +117,14 @@ Administration
 Commercial
 Corporate Solutions
 Finance
+Human Resources
 Marketing
 Operations & Services
 Product
 Technology
 Country
 All
-Austria
+Brazil
 Canada
 Czechia
 Germany
@@ -147,6 +148,7 @@ Administration
 Commercial
 Corporate Solutions
 Finance
+Human Resources
 Marketing
 Operations & Services
 Product
@@ -154,6 +156,7 @@ Technology
 Role
 All
 Account Management
+Accounting
 Administration
 Advertising
 Architecture
@@ -162,11 +165,11 @@ Business Programs
 Commercial Finance
 Customer Engagement Marketing
 Customer Experience
-Customer Product Support
 Customer Service
 Data Science
 Development
 Experience Design
+FinOps
 FP&A
 Fraud and Risk
 Infrastructure & Enterprise Engineering
@@ -179,12 +182,14 @@ Product Management
 Product Marketing
 Program Management (Technology)
 Social Media Marketing
+Tax
 Technical Operations
+Total Rewards
 Treasury
 Vendor Service & Operations Management
 Location
 All
-Austria
+Brazil
 Canada
 Czechia
 Germany
@@ -199,7 +204,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-203
+208
 openings
 in
 13
@@ -320,6 +325,7 @@ Administration
 Commercial
 Corporate Solutions
 Finance
+Human Resources
 Marketing
 Operations & Services
 Product
@@ -328,7 +334,7 @@ EG Team
 All
 Country
 All
-Austria
+Brazil
 Canada
 Czechia
 Germany

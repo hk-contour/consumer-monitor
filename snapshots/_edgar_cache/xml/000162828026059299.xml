@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001337634</issuerCik>
+        <issuerName>StubHub Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>STUB</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002059741</rptOwnerCik>
+            <rptOwnerName>Islam Nayaab</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O STUBHUB HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>175 GREENWICH STREET, 59TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10007</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-25</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>219736</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.7842</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8232228</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-26</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>85973</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.8607</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8146255</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.62 to $6.85. The reporting person undertakes to provide the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnotes (1) and (2) to this Form 4.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.545 to $6.880.</footnote>
+    </footnotes>
+
+    <remarks>President and Chief Product Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Mark Streams, as Attorney-in-Fact for Nayaab Islam</signatureName>
+        <signatureDate>2026-08-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

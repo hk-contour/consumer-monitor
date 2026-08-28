@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-08-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000891103</issuerCik>
+        <issuerName>Match Group, Inc.</issuerName>
+        <issuerTradingSymbol>MTCH</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001721984</rptOwnerCik>
+            <rptOwnerName>Eigenmann Philip D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>MATCH GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>8750 N. CENTRAL EXPRESSWAY, SUITE 1400</rptOwnerStreet2>
+            <rptOwnerCity>DALLAS</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75231</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, par value $0.001</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-08-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>41.6999</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19389</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects a weighted average of sales made at prices ranging from $41.54 to $41.95. The reporting person agrees to provide, upon request by the Staff of the Securities and Exchange Commission, Match Group, Inc. or a security holder of Match Group, Inc., information regarding the number of shares sold at each separate price.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>David Shipley as Attorney-in-Fact for Philip D Eigenmann</signatureName>
+        <signatureDate>2026-08-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

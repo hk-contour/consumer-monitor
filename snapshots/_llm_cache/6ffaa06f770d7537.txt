@@ -1,0 +1,1 @@
+[ROUTINE] Reddit careers page job listings reordered and several positions removed or renamed; changes include consolidation of ads-related ML roles, removal of UK sales position, and title standardization (e.g., "Product & Finance Technology" to "Product & Technology Finance").

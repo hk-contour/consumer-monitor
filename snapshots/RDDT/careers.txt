@@ -172,10 +172,6 @@ Engineering Manager, Ads ML Efficiency
 Engineering Manager, Ads ML Efficiency
 Remote - United States
 Engineering
-Engineering Manager, Advanced Signals (SWE)
-Engineering Manager, Advanced Signals (SWE)
-Remote - United States
-Engineering
 Engineering Manager, Notifications Platform
 Engineering Manager, Notifications Platform
 Remote - United States
@@ -186,10 +182,6 @@ Remote - United States
 Engineering
 Fullstack Software Engineer, Notifications Lifecycle
 Fullstack Software Engineer, Notifications Lifecycle
-Remote - United States
-Engineering
-Machine Learning Engineer, Ads Optimization
-Machine Learning Engineer, Ads Optimization
 Remote - United States
 Engineering
 Machine Learning Engineering Manager - Ads Engagement Modeling
@@ -226,6 +218,10 @@ Remote - British Columbia, Canada
 Senior Business Engineer - Ads
 Remote - United States
 Engineering
+Senior Data Scientist, Ads Integrity
+Senior Data Scientist, Ads Integrity
+Remote - United States
+Engineering
 Senior Engineering Manager, Unified Embeddings Platform
 Senior Engineering Manager, Unified Embeddings Platform
 Remote - United States
@@ -242,6 +238,10 @@ Senior Machine Learning Engineer
 Senior Machine Learning Engineer
 Remote - Ontario, Canada
 Senior Machine Learning Engineer
+Remote - United States
+Engineering
+Senior Machine Learning Engineer, Ads Optimization
+Senior Machine Learning Engineer, Ads Optimization
 Remote - United States
 Engineering
 Senior Machine Learning Engineer, GenAI Security
@@ -441,8 +441,8 @@ International Payroll Lead
 International Payroll Lead
 Remote - United States
 Finance & Accounting
-Senior Director, Product & Finance Technology
-Senior Director, Product & Finance Technology
+Senior Director, Product & Technology Finance
+Senior Director, Product & Technology Finance
 Remote - United States
 Finance & Accounting
 Senior, Business Risk & AI Automation
@@ -517,10 +517,6 @@ Agency Development Lead, DACH
 Agency Development Lead, DACH
 Berlin, Germany
 Sales
-Client Account Manager, Large Customer Sales (Financial Services)
-Client Account Manager, Large Customer Sales (Financial Services)
-New York City, NY
-Sales
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 New York City, NY
@@ -539,13 +535,15 @@ Los Angeles, CA
 Manager, Technical Solutions
 San Francisco, CA
 Sales
-Sales Manager, Mid-Market - UK
-Sales Manager, Mid-Market - UK
-London, United Kingdom
-Sales
 Senior Client Account Executive, Mid-Market Sales (B2B Services)
 Senior Client Account Executive, Mid-Market Sales (B2B Services)
 San Francisco, CA
+Sales
+Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)
+Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)
+Los Angeles, CA
+Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)
+New York City, NY
 Sales
 Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
 Senior Client Account Manager, Global Strategic Accounts (Tech/AI)
@@ -614,10 +612,6 @@ Sales
 Senior Vendor Performance Manager, North America
 Senior Vendor Performance Manager, North America
 Salt Lake City, UT
-Sales
-Sr. Manager, Large Customer Sales (Big Box Retail)
-Sr. Manager, Large Customer Sales (Big Box Retail)
-Chicago, IL
 See all departments with jobs
 Security, Privacy, & Assurance
 Senior Backend Engineer, Compliance Engineering
@@ -652,6 +646,10 @@ Remote - United States
 User Experience
 Principal UX Engineer, Ads
 Principal UX Engineer, Ads
+Remote - United States
+User Experience
+Senior UX Researcher, Consumer Product
+Senior UX Researcher, Consumer Product
 Remote - United States
 User Experience
 Staff Product Designer, Growth
