@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-16 jobs
+15 jobs
 StubHub / Engineering
 Consumer Experience
 Job
@@ -45,11 +45,6 @@ StubHub / Marketing
 Performance Marketing
 Job
 Product Manager - Paid Search
-New York, New York, United States
-StubHub / Product
-Product Admission Ops
-Job
-Strategy & Operations Manager - Customer Experience Efficiency
 New York, New York, United States
 StubHub / Product
 Product Catalog

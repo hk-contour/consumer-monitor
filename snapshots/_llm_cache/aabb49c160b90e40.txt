@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job listing reorganized: Software Engineering role added to open positions list, Data Engineering role removed from listings.

@@ -6,6 +6,9 @@ News Article
 August 25, 2026
 Inside Madden 27: Developer Josh Looman talks creating a love letter to the fans
 News Article
+August 31, 2026
+EA SPORTS Kicks Off a New College Football Season in a Big Way
+News Article
 August 28, 2026
 Alyssa Thompson takes her chance ‘Celebrating the Next’ with GEN / EA SPORTS
 News Article
@@ -25,10 +28,10 @@ August 7, 2026
 The next mocap evolution: Markerless motion capture
 News Article
 August 4, 2026
-Our Next Chapter
+EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners
 News Article
 August 4, 2026
-EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners
+Our Next Chapter
 News Article
 July 18, 2026
 EA SPORTS™ presents Beckham, Zidane and Zlatan in conversation for the first time.
@@ -60,11 +63,8 @@ News Article
 June 3, 2026
 F1® 25 developers explain the biggest changes in the 2026 Season Pack
 News Article
-May 7, 2026
-Apex Legends Season 29 introduces Axle and overclocked action
-News Article
-May 4, 2026
-EA and Visa Team Up to Launch a Global, Multi-Year Partnership Across EA SPORTS
+May 14, 2026
+You’re invited! The Sims 4 x Bridgerton collab is now live
 1
 2
 3
@@ -73,6 +73,7 @@ EA and Visa Team Up to Launch a Global, Multi-Year Partnership Across EA SPORTS
 6
 7
 8
+9
 Impact Report
 How our teams and creativity are shaping the stories, connections, and communities that define the future of play.
 Learn More

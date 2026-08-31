@@ -1,0 +1,1 @@
+[ROUTINE] Careers page restructured with shift to remote-first work policy language, removal of "Early in Career" nav section, employee testimonial rotation, and minor grammar fix ("skill" to "skills").

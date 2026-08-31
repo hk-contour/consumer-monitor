@@ -87,7 +87,7 @@ Light
 Get the basics
 Accessibility Text
 $
-19
+17
 .77
 mo
 Price includes GST

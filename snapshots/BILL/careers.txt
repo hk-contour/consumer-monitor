@@ -8,7 +8,6 @@ Benefits & Perks
 Life at BILL
 Our Teams
 Inclusion & Impact
-Early in Career
 Search for Jobs
 Careers
 Build something
@@ -126,14 +125,13 @@ New hire tech set up allowance
 Monthly mobile phone stipends
 Work and life
 Flexible time off (and we mean it!)
-Hybrid schedule that supports flexibility for employees near a BILL office
+Remote-first flexibility, built into how we work
 10 paid holidays, and 2 floating holidays annually
 3 days a year to volunteer for the causes that matter to you
 Community support through seven employee resource groups (ERGs)
-Free in-office meals, snacks, and beverages
-Choose from dedicated and flexible office seating options
-Top-notch gym facilities on-site in San Jose and Draper offices
-Work from (almost) anywhere for up to 2 weeks per year
+Office space in San Jose, CA and Draper, UT, with dedicated and flexible seating, on-site gyms, and in-office meals and events on select days
+Regional meetups and company-sponsored events that connect BILLders in person even in a remote-first world
+The freedom to work from your home base
 Learning and development resources
 Long-term incentives
 A 3-year vesting cycle on new hire RSUs—the first vest is at 12 months, and then quarterly
@@ -142,7 +140,7 @@ An employee stock purchase plan that can save you up to 15% on BILL stock
 Life at BILL
 Our team is a community, and our culture comes through in our shared experiences, celebrations, and success stories.
 Our philosophy
-At BILL, we believe that leaders are not born—they are created. That’s why we work together to develop the skill we need to not only succeed in our positions, but to lead our company to a bigger, better future.
+At BILL, we believe that leaders are not born—they are created. That’s why we work together to develop the skills we need to not only succeed in our positions, but to lead our company to a bigger, better future.
 Our values
 Humble
 We check our egos at the door. We are curious. We listen, accept feedback, and are comfortable asking for help so we can grow together.
@@ -157,25 +155,17 @@ We wrap it all together by building connections and enjoying time spent together
 Meet our BILLders
 Meet our BILLders
 Hear from BILLders
-“The engineering environment here is very autonomous while also being supportive. I don't have to fit this cookie-cutter shape of what an engineer looks like. My strengths are catered to. And that's something special BILL offers.”
-Morgan
-Senior Software Engineer
+"The people, the culture, and the product—the mission to make lives simpler for small businesses. That shows in the product, that shows in the passion of our employees, the collaboration of our team."
+Declan
 Learn More
-“At BILL, we need people who are innovative, who are fearless in learning and trying new things and doing things differently. We need people who are passionate, dedicated, authentic, and also humble—people who are fearless customer advocates.”
-Likang
-Manager, Product Design
+"Prior to joining BILL, I always felt like I had to make a choice between my professional career and my personal life. That's one thing about working at BILL that I don't feel like there's as much tension."
+Kelly
 Learn More
-“Selling to small and midsize businesses (SMBs) is really about having more meaningful conversations. We talk to a lot more people on the phone in a way that feels authentic and real. Our customers are all people starting or growing a business, and they just need to find a better way to run their financial operations. We can really help them.”
-Jolyn
-Sales Manager
+"My favorite thing about working at BILL is the people on my team that I get to work with every day. We have fun. We're passionate. We're motivated making the lives of small business owners simpler."
+Lin
 Learn More
-“What it really takes to thrive here is a willingness and an openness to leave your ego at the door and collaborate well with others. Not just make sure that you are performing well in your role, but that other people are able to do the same and that you aren't an obstacle for them.”
-Jacob
-Service Delivery Lead
-Learn More
-“To me, the culture at BILL is authentic, fun, and driven. We are focused on our mission, but we like to have fun while we do so. And we get to bring our full selves to work, which is something that really matters to me. So for people who are interested in joining BILL, I would first say bring your whole self. Because that allows us to bring better solutions to our customers.”
-Josh
-Director, Product Management
+"Stay hungry, stay curious. That's one thing I've really enjoyed in my time at BILL—just being able to learn."
+Janet
 Learn More
 Want to hear from our customers? Check out our
 customer stories
@@ -187,10 +177,7 @@ LinkedIn icon
 YouTube icon
 Instagram icon
 Where we work
-We enjoy the flexibility of a hybrid work environment. Many BILLders live in other places across the US—and all of us have the flexibility and support to live full lives.
-San Jose, CA
-Draper, UT
-San Jose, CA
+We're remote-first, which means home base is wherever you do your best work. BILLders are spread across the US, and we build our teams, tools, and culture around that flexibility, not around a desk.
 Draper, UT
 Our teams
 We support each other in the work we do and the lives we lead. We’re building something we can be proud of—together.
@@ -202,14 +189,6 @@ Senior Director, Engineering
 Creating a space where people can be true to themselves builds trust, confidence, and empowers everyone.”
 Sharon
 Director, Infosecurity
-“We play hard, we work hard, and we do it all together. That's what makes being a BILLder so much fun.
-The paternity leave that I've been able to utilize to bond with my children has been incredible. I feel like BILL actually cares about me as a person and about my family as an entity.”
-Bryce
-Manager Strategic CSM
-“Something that really stands out to me is the way that BILL cares about their customers. It's so refreshing to be able to come in and work a corporate job where everybody's goal is to help SMBs thrive.
-Typically, in a finance job, you are looking to bolster only your own company, and here at BILL, we're lifting everybody up.”
-Kit
-Payment Operations Analyst
 Our teams define us
 Engineering
 BILL makes software that lets businesses crush their goals—and our engineers are the beating heart of software development.
@@ -254,9 +233,6 @@ Growing diverse customers
 ‍
 04
 We use our platform and reach to spotlight women, minority, veteran, disability, and LGBTQ-owned businesses. We’re proud to support our customers and celebrate their success as our own.
-“What sets BILL apart, and what really stood out to me, was the diverse representation that we have here as a company. There are people from very diverse backgrounds and very different experiences and walks of life. I think that really makes it an important place to be.”
-Mark
-CXO Advocacy Manager
 Our employee resource groups (ERGs)
 BILL’d Ability
 We prioritize mental health in a safe and inclusive environment for all at BILL. We raise awareness, advocate for, and support those that are differently-abled in visible and invisible ways.
@@ -293,29 +269,6 @@ Learn More
 Women Impact Tech
 As a WBENC-Certified WBE and Certified LGBT Business Enterprise, Women Impact Tech’s mission is to inspire, empower, and advance gender equity so that women can thrive in their careers and organizations can build productive, diverse, and inclusive teams.
 Learn More
-Early in career
-Building future leaders
-Whether your career is just starting or more established, our tailored programs and big opportunities help you drive real results with a supportive team.
-Make an impact
-Kickstart or elevate your career with our programs, partnerships, and growth-focused training. The
-size and scale of our company
-means high-impact work alongside approachable leaders and coworkers who are rooting for you.
-The BILL Intern Program
-BILL interns take charge of game-changing projects that have a real impact on small and midsize businesses, our products, and our team. Plus, you’ll grow both personally and professionally with opportunities that connect you to our values and help small businesses succeed.
-What to expect
-The 11-week, fully paid program includes engagement opportunities such as: exclusive opportunities to connect with BILL execs, interactive, skill-boosting professional workshops, and personalized, growth-focused mentorship. Interns are eligible to receive benefits including medical, dental, and vision coverage, as well as mental health and wellness programs. We post internship openings for undergraduate and graduate students every August, and new interns are welcomed in May/June.
-“One thing that did stand out to me was how well the values are actually portrayed. They're not just listed and forgotten about. They're really lived through and the goal of the company to support small, medium-sized businesses, I think, is something everyone can get behind.”
-Conner
-Software Engineer Intern
-University of Utah
-“Don’t overlook smaller companies, because those environments can actually be very conducive to your growth and your development. I think there's a more intimate setting, depending on the company, and at least with BILL, I got a very structured internship program that is more like a big company, but I got the support and the connections of a smaller one.”
-Jessica
-Software Engineer Intern
-BS in Computer Science, Rice University
-“No one puts any undue stress on interns. Your managers, your mentors, everyone's there to help you out. Everyone's very inclusive here. It doesn't matter if you're an intern or if you're a director, everyone's equal.”
-Ajay
-Machine Learning Intern
-MS in Artificial Intelligence, Carnegie Mellon University
 Ready to be a
 BILLder?
 Search for Jobs

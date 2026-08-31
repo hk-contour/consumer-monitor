@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001490754</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001315098</issuerCik>
+      <issuerName>Roblox</issuerName>
+      <secFileNumber>001-39763</secFileNumber>
+      <issuerAddress>
+        <com:street1>3150 South Delaware Street</com:street1>
+        <com:city>San Mateo</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94403</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>715980000</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Wong Andrea L</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Investments </name>
+        <address>
+          <com:street1>245 Summer St</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>562</noOfUnitsSold>
+      <aggregateMarketValue>22828.44</aggregateMarketValue>
+      <noOfUnitsOutstanding>669992988</noOfUnitsOutstanding>
+      <approxSaleDate>08/31/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <acquiredDate>05/28/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Award</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Roblox</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>5185</amountOfSecuritiesAcquired>
+      <paymentDate>05/28/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>08/31/2026</noticeDate>
+      <signature>Jason Coleman as a duly authorized representative of National Financial Services LLC, as attorney-in-fact for Andrea L Wong</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

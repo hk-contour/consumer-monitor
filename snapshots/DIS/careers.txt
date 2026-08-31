@@ -51,15 +51,15 @@ Close
 Business Support
 The diverse teams of the Business Support function help The Walt Disney Company, and all our businesses, operate smoothly. From business development to legal, human resources, to administrative staff, our support teams are essential to keeping us up and running so we can do what we do best for our customers and guests, providing unforgettable experiences only Disney can produce.
 Administration Jobs
-8
+5
 Business Strategy and Development Jobs
-15
+13
 Human Resources Jobs
-17
-Legal and Business Affairs Jobs
 15
+Legal and Business Affairs Jobs
+16
 Project Management Jobs
-17
+18
 View Selected Jobs
 Reset
 Consumer Goods
@@ -67,7 +67,7 @@ Close
 Consumer Goods
 The Walt Disney Company is home to some of the most well-known brands in the world.  Whether Marvel, Star Wars or Disney, our consumer goods teams license and market our iconic intellectual properties. Consumer goods is responsible for growing and monetizing our brands through packaged goods, merchandising, licensing, publishing and retail to markets around the world, letting consumers of all ages own a piece of Disney magic.
 Merchandising Jobs
-6
+4
 Publishing Jobs
 7
 View Selected Jobs
@@ -77,15 +77,15 @@ Close
 Creative
 From imagining the latest Toy Story movie to designing a costume made for a princess, being part of our creative teams allow you to bring imagination to life for families around the world! At The Walt Disney Company, creativity takes many forms - from gaming, animation, content development, design and more, you’ll have the opportunity to develop the innovative experiences Disney is known for and to be a part of our rich legacy of storytelling.
 Animation and Visual Effects Jobs
-32
+31
 Creative Jobs
-39
+31
 Gaming and Interactive Jobs
 5
 Graphic Design Jobs
 2
 Marketing and Digital Media Jobs
-29
+30
 View Selected Jobs
 Reset
 Finance, Data & Analytics
@@ -93,9 +93,9 @@ Close
 Finance, Data & Analytics
 There’s magic in numbers. And our innovative professionals in data, finance and banking use that magic to push the boundaries of entertainment. You’ll help our teams function efficiently and effectively, providing the financial intelligence and analytical perspective on which key decisions are based. We have opportunities at the corporate level as well as across many of our divisions in roles range from data to financial planning and analysis, to accounting and treasury and auditing.
 Data Science and Analytics Jobs
-23
+17
 Finance and Accounting Jobs
-34
+28
 View Selected Jobs
 Reset
 Guest / Customer Service
@@ -103,19 +103,19 @@ Close
 Guest / Customer Service
 The magic of our Parks, the wonder of our cruise ships and the luxury of our resorts would not be possible without the employees and cast members who ensure that exceptional customer service is a top priority at The Walt Disney Company. Be part of providing the exceptional service Disney is known for around the world in an operational role in our parks, hotels, ships, retail locations, and call centers.
 Culinary Jobs
-31
+33
 Food and Beverage Jobs
-27
+29
 Hotel and Resorts Jobs
-51
+61
 Maritime and Cruise Operations Jobs
-16
+15
 Retail Operations Jobs
-32
+33
 Sports and Recreation Jobs
-2
+1
 Theme Park Operations Jobs
-55
+67
 View Selected Jobs
 Reset
 Innovation, Technology & Science(s)
@@ -123,11 +123,11 @@ Close
 Innovation, Technology & Science(s)
 Our company, products and services are powered by advanced technologies and dedicated employees who push the boundaries to create solutions that turn big data into smart insights. Our teams of engineers, developers, designers and data scientists build and maintain the technologies that power our direct to consumer platforms like Disney+ and ESPN+, and develop and maintain the systems and infrastructure that optimize our business processes that drives business innovation.
 Data Science and Analytics Jobs
-23
+17
 Engineering Jobs
-50
+30
 Health Services Jobs
-2
+1
 Quality Assurance Jobs
 1
 Research and Development Jobs
@@ -135,9 +135,9 @@ Research and Development Jobs
 Sciences and Animal Programs Jobs
 3
 Supply Chain Management Jobs
-5
+6
 Technology Jobs
-201
+182
 View Selected Jobs
 Reset
 Marketing, Sales & Communications
@@ -145,13 +145,13 @@ Close
 Marketing, Sales & Communications
 Make once-in-a-lifetime experiences part of your daily routine with access to some of the most memorable and recognizable characters and content around the world. The teams across The Walt Disney Company range from digital and social media to communications, sales and marketing, developing high-impact, unforgettable campaigns that entertain and engage customers around the world.
 Animation and Visual Effects Jobs
-32
+31
 Communications Jobs
-12
+10
 Creative Jobs
-39
+31
 Marketing and Digital Media Jobs
-29
+30
 Sales Jobs
 14
 View Selected Jobs
@@ -163,17 +163,19 @@ No one can bring a story to life better than Disney. Our operations teams work t
 Architecture and Design Jobs
 3
 Building, Construction and Facilities Jobs
-100
+107
 Health Services Jobs
+1
+Horticulture and Landscaping Jobs
 2
 Maritime and Cruise Operations Jobs
-16
+15
 Sciences and Animal Programs Jobs
 3
 Security Jobs
-15
+11
 Supply Chain Management Jobs
-5
+6
 View Selected Jobs
 Reset
 Production & Entertainment
@@ -181,9 +183,9 @@ Close
 Production & Entertainment
 Our production teams are passionate about storytelling both on screen and on stage. From writers to producers, to operations and production assistants, entertainers and more, we have opportunities in our theatrical, film, television, parks and sports businesses. Award winning productions, Broadway musicals and live entertainment are just some of the ways that we provide unforgettable experiences. Whether you work behind the scenes or take center stage, you can be a part of the magic of Disney storytelling.
 Production Jobs
-19
+18
 Stage Productions Jobs
-30
+27
 Talent Jobs
 7
 View Selected Jobs
@@ -294,6 +296,7 @@ Lake Buena Vista, Florida, United States
 Lancaster, Pennsylvania, United States
 Lantau Island, Hong Kong
 Las Vegas, Nevada, United States
+Lisbon, Portugal
 Livermore, California, United States
 London, United Kingdom
 Los Angeles, California, United States
@@ -310,7 +313,6 @@ Munich, Germany
 New Taipei City, Taiwan
 New York, New York, United States
 Nicasio, California, United States
-Oklahoma City, Oklahoma, United States
 Ontario, California, United States
 Orlando, Florida, United States
 Oslo, Norway

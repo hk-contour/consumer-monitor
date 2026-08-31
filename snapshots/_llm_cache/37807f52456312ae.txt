@@ -1,0 +1,1 @@
+[ROUTINE] Numeric identifier string in terms page footer updated; appears to be internal tracking or versioning reference with no customer-facing impact.
