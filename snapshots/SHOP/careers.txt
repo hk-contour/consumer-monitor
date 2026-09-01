@@ -78,11 +78,6 @@ Sales Acquisition
 Sales Development
 Technical Solution Engineering
 Explore
-<General>
-Executive Protection Specialist / Spécialiste de la protection rapprochée
-Montreal
-Senior Enterprise Account Executive - Spanish Speaking
-Remote - Spain
 Communications
 Tell Shopify’s story to the world.
 Senior Lead, Federal Government Affairs (US)
@@ -122,9 +117,9 @@ Remote - Americas
 Operations
 Driving Shopify to get shit done at all levels - faster, better, and with precision.
 Professional Services Delivery Manager
-Remote - United Kingdom, Ireland
-Professional Services Delivery Manager
 Remote - Americas
+Professional Services Delivery Manager
+Remote - United Kingdom, Ireland
 Senior Deal Strategy Manager, Payments & Platform Pricing
 Remote - Americas
 Senior Lead, Product Operations, Growth
@@ -137,8 +132,6 @@ Partnerships
 Forge partnerships that multiply what merchants can achieve.
 Product Partnerships Lead
 Remote - Japan
-Product Partnerships Manager, Themes (Partnerships, Product Partnerships. C7, Internal)
-Remote - Global
 Support
 Solve merchant problems on the front lines.
 Credit Risk Analyst
@@ -147,14 +140,16 @@ Security Incident Response, Senior Analyst
 Remote - Americas
 Senior Credit Risk Analyst
 Remote - Americas
-Sr. Manager, Account Security
-Remote - Americas
 Technical Account Manager, EMEA
 Remote - EMEA, United Kingdom, Ireland
 Technical Account Manager, Enterprise East
 Remote - Americas
 Technical Account Manager, Enterprise West
-Remote - Los Angeles
-Technical Account Manager, Enterprise West
 Remote - Canada
+Technical Account Manager, Enterprise West
+Remote - Los Angeles
+Technical Services
+Build the Shopify that runs Shopify.
+Executive Protection Specialist / Spécialiste de la protection rapprochée
+Montreal
 Close

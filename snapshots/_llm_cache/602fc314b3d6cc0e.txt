@@ -1,0 +1,1 @@
+[ROUTINE] Social media link labels changed from "Follow us" to "Follow Toast" for consistency; minor text addition to link behavior notation.

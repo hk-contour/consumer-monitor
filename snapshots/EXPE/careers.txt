@@ -125,9 +125,11 @@ Strategy
 Technology
 Country
 All
+Austria
 Brazil
 Canada
 Czechia
+Germany
 India
 Ireland
 Italy
@@ -174,7 +176,6 @@ FP&A
 Fraud and Risk
 Infrastructure & Enterprise Engineering
 Investor Relations
-Marketing Intelligence
 Media
 Partner Marketing
 Performance Marketing
@@ -190,9 +191,11 @@ Vendor Service & Operations Management
 Workforce Planning
 Location
 All
+Austria
 Brazil
 Canada
 Czechia
+Germany
 India
 Ireland
 Italy
@@ -204,10 +207,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-202
+210
 openings
 in
-12
+14
 countries.
 We're hiring in
 19
@@ -278,14 +281,14 @@ Incredible team.
 Outstanding awards.
 We are proud to be a workplace where people feel celebrated, supported, and can develop long-term careers — and it’s been recognized! It is all thanks to our team, every person contributes to our awarded environment.
 Life At Expedia Group Blog
+A Friend, a 57-Mile Run, and a Reason to Give: Michael Long’s Month of Caring Story
+August 31, 2026
 Interns of Expedia Group 2026: Meet the Design Builders
 July 14, 2026
 Interns of Expedia Group 2026
 June 24, 2026
 From Japan to Malaysia: Building Careers Without Borders
 June 23, 2026
-Career Check-In with Dario Amadori: Performance Marketing Manager
-June 22, 2026
 See More Posts
 Expedia Group Tech Blog
 The Context Tax of Agentic Development
@@ -335,9 +338,11 @@ EG Team
 All
 Country
 All
+Austria
 Brazil
 Canada
 Czechia
+Germany
 India
 Ireland
 Italy

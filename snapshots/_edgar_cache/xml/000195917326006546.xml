@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001834147</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001559720</issuerCik>
+      <issuerName>Airbnb, Inc.</issuerName>
+      <secFileNumber>001-39778</secFileNumber>
+      <issuerAddress>
+        <com:street1>888 BRANNAN ST.</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94103</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>415.800.5959</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Blecharczyk Nathan</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>13615</noOfUnitsSold>
+      <aggregateMarketValue>2549635.04</aggregateMarketValue>
+      <noOfUnitsOutstanding>419529556</noOfUnitsOutstanding>
+      <approxSaleDate>08/31/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>07/13/2008</acquiredDate>
+      <natureOfAcquisitionTransaction>Founders Shares</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>13615</amountOfSecuritiesAcquired>
+      <paymentDate>07/13/2008</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/05/2026</saleDate>
+      <amountOfSecuritiesSold>3846</amountOfSecuritiesSold>
+      <grossProceeds>515440.92</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/05/2026</saleDate>
+      <amountOfSecuritiesSold>7692</amountOfSecuritiesSold>
+      <grossProceeds>1030881.84</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/18/2026</saleDate>
+      <amountOfSecuritiesSold>3846</amountOfSecuritiesSold>
+      <grossProceeds>543785.94</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/18/2026</saleDate>
+      <amountOfSecuritiesSold>7692</amountOfSecuritiesSold>
+      <grossProceeds>1087571.88</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/24/2026</saleDate>
+      <amountOfSecuritiesSold>11538</amountOfSecuritiesSold>
+      <grossProceeds>1673010.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/24/2026</saleDate>
+      <amountOfSecuritiesSold>23076</amountOfSecuritiesSold>
+      <grossProceeds>3346020.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/24/2026</saleDate>
+      <amountOfSecuritiesSold>88366</amountOfSecuritiesSold>
+      <grossProceeds>12884219.91</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/25/2026</saleDate>
+      <amountOfSecuritiesSold>2113</amountOfSecuritiesSold>
+      <grossProceeds>306569.75</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>06/26/2026</saleDate>
+      <amountOfSecuritiesSold>31033</amountOfSecuritiesSold>
+      <grossProceeds>4544132.07</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/02/2026</saleDate>
+      <amountOfSecuritiesSold>7692</amountOfSecuritiesSold>
+      <grossProceeds>1138492.92</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/02/2026</saleDate>
+      <amountOfSecuritiesSold>15384</amountOfSecuritiesSold>
+      <grossProceeds>2276985.84</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/06/2026</saleDate>
+      <amountOfSecuritiesSold>13615</amountOfSecuritiesSold>
+      <grossProceeds>2020093.96</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/17/2026</saleDate>
+      <amountOfSecuritiesSold>7692</amountOfSecuritiesSold>
+      <grossProceeds>1127877.96</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/17/2026</saleDate>
+      <amountOfSecuritiesSold>15384</amountOfSecuritiesSold>
+      <grossProceeds>2255755.92</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/20/2026</saleDate>
+      <amountOfSecuritiesSold>13615</amountOfSecuritiesSold>
+      <grossProceeds>1980075.05</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/31/2026</saleDate>
+      <amountOfSecuritiesSold>7692</amountOfSecuritiesSold>
+      <grossProceeds>1160415.12</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/31/2026</saleDate>
+      <amountOfSecuritiesSold>15384</amountOfSecuritiesSold>
+      <grossProceeds>2320830.24</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/03/2026</saleDate>
+      <amountOfSecuritiesSold>13615</amountOfSecuritiesSold>
+      <grossProceeds>2066803.02</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/07/2026</saleDate>
+      <amountOfSecuritiesSold>531000</amountOfSecuritiesSold>
+      <grossProceeds>92614061.30</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2015 Grat Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/14/2026</saleDate>
+      <amountOfSecuritiesSold>7692</amountOfSecuritiesSold>
+      <grossProceeds>1423020.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk 2020 Remainder Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/14/2026</saleDate>
+      <amountOfSecuritiesSold>15384</amountOfSecuritiesSold>
+      <grossProceeds>2846040.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/17/2026</saleDate>
+      <amountOfSecuritiesSold>13615</amountOfSecuritiesSold>
+      <grossProceeds>2489606.68</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nathan Blecharczyk</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/20/2026</saleDate>
+      <amountOfSecuritiesSold>2738</amountOfSecuritiesSold>
+      <grossProceeds>504941.96</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/24/2026</saleDate>
+      <amountOfSecuritiesSold>150640</amountOfSecuritiesSold>
+      <grossProceeds>28763736.41</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/25/2026</saleDate>
+      <amountOfSecuritiesSold>202652</amountOfSecuritiesSold>
+      <grossProceeds>38560405.26</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/26/2026</saleDate>
+      <amountOfSecuritiesSold>19659</amountOfSecuritiesSold>
+      <grossProceeds>3749610.89</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Blecharczyk Revocable Trust</name>
+        <address>
+          <com:street1>888 Brannan Street</com:street1>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/28/2026</saleDate>
+      <amountOfSecuritiesSold>57160</amountOfSecuritiesSold>
+      <grossProceeds>10901033.25</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Today's sale and sales from the past 3 months occurred in the Blecharczyk Revocable Trust of which Nathan Blecharczyk is a trustee and account stakeholder. Sales from the past 3 months also include those that occurred in the Nathan Blecharczyk 2015 Grat Remainder Trust and the Nathan Blecharczyk 2020 Remainder Trust of which Nathan Blecharczyk is an account stakeholder for both.</remarks>
+    <noticeSignature>
+      <noticeDate>08/31/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>08/28/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Gary Redman, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Nathan Blecharczyk</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

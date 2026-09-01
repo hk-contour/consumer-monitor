@@ -1,6 +1,3 @@
-SALE EXTENDED
-90% OFF
-QuickBooks for 3 months*
 Connected intelligence. One solution.
 Small business
 Mid-size business
@@ -11,16 +8,16 @@ Add payroll
 (optional)
 3
 Checkout
-90% off
+50% off
 for 3 months*
 Free trial for 30 days
 Simple Start
 Build your financial foundation
 $38
-$3.80
+$19
 /
 mo
-90% off for 3 months*
+50% off for 3 months*
 Choose plan
 1 user
 With access for 2 accountants
@@ -31,7 +28,7 @@ BETA
 Expert-guided setup and onboarding
 BETA
 AI Chat for instant insights
-25 questions per month
+Limited capacity
 BETA
 Categorizes expenses
 Maximizes tax deductions
@@ -50,10 +47,10 @@ $0.50/standard ACH transaction over monthly allotments. Allotments may vary.**
 Essentials
 Save time and focus on growth
 $85
-$8.50
+$42.50
 /
 mo
-90% off for 3 months*
+50% off for 3 months*
 Choose plan
 3 users
 With access for 2 accountants
@@ -64,7 +61,7 @@ BETA
 Expert-guided setup and onboarding
 BETA
 AI Chat for instant insights
-25 questions per month
+Limited capacity
 BETA
 Cleans up your books
 with Accounting AI
@@ -83,10 +80,10 @@ Plus
 CUSTOMER FAVORITE
 Scale with automated insights
 $140
-$14
+$70
 /
 mo
-90% off for 3 months*
+50% off for 3 months*
 Choose plan
 5 users
 With access for 2 accountants
@@ -97,7 +94,7 @@ BETA
 Expert-guided setup and onboarding
 BETA
 AI Chat for instant insights
-25 questions per month
+Limited capacity
 BETA
 Reconciles your books
 Surfaces profit & loss insights
@@ -126,10 +123,10 @@ Advanced
 70%+ of customers improve their cash flow
 1
 $340
-$34
+$170
 /
 mo
-90% off for 3 months*
+50% off for 3 months*
 Choose plan
 25 users
 With access for 3 accountants
@@ -140,7 +137,7 @@ BETA
 Expert-guided setup and onboarding
 BETA
 AI Chat for instant insights
-25 questions per month
+Limited capacity
 BETA
 Auto-creates projects and allocates costs
 with Project Management AI

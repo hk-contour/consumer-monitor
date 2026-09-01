@@ -82,7 +82,20 @@ Before trading a futures contract
 .
 Consolidated Audit Trail fee
 Consolidated Audit Trail fee
-As of December 1, 2025, our regulators are no longer charging a Consolidated Audit Trail (CAT) fee for equity and options orders.
+The following transaction fees are applied to all equity and options orders:
+$0.0003 per options contract
+$0.000003 per share of listed equities
+$0.00000003 per share of over-the-counter (OTC) equities
+This amount covers charges assessed to fund the operational costs of the Consolidated Audit Trail (CAT) system.
+Keep in mind
+For a CAT fee that totals
+less than $0.01
+, we’ll round down to
+$0
+.
+For a CAT fee that totals
+more than $0.01
+, we’ll round to the nearest penny. For example, a $1.056 fee will round up to $1.06 and a $1.494 fee will round down to $1.49.
 Index options trading fees
 Index options trading fees
 If you’re a
@@ -198,7 +211,12 @@ Regulatory fees
 of $0.48
 ($0.04 x 12) =
 $12.48 Total
+Professional customer options fees
+Professional customer options fees
+Starting on or after October 15, 2026, if you are designated as a
+“Professional” customer
+under applicable exchange rules, you'll be charged $0.50 for each options contract you buy or sell.
 Was this article helpful?
-Reference No. 5322390
+Reference No. 5886362
 Still have questions?
 Contact Robinhood Support

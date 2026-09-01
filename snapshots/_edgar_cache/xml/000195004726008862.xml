@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001827011</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001713445</issuerCik>
+            <issuerName>REDDIT INC</issuerName>
+            <secFileNumber>001-41983</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>303 2nd Street, South Tower, 5th Floor</ns2:street1>
+                <ns2:city>San Francisco</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94107</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>4154948016</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>THE XYZ REVOCABLE TRUST </nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Director</relationshipToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+                <relationshipToIssuer>10% Stockholder</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>18000</noOfUnitsSold>
+            <aggregateMarketValue>2754000.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>146103200</noOfUnitsOutstanding>
+            <approxSaleDate>08/31/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/31/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Exercise of Stock Options</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>18000</amountOfSecuritiesAcquired>
+            <paymentDate>08/31/2026</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for THE XYZ REVOCABLE TRUST </name>
+                <address>
+                    <ns2:street1>303 2nd Street, South Tower, 5th Floor</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94107</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/14/2026</saleDate>
+            <amountOfSecuritiesSold>18000</amountOfSecuritiesSold>
+            <grossProceeds>3206907.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for THE XYZ REVOCABLE TRUST </name>
+                <address>
+                    <ns2:street1>303 2nd Street, South Tower, 5th Floor</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94107</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/04/2026</saleDate>
+            <amountOfSecuritiesSold>18000</amountOfSecuritiesSold>
+            <grossProceeds>2876049.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for THE XYZ REVOCABLE TRUST </name>
+                <address>
+                    <ns2:street1>303 2nd Street, South Tower, 5th Floor</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94107</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/15/2026</saleDate>
+            <amountOfSecuritiesSold>18000</amountOfSecuritiesSold>
+            <grossProceeds>3561472.80</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for THE XYZ REVOCABLE TRUST </name>
+                <address>
+                    <ns2:street1>303 2nd Street, South Tower, 5th Floor</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94107</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/30/2026</saleDate>
+            <amountOfSecuritiesSold>18000</amountOfSecuritiesSold>
+            <grossProceeds>3116408.40</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for THE XYZ REVOCABLE TRUST </name>
+                <address>
+                    <ns2:street1>303 2nd Street, South Tower, 5th Floor</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94107</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>06/15/2026</saleDate>
+            <amountOfSecuritiesSold>18000</amountOfSecuritiesSold>
+            <grossProceeds>3208604.40</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>08/31/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>05/19/2025</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Steven Huffman, Trustee</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

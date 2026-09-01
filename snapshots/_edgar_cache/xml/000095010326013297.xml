@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Robinhood Markets, Inc. -->
+          <cik>0001783879</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0002085091</issuerCik>
+      <issuerName>Robinhood Ventures Fund I</issuerName>
+      <secFileNumber>811-24119</secFileNumber>
+      <issuerAddress>
+        <com:street1>85 Willow Road</com:street1>
+        <com:city>Menlo Park</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>1-650-761-7789</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Robinhood Markets, Inc.</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Parent Company / 10% Stockholder</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Goldman Sachs &amp; Co. LLC</name>
+        <address>
+          <com:street1>200 West Street</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10282</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>1003737</noOfUnitsSold>
+      <aggregateMarketValue>26749591.05</aggregateMarketValue>
+      <noOfUnitsOutstanding>27247215</noOfUnitsOutstanding>
+      <approxSaleDate>09/01/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <acquiredDate>09/05/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Acquired pursuant to Seed Capital Purchase Agreement.</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>4095523</amountOfSecuritiesAcquired>
+      <paymentDate>09/05/2025</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>06/03/2026</saleDate>
+      <amountOfSecuritiesSold>23132</amountOfSecuritiesSold>
+      <grossProceeds>1038814.17</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>06/04/2026</saleDate>
+      <amountOfSecuritiesSold>69607</amountOfSecuritiesSold>
+      <grossProceeds>2918141.22</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>06/05/2026</saleDate>
+      <amountOfSecuritiesSold>48396</amountOfSecuritiesSold>
+      <grossProceeds>1845712.13</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>06/25/2026</saleDate>
+      <amountOfSecuritiesSold>700000</amountOfSecuritiesSold>
+      <grossProceeds>21644000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>06/29/2026</saleDate>
+      <amountOfSecuritiesSold>8367</amountOfSecuritiesSold>
+      <grossProceeds>282372.03</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>06/30/2026</saleDate>
+      <amountOfSecuritiesSold>22100</amountOfSecuritiesSold>
+      <grossProceeds>740571.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/06/2026</saleDate>
+      <amountOfSecuritiesSold>8783</amountOfSecuritiesSold>
+      <grossProceeds>295555.85</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/07/2026</saleDate>
+      <amountOfSecuritiesSold>12511</amountOfSecuritiesSold>
+      <grossProceeds>394301.68</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/08/2026</saleDate>
+      <amountOfSecuritiesSold>10041</amountOfSecuritiesSold>
+      <grossProceeds>306734.48</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/09/2026</saleDate>
+      <amountOfSecuritiesSold>7908</amountOfSecuritiesSold>
+      <grossProceeds>246003.65</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/10/2026</saleDate>
+      <amountOfSecuritiesSold>7069</amountOfSecuritiesSold>
+      <grossProceeds>218302.74</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/13/2026</saleDate>
+      <amountOfSecuritiesSold>14040</amountOfSecuritiesSold>
+      <grossProceeds>421600.14</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/14/2026</saleDate>
+      <amountOfSecuritiesSold>10065</amountOfSecuritiesSold>
+      <grossProceeds>294173.78</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/15/2026</saleDate>
+      <amountOfSecuritiesSold>9711</amountOfSecuritiesSold>
+      <grossProceeds>269296.71</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/16/2026</saleDate>
+      <amountOfSecuritiesSold>7075</amountOfSecuritiesSold>
+      <grossProceeds>185645.17</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/17/2026</saleDate>
+      <amountOfSecuritiesSold>26214</amountOfSecuritiesSold>
+      <grossProceeds>681598.08</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/20/2026</saleDate>
+      <amountOfSecuritiesSold>9594</amountOfSecuritiesSold>
+      <grossProceeds>250294.99</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/21/2026</saleDate>
+      <amountOfSecuritiesSold>12952</amountOfSecuritiesSold>
+      <grossProceeds>348206.75</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/22/2026</saleDate>
+      <amountOfSecuritiesSold>17764</amountOfSecuritiesSold>
+      <grossProceeds>487154.61</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/23/2026</saleDate>
+      <amountOfSecuritiesSold>10667</amountOfSecuritiesSold>
+      <grossProceeds>277623.61</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/24/2026</saleDate>
+      <amountOfSecuritiesSold>8581</amountOfSecuritiesSold>
+      <grossProceeds>218088.69</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/27/2026</saleDate>
+      <amountOfSecuritiesSold>9372</amountOfSecuritiesSold>
+      <grossProceeds>235776.09</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/28/2026</saleDate>
+      <amountOfSecuritiesSold>3595</amountOfSecuritiesSold>
+      <grossProceeds>90152.17</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/29/2026</saleDate>
+      <amountOfSecuritiesSold>885</amountOfSecuritiesSold>
+      <grossProceeds>22253.50</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/30/2026</saleDate>
+      <amountOfSecuritiesSold>3965</amountOfSecuritiesSold>
+      <grossProceeds>99270.91</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>07/31/2026</saleDate>
+      <amountOfSecuritiesSold>879</amountOfSecuritiesSold>
+      <grossProceeds>22043.91</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/03/2026</saleDate>
+      <amountOfSecuritiesSold>27140</amountOfSecuritiesSold>
+      <grossProceeds>730109.42</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/04/2026</saleDate>
+      <amountOfSecuritiesSold>15388</amountOfSecuritiesSold>
+      <grossProceeds>437234.63</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/05/2026</saleDate>
+      <amountOfSecuritiesSold>8178</amountOfSecuritiesSold>
+      <grossProceeds>223479.39</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/06/2026</saleDate>
+      <amountOfSecuritiesSold>9243</amountOfSecuritiesSold>
+      <grossProceeds>254171.41</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/07/2026</saleDate>
+      <amountOfSecuritiesSold>11788</amountOfSecuritiesSold>
+      <grossProceeds>330759.49</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/10/2026</saleDate>
+      <amountOfSecuritiesSold>6577</amountOfSecuritiesSold>
+      <grossProceeds>185316.84</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/11/2026</saleDate>
+      <amountOfSecuritiesSold>5808</amountOfSecuritiesSold>
+      <grossProceeds>161668.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/12/2026</saleDate>
+      <amountOfSecuritiesSold>6887</amountOfSecuritiesSold>
+      <grossProceeds>194430.34</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/13/2026</saleDate>
+      <amountOfSecuritiesSold>9828</amountOfSecuritiesSold>
+      <grossProceeds>282362.37</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/14/2026</saleDate>
+      <amountOfSecuritiesSold>5482</amountOfSecuritiesSold>
+      <grossProceeds>156208.49</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/17/2026</saleDate>
+      <amountOfSecuritiesSold>6569</amountOfSecuritiesSold>
+      <grossProceeds>187774.21</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/18/2026</saleDate>
+      <amountOfSecuritiesSold>3015</amountOfSecuritiesSold>
+      <grossProceeds>83794.09</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/19/2026</saleDate>
+      <amountOfSecuritiesSold>8175</amountOfSecuritiesSold>
+      <grossProceeds>221655.32</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/20/2026</saleDate>
+      <amountOfSecuritiesSold>8186</amountOfSecuritiesSold>
+      <grossProceeds>220572.59</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/21/2026</saleDate>
+      <amountOfSecuritiesSold>5362</amountOfSecuritiesSold>
+      <grossProceeds>144711.26</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/24/2026</saleDate>
+      <amountOfSecuritiesSold>4805</amountOfSecuritiesSold>
+      <grossProceeds>127951.86</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/25/2026</saleDate>
+      <amountOfSecuritiesSold>4702</amountOfSecuritiesSold>
+      <grossProceeds>126201.21</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/26/2026</saleDate>
+      <amountOfSecuritiesSold>4523</amountOfSecuritiesSold>
+      <grossProceeds>119321.72</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/27/2026</saleDate>
+      <amountOfSecuritiesSold>8791</amountOfSecuritiesSold>
+      <grossProceeds>237355.24</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/28/2026</saleDate>
+      <amountOfSecuritiesSold>4987</amountOfSecuritiesSold>
+      <grossProceeds>135587.05</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Robinhood Markets, Inc.</name>
+        <address>
+          <com:street1>85 Willow Road</com:street1>
+          <com:city>Menlo Park</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common shares of beneficial interest</securitiesClassTitle>
+      <saleDate>08/31/2026</saleDate>
+      <amountOfSecuritiesSold>4355</amountOfSecuritiesSold>
+      <grossProceeds>116087.75</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/01/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>06/02/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Manan Shah</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

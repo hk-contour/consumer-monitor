@@ -1,0 +1,1 @@
+[ROUTINE] Careers page underwent significant layout and content reorganization, shifting from a multi-step guided search interface to a simpler keyword/location search with regional job exploration sections; no changes to hiring volume, compensation, or job categories.

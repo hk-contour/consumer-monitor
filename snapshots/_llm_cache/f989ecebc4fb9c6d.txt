@@ -1,0 +1,1 @@
+[ROUTINE] Careers page added Austria and Germany to location filters, increased total open positions from 202 to 210 across 14 countries (previously 12), removed "Marketing Intelligence" from department list, and rotated blog posts on the Life At Expedia Group section.
