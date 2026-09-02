@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001834990</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001315098</issuerCik>
+            <issuerName>Roblox Corporation</issuerName>
+            <secFileNumber>001-39763</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>3150 South Delaware Street</ns2:street1>
+                <ns2:city>San Mateo</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94403</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>8888582569</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Greg Baszucki</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Director</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>8333</noOfUnitsSold>
+            <aggregateMarketValue>344069.57</aggregateMarketValue>
+            <noOfUnitsOutstanding>669992988</noOfUnitsOutstanding>
+            <approxSaleDate>09/01/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/29/2008</acquiredDate>
+            <natureOfAcquisitionTransaction>Private Acquisition from Issuer or an Affiliate</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>8333</amountOfSecuritiesAcquired>
+            <paymentDate>01/29/2008</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for GREG BASZUCKI</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/04/2026</saleDate>
+            <amountOfSecuritiesSold>8333</amountOfSecuritiesSold>
+            <grossProceeds>312190.01</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for GREG AND CHRISTINA BASZUCKI LIV TR</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/04/2026</saleDate>
+            <amountOfSecuritiesSold>8333</amountOfSecuritiesSold>
+            <grossProceeds>312190.01</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for GREG BASZUCKI</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/01/2026</saleDate>
+            <amountOfSecuritiesSold>8333</amountOfSecuritiesSold>
+            <grossProceeds>480695.77</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for GREG AND CHRISTINA BASZUCKI LIV TR</name>
+                <address>
+                    <ns2:street1>3150 South Delaware Street</ns2:street1>
+                    <ns2:city>San Mateo</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94403</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/01/2026</saleDate>
+            <amountOfSecuritiesSold>8333</amountOfSecuritiesSold>
+            <grossProceeds>480695.77</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>09/01/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>11/28/2025</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Greg Baszucki</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

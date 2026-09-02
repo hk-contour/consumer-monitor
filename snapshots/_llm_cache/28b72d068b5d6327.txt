@@ -1,0 +1,1 @@
+[MATERIAL] PayPal added new fee language clarifying that business accounts sending payments for goods/services to non-PayPal recipients via Send Money will be charged "Bill Pay for Business Accounts" fees, while payments to PayPal account holders incur standard commercial transaction fees.

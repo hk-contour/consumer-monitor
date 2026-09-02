@@ -1,0 +1,1 @@
+[ROUTINE] Careers page location list updated with minor geographic additions (Bentonville, Arkansas added) and removals of duplicate or redundant office locations (Commerce CA, Madrid, Southington CT variants, Vero Beach FL).

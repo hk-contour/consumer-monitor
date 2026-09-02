@@ -89,17 +89,17 @@ We are a talented group of problem solvers, makers, and artists who define how u
 See Roles
 See all departments with jobs
 Community
-Community Lifecycle Manager
-Community Lifecycle Manager
+Community Manager - French speaker (contract)
+Community Manager - French speaker (contract)
+Remote - United Kingdom
+Community
+Community Manager, French Speaking (Contract)
+Community Manager, French Speaking (Contract)
+Remote - United Kingdom
+Community
+Senior Community Lifecycle Manager
+Senior Community Lifecycle Manager
 Remote - United States
-Community
-Community Manager - French speaker (contract)
-Community Manager - French speaker (contract)
-Remote - United Kingdom
-Community
-Community Manager, French Speaking (Contract)
-Community Manager, French Speaking (Contract)
-Remote - United Kingdom
 Community
 Senior Growth Manager (Contract)
 Senior Growth Manager (Contract)
@@ -168,20 +168,12 @@ Ads Conversion Modeling, Machine Learning Engineering Manager
 Ads Conversion Modeling, Machine Learning Engineering Manager
 Remote - United States
 Engineering
-Director of Engineering, Developer Productivity
-Director of Engineering, Developer Productivity
-Remote - United States
-Engineering
 Engineering Manager, Ads ML Efficiency
 Engineering Manager, Ads ML Efficiency
 Remote - United States
 Engineering
 Engineering Manager, Notifications Platform
 Engineering Manager, Notifications Platform
-Remote - United States
-Engineering
-Engineering Manager, Search Storage
-Engineering Manager, Search Storage
 Remote - United States
 Engineering
 Fullstack Software Engineer, Notifications Lifecycle
@@ -202,6 +194,10 @@ Remote - United States
 Engineering
 Principal Engineer, iOS Performance
 Principal Engineer, iOS Performance
+Remote - United States
+Engineering
+Product Manager, Developer Ecosystem
+Product Manager, Developer Ecosystem
 Remote - United States
 Engineering
 Senior Android Engineer, Design System
@@ -268,9 +264,9 @@ Senior Machine Learning Systems Engineer, Ads ML Experience Platform
 Senior Machine Learning Systems Engineer, Ads ML Experience Platform
 Remote - United States
 Engineering
-Senior Machine Learning Systems Engineer, Ranking Platform
-Senior Machine Learning Systems Engineer, Ranking Platform
-Remote - United States
+Senior Site Reliability Engineer, Ads
+Senior Site Reliability Engineer, Ads
+San Francisco, CA
 Engineering
 Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)
 Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)
@@ -370,10 +366,6 @@ Remote - United States
 Engineering
 Staff Android Engineer, Brand Ad Formats
 Staff Android Engineer, Brand Ad Formats
-Remote - United States
-Engineering
-Staff Engineer, Ads Business Manager
-Staff Engineer, Ads Business Manager
 Remote - United States
 Engineering
 Staff Frontend Engineer, Ads Creative

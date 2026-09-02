@@ -118,6 +118,7 @@ Commercial
 Corporate Solutions
 Finance
 Human Resources
+Legal and Government Affairs
 Marketing
 Operations & Services
 Product
@@ -135,6 +136,7 @@ Ireland
 Italy
 Japan
 Malaysia
+Mexico
 Spain
 Switzerland
 United Kingdom
@@ -151,6 +153,7 @@ Commercial
 Corporate Solutions
 Finance
 Human Resources
+Legal and Government Affairs
 Marketing
 Operations & Services
 Product
@@ -168,6 +171,7 @@ Business Programs
 Commercial Finance
 Customer Engagement Marketing
 Customer Experience
+Customer Service
 Data Science
 Development
 Experience Design
@@ -176,8 +180,10 @@ FP&A
 Fraud and Risk
 Infrastructure & Enterprise Engineering
 Investor Relations
+Legal
 Media
 Partner Marketing
+Partner Sales
 Performance Marketing
 Product Management
 Product Marketing
@@ -201,16 +207,17 @@ Ireland
 Italy
 Japan
 Malaysia
+Mexico
 Spain
 Switzerland
 United Kingdom
 United States
 Search Jobs
 We currently have
-210
+217
 openings
 in
-14
+15
 countries.
 We're hiring in
 19
@@ -329,6 +336,7 @@ Commercial
 Corporate Solutions
 Finance
 Human Resources
+Legal and Government Affairs
 Marketing
 Operations & Services
 Product
@@ -348,6 +356,7 @@ Ireland
 Italy
 Japan
 Malaysia
+Mexico
 Spain
 Switzerland
 United Kingdom

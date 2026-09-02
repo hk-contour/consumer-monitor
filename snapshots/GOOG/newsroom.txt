@@ -1,24 +1,23 @@
+Android
+Track your stuff, ease motion sickness, and more with Android
+Here's what's new in our latest Android Drop.
+Read more
+Google Workspace
+Try Google Pics for easy image creation and editing
+Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.
+Read more
+Gemini models
+Introducing agentic video understanding with Gemini
+We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.
+Read more
 Search
 3 new ways to plan and book travel in Search
 Our latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.
-Read more
-Developer tools
-Gemini Omni 1.1 Flash lets you build with more control
-Omni now delivers studio-quality video production, including the ability to extend a scene, crisp 4K upscaling, faster prototyping, and more.
 Read more
 Gemini models
 Intelligent transcription with Gemini 3.5 Transcribe
 Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
 Read more
-Gemini App
-Turn your voice into action with Gemini Live
-We’re rolling out a major productivity upgrade to Gemini Live so you can use your voice to delegate your to-dos without missing a beat.
-Read more
-Gemini App
-Start the semester with one year of Gemini, on us
-We’re offering one year of a Google AI plan free of charge for eligible college students. Plus, we’re launching new and enhanced study tools.
-Read more
-National Parks Week
 Hardware updates
 Get the latest news from Google in your inbox
 Sign up for our newsletters with product updates, event information, special offers, and more.

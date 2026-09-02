@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002004790</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001650164</issuerCik>
+      <issuerName>Toast, Inc.</issuerName>
+      <secFileNumber>001-40819</secFileNumber>
+      <issuerAddress>
+        <com:street1>333 SUMMER STREET</com:street1>
+        <com:city>BOSTON</com:city>
+        <com:stateOrCountry>MA</com:stateOrCountry>
+        <com:zipCode>02210</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>617-297-1005</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Vassil Jonathan</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>14280</noOfUnitsSold>
+      <aggregateMarketValue>468241.20</aggregateMarketValue>
+      <noOfUnitsOutstanding>514000000</noOfUnitsOutstanding>
+      <approxSaleDate>09/02/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>09/02/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Stock Option Exercise</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>14280</amountOfSecuritiesAcquired>
+      <paymentDate>09/02/2026</paymentDate>
+      <natureOfPayment>Cash</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/02/2026</saleDate>
+      <amountOfSecuritiesSold>6647</amountOfSecuritiesSold>
+      <grossProceeds>191760.63</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/07/2026</saleDate>
+      <amountOfSecuritiesSold>3150</amountOfSecuritiesSold>
+      <grossProceeds>94592.61</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/13/2026</saleDate>
+      <amountOfSecuritiesSold>9170</amountOfSecuritiesSold>
+      <grossProceeds>276867.06</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/14/2026</saleDate>
+      <amountOfSecuritiesSold>2000</amountOfSecuritiesSold>
+      <grossProceeds>60036.40</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/03/2026</saleDate>
+      <amountOfSecuritiesSold>14280</amountOfSecuritiesSold>
+      <grossProceeds>469622.08</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/05/2026</saleDate>
+      <amountOfSecuritiesSold>4700</amountOfSecuritiesSold>
+      <grossProceeds>169308.50</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/11/2026</saleDate>
+      <amountOfSecuritiesSold>13797</amountOfSecuritiesSold>
+      <grossProceeds>496858.55</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/19/2026</saleDate>
+      <amountOfSecuritiesSold>13931</amountOfSecuritiesSold>
+      <grossProceeds>501690.43</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan S. Vassil</name>
+        <address>
+          <com:street1>333 Summer Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>08/21/2026</saleDate>
+      <amountOfSecuritiesSold>85280</amountOfSecuritiesSold>
+      <grossProceeds>3099093.92</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/02/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>03/13/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Gary Redman, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Jonathan S. Vassil</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

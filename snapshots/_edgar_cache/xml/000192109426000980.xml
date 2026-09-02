@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001773914</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001506293</issuerCik>
+      <issuerName>PINTEREST, INC.</issuerName>
+      <secFileNumber>001-38872</secFileNumber>
+      <issuerAddress>
+        <com:street1>651 BRANNAN STREET</com:street1>
+        <com:city>SAN FRANCISCO</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94107</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>4157627100</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Silbermann Benjamin</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+        <relationshipToIssuer>10% Stockholder</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>46875</noOfUnitsSold>
+      <aggregateMarketValue>1013843.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>492198008</noOfUnitsOutstanding>
+      <approxSaleDate>09/01/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>04/18/2019</acquiredDate>
+      <natureOfAcquisitionTransaction>Founders Shares</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Pinterest, Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>46875</amountOfSecuritiesAcquired>
+      <paymentDate>04/18/2019</paymentDate>
+      <natureOfPayment>NA</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/02/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>960848.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/03/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>950681.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/09/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1020929.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/10/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1004759.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/16/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>991239.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/17/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>968588.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/23/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>936933.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/24/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>932665.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>06/30/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1005454.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/01/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1014426.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/07/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1060901.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/08/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1041607.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/14/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1042984.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/15/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1079440.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/21/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1056427.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>07/22/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1057752.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>08/11/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1119405.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>08/12/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1088817.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>08/18/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1097066.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>08/19/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1083396.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>08/25/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1102878.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BENJAMIN SILBERMANN</name>
+        <address>
+          <com:street1>651 BRANNAN STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>PINTEREST, INC.</securitiesClassTitle>
+      <saleDate>08/26/2026</saleDate>
+      <amountOfSecuritiesSold>46875</amountOfSecuritiesSold>
+      <grossProceeds>1104777.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>Shares sold in The Benjamin and Divya Silbermann Family Trust.</remarks>
+    <noticeSignature>
+      <noticeDate>09/01/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>02/27/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>BENJAMIN SILBERMANN TTEE</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

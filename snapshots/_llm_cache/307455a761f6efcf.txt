@@ -1,0 +1,1 @@
+[ROUTINE] Two navigation menu items added to newsroom footer: "About Upstart" and "Cash Line" link.

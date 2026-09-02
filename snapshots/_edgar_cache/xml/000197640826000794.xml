@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001969583</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001576789</issuerCik>
+      <issuerName>Wix.com Ltd.</issuerName>
+      <secFileNumber>001-36158</secFileNumber>
+      <issuerAddress>
+        <com:street1>5 Yunitsman St.</com:street1>
+        <com:city>Tel Aviv</com:city>
+        <com:stateOrCountry>L3</com:stateOrCountry>
+        <com:zipCode>6936025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>97235454900</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Avishai Abrahami</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Oppenheimer &amp; Co. Inc.</name>
+        <address>
+          <com:street1>85 Broad St.</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10004</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>654</noOfUnitsSold>
+      <aggregateMarketValue>57715.50</aggregateMarketValue>
+      <noOfUnitsOutstanding>54989523</noOfUnitsOutstanding>
+      <approxSaleDate>09/01/2026</approxSaleDate>
+      <securitiesExchangeName>Nasdaq</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <acquiredDate>08/31/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Employee Stock Purchase Plan</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Wix.com Ltd.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>654</amountOfSecuritiesAcquired>
+      <paymentDate>08/31/2026</paymentDate>
+      <natureOfPayment>Cash Via Payroll deductions</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/01/2026</noticeDate>
+      <signature>Avishai Abrahami By: /s/ Meirav Shemesh Title: Authorized Signatory, Oppenheimer Israel (pursuant to delegation)</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

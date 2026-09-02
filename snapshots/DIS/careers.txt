@@ -220,6 +220,7 @@ Anaheim, California
 Bangkok, Bangkok
 Bay Lake, Florida
 Bengaluru, Karnataka
+Bentonville, Arkansas
 Branson, Missouri
 Bristol, Connecticut
 Buenos Aires, Buenos Aires F.D.
@@ -228,7 +229,6 @@ Celebration, Florida
 Chessy, Île-de-France Region
 Chiba, Chiba
 City of Taguig, Metro Manila
-Commerce, California
 Copenhagen, Capital Region
 Cypress, Texas
 Destin, Florida
@@ -259,7 +259,6 @@ Lisbon, Lisbon District
 Livermore, California
 London, England
 Los Angeles, California
-Madrid, Madrid
 Makati City, Metro Manila
 Marne-la-Vallée, Île-de-France Region
 Melbourne, Victoria
@@ -295,7 +294,6 @@ Serris, Île-de-France Region
 Shanghai, Shanghai
 Singapore,
 Sofia, Sofia-grad
-Southington, Connecticut
 Stockholm, Stockholm County
 Sydney, New South Wales
 Taipei City, Taiwan
@@ -303,9 +301,7 @@ The Woodlands, Texas
 Tlalpan, Mexico City
 Tokyo, Tokyo
 Toronto, Ontario
-Town of Southington, Connecticut
 Vancouver, British Columbia
-Vero Beach, Florida
 Vienna, Vienna
 Villeneuve-le-Comte, Île-de-France Region
 Washington, DC

@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-15 jobs
+17 jobs
 StubHub / Engineering
 Consumer Experience
 Job
@@ -26,6 +26,12 @@ Technology Operations
 Job
 Technical SOX Program Manager
 Los Angeles, California, United States; New York, New York, United States
+StubHub
+Finance
+Job
+Director of Internal Controls
+New
+New York, New York, United States
 StubHub / Finance
 Strategic Finance and Investor Relations
 Job
@@ -37,6 +43,8 @@ Job
 Director, Global Customer Success
 Atlanta, Georgia, United States
 Director, Global Workforce Optimization
+Atlanta, Georgia, United States
+GCS Executive Customer Care Specialist 1
 New
 Atlanta, Georgia, United States
 GCS Executive Customer Care Supervisor

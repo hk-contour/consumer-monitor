@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001214607</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001075531</issuerCik>
+      <issuerName>Booking Holdings Inc.</issuerName>
+      <secFileNumber>001-36691</secFileNumber>
+      <issuerAddress>
+        <com:street1>800 CONNECTICUT AVE</com:street1>
+        <com:city>NORWALK</com:city>
+        <com:stateOrCountry>CT</com:stateOrCountry>
+        <com:zipCode>06854</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>203-299-8000</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>MYLOD ROBERT J JR</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Chairman</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>UBS Financial Services, Inc.</name>
+        <address>
+          <com:street1>Eleven Madison Avenue</com:street1>
+          <com:street2>4th Floor</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>1000</noOfUnitsSold>
+      <aggregateMarketValue>198400.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>751380500</noOfUnitsOutstanding>
+      <approxSaleDate>09/01/2026</approxSaleDate>
+      <securitiesExchangeName>Nasdaq</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>09/01/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Grant made to Director</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1000</amountOfSecuritiesAcquired>
+      <paymentDate>09/01/2022</paymentDate>
+      <natureOfPayment>NA</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Annox Capital LLC</name>
+        <address>
+          <com:street1>800 CONNECTICUT AVE</com:street1>
+          <com:city>Norwalk</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06854</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>07/29/2026</saleDate>
+      <amountOfSecuritiesSold>5000</amountOfSecuritiesSold>
+      <grossProceeds>1000000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Annox Capital LLC</name>
+        <address>
+          <com:street1>800 CONNECTICUT AVE</com:street1>
+          <com:city>Norwalk</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06854</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>08/05/2026</saleDate>
+      <amountOfSecuritiesSold>1000</amountOfSecuritiesSold>
+      <grossProceeds>206700.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>The shares covered by this filing are being sold by Annox Capital LLC.</remarks>
+    <noticeSignature>
+      <noticeDate>09/01/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>08/07/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ UBS Financial Services Inc., as attorney-in-fact for Robert J. Mylod Jr.</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

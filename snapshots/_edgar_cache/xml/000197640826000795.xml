@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001975805</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001576789</issuerCik>
+      <issuerName>Wix.com Ltd.</issuerName>
+      <secFileNumber>001-36158</secFileNumber>
+      <issuerAddress>
+        <com:street1>5 Yunitsman St.</com:street1>
+        <com:city>Tel Aviv</com:city>
+        <com:stateOrCountry>L3</com:stateOrCountry>
+        <com:zipCode>6936025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>97235454900</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Nir Zohar</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Oppenheimer &amp; Co. Inc.</name>
+        <address>
+          <com:street1>85 Broad St.</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10004</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>376</noOfUnitsSold>
+      <aggregateMarketValue>33182.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>54989523</noOfUnitsOutstanding>
+      <approxSaleDate>09/01/2026</approxSaleDate>
+      <securitiesExchangeName>Nasdaq</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <acquiredDate>08/31/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Employee Stock Purchase Plan</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Wix.com Ltd.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>376</amountOfSecuritiesAcquired>
+      <paymentDate>08/31/2026</paymentDate>
+      <natureOfPayment>Cash Via Payroll deductions</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nir Zohar</name>
+        <address>
+          <com:street1>5 Yunitsman St.</com:street1>
+          <com:city>Tel Aviv</com:city>
+          <com:stateOrCountry>L3</com:stateOrCountry>
+          <com:zipCode>6936025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <saleDate>08/24/2026</saleDate>
+      <amountOfSecuritiesSold>974</amountOfSecuritiesSold>
+      <grossProceeds>83064.19</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Nir Zohar</name>
+        <address>
+          <com:street1>5 Yunitsman St.</com:street1>
+          <com:city>Tel Aviv</com:city>
+          <com:stateOrCountry>L3</com:stateOrCountry>
+          <com:zipCode>6936025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Ordinary shares</securitiesClassTitle>
+      <saleDate>08/25/2026</saleDate>
+      <amountOfSecuritiesSold>29026</amountOfSecuritiesSold>
+      <grossProceeds>2484261.56</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/01/2026</noticeDate>
+      <signature>Nir Zohar By: /s/ Meirav Shemesh Title: Authorized Signatory, Oppenheimer Israel (pursuant to delegation)</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

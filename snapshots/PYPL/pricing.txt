@@ -335,7 +335,9 @@ When you use the
 Bill Pay for Business Accounts service
 to send funds to your Payees, we call that a “Bill Pay for Business Accounts Transaction”.
 Standard rates for funding a Bill Pay for Business Accounts Transaction
-The processing fee rate for funding a Bill Pay for Business Accounts Transaction is 2.9%; however, we provide certain discounts based on Funding Type, as follows:
+The processing fee rate for funding a Bill Pay for Business Accounts Transaction is 2.9% +
+Fixed Fee
+; however, we provide certain discounts based on Funding Type, as follows:
 Fee Table: Standard rates for funding a Bill Pay for Business Accounts Transaction
 Funding Type
 Rate
@@ -346,7 +348,8 @@ Waived – No Fee
 PYUSD
 Waived – No Fee
 Debit and Credit
-2.9%
+2.9% +
+Fixed Fee
 Standard rates for disbursement of Bill Pay for Business Accounts Transactions
 For any of the following disbursement types involving a
 currency conversion
@@ -370,6 +373,59 @@ Mailed Checks
 2.00 USD per check
 Wire Transfer
 Fixed Fee
+Fixed fee for funding a Bill Pay for Business Accounts Transaction with Debit or Credit card (based on currency received)
+Fee Table: Fixed fee for funding a Bill Pay for Business Accounts Transaction with Debit or Credit card (based on currency received)
+Currency
+Fee
+Australian dollar
+0.30 AUD
+Brazilian real
+0.60 BRL
+Canadian dollar
+0.30 CAD
+Czech koruna
+10.00 CZK
+Chinese yuan
+2.10 CNY
+Danish krone
+2.60 DKK
+Euro
+0.35 EUR
+Hong Kong dollar
+2.35 HKD
+Hungarian forint
+90.00 HUF
+Israeli new shekel
+1.20 ILS
+Indian rupee
+30.00 INR
+Japanese yen
+40.00 JPY
+Fee Table: Fixed fee for funding a Bill Pay for Business Accounts Transaction with Debit or Credit card (based on currency received)
+Currency
+Fee
+Korean won
+450.00 KRW
+Mexican peso
+4.00 MXN
+New Zealand dollar
+0.45 NZD
+Norwegian krone
+2.80 NOK
+Philippine peso
+15.00 PHP
+Polish zloty
+1.35 PLN
+Singapore dollar
+0.50 SGD
+Swedish krona
+3.25 SEK
+Swiss franc
+0.55 CHF
+UK pounds sterling
+0.20 GBP
+US dollar
+0.30 USD
 Fixed fee for ACH – International Disbursements
 Fee Table: Fixed fee for ACH – International Disbursements
 Currency
@@ -1012,6 +1068,9 @@ This fee is charged when a return is requested or when the transaction is unauth
 Fraud Protection Advanced
 Optional Service
 0.07 USD per transaction
+Account Updater
+Optional Service
+0.25 USD per update
 Additional Risk Factors
 If PayPal determines that your Account receives, or is likely to receive a disproportionately higher number of customer complaints, reversals, chargebacks, claims, or other indicators of a serious level of risk, PayPal may increase the percentage components of your Transaction Fees after giving you 30 days prior notice of the increase.
 Up to 5.00% per transaction
@@ -1041,12 +1100,21 @@ Payments Pro
 30.00 USD
 Payments Pro Payflow
 30.00 USD
+Network Tokenization
+Optional Service
+0.15 USD per token issued
 Recurring Billing
 Optional Service
 10.00 USD per month
 Recurring Payment Tool
 Optional Service
 30.00 USD per month
+Smart Retries
+Optional Service
+0.6% per Successful Recovered Transaction
+3D Secure Advanced
+Optional Service
+0.03 USD per lookup
 Uncaptured Authorization Transactions
 For each successful but uncaptured authorization transaction.
 0.30 USD

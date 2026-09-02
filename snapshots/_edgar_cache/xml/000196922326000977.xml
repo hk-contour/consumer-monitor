@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001525358</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001370637</issuerCik>
+      <issuerName>ETSY INC</issuerName>
+      <secFileNumber>001-36911</secFileNumber>
+      <issuerAddress>
+        <com:street1>117 ADAMS STREET</com:street1>
+        <com:city>BROOKLYN</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry>
+        <com:zipCode>11201</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(718) 880-3660</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Silverman Josh</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>UBS Financial Services, Inc.</name>
+        <address>
+          <com:street1>11 Madison Avenue</com:street1>
+          <com:street2>4th Floor</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>11696</noOfUnitsSold>
+      <aggregateMarketValue>947376.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>91781748</noOfUnitsOutstanding>
+      <approxSaleDate>09/01/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>09/01/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Exercise of Stock Options</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>11696</amountOfSecuritiesAcquired>
+      <paymentDate>09/01/2026</paymentDate>
+      <natureOfPayment>CASH</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>06/01/2026</saleDate>
+      <amountOfSecuritiesSold>134730</amountOfSecuritiesSold>
+      <grossProceeds>9280595.19</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>06/15/2026</saleDate>
+      <amountOfSecuritiesSold>50000</amountOfSecuritiesSold>
+      <grossProceeds>3625000.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>06/16/2026</saleDate>
+      <amountOfSecuritiesSold>52479</amountOfSecuritiesSold>
+      <grossProceeds>3883446.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>06/24/2026</saleDate>
+      <amountOfSecuritiesSold>97389</amountOfSecuritiesSold>
+      <grossProceeds>7693731.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>07/01/2026</saleDate>
+      <amountOfSecuritiesSold>92404</amountOfSecuritiesSold>
+      <grossProceeds>6924097.85</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>07/10/2026</saleDate>
+      <amountOfSecuritiesSold>39161</amountOfSecuritiesSold>
+      <grossProceeds>3093719.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>07/15/2026</saleDate>
+      <amountOfSecuritiesSold>22881</amountOfSecuritiesSold>
+      <grossProceeds>1922004.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>08/03/2026</saleDate>
+      <amountOfSecuritiesSold>41108</amountOfSecuritiesSold>
+      <grossProceeds>3416458.74</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Josh Silverman</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>08/04/2026</saleDate>
+      <amountOfSecuritiesSold>6294</amountOfSecuritiesSold>
+      <grossProceeds>528696.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/01/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>11/20/2025</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ UBS Financial Services Inc, as attorney-in-fact for Josh Silverman</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001753365</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001609711</issuerCik>
+            <issuerName>GODADDY INC.</issuerName>
+            <secFileNumber>001-36904</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>100 S. Mill Ave</ns2:street1>
+                <ns2:street2>Suite 1600</ns2:street2>
+                <ns2:city>Tempe</ns2:city>
+                <ns2:stateOrCountry>AZ</ns2:stateOrCountry>
+                <ns2:zipCode>85281</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>(480) 505-8800</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>AMANPAL BHUTANI</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+                <relationshipToIssuer>Director</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>4500</noOfUnitsSold>
+            <aggregateMarketValue>438480.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>126647704</noOfUnitsOutstanding>
+            <approxSaleDate>09/01/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>12/01/2024</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>ISSUER</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>4500</amountOfSecuritiesAcquired>
+            <paymentDate>12/01/2024</paymentDate>
+            <natureOfPayment>Not Applicable</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>AMANPAL BHUTANI</name>
+                <address>
+                    <ns2:street1>100 S. Mill Ave</ns2:street1>
+                    <ns2:street2>Suite 1600</ns2:street2>
+                    <ns2:city>Tempe</ns2:city>
+                    <ns2:stateOrCountry>AZ</ns2:stateOrCountry>
+                    <ns2:zipCode>85281</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/03/2026</saleDate>
+            <amountOfSecuritiesSold>4500</amountOfSecuritiesSold>
+            <grossProceeds>374175.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>AMANPAL BHUTANI</name>
+                <address>
+                    <ns2:street1>100 S. Mill Ave</ns2:street1>
+                    <ns2:street2>Suite 1600</ns2:street2>
+                    <ns2:city>Tempe</ns2:city>
+                    <ns2:stateOrCountry>AZ</ns2:stateOrCountry>
+                    <ns2:zipCode>85281</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>COMMON</securitiesClassTitle>
+            <saleDate>06/02/2026</saleDate>
+            <amountOfSecuritiesSold>8373</amountOfSecuritiesSold>
+            <grossProceeds>752369.30</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>09/01/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>03/10/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Aman Bhutani</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>
