@@ -1,3 +1,11 @@
+Gemini models
+Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
+Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.
+Read more
+Safety & Security
+Proactive cyber defense tools for trusted partners
+The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.
+Read more
 Android
 Track your stuff, ease motion sickness, and more with Android
 Here's what's new in our latest Android Drop.
@@ -6,19 +14,11 @@ Google Workspace
 Try Google Pics for easy image creation and editing
 Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.
 Read more
-Gemini models
-Introducing agentic video understanding with Gemini
-We’re launching agentic video understanding across our latest Gemini models for improved accuracy and lower costs and token usage.
-Read more
 Search
 3 new ways to plan and book travel in Search
 Our latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.
 Read more
-Gemini models
-Intelligent transcription with Gemini 3.5 Transcribe
-Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
-Read more
-Hardware updates
+More updates
 Get the latest news from Google in your inbox
 Sign up for our newsletters with product updates, event information, special offers, and more.
 Done. Just one step more.

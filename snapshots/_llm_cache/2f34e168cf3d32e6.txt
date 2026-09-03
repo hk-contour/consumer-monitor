@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page reorganized with plan cards moved to top section and feature descriptions reshuffled lower; all pricing tiers ($12.99 Individual, $6.99 Student, $18.99 Duo, $21.99 Family) and promotional offers (3 months free, 1 month free) remain unchanged.

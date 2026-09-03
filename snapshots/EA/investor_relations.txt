@@ -41,15 +41,11 @@ Shooter
 Battlefield 6
 See Latest Games
 Latest Updates
-August 25, 2026
-Inside Madden 27: Developer Josh Looman talks creating a love letter to the fans
-The all-new Persona Engine, timing-based catching, overcoming challenges and more
-Latest EA News
-Browse All
-News Article
-September 1, 2026
+August 28, 2026
 Star Wars Zero Company is now available
 Experience Star Wars Zero Company now. Lead an elite squad of operatives in this tactical turn-based Clone Wars game. Available today on PC & Consoles.
+Latest EA News
+Browse All
 News Article
 August 31, 2026
 EA SPORTS Kicks Off a New College Football Season in a Big Way
@@ -58,6 +54,10 @@ News Article
 August 28, 2026
 Alyssa Thompson takes her chance ‘Celebrating the Next’ with EA SPORTS
 Discover how USWNT and Chelsea FC star Alyssa Thompson is mentoring the next generation of football talent with EA SPORTS.
+News Article
+August 25, 2026
+Inside Madden 27: Developer Josh Looman talks creating a love letter to the fans
+The all-new Persona Engine, timing-based catching, overcoming challenges and more
 News Article
 August 20, 2026
 Summer of Football: How EA SPORTS brought fans closer to the world’s game
@@ -80,12 +80,12 @@ The next mocap evolution: Markerless motion capture
 EA’s markerless motion capture uses AI to deliver more realistic animation and immersive gameplay experiences.
 News Article
 August 4, 2026
-EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners
-EA Positioned to Accelerate Creativity and Innovation to Shape the Future of Entertainment
-News Article
-August 4, 2026
 Our Next Chapter
 An update from CEO Andrew Wilson
+News Article
+August 4, 2026
+EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners
+EA Positioned to Accelerate Creativity and Innovation to Shape the Future of Entertainment
 News Article
 July 18, 2026
 EA SPORTS™ presents Beckham, Zidane and Zlatan in conversation for the first time.

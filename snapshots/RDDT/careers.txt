@@ -66,9 +66,6 @@ See Roles
 Marketing
 The marketing team is focused on making Reddit a more recognizable, relevant, and reputable brand with our target audience.
 See Roles
-People & Culture
-The people team’s mission is to build a talented community of employees and a strong culture that enables us to achieve our ambitious goals.
-See Roles
 Policy
 Policy develops thoughtful, consistent, transparent rules for our platform and products and advocates for Reddit before governments and policymakers.
 See Roles
@@ -226,6 +223,10 @@ Senior Engineering Manager, Unified Embeddings Platform
 Senior Engineering Manager, Unified Embeddings Platform
 Remote - United States
 Engineering
+Senior Frontend Engineer, Ads Creative
+Senior Frontend Engineer, Ads Creative
+Remote - United States
+Engineering
 Senior Frontend Engineer, Community Builders
 Senior Frontend Engineer, Community Builders
 Remote - United States
@@ -242,10 +243,6 @@ Remote - United States
 Engineering
 Senior Machine Learning Engineer, Ads Optimization
 Senior Machine Learning Engineer, Ads Optimization
-Remote - United States
-Engineering
-Senior Machine Learning Engineer, GenAI Security
-Senior Machine Learning Engineer, GenAI Security
 Remote - United States
 Engineering
 Senior Machine Learning Infrastructure Engineer, Embedding Platform
@@ -284,6 +281,10 @@ Remote - United States
 Engineering
 Senior Software Engineer, Ads Creative Effectiveness
 Senior Software Engineer, Ads Creative Effectiveness
+Remote - United States
+Engineering
+Senior Software Engineer, Agentic Ads Experience
+Senior Software Engineer, Agentic Ads Experience
 Remote - United States
 Engineering
 Senior Software Engineer, Core Platform
@@ -412,6 +413,10 @@ Staff Software Engineer , Observability
 Staff Software Engineer , Observability
 Remote - United States
 Engineering
+Staff Software Engineer - Site Defense
+Staff Software Engineer - Site Defense
+Remote - United States
+Engineering
 Staff Software Engineer, DevPlatform
 Staff Software Engineer, DevPlatform
 Remote - United States
@@ -456,6 +461,10 @@ Director, Intellectual Property
 Director, Intellectual Property
 Remote - United States
 Legal
+Director, Privacy Legal
+Director, Privacy Legal
+Remote - United States
+Legal
 Senior Litigation Paralegal
 Senior Litigation Paralegal
 San Francisco, CA
@@ -464,11 +473,6 @@ Marketing
 Country Lead, Business Marketing, UK
 Country Lead, Business Marketing, UK
 London, United Kingdom
-See all departments with jobs
-People & Culture
-Experience Coordinator, San Francisco
-Experience Coordinator, San Francisco
-San Francisco, CA
 See all departments with jobs
 Policy
 Trust and Safety Policy, Ads Policy,  Lead
@@ -508,10 +512,6 @@ Staff Technical Product Manager, Ads ML Platform
 Staff Technical Product Manager, Ads ML Platform
 Remote - United States
 See all departments with jobs
-Sales
-3rd Party Partnerships Manager - Commerce
-3rd Party Partnerships Manager - Commerce
-New York City, NY
 Sales
 3rd Party Partnerships Manager - Signals
 3rd Party Partnerships Manager - Signals
@@ -585,10 +585,6 @@ Senior Client Partner, Large Customer Sales (Big Box Retail)
 Senior Client Partner, Large Customer Sales (Big Box Retail)
 New York City, NY
 Sales
-Senior Client Partner, Large Customer Sales, Pharma
-Senior Client Partner, Large Customer Sales, Pharma
-New York City, NY
-Sales
 Senior Manager, Large Customer Sales (Entertainment)
 Senior Manager, Large Customer Sales (Entertainment)
 Los Angeles, CA
@@ -612,10 +608,6 @@ Sales
 Senior Product Manager, GTM Automation
 Senior Product Manager, GTM Automation
 San Francisco, CA
-Sales
-Senior Technical Solutions Manager
-Senior Technical Solutions Manager
-Sydney, Australia
 Sales
 Senior Vendor Performance Manager, North America
 Senior Vendor Performance Manager, North America
@@ -658,10 +650,6 @@ Remote - United States
 User Experience
 Senior UX Researcher, Consumer Product
 Senior UX Researcher, Consumer Product
-Remote - United States
-User Experience
-Staff Product Designer, Growth
-Staff Product Designer, Growth
 Remote - United States
 User Experience
 Staff Product Designer, Presence

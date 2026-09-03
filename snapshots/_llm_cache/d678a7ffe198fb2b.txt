@@ -1,0 +1,1 @@
+[ROUTINE] Removal of a tracking or reference identifier (2604700|4,2604700) from the terms page footer.

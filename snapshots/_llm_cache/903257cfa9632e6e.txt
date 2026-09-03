@@ -1,0 +1,1 @@
+[MATERIAL] Google newsroom promoted two new Gemini model releases—Gemini 3.8 Flash and 3.8 Flash Cyber—to top position, positioning them for agentic workflows and cybersecurity use cases. The reordering also surfaces a new "Fairwind Program" for government/partner cyber defense tools, while deprioritizing prior Gemini announcements on video understanding and transcription.

@@ -1,0 +1,1 @@
+[ROUTINE] Added "Health Data Notice" link to footer on Instacart+ pricing page, likely a regulatory compliance disclosure update.

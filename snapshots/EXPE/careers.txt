@@ -137,6 +137,7 @@ Italy
 Japan
 Malaysia
 Mexico
+Singapore
 Spain
 Switzerland
 United Kingdom
@@ -188,6 +189,7 @@ Performance Marketing
 Product Management
 Product Marketing
 Program Management (Technology)
+Sales Operations
 Social Media Marketing
 Strategy
 Tax
@@ -208,16 +210,17 @@ Italy
 Japan
 Malaysia
 Mexico
+Singapore
 Spain
 Switzerland
 United Kingdom
 United States
 Search Jobs
 We currently have
-217
+230
 openings
 in
-15
+16
 countries.
 We're hiring in
 19
@@ -357,6 +360,7 @@ Italy
 Japan
 Malaysia
 Mexico
+Singapore
 Spain
 Switzerland
 United Kingdom
