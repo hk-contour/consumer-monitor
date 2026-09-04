@@ -368,7 +368,7 @@ No Fee
 Venmo (subject to availability)
 No Fee
 PYUSD
-1%
+No Fee
 Mailed Checks
 2.00 USD per check
 Wire Transfer

@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page reorganized with plan cards repositioned and feature descriptions reordered; no changes to pricing amounts ($12.99 Individual, $6.99 Student, $18.99 Duo, $21.99 Family) or promotional terms.

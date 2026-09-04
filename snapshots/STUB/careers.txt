@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-17 jobs
+18 jobs
 StubHub / Engineering
 Consumer Experience
 Job
@@ -49,6 +49,11 @@ New
 Atlanta, Georgia, United States
 GCS Executive Customer Care Supervisor
 Atlanta, Georgia, United States
+StubHub
+Legal
+Job
+Senior Counsel - Employment and Labor Law
+New York, New York, United States
 StubHub / Marketing
 Performance Marketing
 Job
@@ -78,7 +83,6 @@ viagogo
 viagogo Engineering
 Job
 Senior Analytics Engineer - Data
-New
 New York, New York, United States
 Senior Software Engineer (Full Stack)
 Aliso Viejo, California, United States

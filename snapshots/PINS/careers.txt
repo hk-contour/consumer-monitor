@@ -4,7 +4,6 @@ Keywords:
 Location:
 Locations
 Atlanta
-Berlin
 Buenos Aires
 Chicago
 Dublin

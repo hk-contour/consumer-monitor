@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001870331</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001820953</issuerCik>
+            <issuerName>Affirm Holdings, Inc.</issuerName>
+            <secFileNumber>001-39888</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>221 Main Street Floor 6</ns2:street1>
+                <ns2:city>San Francisco</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94105</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>4159601518</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>KATHERINE ADKINS</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>41664</noOfUnitsSold>
+            <aggregateMarketValue>3086885.76</aggregateMarketValue>
+            <noOfUnitsOutstanding>296881962</noOfUnitsOutstanding>
+            <approxSaleDate>09/03/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>09/03/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Exercise of Stock Options</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>41664</amountOfSecuritiesAcquired>
+            <paymentDate>09/03/2026</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for KATHERINE ADKINS</name>
+                <address>
+                    <ns2:street1>221 Main Street Floor 6</ns2:street1>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94105</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/01/2026</saleDate>
+            <amountOfSecuritiesSold>41664</amountOfSecuritiesSold>
+            <grossProceeds>2939524.36</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>09/03/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>06/02/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Katherine Adkins</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -1,22 +1,22 @@
+Google DeepMind
+WeatherNext 3: Our newest global weather AI model
+WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.
+Read more
 Gemini models
 Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
 Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.
+Read more
+Google Workspace
+Use your voice in Gmail, Docs, and Keep
+Three new voice-activated features will change the way you use Google Workspace products.
 Read more
 Safety & Security
 Proactive cyber defense tools for trusted partners
 The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.
 Read more
 Android
-Track your stuff, ease motion sickness, and more with Android
-Here's what's new in our latest Android Drop.
-Read more
-Google Workspace
-Try Google Pics for easy image creation and editing
-Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.
-Read more
-Search
-3 new ways to plan and book travel in Search
-Our latest upgrades for AI Mode in Search can help you track flight prices, view points or miles rates, and book your dream hotel.
+What's new in our latest Android Drop
+Track your stuff, ease motion sickness, and more with Android.
 Read more
 More updates
 Get the latest news from Google in your inbox

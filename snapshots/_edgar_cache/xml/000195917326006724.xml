@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001571970</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001856314</issuerCik>
+      <issuerName>Clear Secure, Inc.</issuerName>
+      <secFileNumber>001-40568</secFileNumber>
+      <issuerAddress>
+        <com:street1>85 10TH AVE., 9TH FLOOR</com:street1>
+        <com:city>NEW YORK</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry>
+        <com:zipCode>10011</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(646) 723-1404</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Barkin Michael Z</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>11444</noOfUnitsSold>
+      <aggregateMarketValue>514980.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>102911049</noOfUnitsOutstanding>
+      <approxSaleDate>09/03/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>06/05/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>5669</amountOfSecuritiesAcquired>
+      <paymentDate>06/05/2025</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>04/01/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>5775</amountOfSecuritiesAcquired>
+      <paymentDate>04/01/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/03/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>02/27/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Adam Gehring, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Michael Barkin</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

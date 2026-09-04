@@ -1,0 +1,1 @@
+[ROUTINE] Open job requisitions decreased by one in Customer Operations (28→27) and Product & User Experience (7→6) while increasing by two in Marketing & Creative (9→11); net change of zero open roles across tracked departments.

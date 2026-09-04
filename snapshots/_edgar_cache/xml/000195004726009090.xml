@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001705560</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001783879</issuerCik>
+            <issuerName>ROBINHOOD MKTS, INC.</issuerName>
+            <secFileNumber>001-40691</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>85 Willow Road</ns2:street1>
+                <ns2:city>Menlo Park</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94025</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>8444285411</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>DANIEL MARTIN GALLAGHER</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>30000</noOfUnitsSold>
+            <aggregateMarketValue>3209700.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>790630234</noOfUnitsOutstanding>
+            <approxSaleDate>09/03/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>06/01/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Units</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>30000</amountOfSecuritiesAcquired>
+            <paymentDate>06/01/2025</paymentDate>
+            <natureOfPayment>N/A</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales Plan for DANIEL MARTIN GALLAGHER</name>
+                <address>
+                    <ns2:street1>85 Willow Road</ns2:street1>
+                    <ns2:city>Menlo Park</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94025</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>08/03/2026</saleDate>
+            <amountOfSecuritiesSold>10000</amountOfSecuritiesSold>
+            <grossProceeds>904192.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales Plan for DANIEL MARTIN GALLAGHER</name>
+                <address>
+                    <ns2:street1>85 Willow Road</ns2:street1>
+                    <ns2:city>Menlo Park</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94025</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>07/06/2026</saleDate>
+            <amountOfSecuritiesSold>10000</amountOfSecuritiesSold>
+            <grossProceeds>1161433.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>09/03/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>08/08/2025</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Daniel Martin Gallagher</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

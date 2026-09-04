@@ -1,0 +1,1 @@
+[MATERIAL] PayPal removed the 1% fee on PYUSD (PayPal USD stablecoin) transactions, now offering them at no fee. This is a significant pricing change on a core product within PayPal's blockchain/stablecoin strategy.

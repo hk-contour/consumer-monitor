@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002068229</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001370637</issuerCik>
+      <issuerName>ETSY INC</issuerName>
+      <secFileNumber>001-36911</secFileNumber>
+      <issuerAddress>
+        <com:street1>117 ADAMS STREET</com:street1>
+        <com:city>BROOKLYN</com:city>
+        <com:stateOrCountry>NY</com:stateOrCountry>
+        <com:zipCode>11201</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(718) 880-3660</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Colburn Richard Edward III</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>UBS Financial Services, Inc.</name>
+        <address>
+          <com:street1>Eleven Madison Avenue</com:street1>
+          <com:street2>4th Floor</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>2913</noOfUnitsSold>
+      <aggregateMarketValue>244488.09</aggregateMarketValue>
+      <noOfUnitsOutstanding>91781748</noOfUnitsOutstanding>
+      <approxSaleDate>09/03/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <acquiredDate>09/01/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>RSU vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>2913</amountOfSecuritiesAcquired>
+      <paymentDate>09/01/2026</paymentDate>
+      <natureOfPayment>NA</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Richard Colburn</name>
+        <address>
+          <com:street1>117 ADAMS STREET</com:street1>
+          <com:city>Brooklyn</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11201</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <saleDate>08/10/2026</saleDate>
+      <amountOfSecuritiesSold>8252</amountOfSecuritiesSold>
+      <grossProceeds>677367.98</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/03/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>05/04/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ UBS Financial Services Inc., as attorney-in-fact for Richard Colburn</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

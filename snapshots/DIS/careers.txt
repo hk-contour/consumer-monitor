@@ -235,7 +235,6 @@ Destin, Florida
 Durham, North Carolina
 Elizabeth, New Jersey
 Emeryville, California
-Ferrières-en-Brie, Île-de-France Region
 Fresno, California
 Glendale, California
 Grapevine, Texas
@@ -259,6 +258,7 @@ Lisbon, Lisbon District
 Livermore, California
 London, England
 Los Angeles, California
+Madrid, Madrid
 Makati City, Metro Manila
 Marne-la-Vallée, Île-de-France Region
 Melbourne, Victoria

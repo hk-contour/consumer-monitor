@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001795497</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001786352</issuerCik>
+            <issuerName>BILL HOLDINGS, INC.</issuerName>
+            <secFileNumber>001-39149</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>6220 America Center Drive, Suite 100</ns2:street1>
+                <ns2:city>San Jose</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>95002</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>6506217700</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Ilio Irrevocable Trust</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Director</relationshipToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>21124</noOfUnitsSold>
+            <aggregateMarketValue>1030006.24</aggregateMarketValue>
+            <noOfUnitsOutstanding>85276782</noOfUnitsOutstanding>
+            <approxSaleDate>09/03/2026</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/26/2024</acquiredDate>
+            <natureOfAcquisitionTransaction>Previously Exercised Options</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>21124</amountOfSecuritiesAcquired>
+            <paymentDate>08/26/2024</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for RENE A LACERTE</name>
+                <address>
+                    <ns2:street1>6220 America Center Drive, Suite 100</ns2:street1>
+                    <ns2:city>San Jose</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>95002</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/02/2026</saleDate>
+            <amountOfSecuritiesSold>141256</amountOfSecuritiesSold>
+            <grossProceeds>6839248.25</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for MAKAHAKAMA FOUNDATION</name>
+                <address>
+                    <ns2:street1>6220 America Center Drive, Suite 100</ns2:street1>
+                    <ns2:city>San Jose</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>95002</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/02/2026</saleDate>
+            <amountOfSecuritiesSold>35000</amountOfSecuritiesSold>
+            <grossProceeds>1694609.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for MAKAHAKAMA TRUST </name>
+                <address>
+                    <ns2:street1>6220 America Center Drive, Suite 100</ns2:street1>
+                    <ns2:city>San Jose</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>95002</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/02/2026</saleDate>
+            <amountOfSecuritiesSold>38739</amountOfSecuritiesSold>
+            <grossProceeds>1875641.66</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>09/03/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>06/03/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ RENE LACERTE</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

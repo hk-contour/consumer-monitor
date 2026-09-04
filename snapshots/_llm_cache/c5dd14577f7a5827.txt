@@ -1,0 +1,1 @@
+[ROUTINE] Footer privacy link renamed from "Privacy Policy" to "Privacy Principles" with addition of "Privacy Policy for Third-Parties" link.

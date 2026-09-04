@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001828912</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001617640</issuerCik>
+      <issuerName>ZILLOW GROUP, INC.</issuerName>
+      <secFileNumber>001-36853</secFileNumber>
+      <issuerAddress>
+        <com:street1>1301 SECOND AVENUE, FLOOR 36</com:street1>
+        <com:city>SEATTLE</com:city>
+        <com:stateOrCountry>WA</com:stateOrCountry>
+        <com:zipCode>98101</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(206) 470-7000</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Cormier Thielke Claire</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Director</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common Class C</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co., Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>1187</noOfUnitsSold>
+      <aggregateMarketValue>42388.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>177255435</noOfUnitsOutstanding>
+      <approxSaleDate>09/03/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Common Class C</securitiesClassTitle>
+      <acquiredDate>09/01/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>ZILLOW GROUP, INC.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1187</amountOfSecuritiesAcquired>
+      <paymentDate>09/01/2026</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>CLAIRE CORMIER THIELKE</name>
+        <address>
+          <com:street1>1301 SECOND AVENUE, FLOOR 36</com:street1>
+          <com:city>SEATTLE</com:city>
+          <com:stateOrCountry>WA</com:stateOrCountry>
+          <com:zipCode>98101</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>ZILLOW GROUP, INC.</securitiesClassTitle>
+      <saleDate>08/11/2026</saleDate>
+      <amountOfSecuritiesSold>1187</amountOfSecuritiesSold>
+      <grossProceeds>39278.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/03/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>05/12/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>CLAIRE CORMIER THIELKE</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

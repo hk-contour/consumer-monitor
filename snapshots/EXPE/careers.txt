@@ -172,7 +172,6 @@ Business Programs
 Commercial Finance
 Customer Engagement Marketing
 Customer Experience
-Customer Service
 Data Science
 Development
 Experience Design
@@ -180,9 +179,7 @@ FinOps
 FP&A
 Fraud and Risk
 Infrastructure & Enterprise Engineering
-Investor Relations
 Legal
-Media
 Partner Marketing
 Partner Sales
 Performance Marketing
@@ -195,7 +192,6 @@ Strategy
 Tax
 Technical Operations
 Total Rewards
-Vendor Service & Operations Management
 Workforce Planning
 Location
 All
@@ -217,7 +213,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-230
+214
 openings
 in
 16
