@@ -243,7 +243,6 @@ Helsinki, Uusimaa
 Hilton Head Island, South Carolina
 Ho Chi Minh City, Ho Chi Minh
 Houston, Texas
-Inglewood, California
 Istanbul, Istanbul
 Iver Heath, England
 Jakarta, Jakarta Special Capital Region
@@ -264,22 +263,22 @@ Marne-la-Vallée, Île-de-France Region
 Melbourne, Victoria
 Milan, Lombardy
 Minato-ku, Tokyo
+Montévrain, Île-de-France Region
 Moore Park, New South Wales
 Morrisville, North Carolina
 Mumbai, Maharashtra
 Munich, Bavaria
 New Taipei City, Taipei
 New York, New York
+Newhall, California
 Nicasio, California
 Ontario, California
 Orlando, Florida
 Oslo, Oslo County
 Palm Desert, California
 Papenburg, Lower Saxony
-Paris, Île-de-France Region
 Philadelphia, Pennsylvania
 Quarry Bay, Eastern
-Ramat Gan, Tel Aviv
 Rancho Mirage, California
 Richmond, Victoria
 Riverside, California
@@ -297,6 +296,7 @@ Sofia, Sofia-grad
 Stockholm, Stockholm County
 Sydney, New South Wales
 Taipei City, Taiwan
+Tampa, Florida
 The Woodlands, Texas
 Tlalpan, Mexico City
 Tokyo, Tokyo
@@ -304,6 +304,7 @@ Toronto, Ontario
 Vancouver, British Columbia
 Vienna, Vienna
 Villeneuve-le-Comte, Île-de-France Region
+Warsaw, Mazovia
 Washington, DC
 Zurich, Canton of Zurich
 Job Level

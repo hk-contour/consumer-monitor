@@ -132,7 +132,6 @@ Canada
 Czechia
 Germany
 India
-Ireland
 Italy
 Japan
 Malaysia
@@ -201,7 +200,6 @@ Canada
 Czechia
 Germany
 India
-Ireland
 Italy
 Japan
 Malaysia
@@ -213,10 +211,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-214
+208
 openings
 in
-16
+15
 countries.
 We're hiring in
 19
@@ -351,7 +349,6 @@ Canada
 Czechia
 Germany
 India
-Ireland
 Italy
 Japan
 Malaysia
