@@ -1,4 +1,8 @@
 Google DeepMind
+AlphaGenome Atlas: Human DNA in high resolution
+We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.
+Read more
+Google DeepMind
 WeatherNext 3: Our newest global weather AI model
 WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.
 Read more
@@ -13,10 +17,6 @@ Read more
 Safety & Security
 Proactive cyber defense tools for trusted partners
 The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.
-Read more
-Android
-What's new in our latest Android Drop
-Track your stuff, ease motion sickness, and more with Android.
 Read more
 More updates
 Get the latest news from Google in your inbox

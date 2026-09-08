@@ -387,16 +387,6 @@ Staff Machine Learning Engineer, Consumer
 Staff Machine Learning Engineer, Consumer
 Remote - United States
 Engineering
-Staff Machine Learning Engineer, ML Efficiency
-Staff Machine Learning Engineer, ML Efficiency
-Remote - The Netherlands
-Staff Machine Learning Engineer, ML Efficiency
-Remote - United Kingdom
-Engineering
-Staff Machine Learning Engineer, Notifications Relevance
-Staff Machine Learning Engineer, Notifications Relevance
-Remote - United States
-Engineering
 Staff Machine Learning Infrastructure Engineer, Embedding Platform
 Staff Machine Learning Infrastructure Engineer, Embedding Platform
 Remote - United States
@@ -419,10 +409,6 @@ Remote - United States
 Engineering
 Staff Software Engineer, DevPlatform
 Staff Software Engineer, DevPlatform
-Remote - United States
-Engineering
-Staff Software Engineer, Developer Ecosystem
-Staff Software Engineer, Developer Ecosystem
 Remote - United States
 Engineering
 Staff Software Engineer, Media Experiences
@@ -546,6 +532,10 @@ Manager, Technical Solutions
 Los Angeles, CA
 Manager, Technical Solutions
 San Francisco, CA
+Sales
+Senior Business Analyst, Revenue Analytics
+Senior Business Analyst, Revenue Analytics
+Remote - United States
 Sales
 Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)
 Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)

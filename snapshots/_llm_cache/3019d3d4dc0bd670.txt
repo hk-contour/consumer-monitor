@@ -1,0 +1,1 @@
+[ROUTINE] Removal of sign-in UI text snippets and replacement with a numeric identifier; likely a code cleanup or template refactoring with no substantive policy or feature change.

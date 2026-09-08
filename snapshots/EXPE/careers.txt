@@ -191,6 +191,7 @@ Strategy
 Tax
 Technical Operations
 Total Rewards
+Vendor Service & Operations Management
 Workforce Planning
 Location
 All
@@ -211,7 +212,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-208
+204
 openings
 in
 15

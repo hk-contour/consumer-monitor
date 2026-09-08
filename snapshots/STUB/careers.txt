@@ -53,8 +53,6 @@ Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist 1
 New
 Atlanta, Georgia, United States
-GCS Executive Customer Care Supervisor
-Atlanta, Georgia, United States
 StubHub
 Legal
 Job
@@ -92,3 +90,6 @@ Senior Analytics Engineer - Data
 New York, New York, United States
 Senior Software Engineer (Full Stack)
 Aliso Viejo, California, United States
+Staff Product Designer
+New
+New York, New York, United States
