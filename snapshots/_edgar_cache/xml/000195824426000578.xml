@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:edgarSubmission xmlns:com="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/ownership">
+    <ns2:headerData>
+        <ns2:submissionType>144</ns2:submissionType>
+        <ns2:filerInfo>
+            <ns2:filer>
+                <ns2:filerCredentials>
+                    <ns2:cik>0001495849</ns2:cik>
+                    <ns2:ccc>XXXXXXXX</ns2:ccc>
+                </ns2:filerCredentials>
+            </ns2:filer>
+            <ns2:liveTestFlag>LIVE</ns2:liveTestFlag>
+
+
+
+        </ns2:filerInfo>
+    </ns2:headerData>
+    <ns2:formData>
+        <ns2:issuerInfo>
+            <ns2:issuerCik>0001065088</ns2:issuerCik>
+            <ns2:issuerName>eBay Inc.</ns2:issuerName>
+            <ns2:secFileNumber>001-37713</ns2:secFileNumber>
+            <ns2:issuerAddress>
+                <com:street1>2025 Hamilton Avenue</com:street1>
+                <com:city>San Jose</com:city>
+                <com:stateOrCountry>CA</com:stateOrCountry>
+                <com:zipCode>95125</com:zipCode>
+            </ns2:issuerAddress>
+            <ns2:issuerContactPhone>1-408-376-9659</ns2:issuerContactPhone>
+            <ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>James Joseph Iannone</ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <ns2:relationshipsToIssuer>
+                <ns2:relationshipToIssuer>Officer</ns2:relationshipToIssuer>
+            </ns2:relationshipsToIssuer>
+        </ns2:issuerInfo>
+        <ns2:securitiesInformation>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:brokerOrMarketmakerDetails>
+                <ns2:name>Goldman Sachs &amp; Co. LLC</ns2:name>
+                <ns2:address>
+                    <com:street1>200 West Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10282</com:zipCode>
+                </ns2:address>
+            </ns2:brokerOrMarketmakerDetails>
+            <ns2:noOfUnitsSold>22220</ns2:noOfUnitsSold>
+            <ns2:aggregateMarketValue>2323989.8</ns2:aggregateMarketValue>
+            <ns2:noOfUnitsOutstanding>445000000</ns2:noOfUnitsOutstanding>
+            <ns2:approxSaleDate>09/08/2026</ns2:approxSaleDate>
+            <ns2:securitiesExchangeName>NASD</ns2:securitiesExchangeName>
+        </ns2:securitiesInformation>
+        <ns2:securitiesToBeSold>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:acquiredDate>03/15/2026</ns2:acquiredDate>
+            <ns2:natureOfAcquisitionTransaction>Acquired as compensation -- Performance Awards</ns2:natureOfAcquisitionTransaction>
+            <ns2:nameOfPersonfromWhomAcquired>The Issuer</ns2:nameOfPersonfromWhomAcquired>
+            <ns2:isGiftTransaction>N</ns2:isGiftTransaction>
+            <ns2:amountOfSecuritiesAcquired>22220</ns2:amountOfSecuritiesAcquired>
+            <ns2:paymentDate>03/15/2026</ns2:paymentDate>
+            <ns2:natureOfPayment>Compensation</ns2:natureOfPayment>
+        </ns2:securitiesToBeSold>
+        <ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>N</ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>07/06/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>2222</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>252830.71</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>07/06/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>8888</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>1006315.36</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>08/05/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>8888</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>960485.28</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>07/07/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>2222</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>255436.68</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>08/06/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>8888</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>968575.13</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>07/07/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>8888</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>1016999.62</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>08/06/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>2222</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>247943.43</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>James Iannone</ns2:name>
+                <ns2:address>
+                    <com:street1>2025 Hamilton Avenue</com:street1>
+                    <com:city>San Jose</com:city>
+                    <com:stateOrCountry>CA</com:stateOrCountry>
+                    <com:zipCode>95125</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:saleDate>08/05/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>2222</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>245548.55</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:remarks>The sales of shares set forth herein are made in connection with a selling plan dated 11/20/2025 that is intended to comply with 10b5-1 (c).</ns2:remarks>
+        <ns2:noticeSignature>
+            <ns2:noticeDate>09/08/2026</ns2:noticeDate>
+            <ns2:planAdoptionDates>
+                <ns2:planAdoptionDate>11/20/2025</ns2:planAdoptionDate>
+            </ns2:planAdoptionDates>
+            <ns2:signature>Goldman Sachs &amp; Co. LLC on behalf of James Joseph Iannone</ns2:signature>
+        </ns2:noticeSignature>
+    </ns2:formData>
+</ns2:edgarSubmission>

@@ -1,0 +1,1 @@
+[ROUTINE] Removal of Paris and Stockholm from the list of office locations on the careers page. This appears to be a headcount or office footprint adjustment with no direct impact on monitored metrics.

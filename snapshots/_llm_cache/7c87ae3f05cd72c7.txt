@@ -1,0 +1,1 @@
+[ROUTINE] Added four navigation links ("Company," "Impact," "Press assets," "Contact") to the "For investors" section of the newsroom footer.

@@ -213,7 +213,7 @@ Estimate and collect duties and taxes
 *Requires Shopify Payments
 Finance
 Manage money with Shopify Balance¹
-0.00% earnings rate
+2.29% earnings rate
 Flexible growth funding through Shopify Capital²
 Shopify Credit pay-in-full Visa® card³
 Up to 3% cashback
@@ -432,10 +432,10 @@ Estimate and collect duties and taxes
 *Requires Shopify Payments
 Finance
 Manage money with Shopify Balance¹
-0.00% earnings rate
-0.00% earnings rate
-0.00% earnings rate
-0.00% earnings rate
+2.29% earnings rate
+2.29% earnings rate
+2.29% earnings rate
+3.31% earnings rate
 Flexible growth funding through Shopify Capital²
 Shopify Credit pay-in-full Visa® card³
 Up to 3% cashback

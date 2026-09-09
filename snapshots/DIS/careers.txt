@@ -243,6 +243,7 @@ Helsinki, Uusimaa
 Hilton Head Island, South Carolina
 Ho Chi Minh City, Ho Chi Minh
 Houston, Texas
+Inglewood, California
 Istanbul, Istanbul
 Iver Heath, England
 Jakarta, Jakarta Special Capital Region
@@ -270,7 +271,6 @@ Mumbai, Maharashtra
 Munich, Bavaria
 New Taipei City, Taipei
 New York, New York
-Newhall, California
 Nicasio, California
 Ontario, California
 Orlando, Florida
@@ -286,7 +286,6 @@ San Antonio, Texas
 San Francisco, California
 San Marcos, Texas
 Santa Monica, California
-São Paulo, São Paulo
 Seattle, Washington
 Seoul, Seoul
 Serris, Île-de-France Region
@@ -298,7 +297,6 @@ Sydney, New South Wales
 Taipei City, Taiwan
 Tampa, Florida
 The Woodlands, Texas
-Tlalpan, Mexico City
 Tokyo, Tokyo
 Toronto, Ontario
 Vancouver, British Columbia
@@ -315,6 +313,7 @@ Management
 Internships / Programs
 Executive
 Business Support / Administrative
+Talent
 Add
 Remove
 First Name

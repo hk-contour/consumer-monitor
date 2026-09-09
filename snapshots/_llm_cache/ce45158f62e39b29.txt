@@ -1,0 +1,1 @@
+[ROUTINE] Backend version number updated from 5.184.0.5 to 5.187.1.9 on the newsroom page infrastructure.

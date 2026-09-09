@@ -1,0 +1,1 @@
+[ROUTINE] Newsroom feed rotated with newer posts dated 08-09 September 2026 moved to top; older posts from 01 September 2026 removed from bottom of list.

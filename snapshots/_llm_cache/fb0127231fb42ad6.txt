@@ -1,0 +1,1 @@
+[ROUTINE] Addition of sign-in prompt boilerplate text to terms page footer; no substantive policy or operational changes.

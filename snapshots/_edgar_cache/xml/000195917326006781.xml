@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001994593</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001616707</issuerCik>
+      <issuerName>Wayfair Inc.</issuerName>
+      <secFileNumber>001-36666</secFileNumber>
+      <issuerAddress>
+        <com:street1>4 COPLEY PLACE</com:street1>
+        <com:city>BOSTON</com:city>
+        <com:stateOrCountry>MA</com:stateOrCountry>
+        <com:zipCode>02116</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>617 532 6100</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Blotner Jon</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Fidelity Brokerage Services LLC</name>
+        <address>
+          <com:street1>900 Salem Street</com:street1>
+          <com:city>Smithfield</com:city>
+          <com:stateOrCountry>RI</com:stateOrCountry>
+          <com:zipCode>02917</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>6968</noOfUnitsSold>
+      <aggregateMarketValue>698332.96</aggregateMarketValue>
+      <noOfUnitsOutstanding>115990166</noOfUnitsOutstanding>
+      <approxSaleDate>09/08/2026</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>07/05/2023</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>286</amountOfSecuritiesAcquired>
+      <paymentDate>07/05/2023</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>10/01/2023</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>3735</amountOfSecuritiesAcquired>
+      <paymentDate>10/01/2023</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>04/01/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>376</amountOfSecuritiesAcquired>
+      <paymentDate>04/01/2024</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>04/02/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>1939</amountOfSecuritiesAcquired>
+      <paymentDate>04/02/2024</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>01/02/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>280</amountOfSecuritiesAcquired>
+      <paymentDate>01/02/2024</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>04/03/2024</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>221</amountOfSecuritiesAcquired>
+      <paymentDate>04/03/2024</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <acquiredDate>07/01/2026</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Vesting</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>131</amountOfSecuritiesAcquired>
+      <paymentDate>07/01/2026</paymentDate>
+      <natureOfPayment>Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>Jonathan Blotner</name>
+        <address>
+          <com:street1>4 Copley Place</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02116</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Class A</securitiesClassTitle>
+      <saleDate>07/02/2026</saleDate>
+      <amountOfSecuritiesSold>5925</amountOfSecuritiesSold>
+      <grossProceeds>570518.25</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>09/08/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>06/08/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>/s/ Gary Redman, as a duly authorized representative of Fidelity Brokerage Services LLC, as attorney-in-fact for Jonathan Blotner</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>

@@ -132,6 +132,7 @@ Canada
 Czechia
 Germany
 India
+Ireland
 Italy
 Japan
 Malaysia
@@ -171,6 +172,7 @@ Business Programs
 Commercial Finance
 Customer Engagement Marketing
 Customer Experience
+Customer Service
 Data Science
 Development
 Experience Design
@@ -191,6 +193,7 @@ Strategy
 Tax
 Technical Operations
 Total Rewards
+Treasury
 Vendor Service & Operations Management
 Workforce Planning
 Location
@@ -201,6 +204,7 @@ Canada
 Czechia
 Germany
 India
+Ireland
 Italy
 Japan
 Malaysia
@@ -212,10 +216,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-204
+209
 openings
 in
-15
+16
 countries.
 We're hiring in
 19
@@ -269,7 +273,7 @@ Accommodations & adjustments
 We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. If you require an accommodation or adjustment for any part of the application or recruitment process, please let us know by completing our
 Accommodation Request Form
 .
-Careers for every journey.
+Opportunities for every journey
 Emerging Talent & Careers
 Whether you’re starting your career, returning to work, or taking your next professional step, Expedia Group offers opportunities to learn, grow, and build a meaningful career.
 Contract Positions
@@ -350,6 +354,7 @@ Canada
 Czechia
 Germany
 India
+Ireland
 Italy
 Japan
 Malaysia

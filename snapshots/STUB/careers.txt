@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-19 jobs
+23 jobs
 StubHub
 Business Development
 Job
@@ -20,6 +20,15 @@ Consumer Experience
 Job
 Engineering Manager - Consumer Product (Event)
 New York, New York, United States
+StubHub / Engineering / Data
+Fin Tech
+Job
+Engineering Manager - FinTech
+New
+New York, New York, United States
+Engineering Manager - FinTech
+New
+Los Angeles, California, United States
 StubHub / Engineering / Enterprise Engineering
 Supply Engineering
 Job
@@ -36,12 +45,20 @@ StubHub
 Finance
 Job
 Director of Internal Controls
-New
 New York, New York, United States
 StubHub / Finance
 Strategic Finance and Investor Relations
 Job
 Senior Manager of Strategic Finance
+New York, New York, United States
+StubHub / Finance
+Tax
+Job
+Manager, International Income Tax
+New
+New York, New York, United States
+Senior Tax Accountant - Income Tax
+New
 New York, New York, United States
 StubHub
 Global Customer Service
@@ -51,7 +68,6 @@ Atlanta, Georgia, United States
 Director, Global Workforce Optimization
 Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist 1
-New
 Atlanta, Georgia, United States
 StubHub
 Legal

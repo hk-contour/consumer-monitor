@@ -1,0 +1,1 @@
+[MATERIAL] Wix's Base44 AI app-building platform now integrates native Google Ads campaign management, allowing users to create Performance Max campaigns directly within the tool. This expands Base44's marketing capabilities across discovery, promotion, and acquisition in partnership with Google.
