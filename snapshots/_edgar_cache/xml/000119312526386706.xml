@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-04</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001841408</issuerCik>
+        <issuerName>Dave Inc./DE</issuerName>
+        <issuerTradingSymbol>DAVE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001429623</rptOwnerCik>
+            <rptOwnerName>Carroll Brendan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1265 SOUTH COCHRAN AVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Warrant (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>368</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.98</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2022-03-04</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-01-05</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>9375</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>109985</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents warrants previously acquired in a pro-rata, in-kind distribution by an LLC to its investors, which was exempt from reporting pursuant to Rule 16a-9 under the Securities Exchange Act of 1934, as amended.</footnote>
+        <footnote id="F2">The price reported in Column 8 is a weighted average price. These warrants were sold in multiple transactions at prices ranging from $1.87 to $2.04, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities Exchange Commission, upon request, full information regarding the number of warrants sold at each separate price within the range set forth in this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joan Aristei as Attorney-in-Fact for Brendan Carroll</signatureName>
+        <signatureDate>2026-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

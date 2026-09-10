@@ -1,0 +1,1 @@
+[ROUTINE] Careers page translated from English to French; open positions count decreased from 165 to 137. News feed posts rotated with content truncated at end.

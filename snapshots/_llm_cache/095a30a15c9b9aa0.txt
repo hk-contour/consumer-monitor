@@ -1,0 +1,1 @@
+[ROUTINE] Pricing page reorganized with plan details moved to top section and feature descriptions relocated lower; no changes to pricing ($12.99 Individual, $6.99 Student, $18.99 Duo, $21.99 Family) or promotional offers.

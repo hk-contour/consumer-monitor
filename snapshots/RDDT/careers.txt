@@ -223,10 +223,6 @@ Senior Data Scientist, Ads Integrity
 Senior Data Scientist, Ads Integrity
 Remote - United States
 Engineering
-Senior Engineering Manager, Unified Embeddings Platform
-Senior Engineering Manager, Unified Embeddings Platform
-Remote - United States
-Engineering
 Senior Frontend Engineer, Ads Creative
 Senior Frontend Engineer, Ads Creative
 Remote - United States
@@ -424,6 +420,16 @@ Enterprise Architect, Finance Technology
 Enterprise Architect, Finance Technology
 Remote - United States
 Finance & Accounting
+Global Indirect Tax Manager
+Global Indirect Tax Manager
+Remote - Ireland
+Global Indirect Tax Manager
+Remote - United Kingdom
+Finance & Accounting
+Global Indirect Tax Manager
+Global Indirect Tax Manager
+Remote - United States
+Finance & Accounting
 Group Product Manager, Finance Technology
 Group Product Manager, Finance Technology
 Remote - United States
@@ -464,6 +470,14 @@ Policy
 Trust and Safety Policy, Ads Policy,  Lead
 Trust and Safety Policy, Ads Policy,  Lead
 Remote - United States
+Policy
+Trust and Safety Policy, Ads Policy,  Lead (Europe)
+Trust and Safety Policy, Ads Policy,  Lead (Europe)
+Remote - Ireland
+Trust and Safety Policy, Ads Policy,  Lead (Europe)
+Remote - The Netherlands
+Trust and Safety Policy, Ads Policy,  Lead (Europe)
+Remote - United Kingdom
 See all departments with jobs
 Product
 Backend Software Engineer, PDP Experience
@@ -507,9 +521,11 @@ Sales
 3rd Party Partnerships Manager - Signals
 New York City, NY
 Sales
-Agency Development Lead, DACH
-Agency Development Lead, DACH
-Berlin, Germany
+Client Account Manager, Large Customer Sales (Tech)
+Client Account Manager, Large Customer Sales (Tech)
+Los Angeles, CA
+Client Account Manager, Large Customer Sales (Tech)
+San Francisco, CA
 Sales
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 Client Partner, Mid-Market Sales (Services - Acquisitions)
@@ -532,6 +548,10 @@ Sales
 Senior Business Analyst, Revenue Analytics
 Senior Business Analyst, Revenue Analytics
 Remote - United States
+Sales
+Senior Client Account Manager, App Dev Enterprise
+Senior Client Account Manager, App Dev Enterprise
+New York City, NY
 Sales
 Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)
 Senior Client Account Manager, Global Strategic Accounts (Media & Entertainment)
@@ -601,17 +621,9 @@ New York City, NY
 Senior Principal Program Manager, GTM Excellence
 San Francisco, CA
 Sales
-Senior Product Adoption Strategist, Lower Funnel, EMEA
-Senior Product Adoption Strategist, Lower Funnel, EMEA
-London, United Kingdom
-Sales
 Senior Product Manager, GTM Automation
 Senior Product Manager, GTM Automation
 San Francisco, CA
-Sales
-Senior Vendor Performance Manager, North America
-Senior Vendor Performance Manager, North America
-Salt Lake City, UT
 See all departments with jobs
 Security, Privacy, & Assurance
 Senior Backend Engineer, Compliance Engineering

@@ -1,0 +1,1 @@
+[ROUTINE] Section header changed from "Upcoming Event" to "Recent Event" and a concert cancellation news item added to the feed (AC/DC at Rogers Stadium due to weather), with an older venue debut story removed from the rotation.

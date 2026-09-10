@@ -170,6 +170,7 @@ Architecture
 Business Development
 Business Programs
 Commercial Finance
+Creative
 Customer Engagement Marketing
 Customer Experience
 Customer Service
@@ -181,6 +182,7 @@ FP&A
 Fraud and Risk
 Infrastructure & Enterprise Engineering
 Legal
+Marketing Intelligence
 Partner Marketing
 Partner Sales
 Performance Marketing
@@ -216,7 +218,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-209
+228
 openings
 in
 16

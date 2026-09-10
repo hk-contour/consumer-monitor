@@ -1,0 +1,1 @@
+[ROUTINE] Newsroom blog feed reordered with post date shuffling and category filter menu reorganized; "Extra Comfort is expanding" post removed from visible feed.
