@@ -1,3 +1,7 @@
+Gemini App
+The Gemini app is now available for Windows
+We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
+Read more
 Google DeepMind
 AlphaGenome Atlas: Human DNA in high resolution
 We’re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome.

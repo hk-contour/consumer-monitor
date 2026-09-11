@@ -1,0 +1,1 @@
+[ROUTINE] Careers page removed Austria from country filter options and adjusted job opening count from 228 to 208 across 16 to 15 countries; added HR Business Partner and Regional HR to department listings.

@@ -227,6 +227,7 @@ Buenos Aires, Buenos Aires F.D.
 Burbank, California
 Celebration, Florida
 Chessy, Île-de-France Region
+Chester, England
 Chiba, Chiba
 City of Taguig, Metro Manila
 Copenhagen, Capital Region
@@ -234,6 +235,7 @@ Cypress, Texas
 Destin, Florida
 Durham, North Carolina
 Elizabeth, New Jersey
+Ellesmere Port, England
 Emeryville, California
 Fresno, California
 Glendale, California
@@ -258,7 +260,6 @@ Lisbon, Lisbon District
 Livermore, California
 London, England
 Los Angeles, California
-Madrid, Madrid
 Makati City, Metro Manila
 Marne-la-Vallée, Île-de-France Region
 Melbourne, Victoria
@@ -276,11 +277,11 @@ Ontario, California
 Orlando, Florida
 Oslo, Oslo County
 Palm Desert, California
-Papenburg, Lower Saxony
 Philadelphia, Pennsylvania
 Quarry Bay, Eastern
 Rancho Mirage, California
 Richmond, Victoria
+Rishpon, Central District
 Riverside, California
 San Antonio, Texas
 San Francisco, California

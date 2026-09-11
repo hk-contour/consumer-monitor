@@ -169,6 +169,10 @@ Ads Conversion Modeling, Machine Learning Engineering Manager
 Ads Conversion Modeling, Machine Learning Engineering Manager
 Remote - United States
 Engineering
+Backend Engineer, IAM
+Backend Engineer, IAM
+Remote - United States
+Engineering
 Engineering Manager, Ads ML Efficiency
 Engineering Manager, Ads ML Efficiency
 Remote - United States
@@ -177,8 +181,8 @@ Engineering Manager, Notifications Platform
 Engineering Manager, Notifications Platform
 Remote - United States
 Engineering
-Fullstack Software Engineer, Notifications Lifecycle
-Fullstack Software Engineer, Notifications Lifecycle
+Frontend Engineer, Ads
+Frontend Engineer, Ads
 Remote - United States
 Engineering
 Machine Learning Engineering Manager - Ads Engagement Modeling
@@ -225,10 +229,6 @@ Remote - United States
 Engineering
 Senior Frontend Engineer, Ads Creative
 Senior Frontend Engineer, Ads Creative
-Remote - United States
-Engineering
-Senior Frontend Engineer, Community Builders
-Senior Frontend Engineer, Community Builders
 Remote - United States
 Engineering
 Senior Frontend Engineer, Media
@@ -365,10 +365,6 @@ Staff Android Engineer, Brand Ad Formats
 Staff Android Engineer, Brand Ad Formats
 Remote - United States
 Engineering
-Staff Frontend Engineer, Ads Creative
-Staff Frontend Engineer, Ads Creative
-Remote - United States
-Engineering
 Staff Machine Learning Engineer, Ads Foundational Representations
 Staff Machine Learning Engineer, Ads Foundational Representations
 Remote - The Netherlands
@@ -465,6 +461,10 @@ Marketing
 Country Lead, Business Marketing, UK
 Country Lead, Business Marketing, UK
 London, United Kingdom
+Marketing
+EMEA Insights Lead, Consumer and Commercial Strategy
+EMEA Insights Lead, Consumer and Commercial Strategy
+Remote - Germany
 See all departments with jobs
 Policy
 Trust and Safety Policy, Ads Policy,  Lead
@@ -482,14 +482,6 @@ See all departments with jobs
 Product
 Backend Software Engineer, PDP Experience
 Backend Software Engineer, PDP Experience
-Remote - United States
-Product
-Senior Director of Product, Ads Platform
-Senior Director of Product, Ads Platform
-Remote - United States
-Product
-Senior Frontend Software Engineer, Home Experience
-Senior Frontend Software Engineer, Home Experience
 Remote - United States
 Product
 Senior Product Manager, Ads -  Shopping Catalogs

@@ -126,7 +126,6 @@ Strategy
 Technology
 Country
 All
-Austria
 Brazil
 Canada
 Czechia
@@ -180,6 +179,7 @@ Experience Design
 FinOps
 FP&A
 Fraud and Risk
+HR Business Partner
 Infrastructure & Enterprise Engineering
 Legal
 Marketing Intelligence
@@ -189,6 +189,7 @@ Performance Marketing
 Product Management
 Product Marketing
 Program Management (Technology)
+Regional HR
 Sales Operations
 Social Media Marketing
 Strategy
@@ -200,7 +201,6 @@ Vendor Service & Operations Management
 Workforce Planning
 Location
 All
-Austria
 Brazil
 Canada
 Czechia
@@ -218,10 +218,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-228
+208
 openings
 in
-16
+15
 countries.
 We're hiring in
 19
@@ -350,7 +350,6 @@ EG Team
 All
 Country
 All
-Austria
 Brazil
 Canada
 Czechia

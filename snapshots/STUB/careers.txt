@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-26 jobs
+25 jobs
 StubHub
 Business Development
 Job
@@ -38,12 +38,8 @@ Job
 Senior Software Engineer - Sponsored Listings (Fullstack)
 New York, New York, United States
 Senior Software Engineer - Supply Core (Fullstack)
+New
 Aliso Viejo, California, United States
-StubHub / Engineering / Enterprise Engineering
-Technology Operations
-Job
-Technical SOX Program Manager
-Los Angeles, California, United States; New York, New York, United States
 StubHub
 Finance
 Job
@@ -86,17 +82,15 @@ New York, New York, United States
 StubHub / Marketing
 Performance Marketing
 Job
+Associate Product Manager - Paid Search
+New
+New York, New York, United States
 Product Manager - Paid Search
 New York, New York, United States
 StubHub / Product
 Product Catalog
 Job
 Senior Product Manager - Seller Experience
-New York, New York, United States
-StubHub / Product
-Product Consumer Experience
-Job
-Associate Product Manager - Marketing Operations and Automation
 New York, New York, United States
 StubHub
 Strategic Communications
