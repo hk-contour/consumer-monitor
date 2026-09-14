@@ -3,7 +3,6 @@ $
 11
 B+
 Net Sales*
-*Pro forma 2025 net sales for Somnigroup, inclusive of Leggett & Platt
 170
 +
 Manufacturing Facilities
@@ -13,6 +12,7 @@ Retail Stores
 36,000
 +
 Employees
+*Pro forma 2025 net sales for Somnigroup, inclusive of Leggett & Platt
 Who We Are
 Somnigroup International is the world’s largest bedding company, dedicated to transforming how the world sleeps. Our purpose is to drive long-term returns through sustainable competitive advantages and disciplined capital allocation as we oversee our investments in the $120 billion global bedding industry. Somnigroup’s fully-owned businesses include Tempur Sealy, Mattress Firm, Leggett & Platt, and Dreams, which collectively serve the evolving needs of consumers in more than 100 countries worldwide. We are guided by our core value of Doing the Right Thing and committed to our global responsibility to protect the environment and the communities in which we operate.
 What We Do
@@ -23,9 +23,11 @@ Somnigroup’s businesses serve consumers in over
 through more than
 2,800 retail stores
 , as well as
-45 e-commerce platforms, 170+ manufacturing facilities and 9 state-of-the-art R&D facilities
+45 e-commerce platforms, 170+ manufacturing facilities
+and 9 state-of-the-art R&D facilities
 . Our global operations are supported by
-36,000 best-in-class employees
+36,000
+best-in-class employees
 with a collective focus on transforming how the world sleeps.
 Our Brands
 Corporate Sustainability

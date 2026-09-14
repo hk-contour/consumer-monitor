@@ -231,10 +231,6 @@ Senior Frontend Engineer, Ads Creative
 Senior Frontend Engineer, Ads Creative
 Remote - United States
 Engineering
-Senior Frontend Engineer, Media
-Senior Frontend Engineer, Media
-Remote - United States
-Engineering
 Senior Machine Learning Engineer
 Senior Machine Learning Engineer
 Remote - Ontario, Canada
@@ -271,12 +267,6 @@ Remote - United States
 Engineering
 Senior Software Engineer - Messaging
 Senior Software Engineer - Messaging
-Remote - United States
-Engineering
-Senior Software Engineer, Ads
-Senior Software Engineer, Ads
-Remote - Ontario, Canada
-Senior Software Engineer, Ads
 Remote - United States
 Engineering
 Senior Software Engineer, Ads Creative Effectiveness
@@ -311,16 +301,8 @@ Senior Software Engineer, Media Experience
 Senior Software Engineer, Media Experience
 Remote - United States
 Engineering
-Senior Software Engineer, Presence
-Senior Software Engineer, Presence
-Remote - United States
-Engineering
 Senior Software Engineer, Storage
 Senior Software Engineer, Storage
-Remote - United States
-Engineering
-Senior Staff ML Engineer, Search & Recommendation
-Senior Staff ML Engineer, Search & Recommendation
 Remote - United States
 Engineering
 Senior Staff Machine Learning Engineer, Feed Relevance
@@ -426,12 +408,16 @@ Global Indirect Tax Manager
 Global Indirect Tax Manager
 Remote - United States
 Finance & Accounting
+Global Payroll Lead
+Global Payroll Lead
+Remote - United States
+Finance & Accounting
 Group Product Manager, Finance Technology
 Group Product Manager, Finance Technology
 Remote - United States
 Finance & Accounting
-International Payroll Lead
-International Payroll Lead
+International Payroll Analyst
+International Payroll Analyst
 Remote - United States
 Finance & Accounting
 Senior Director, Product & Technology Finance
@@ -484,8 +470,20 @@ Backend Software Engineer, PDP Experience
 Backend Software Engineer, PDP Experience
 Remote - United States
 Product
+Front End Software Engineer, Media Player
+Front End Software Engineer, Media Player
+Remote - United States
+Product
+Senior Frontend Engineer, Home Experience
+Senior Frontend Engineer, Home Experience
+Remote - United States
+Product
 Senior Product Manager, Ads -  Shopping Catalogs
 Senior Product Manager, Ads -  Shopping Catalogs
+Remote - United States
+Product
+Senior Software Engineer, Community Builders
+Senior Software Engineer, Community Builders
 Remote - United States
 Product
 Staff Product Manager, Ads Formats
@@ -523,9 +521,17 @@ Client Partner, Mid-Market Sales (Services - Acquisitions)
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 New York City, NY
 Sales
-Creative Strategist - App Dev
-Creative Strategist - App Dev
+Director, Revenue Strategy & Operations (Large Customer Sales)
+Director, Revenue Strategy & Operations (Large Customer Sales)
+Chicago, IL
+Director, Revenue Strategy & Operations (Large Customer Sales)
+Los Angeles, CA
+Director, Revenue Strategy & Operations (Large Customer Sales)
 New York City, NY
+Director, Revenue Strategy & Operations (Large Customer Sales)
+San Francisco, CA
+Director, Revenue Strategy & Operations (Large Customer Sales)
+Toronto, Canada
 Sales
 Manager, Large Customer Sales - UK
 Manager, Large Customer Sales - UK
@@ -587,6 +593,10 @@ Senior Client Partner, Large Customer Sales (Big Box Retail)
 Senior Client Partner, Large Customer Sales (Big Box Retail)
 New York City, NY
 Sales
+Senior Creative Strategist - App Dev
+Senior Creative Strategist - App Dev
+New York City, NY
+Sales
 Senior GTM Insights Automation Manager
 Senior GTM Insights Automation Manager
 Chicago, IL
@@ -596,12 +606,6 @@ Senior GTM Insights Automation Manager
 New York City, NY
 Senior GTM Insights Automation Manager
 San Francisco, CA
-Sales
-Senior Manager, Large Customer Sales (Entertainment)
-Senior Manager, Large Customer Sales (Entertainment)
-Los Angeles, CA
-Senior Manager, Large Customer Sales (Entertainment)
-New York City, NY
 Sales
 Senior Principal Program Manager, GTM Excellence
 Senior Principal Program Manager, GTM Excellence

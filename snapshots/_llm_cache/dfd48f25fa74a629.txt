@@ -1,0 +1,1 @@
+[ROUTINE] Headline capitalization standardized across newsroom posts (title case converted to sentence case). No content changes to any articles or announcements.

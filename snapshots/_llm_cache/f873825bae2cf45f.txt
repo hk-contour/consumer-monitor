@@ -1,0 +1,1 @@
+[ROUTINE] Footnote about pro forma 2025 net sales moved from net sales line to employees line; line breaks added to operational metrics text without changing substance.

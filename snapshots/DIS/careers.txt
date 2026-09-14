@@ -246,7 +246,6 @@ Hilton Head Island, South Carolina
 Ho Chi Minh City, Ho Chi Minh
 Houston, Texas
 Inglewood, California
-Istanbul, Istanbul
 Iver Heath, England
 Jakarta, Jakarta Special Capital Region
 Kapolei, Hawaii
@@ -263,7 +262,6 @@ Los Angeles, California
 Makati City, Metro Manila
 Marne-la-Vallée, Île-de-France Region
 Melbourne, Victoria
-Milan, Lombardy
 Minato-ku, Tokyo
 Montévrain, Île-de-France Region
 Moore Park, New South Wales
@@ -277,6 +275,7 @@ Ontario, California
 Orlando, Florida
 Oslo, Oslo County
 Palm Desert, California
+Petaling Jaya, Selangor
 Philadelphia, Pennsylvania
 Quarry Bay, Eastern
 Rancho Mirage, California
@@ -287,12 +286,14 @@ San Antonio, Texas
 San Francisco, California
 San Marcos, Texas
 Santa Monica, California
+São Paulo, São Paulo
 Seattle, Washington
 Seoul, Seoul
 Serris, Île-de-France Region
 Shanghai, Shanghai
 Singapore,
 Sofia, Sofia-grad
+Southington, Connecticut
 Stockholm, Stockholm County
 Sydney, New South Wales
 Taipei City, Taiwan
@@ -300,6 +301,7 @@ Tampa, Florida
 The Woodlands, Texas
 Tokyo, Tokyo
 Toronto, Ontario
+Town of Southington, Connecticut
 Vancouver, British Columbia
 Vienna, Vienna
 Villeneuve-le-Comte, Île-de-France Region

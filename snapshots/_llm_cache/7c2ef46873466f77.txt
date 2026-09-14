@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job opening counts and category ordering updated; AI & Machine Learning decreased from 16 to 15 positions, Business Development & Sales decreased from 19 to 18 positions, and category sections reordered.

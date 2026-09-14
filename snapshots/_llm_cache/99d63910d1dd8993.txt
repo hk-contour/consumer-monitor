@@ -1,0 +1,1 @@
+[ROUTINE] Reddit careers page updated with job listing changes including removal of several engineering roles (Frontend Media, Ads, Presence, Search & Recommendation ML), addition of new product roles (Media Player, Home Experience, Community Builders), restructuring of sales positions, and payroll function title changes from "International Payroll Lead" to "Analyst."
