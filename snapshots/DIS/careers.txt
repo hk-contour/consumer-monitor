@@ -226,6 +226,7 @@ Bristol, Connecticut
 Buenos Aires, Buenos Aires F.D.
 Burbank, California
 Celebration, Florida
+Charlotte, North Carolina
 Chessy, Île-de-France Region
 Chester, England
 Chiba, Chiba
@@ -302,11 +303,13 @@ The Woodlands, Texas
 Tokyo, Tokyo
 Toronto, Ontario
 Town of Southington, Connecticut
+Tulalip, Washington
 Vancouver, British Columbia
 Vienna, Vienna
 Villeneuve-le-Comte, Île-de-France Region
 Warsaw, Mazovia
 Washington, DC
+Winter Garden, Florida
 Zurich, Canton of Zurich
 Job Level
 Select

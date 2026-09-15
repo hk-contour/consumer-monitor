@@ -1,0 +1,1 @@
+[MATERIAL] Shopify reduced payment processing rates across multiple payment methods and tiers, replacing "Most competitive rates" placeholder text with specific reduced rates (e.g., online standard from 2.9%+30¢ to 2.25%+30¢, premium cards from 3.3% to 2.95%, in-person from 2.5% to 2.3%). Changes apply systematically across standard, professional, and advanced plans.

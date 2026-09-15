@@ -1,0 +1,1 @@
+[ROUTINE] Square's User Agreement updated communications section to add clarifications on message delivery liability and carrier rates, plus a "text HELP" support instruction for SMS communications.

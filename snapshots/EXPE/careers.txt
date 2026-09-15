@@ -138,7 +138,6 @@ Malaysia
 Mexico
 Singapore
 Spain
-Switzerland
 United Kingdom
 United States
 Search Jobs
@@ -212,15 +211,14 @@ Malaysia
 Mexico
 Singapore
 Spain
-Switzerland
 United Kingdom
 United States
 Search Jobs
 We currently have
-189
+196
 openings
 in
-15
+14
 countries.
 We're hiring in
 19
@@ -361,7 +359,6 @@ Malaysia
 Mexico
 Singapore
 Spain
-Switzerland
 United Kingdom
 United States
 State

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001962732</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001594805</issuerCik>
+            <issuerName>Shopify Inc.</issuerName>
+            <secFileNumber>001-37400</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>151 O'Connor Street, Ground Floor</ns2:street1>
+                <ns2:city>Ottawa</ns2:city>
+                <ns2:stateOrCountry>A6</ns2:stateOrCountry>
+                <ns2:zipCode>K2P 2L8</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>6132412828</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>JEFF HOFFMEISTER</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Class A</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>11647</noOfUnitsSold>
+            <aggregateMarketValue>1500017.13</aggregateMarketValue>
+            <noOfUnitsOutstanding>1208570347</noOfUnitsOutstanding>
+            <approxSaleDate>09/14/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <acquiredDate>09/09/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Vesting of RSUs</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>11647</amountOfSecuritiesAcquired>
+            <paymentDate>09/09/2025</paymentDate>
+            <natureOfPayment>Vesting of RSUs</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name> JEFF HOFFMEISTER</name>
+                <address>
+                    <ns2:street1>151 O'Connor Street, Ground Floor</ns2:street1>
+                    <ns2:city>Ottawa</ns2:city>
+                    <ns2:stateOrCountry>A6</ns2:stateOrCountry>
+                    <ns2:zipCode>K2P 2L8</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <saleDate>08/28/2026</saleDate>
+            <amountOfSecuritiesSold>1966</amountOfSecuritiesSold>
+            <grossProceeds>305224.84</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name> JEFF HOFFMEISTER</name>
+                <address>
+                    <ns2:street1>151 O'Connor Street, Ground Floor</ns2:street1>
+                    <ns2:city>Ottawa</ns2:city>
+                    <ns2:stateOrCountry>A6</ns2:stateOrCountry>
+                    <ns2:zipCode>K2P 2L8</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <saleDate>07/28/2026</saleDate>
+            <amountOfSecuritiesSold>1890</amountOfSecuritiesSold>
+            <grossProceeds>250476.03</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name> JEFF HOFFMEISTER</name>
+                <address>
+                    <ns2:street1>151 O'Connor Street, Ground Floor</ns2:street1>
+                    <ns2:city>Ottawa</ns2:city>
+                    <ns2:stateOrCountry>A6</ns2:stateOrCountry>
+                    <ns2:zipCode>K2P 2L8</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Class A Subordinate Voting Shares</securitiesClassTitle>
+            <saleDate>06/29/2026</saleDate>
+            <amountOfSecuritiesSold>1972</amountOfSecuritiesSold>
+            <grossProceeds>229281.68</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <remarks>The securities to be sold were acquired upon the vesting of restricted stock units during the period of 09/09/2025 through 12/29/2025.
+
+Aggregate market value calculated using 09/11/2026 closing price of $128.79 per share. Number of shares outstanding as of 09/14/2026. Dates of sale reflect a three month period starting on September 14th.</remarks>
+        <noticeSignature>
+            <noticeDate>09/14/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>06/13/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Jeff Hoffmeister</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

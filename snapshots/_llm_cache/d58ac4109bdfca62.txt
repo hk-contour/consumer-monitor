@@ -1,0 +1,1 @@
+[ROUTINE] News feed item count incremented from 10 to 11 posts on the newsroom page.

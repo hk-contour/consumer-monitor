@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001832806</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001820953</issuerCik>
+            <issuerName>AFFIRM HOLDINGS, INC.</issuerName>
+            <secFileNumber>001-39888</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>221 MAIN STREET, FLOOR 6</ns2:street1>
+                <ns2:city>SAN FRANCISCO</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>94105</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>(415) 960-1518</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>SIPHELELE JIYANE</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>26980</noOfUnitsSold>
+            <aggregateMarketValue>1947788.72</aggregateMarketValue>
+            <noOfUnitsOutstanding>296881962</noOfUnitsOutstanding>
+            <approxSaleDate>09/14/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>09/01/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1373</amountOfSecuritiesAcquired>
+            <paymentDate>09/01/2022</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>10/01/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2088</amountOfSecuritiesAcquired>
+            <paymentDate>10/01/2022</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>11/01/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2089</amountOfSecuritiesAcquired>
+            <paymentDate>11/01/2022</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>12/01/2022</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2093</amountOfSecuritiesAcquired>
+            <paymentDate>12/01/2022</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2436</amountOfSecuritiesAcquired>
+            <paymentDate>01/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>02/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1878</amountOfSecuritiesAcquired>
+            <paymentDate>02/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1958</amountOfSecuritiesAcquired>
+            <paymentDate>03/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>04/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1962</amountOfSecuritiesAcquired>
+            <paymentDate>04/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>05/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1842</amountOfSecuritiesAcquired>
+            <paymentDate>05/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>06/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1846</amountOfSecuritiesAcquired>
+            <paymentDate>06/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>07/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1844</amountOfSecuritiesAcquired>
+            <paymentDate>07/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>08/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1139</amountOfSecuritiesAcquired>
+            <paymentDate>08/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>09/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Restricted Stock Vesting Under a Registered Plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>4432</amountOfSecuritiesAcquired>
+            <paymentDate>09/01/2023</paymentDate>
+            <natureOfPayment>Services Rendered</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>SIPHELELE JIYANE</name>
+                <address>
+                    <ns2:street1>221 MAIN STREET</ns2:street1>
+                    <ns2:street2>FLOOR 6</ns2:street2>
+                    <ns2:city>San Francisco</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>94105</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/04/2026</saleDate>
+            <amountOfSecuritiesSold>25000</amountOfSecuritiesSold>
+            <grossProceeds>1810265.00</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>09/14/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Siphelele N Jiyane</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

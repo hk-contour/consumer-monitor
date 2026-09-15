@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001964100</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001835963</issuerCik>
+            <issuerName>GLOBAL-E ONLINE LTD</issuerName>
+            <secFileNumber>001-40408</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>9 HaPsagot Street</ns2:street1>
+                <ns2:city>Petah-Tikva</ns2:city>
+                <ns2:stateOrCountry>L3</ns2:stateOrCountry>
+                <ns2:zipCode>4951041</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>972732605078</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>OFER KOREN</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>12500</noOfUnitsSold>
+            <aggregateMarketValue>464750.00</aggregateMarketValue>
+            <noOfUnitsOutstanding>167967391</noOfUnitsOutstanding>
+            <approxSaleDate>09/14/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>09/14/2026</acquiredDate>
+            <natureOfAcquisitionTransaction>Exercise of Stock Options</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>12500</amountOfSecuritiesAcquired>
+            <paymentDate>09/14/2026</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>10b5-1 Sales for OFER KOREN</name>
+                <address>
+                    <ns2:street1>9 HaPsagot Street</ns2:street1>
+                    <ns2:city>Petah-Tikva</ns2:city>
+                    <ns2:stateOrCountry>L3</ns2:stateOrCountry>
+                    <ns2:zipCode>4951041</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/08/2026</saleDate>
+            <amountOfSecuritiesSold>12500</amountOfSecuritiesSold>
+            <grossProceeds>458440.49</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <remarks>The securities to be sold were and will be received upon the exercise of stock options over the next three months. The dates of acquisition and payment were and will be the dates of exercise/sale.&#13;
+</remarks>
+        <noticeSignature>
+            <noticeDate>09/14/2026</noticeDate>
+            <planAdoptionDates>
+                <planAdoptionDate>06/09/2026</planAdoptionDate>
+            </planAdoptionDates>
+            <signature>/s/ Ofer Koren</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

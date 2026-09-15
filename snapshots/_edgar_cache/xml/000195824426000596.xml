@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:edgarSubmission xmlns:com="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/ownership">
+    <ns2:headerData>
+        <ns2:submissionType>144</ns2:submissionType>
+        <ns2:filerInfo>
+            <ns2:filer>
+                <ns2:filerCredentials>
+                    <ns2:cik>0001848565</ns2:cik>
+                    <ns2:ccc>XXXXXXXX</ns2:ccc>
+                </ns2:filerCredentials>
+            </ns2:filer>
+            <ns2:liveTestFlag>LIVE</ns2:liveTestFlag>
+
+
+
+        </ns2:filerInfo>
+    </ns2:headerData>
+    <ns2:formData>
+        <ns2:issuerInfo>
+            <ns2:issuerCik>0001639920</ns2:issuerCik>
+            <ns2:issuerName>Spotify Technology S.A.</ns2:issuerName>
+            <ns2:secFileNumber>001-38438</ns2:secFileNumber>
+            <ns2:issuerAddress>
+                <com:street1>33 Boulevard Prince Henri</com:street1>
+                <com:city>Luxembourg</com:city>
+                <com:stateOrCountry>N4</com:stateOrCountry>
+                <com:zipCode>L-1724</com:zipCode>
+            </ns2:issuerAddress>
+            <ns2:issuerContactPhone>46(70)220-4607</ns2:issuerContactPhone>
+            <ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Stig Gustav Victor Soderstrom</ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <ns2:relationshipsToIssuer>
+                <ns2:relationshipToIssuer>Officer</ns2:relationshipToIssuer>
+            </ns2:relationshipsToIssuer>
+        </ns2:issuerInfo>
+        <ns2:securitiesInformation>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:brokerOrMarketmakerDetails>
+                <ns2:name>Goldman Sachs &amp; Co. LLC</ns2:name>
+                <ns2:address>
+                    <com:street1>200 West Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10282</com:zipCode>
+                </ns2:address>
+            </ns2:brokerOrMarketmakerDetails>
+            <ns2:noOfUnitsSold>83643</ns2:noOfUnitsSold>
+            <ns2:aggregateMarketValue>46531437.33</ns2:aggregateMarketValue>
+            <ns2:noOfUnitsOutstanding>205832527</ns2:noOfUnitsOutstanding>
+            <ns2:approxSaleDate>09/14/2026</ns2:approxSaleDate>
+            <ns2:securitiesExchangeName>NYSE</ns2:securitiesExchangeName>
+        </ns2:securitiesInformation>
+        <ns2:securitiesToBeSold>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:acquiredDate>03/01/2022</ns2:acquiredDate>
+            <ns2:natureOfAcquisitionTransaction>Acquired as compensation -- Stock Options</ns2:natureOfAcquisitionTransaction>
+            <ns2:nameOfPersonfromWhomAcquired>Issuer</ns2:nameOfPersonfromWhomAcquired>
+            <ns2:isGiftTransaction>N</ns2:isGiftTransaction>
+            <ns2:amountOfSecuritiesAcquired>83643</ns2:amountOfSecuritiesAcquired>
+            <ns2:paymentDate>03/01/2022</ns2:paymentDate>
+            <ns2:natureOfPayment>Compensation -- Cashless exercise / same-day sale</ns2:natureOfPayment>
+        </ns2:securitiesToBeSold>
+        <ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>N</ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>Stig Gustav Victor Soderstrom</ns2:name>
+                <ns2:address>
+                    <com:street1>33 Boulevard Prince Henri</com:street1>
+                    <com:city>Luxembourg</com:city>
+                    <com:stateOrCountry>N4</com:stateOrCountry>
+                    <com:zipCode>L-1724</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:saleDate>08/03/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>20833</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>10566492.41</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:securitiesSoldInPast3Months>
+            <ns2:sellerDetails>
+                <ns2:name>Stig Gustav Victor Soderstrom</ns2:name>
+                <ns2:address>
+                    <com:street1>33 Boulevard Prince Henri</com:street1>
+                    <com:city>Luxembourg</com:city>
+                    <com:stateOrCountry>N4</com:stateOrCountry>
+                    <com:zipCode>L-1724</com:zipCode>
+                </ns2:address>
+            </ns2:sellerDetails>
+            <ns2:securitiesClassTitle>Common</ns2:securitiesClassTitle>
+            <ns2:saleDate>07/06/2026</ns2:saleDate>
+            <ns2:amountOfSecuritiesSold>20833</ns2:amountOfSecuritiesSold>
+            <ns2:grossProceeds>9966708.1</ns2:grossProceeds>
+        </ns2:securitiesSoldInPast3Months>
+        <ns2:remarks>The sales of shares set forth herein are made in connection with a selling plan dated 06/12/2026, that is intended to comply with Rule 10b5-1(c).</ns2:remarks>
+        <ns2:noticeSignature>
+            <ns2:noticeDate>09/14/2026</ns2:noticeDate>
+            <ns2:planAdoptionDates>
+                <ns2:planAdoptionDate>06/12/2026</ns2:planAdoptionDate>
+            </ns2:planAdoptionDates>
+            <ns2:signature>Goldman Sachs &amp; Co. LLC on behalf of Stig Gustav Victor Soderstrom</ns2:signature>
+        </ns2:noticeSignature>
+    </ns2:formData>
+</ns2:edgarSubmission>

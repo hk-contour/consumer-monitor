@@ -45,6 +45,9 @@ Women Eng
 Women in Product
 Women of Reddit
 Work at Reddit
+Anti-Evil Operations
+We keep users safe by preventing the spread of abuse on Reddit, while centralizing our care on those that suffer the impact.
+See Roles
 Community
 We welcome the world to Reddit by supporting and nurturing our communities to ensure that they are the best community experiences on the internet.
 See Roles
@@ -84,6 +87,11 @@ See Roles
 User Experience
 We are a talented group of problem solvers, makers, and artists who define how users discover, create content, form communities, communicate and engage on Reddit.
 See Roles
+See all departments with jobs
+Anti-Evil Operations
+Staff Threat Analyst, Ads Fraud
+Staff Threat Analyst, Ads Fraud
+Remote - United States
 See all departments with jobs
 Community
 Community Manager - French speaker (contract)
@@ -152,12 +160,6 @@ Remote - Ontario, Canada
 Staff Data Scientist, Ads
 Remote - United States
 Data Science
-Staff Data Scientist, Consumer
-Staff Data Scientist, Consumer
-Remote - Ontario, Canada
-Staff Data Scientist, Consumer
-Remote - United States
-Data Science
 Staff Data Scientist, Marketing
 Staff Data Scientist, Marketing
 Remote - Ontario, Canada
@@ -171,10 +173,6 @@ Remote - United States
 Engineering
 Backend Engineer, IAM
 Backend Engineer, IAM
-Remote - United States
-Engineering
-Engineering Manager, Ads ML Efficiency
-Engineering Manager, Ads ML Efficiency
 Remote - United States
 Engineering
 Engineering Manager, Notifications Platform
@@ -269,6 +267,12 @@ Senior Software Engineer - Messaging
 Senior Software Engineer - Messaging
 Remote - United States
 Engineering
+Senior Software Engineer, Ads
+Senior Software Engineer, Ads
+Remote - Ontario, Canada
+Senior Software Engineer, Ads
+Remote - United States
+Engineering
 Senior Software Engineer, Ads Creative Effectiveness
 Senior Software Engineer, Ads Creative Effectiveness
 Remote - United States
@@ -345,6 +349,10 @@ Remote - United States
 Engineering
 Staff Android Engineer, Brand Ad Formats
 Staff Android Engineer, Brand Ad Formats
+Remote - United States
+Engineering
+Staff Machine Learning Engineer, AI Security
+Staff Machine Learning Engineer, AI Security
 Remote - United States
 Engineering
 Staff Machine Learning Engineer, Ads Foundational Representations
@@ -453,10 +461,6 @@ EMEA Insights Lead, Consumer and Commercial Strategy
 Remote - Germany
 See all departments with jobs
 Policy
-Trust and Safety Policy, Ads Policy,  Lead
-Trust and Safety Policy, Ads Policy,  Lead
-Remote - United States
-Policy
 Trust and Safety Policy, Ads Policy,  Lead (Europe)
 Trust and Safety Policy, Ads Policy,  Lead (Europe)
 Remote - Ireland
@@ -511,11 +515,21 @@ Sales
 3rd Party Partnerships Manager - Signals
 New York City, NY
 Sales
+Client Account Manager, Large Customer Sales (CPG)
+Client Account Manager, Large Customer Sales (CPG)
+Chicago, IL
+Client Account Manager, Large Customer Sales (CPG)
+New York City, NY
+Sales
 Client Account Manager, Large Customer Sales (Tech)
 Client Account Manager, Large Customer Sales (Tech)
 Los Angeles, CA
 Client Account Manager, Large Customer Sales (Tech)
 San Francisco, CA
+Sales
+Client Partner, Mid-Market Sales (Goods)
+Client Partner, Mid-Market Sales (Goods)
+Toronto, Canada
 Sales
 Client Partner, Mid-Market Sales (Services - Acquisitions)
 Client Partner, Mid-Market Sales (Services - Acquisitions)
@@ -565,10 +579,6 @@ Senior Client Account Manager, Global Strategic Accounts (UK)
 Senior Client Account Manager, Global Strategic Accounts (UK)
 London, United Kingdom
 Sales
-Senior Client Account Manager, Large Customer Sales (CPG)
-Senior Client Account Manager, Large Customer Sales (CPG)
-New York City, NY
-Sales
 Senior Client Account Manager, Large Customer Sales (Pharma)
 Senior Client Account Manager, Large Customer Sales (Pharma)
 Chicago, IL
@@ -593,6 +603,10 @@ Senior Client Partner, Large Customer Sales (Big Box Retail)
 Senior Client Partner, Large Customer Sales (Big Box Retail)
 New York City, NY
 Sales
+Senior Client Partner, Mid-Market (B2C Services Acquisitions)
+Senior Client Partner, Mid-Market (B2C Services Acquisitions)
+New York City, NY
+Sales
 Senior Creative Strategist - App Dev
 Senior Creative Strategist - App Dev
 New York City, NY
@@ -643,10 +657,6 @@ Staff Technical Program Manager
 Staff Technical Program Manager
 Remote - United States
 See all departments with jobs
-User Experience
-Principal Product Designer, Presence
-Principal Product Designer, Presence
-Remote - United States
 User Experience
 Principal UX Engineer, Ads
 Principal UX Engineer, Ads
