@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001841408</issuerCik>
+        <issuerName>Dave Inc./DE</issuerName>
+        <issuerTradingSymbol>DAVE</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001867755</rptOwnerCik>
+            <rptOwnerName>Wilk Jason</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>1265 SOUTH COCHRAN AVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Variable Prepaid Forward Contract (obligation to sell)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-09-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>true</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>37090</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>37090</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>37090</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On September 11, 2026, the Reporting Person entered into a variable prepaid forward contract with an unaffiliated counterparty. The contract obligates the Reporting Person to deliver shares of Dave Inc. (the &quot;Issuer&quot;) Class A Common Stock or, at the Reporting Person's election subject to certain conditions, settle the contract in cash, on a settlement date on or about August 30, 2029 (the &quot;Maturity Date&quot;). In exchange, the Reporting Person will receive an upfront cash payment of $10.9 million. The Reporting Person pledged 37,090 shares of the Issuer's Class A Common Stock (the &quot;Subject Shares&quot;) to secure his obligations under the contract. The Reporting Person will retain all voting rights in the Subject Shares during the term of the pledge.</footnote>
+        <footnote id="F2">If the Reporting Person does not elect to settle the contract in cash, the number of shares of the Issuer's Class A Common Stock that may be delivered by the Reporting Person following the Maturity Date will generally be determined as follows: (a) if the closing price of shares of the Issuer's Class A Common Stock on the Maturity Date (the &quot;Settlement Price&quot;) is less than $481.48 (the &quot;Maximum Price&quot;) but greater than $319.33 (the &quot;Minimum Price&quot;), the Reporting Person will deliver a number of shares of the Issuer's Class A Common Stock equal to the Subject Shares multiplied by a ratio equal to the Minimum Price divided by the Settlement Price;</footnote>
+        <footnote id="F3">[Continued from footnote 2] (b) if the Settlement Price is equal to or greater than the Maximum Price on the Maturity Date, the Reporting Person will deliver a number of shares of the Issuer's Class A Common Stock equal to the Subject Shares multiplied by a ratio equal to a fraction with a numerator equal to the sum of (A) the Minimum Price and (B) the excess, if any, of the Settlement Price over the Maximum Price, and a denominator equal to the Settlement Price; and (c) if the Settlement Price is equal to or less than the Minimum Price on the Maturity Date, the Reporting Person will deliver a number of shares of the Issuer's Class A Common Stock equal to the Subject Shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joan Aristei as Attorney-in-Fact for Jason Wilk</signatureName>
+        <signatureDate>2026-09-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

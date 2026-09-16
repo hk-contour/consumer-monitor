@@ -309,6 +309,10 @@ Senior Software Engineer, Storage
 Senior Software Engineer, Storage
 Remote - United States
 Engineering
+Senior Staff Machine Learning Engineer, Ads Ranking
+Senior Staff Machine Learning Engineer, Ads Ranking
+Remote - United States
+Engineering
 Senior Staff Machine Learning Engineer, Feed Relevance
 Senior Staff Machine Learning Engineer, Feed Relevance
 Remote - United States
@@ -381,8 +385,16 @@ Staff Software Engineer , Observability
 Staff Software Engineer , Observability
 Remote - United States
 Engineering
+Staff Software Engineer - Ingestion Platform
+Staff Software Engineer - Ingestion Platform
+Remote - United States
+Engineering
 Staff Software Engineer - Site Defense
 Staff Software Engineer - Site Defense
+Remote - United States
+Engineering
+Staff Software Engineer, Consumer Engineering
+Staff Software Engineer, Consumer Engineering
 Remote - United States
 Engineering
 Staff Software Engineer, DevPlatform
@@ -460,6 +472,10 @@ EMEA Insights Lead, Consumer and Commercial Strategy
 EMEA Insights Lead, Consumer and Commercial Strategy
 Remote - Germany
 See all departments with jobs
+Policy
+Trust and Safety Policy, Ads Policy,  Lead
+Trust and Safety Policy, Ads Policy,  Lead
+Remote - United States
 Policy
 Trust and Safety Policy, Ads Policy,  Lead (Europe)
 Trust and Safety Policy, Ads Policy,  Lead (Europe)
@@ -547,6 +563,10 @@ San Francisco, CA
 Director, Revenue Strategy & Operations (Large Customer Sales)
 Toronto, Canada
 Sales
+Lead Client Partner, Global Strategic Accounts (Tech)
+Lead Client Partner, Global Strategic Accounts (Tech)
+New York City, NY
+Sales
 Manager, Large Customer Sales - UK
 Manager, Large Customer Sales - UK
 London, United Kingdom
@@ -601,6 +621,8 @@ London, United Kingdom
 Sales
 Senior Client Partner, Large Customer Sales (Big Box Retail)
 Senior Client Partner, Large Customer Sales (Big Box Retail)
+Chicago, IL
+Senior Client Partner, Large Customer Sales (Big Box Retail)
 New York City, NY
 Sales
 Senior Client Partner, Mid-Market (B2C Services Acquisitions)
@@ -629,10 +651,6 @@ Los Angeles, CA
 Senior Principal Program Manager, GTM Excellence
 New York City, NY
 Senior Principal Program Manager, GTM Excellence
-San Francisco, CA
-Sales
-Senior Product Manager, GTM Automation
-Senior Product Manager, GTM Automation
 San Francisco, CA
 See all departments with jobs
 Security, Privacy, & Assurance

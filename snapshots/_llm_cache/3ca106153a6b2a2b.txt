@@ -1,0 +1,1 @@
+[ROUTINE] Two job locations added to careers page (Chicago, Illinois and Commerce, California). This is a standard update to the list of hiring locations with no relevance to monitored metrics.

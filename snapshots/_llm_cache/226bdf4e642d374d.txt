@@ -1,0 +1,1 @@
+[MATERIAL] Shopify removed "Shopify Tax automated filing" feature from pricing page across multiple plan tiers, suggesting either deprecation of this capability or repositioning of tax filing functionality.

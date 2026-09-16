@@ -1,0 +1,1 @@
+[ROUTINE] Removed "Your Privacy Choices" link from footer on Instacart+ pricing page.

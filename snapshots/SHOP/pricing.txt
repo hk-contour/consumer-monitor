@@ -221,7 +221,6 @@ Schedule, pay, and manage bills with Shopify Bill Pay
 Tax
 Automated sales tax calculations
 Tax liability tracking
-Shopify Tax automated filing
 VAT validation, exemptions, and invoicing
 Advanced tax platform
 Add on
@@ -446,7 +445,6 @@ Schedule, pay, and manage bills with Shopify Bill Pay
 Tax
 Automated sales tax calculations
 Tax liability tracking
-Shopify Tax automated filing
 VAT validation, exemptions, and invoicing
 Advanced tax platform
 Add on

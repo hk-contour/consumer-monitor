@@ -1,0 +1,1 @@
+[ROUTINE] Disney+ pricing page reordered content catalog listings (added/removed years and genre tags) and renamed the "Streams" feature to "Playlists" with updated feature description; no pricing tier or ARPU-affecting changes detected.

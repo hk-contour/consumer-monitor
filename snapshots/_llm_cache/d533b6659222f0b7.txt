@@ -1,0 +1,1 @@
+[ROUTINE] Clarification of AI training opt-out language in Project Materials definition, changing "unless and until you separately and specifically enable" to "unless the control...is enabled, which you can toggle at your discretion"—a rewording for clarity with no substantive change to user rights.

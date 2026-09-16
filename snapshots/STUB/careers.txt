@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-27 jobs
+28 jobs
 StubHub
 Business Development
 Job
@@ -27,10 +27,8 @@ StubHub / Engineering / Data
 Fin Tech
 Job
 Engineering Manager - FinTech
-New
 New York, New York, United States
 Engineering Manager - FinTech
-New
 Los Angeles, California, United States
 StubHub / Engineering / Enterprise Engineering
 Supply Engineering
@@ -54,10 +52,8 @@ StubHub / Finance
 Tax
 Job
 Manager, International Income Tax
-New
 New York, New York, United States
 Senior Tax Accountant - Income Tax
-New
 New York, New York, United States
 Senior Tax Accountant - Indirect Tax
 New
@@ -74,9 +70,6 @@ Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist 2
 New
 Atlanta, Georgia, United States
-Strategy & Operations Associate - Global Customer Success
-New
-Atlanta, Georgia, United States
 StubHub
 Legal
 Job
@@ -90,6 +83,15 @@ New
 New York, New York, United States
 Product Manager - Paid Search
 New York, New York, United States
+StubHub / Product
+Product Admission Ops
+Job
+Senior Product Manager - Internal Tools & AI Workflows, Customer Success
+New
+New York, New York, United States
+Strategy & Operations Associate - Global Customer Success
+New
+Atlanta, Georgia, United States
 StubHub / Product
 Product Catalog
 Job

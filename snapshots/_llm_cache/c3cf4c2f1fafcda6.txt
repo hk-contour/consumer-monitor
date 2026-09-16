@@ -1,0 +1,1 @@
+[ROUTINE] Internal tracking IDs updated in terms page footer; no change to terms content or user-facing policies.

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001607459</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001326801</issuerCik>
+      <issuerName>Meta Platforms, Inc.</issuerName>
+      <secFileNumber>001-35551</secFileNumber>
+      <issuerAddress>
+        <com:street1>1 META WAY</com:street1>
+        <com:city>MENLO PARK</com:city>
+        <com:stateOrCountry>CA</com:stateOrCountry>
+        <com:zipCode>94025</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>650-543-4800</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Cox Christopher K</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Class A Common Shares</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Charles Schwab &amp; Co. Inc.</name>
+        <address>
+          <com:street1>3000 Schwab Way</com:street1>
+          <com:city>Westlake</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>76262</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>20000</noOfUnitsSold>
+      <aggregateMarketValue>13504556.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>2205128509</noOfUnitsOutstanding>
+      <approxSaleDate>09/15/2026</approxSaleDate>
+      <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>05/15/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>6324</amountOfSecuritiesAcquired>
+      <paymentDate>05/15/2022</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <securitiesToBeSold>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <acquiredDate>08/15/2022</acquiredDate>
+      <natureOfAcquisitionTransaction>Restricted Stock Lapse</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>Meta Platforms Inc.</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>13676</amountOfSecuritiesAcquired>
+      <paymentDate>08/15/2022</paymentDate>
+      <natureOfPayment>Equity Compensation</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>CHRISTOPHER K. COX</name>
+        <address>
+          <com:street1>1 META WAY</com:street1>
+          <com:city>MENLO PARK</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94025</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>Meta Platforms, Inc.</securitiesClassTitle>
+      <saleDate>09/09/2026</saleDate>
+      <amountOfSecuritiesSold>20000</amountOfSecuritiesSold>
+      <grossProceeds>13005575.00</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <remarks>The Shares reported on this Form 144 will be sold pursuant to a Rule 10b5-1 trading plan. The shares were sold in the account CHRISTOPHER K. COX REVOCABLE TRUST.</remarks>
+    <noticeSignature>
+      <noticeDate>09/15/2026</noticeDate>
+      <planAdoptionDates>
+        <planAdoptionDate>05/19/2026</planAdoptionDate>
+      </planAdoptionDates>
+      <signature>CHRISTOPHER K. COX TTEE</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>
