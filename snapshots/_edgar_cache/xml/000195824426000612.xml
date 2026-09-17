@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><ns2:edgarSubmission xmlns:com="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/ownership">
+    <ns2:headerData>
+        <ns2:submissionType>144</ns2:submissionType>
+        <ns2:filerInfo>
+            <ns2:filer>
+                <ns2:filerCredentials>
+                    <ns2:cik>0001946355</ns2:cik>
+                    <ns2:ccc>XXXXXXXX</ns2:ccc>
+                </ns2:filerCredentials>
+            </ns2:filer>
+            <ns2:liveTestFlag>LIVE</ns2:liveTestFlag>
+
+
+
+        </ns2:filerInfo>
+    </ns2:headerData>
+    <ns2:formData>
+        <ns2:issuerInfo>
+            <ns2:issuerCik>0000719955</ns2:issuerCik>
+            <ns2:issuerName>Williams-Sonoma, Inc.</ns2:issuerName>
+            <ns2:secFileNumber>001-14077</ns2:secFileNumber>
+            <ns2:issuerAddress>
+                <com:street1>3250 Van Ness Avenue</com:street1>
+                <com:city>San Francisco</com:city>
+                <com:stateOrCountry>CA</com:stateOrCountry>
+                <com:zipCode>94109</com:zipCode>
+            </ns2:issuerAddress>
+            <ns2:issuerContactPhone>1-415-421-7900</ns2:issuerContactPhone>
+            <ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Jeffrey E. Howie</ns2:nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <ns2:relationshipsToIssuer>
+                <ns2:relationshipToIssuer>Officer</ns2:relationshipToIssuer>
+            </ns2:relationshipsToIssuer>
+        </ns2:issuerInfo>
+        <ns2:securitiesInformation>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:brokerOrMarketmakerDetails>
+                <ns2:name>Goldman Sachs &amp; Co. LLC</ns2:name>
+                <ns2:address>
+                    <com:street1>200 West Street</com:street1>
+                    <com:city>New York</com:city>
+                    <com:stateOrCountry>NY</com:stateOrCountry>
+                    <com:zipCode>10282</com:zipCode>
+                </ns2:address>
+            </ns2:brokerOrMarketmakerDetails>
+            <ns2:noOfUnitsSold>3045</ns2:noOfUnitsSold>
+            <ns2:aggregateMarketValue>664419</ns2:aggregateMarketValue>
+            <ns2:noOfUnitsOutstanding>117779173</ns2:noOfUnitsOutstanding>
+            <ns2:approxSaleDate>09/16/2026</ns2:approxSaleDate>
+            <ns2:securitiesExchangeName>NYSE</ns2:securitiesExchangeName>
+        </ns2:securitiesInformation>
+        <ns2:securitiesToBeSold>
+            <ns2:securitiesClassTitle>Common Stock</ns2:securitiesClassTitle>
+            <ns2:acquiredDate>09/12/2026</ns2:acquiredDate>
+            <ns2:natureOfAcquisitionTransaction>Acquired as compensation -- Restricted Stock Units</ns2:natureOfAcquisitionTransaction>
+            <ns2:nameOfPersonfromWhomAcquired>Williams Sonoma Inc.</ns2:nameOfPersonfromWhomAcquired>
+            <ns2:isGiftTransaction>N</ns2:isGiftTransaction>
+            <ns2:amountOfSecuritiesAcquired>3045</ns2:amountOfSecuritiesAcquired>
+            <ns2:paymentDate>09/12/2026</ns2:paymentDate>
+            <ns2:natureOfPayment>Compensation</ns2:natureOfPayment>
+        </ns2:securitiesToBeSold>
+        <ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>Y</ns2:nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <ns2:remarks>The sales of shares set forth herein are made in connection with a selling plan dated 11/21/2025 that is intended to comply with Rule 10b5-1(c). </ns2:remarks>
+        <ns2:noticeSignature>
+            <ns2:noticeDate>09/16/2026</ns2:noticeDate>
+            <ns2:planAdoptionDates>
+                <ns2:planAdoptionDate>11/21/2025</ns2:planAdoptionDate>
+            </ns2:planAdoptionDates>
+            <ns2:signature>Goldman Sachs &amp; Co. LLC on behalf of Jeffrey E. Howie</ns2:signature>
+        </ns2:noticeSignature>
+    </ns2:formData>
+</ns2:edgarSubmission>

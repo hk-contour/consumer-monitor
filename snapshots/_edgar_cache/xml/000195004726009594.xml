@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001921268</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0001841408</issuerCik>
+            <issuerName>DAVE INC.</issuerName>
+            <secFileNumber>001-40161</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>1265 SOUTH COCHRAN AVENUE</ns2:street1>
+                <ns2:city>LOS ANGELES</ns2:city>
+                <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                <ns2:zipCode>90019</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>8448573283</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>YADIN ROZOV</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Former Affiliate</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>54782</noOfUnitsSold>
+            <aggregateMarketValue>20263544.06</aggregateMarketValue>
+            <noOfUnitsOutstanding>11441425</noOfUnitsOutstanding>
+            <approxSaleDate>09/16/2026</approxSaleDate>
+            <securitiesExchangeName>NASDAQ</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>12/04/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>12941</amountOfSecuritiesAcquired>
+            <paymentDate>12/04/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>06/09/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1862</amountOfSecuritiesAcquired>
+            <paymentDate>06/09/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>05/04/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1200</amountOfSecuritiesAcquired>
+            <paymentDate>05/04/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>05/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1200</amountOfSecuritiesAcquired>
+            <paymentDate>05/01/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>04/24/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1200</amountOfSecuritiesAcquired>
+            <paymentDate>04/24/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>04/10/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>20000</amountOfSecuritiesAcquired>
+            <paymentDate>04/10/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/13/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1149</amountOfSecuritiesAcquired>
+            <paymentDate>03/13/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/10/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>3000</amountOfSecuritiesAcquired>
+            <paymentDate>03/10/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/09/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>2000</amountOfSecuritiesAcquired>
+            <paymentDate>03/09/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/08/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1000</amountOfSecuritiesAcquired>
+            <paymentDate>03/08/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/07/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1598</amountOfSecuritiesAcquired>
+            <paymentDate>03/07/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/02/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1000</amountOfSecuritiesAcquired>
+            <paymentDate>03/02/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/01/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1000</amountOfSecuritiesAcquired>
+            <paymentDate>03/01/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>02/27/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>3500</amountOfSecuritiesAcquired>
+            <paymentDate>02/27/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>02/24/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1065</amountOfSecuritiesAcquired>
+            <paymentDate>02/24/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>01/31/2023</acquiredDate>
+            <natureOfAcquisitionTransaction>Open Market Purchase</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Open Market</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>1067</amountOfSecuritiesAcquired>
+            <paymentDate>01/31/2023</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>Yadin Rozov</name>
+                <address>
+                    <ns2:street1>1265 South Cochran Avenue</ns2:street1>
+                    <ns2:city>Los Angeles</ns2:city>
+                    <ns2:stateOrCountry>CA</ns2:stateOrCountry>
+                    <ns2:zipCode>90019</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>09/08/2026</saleDate>
+            <amountOfSecuritiesSold>11184</amountOfSecuritiesSold>
+            <grossProceeds>4192780.26</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <remarks>The shares to be sold are subject to variable pre-paid forward sale contracts (the Contracts) between Yadin Rozov (Counterparty) and Morgan Stanley Bank, N.A. (MSBNA).  The Contracts provide for an up-front cash payment to the Counterparty.  At maturity of the Contracts, the Counterparty will be obligated to deliver to MSBNA a number of shares as determined by a formula specified in the Contract (or the cash equivalent thereof) and may, under certain circumstances, receive an additional cash payment.  Any initial hedging activity in connection with the Contracts will be conducted by or through MSBNA.</remarks>
+        <noticeSignature>
+            <noticeDate>09/16/2026</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Yardin Rozov</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission>

@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job listings reordered and consolidated with minor title standardization (e.g., "Community Manager - French speaker" to "Community Manager, French Speaking"); positions added in Consumer Engineering and Machine Learning Retrieval roles while some sales and iOS positions were removed.

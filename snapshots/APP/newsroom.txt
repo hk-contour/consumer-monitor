@@ -8,6 +8,9 @@ Academy
 search
 Date published
 arrow_downward
+Product
+Ad quality tools should catch bad ads, not collect other networks' user-level data
+Sep 16, 2026  •  Adam Foroughi
 Company
 AppLovin Ads is now open to all advertisers
 Jun 22, 2026  •  Adam Foroughi
@@ -32,9 +35,6 @@ Mar 4, 2026  •  Brian Kelly
 Product
 Introducing Discovery Campaigns for AppLovin advertisers
 Feb 25, 2026  •  Jack Armand
-Academy
-Designing creatives for a full attention environment
-Feb 20, 2026  •  Adam Foroughi
 This blog reflects how we think about building products and teams today. It shares perspectives and experiences rather than formal policies or commitments, and our approaches may evolve over time. Descriptions are intentionally high-level and are not meant to represent exhaustive technical, organizational, or product details. Blog posts speak as of the date published and are not subsequently reviewed or maintained. Posts may include forward-looking statements within the meaning of securities law relating to our business and strategies, which are subject to risks disclosed in our SEC filings.
 In the news
 Adam Foroughi and Giovanni Ge on Sourcery
@@ -52,6 +52,9 @@ Academy
 search
 Date published
 arrow_downward
+Product
+Ad quality tools should catch bad ads, not collect other networks' user-level data
+Sep 16, 2026  •  Adam Foroughi
 Company
 AppLovin Ads is now open to all advertisers
 Jun 22, 2026  •  Adam Foroughi
@@ -76,9 +79,6 @@ Mar 4, 2026  •  Brian Kelly
 Product
 Introducing Discovery Campaigns for AppLovin advertisers
 Feb 25, 2026  •  Jack Armand
-Academy
-Designing creatives for a full attention environment
-Feb 20, 2026  •  Adam Foroughi
 This blog reflects how we think about building products and teams today. It shares perspectives and experiences rather than formal policies or commitments, and our approaches may evolve over time. Descriptions are intentionally high-level and are not meant to represent exhaustive technical, organizational, or product details. Blog posts speak as of the date published and are not subsequently reviewed or maintained. Posts may include forward-looking statements within the meaning of securities law relating to our business and strategies, which are subject to risks disclosed in our SEC filings.
 In the news
 Adam Foroughi and Giovanni Ge on Sourcery
@@ -90,7 +90,7 @@ arrow_forward
 -
 9
 of
-13
+14
 chevron_left
 1
 2
@@ -99,7 +99,7 @@ chevron_right
 -
 9
 of
-13
+14
 chevron_left
 1
 2

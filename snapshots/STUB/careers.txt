@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-28 jobs
+32 jobs
 StubHub
 Business Development
 Job
@@ -16,12 +16,12 @@ Account Executive - Mexico
 New
 Mexico City, Ciudad de México, Mexico
 Key Account Manager - Mexico
-New
 Mexico City, Ciudad de México, Mexico
 StubHub / Engineering
 Consumer Experience
 Job
 Engineering Manager - Consumer Product (Event)
+New
 New York, New York, United States
 StubHub / Engineering / Data
 Fin Tech
@@ -56,7 +56,6 @@ New York, New York, United States
 Senior Tax Accountant - Income Tax
 New York, New York, United States
 Senior Tax Accountant - Indirect Tax
-New
 New York, New York, United States
 StubHub
 Global Customer Service
@@ -68,7 +67,6 @@ Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist 1
 Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist 2
-New
 Atlanta, Georgia, United States
 StubHub
 Legal
@@ -97,6 +95,20 @@ Product Catalog
 Job
 Senior Product Manager - Seller Experience
 New York, New York, United States
+StubHub / Product
+Product Consumer Experience
+Job
+Associate Product Manager - Marketing Operations and Automation
+New York, New York, United States
+Staff Product Manager - Payments
+New
+New York, New York, United States
+Staff Product Manager - Payments
+New
+Los Angeles, California, United States
+Staff Product Manager - Payments
+New
+San Francisco, California, United States
 StubHub
 Strategic Communications
 Job

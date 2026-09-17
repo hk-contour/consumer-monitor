@@ -4,6 +4,9 @@ Top 10 in the US today
 2026
 •
 Action and Adventure, Science Fiction
+2026
+•
+Drama, Music, Crime
 1995
 •
 Action and Adventure, Buddy, Comedy, Animation
@@ -13,21 +16,21 @@ Action and Adventure, Comedy, Animation
 2010
 •
 Comedy, Animation
-2026
-•
-Documentaries
-2026
-•
-Drama, Music, Crime
 2019
 •
 Action and Adventure, Comedy, Animation
+2026
+•
+Documentaries
 2009
 •
 Drama, Kids, Animation, Science Fiction, Fantasy
 2012
 •
 Kids, Cartoons, Animation
+2026
+•
+Drama, Mystery, Comedy, Procedural
 Choose your plan
 Use the drop-down menu to compare plans.* Switch or cancel** anytime.
 Disney+, Hulu
@@ -43,7 +46,8 @@ SELECT
 SELECT
 Monthly price
 ^
-$11.99 / mo for 6 months
+$99.99/mo
+$49.99 for 1 month^
 $17.99 / mo for 6 months
 Reg. monthly or 6 month plan options
 Monthly savings

@@ -94,10 +94,6 @@ Staff Threat Analyst, Ads Fraud
 Remote - United States
 See all departments with jobs
 Community
-Community Manager - French speaker (contract)
-Community Manager - French speaker (contract)
-Remote - United Kingdom
-Community
 Community Manager, French Speaking (Contract)
 Community Manager, French Speaking (Contract)
 Remote - United Kingdom
@@ -195,10 +191,6 @@ Machine Learning Manager, Feed Relevance (Retrieval)
 Machine Learning Manager, Feed Relevance (Retrieval)
 Remote - United States
 Engineering
-Principal Engineer, iOS Performance
-Principal Engineer, iOS Performance
-Remote - United States
-Engineering
 Product Manager, Developer Ecosystem
 Product Manager, Developer Ecosystem
 Remote - United States
@@ -281,6 +273,10 @@ Senior Software Engineer, Agentic Ads Experience
 Senior Software Engineer, Agentic Ads Experience
 Remote - United States
 Engineering
+Senior Software Engineer, Consumer Engineering
+Senior Software Engineer, Consumer Engineering
+Remote - United States
+Engineering
 Senior Software Engineer, Core Platform
 Senior Software Engineer, Core Platform
 Chicago, IL
@@ -347,6 +343,10 @@ Remote - Ontario, Canada
 Software Engineer, Ads
 Remote - United States
 Engineering
+Software Engineer, Consumer Engineering
+Software Engineer, Consumer Engineering
+Remote - United States
+Engineering
 Software Engineer, Content Platform
 Software Engineer, Content Platform
 Remote - United States
@@ -367,6 +367,10 @@ Remote - United Kingdom
 Engineering
 Staff Machine Learning Engineer, Consumer
 Staff Machine Learning Engineer, Consumer
+Remote - United States
+Engineering
+Staff Machine Learning Engineer, Retrieval
+Staff Machine Learning Engineer, Retrieval
 Remote - United States
 Engineering
 Staff Machine Learning Infrastructure Engineer, Embedding Platform
@@ -543,13 +547,13 @@ Los Angeles, CA
 Client Account Manager, Large Customer Sales (Tech)
 San Francisco, CA
 Sales
+Client Partner, Mid-Market Sales (B2B Services - Acquisitions)
+Client Partner, Mid-Market Sales (B2B Services - Acquisitions)
+New York City, NY
+Sales
 Client Partner, Mid-Market Sales (Goods)
 Client Partner, Mid-Market Sales (Goods)
 Toronto, Canada
-Sales
-Client Partner, Mid-Market Sales (Services - Acquisitions)
-Client Partner, Mid-Market Sales (Services - Acquisitions)
-New York City, NY
 Sales
 Director, Revenue Strategy & Operations (Large Customer Sales)
 Director, Revenue Strategy & Operations (Large Customer Sales)
@@ -603,12 +607,6 @@ Senior Client Account Manager, Large Customer Sales (Pharma)
 Senior Client Account Manager, Large Customer Sales (Pharma)
 Chicago, IL
 Senior Client Account Manager, Large Customer Sales (Pharma)
-New York City, NY
-Sales
-Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
-Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
-Chicago, IL
-Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)
 New York City, NY
 Sales
 Senior Client Partner, Acquisitions DACH

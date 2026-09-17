@@ -115,7 +115,6 @@ Category
 All
 Administration
 Commercial
-Corporate Solutions
 Creative Communication
 Finance
 Human Resources
@@ -139,6 +138,7 @@ Malaysia
 Mexico
 Singapore
 Spain
+Switzerland
 United Kingdom
 United States
 Search Jobs
@@ -150,7 +150,6 @@ Expedia Group Team
 All
 Administration
 Commercial
-Corporate Solutions
 Creative Communication
 Finance
 Human Resources
@@ -168,7 +167,6 @@ Administration
 Advertising
 Architecture
 Business Development
-Business Programs
 Commercial Finance
 Creative
 Creative Comms
@@ -180,10 +178,11 @@ Experience Design
 FinOps
 FP&A
 Fraud and Risk
-HR Business Partner
 Infrastructure & Enterprise Engineering
+Learning & Development
 Legal
 Marketing Intelligence
+Media
 Partner Marketing
 Partner Sales
 Performance Marketing
@@ -199,7 +198,6 @@ Technical Operations
 Total Rewards
 Treasury
 Vendor Service & Operations Management
-Workforce Planning
 Location
 All
 Brazil
@@ -214,14 +212,15 @@ Malaysia
 Mexico
 Singapore
 Spain
+Switzerland
 United Kingdom
 United States
 Search Jobs
 We currently have
-211
+219
 openings
 in
-14
+15
 countries.
 We're hiring in
 19
@@ -337,7 +336,6 @@ Category
 All
 Administration
 Commercial
-Corporate Solutions
 Creative Communication
 Finance
 Human Resources
@@ -363,6 +361,7 @@ Malaysia
 Mexico
 Singapore
 Spain
+Switzerland
 United Kingdom
 United States
 State
