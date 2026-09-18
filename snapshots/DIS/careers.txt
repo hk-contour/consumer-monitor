@@ -220,7 +220,6 @@ Anaheim, California
 Bangkok, Bangkok
 Bay Lake, Florida
 Bengaluru, Karnataka
-Bentonville, Arkansas
 Branson, Missouri
 Bristol, Connecticut
 Buenos Aires, Buenos Aires F.D.
@@ -259,7 +258,6 @@ Lantau Island, Islands District
 Las Vegas, Nevada
 Lisbon, Lisbon District
 London, England
-Makati City, Metro Manila
 Marne-la-Vallée, Île-de-France Region
 Melbourne, Victoria
 Mexico City, Mexico City
@@ -306,7 +304,7 @@ Tokyo, Tokyo
 Toronto, Ontario
 Tulalip, Washington
 Vancouver, British Columbia
-Vienna, Vienna
+Vero Beach, Florida
 Villeneuve-le-Comte, Île-de-France Region
 Warsaw, Mazovia
 Washington, DC

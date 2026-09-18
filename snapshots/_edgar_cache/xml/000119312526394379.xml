@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-09-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0002052959</issuerCik>
+        <issuerName>Lionsgate Studios Corp.</issuerName>
+        <issuerTradingSymbol>LION</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001194368</rptOwnerCik>
+            <rptOwnerName>RACHESKY MARK H MD</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>40 WEST 57TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>FLOOR 24</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>true</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6792</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.19</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>269004</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-09-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>13405</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.19</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13405</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20107</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2385199</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>310381</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4607598</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F7"/>
+                    <footnoteId id="F8"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>797526</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F9"/>
+                    <footnoteId id="F10"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1916271</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F11"/>
+                    <footnoteId id="F12"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11154680</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F13"/>
+                    <footnoteId id="F14"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>172159</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F15"/>
+                    <footnoteId id="F16"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>499765</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F17"/>
+                    <footnoteId id="F18"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4049507</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F19"/>
+                    <footnoteId id="F20"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11755412</value>
+                    <footnoteId id="F23"/>
+                    <footnoteId id="F24"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnotes</value>
+                    <footnoteId id="F21"/>
+                    <footnoteId id="F22"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Director fees granted in Common Shares of the Issuer.</footnote>
+        <footnote id="F2">These are restricted share units granted by the Issuer, payable upon vesting in an equal number of Common Shares, which are scheduled to vest in one annual installment on September 15, 2027.</footnote>
+        <footnote id="F3">These are restricted share units granted by the Issuer, payable upon vesting in an equal number of Common Shares, which are scheduled to vest in one annual installment on November 28, 2026.</footnote>
+        <footnote id="F4">These Common Shares are held for the account of MHR Capital Partners Master Account LP, an Anguilla, British West Indies limited partnership (&quot;Master Account&quot;). MHR Advisors LLC, a Delaware limited liability company (&quot;Advisors&quot;), is the general partner of Master Account. MHRC LLC, a Delaware limited liability company (&quot;MHRC&quot;), is the managing member of Advisors. Mark H. Rachesky, M.D. (&quot;Dr. Rachesky&quot;) is the managing member of MHRC. MHR Fund Management LLC (&quot;Fund Management&quot;) has an investment management agreement with Master Account pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of Master Account. MHR Holdings LLC, a Delaware limited liability company (&quot;MHR Holdings&quot;), is the managing member of Fund Management. (Continued to footnote 5)</footnote>
+        <footnote id="F5">Accordingly, Advisors, MHRC, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of Master Account. Each of Advisors, MHRC, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F6">These Common Shares are held for the account of MHR Capital Partners (100) LP, a Delaware limited partnership (&quot;Capital Partners (100)&quot;). Advisors is the general partner of Capital Partners (100). MHRC is the managing member of Advisors. Dr. Rachesky is the managing member of MHRC. Fund Management has an investment management agreement with Capital Partners (100) pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of Capital Partners (100). MHR Holdings is the managing member of Fund Management. Accordingly, Advisors, MHRC, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of Capital Partners (100). Each of Advisors, MHRC, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F7">These Common Shares are held for the account of MHR Institutional Partners IV LP, a Delaware limited partnership (&quot;Institutional Partners IV&quot;). MHR Institutional Advisors IV LLC, a Delaware limited liability company (&quot;Institutional Advisors IV&quot;) is the general partner of Institutional Partners IV. Dr. Rachesky is the managing member of Institutional Advisors IV. Fund Management has an investment management agreement with Institutional Partners IV pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of Institutional Partners IV. MHR Holdings is the managing member of Fund Management. (Continued to footnote 8)</footnote>
+        <footnote id="F8">Accordingly, Institutional Advisors IV, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of Institutional Partners IV. Each of Institutional Advisors IV, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F9">These Common Shares are held for the account of MHR Sun II LP, a Delaware limited partnership (&quot;Sun II&quot;). MHR Institutional Advisors II LLC, a Delaware limited liability company (&quot;Institutional Advisors II&quot;), is the general partner of Sun II. MHRC II is the managing member of Institutional Advisors II. Dr. Rachesky is the managing member of MHRC II. Fund Management has an investment management agreement with Sun II pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of Sun II. MHR Holdings is the managing member of Fund Management. (Continued to footnote 10)</footnote>
+        <footnote id="F10">Accordingly, Institutional Advisors II, MHRC II, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of Sun II. Each of Institutional Advisors II, MHRC II, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F11">These Common Shares are held for the account of MHR Sun IIA LP, a Delaware limited partnership (&quot;Sun IIA&quot;). Institutional Advisors II is the general partner of Sun IIA. MHRC II is the managing member of Institutional Advisors II. Dr. Rachesky is the managing member of MHRC II. Fund Management has an investment management agreement with Sun IIA pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of Sun IIA. MHR Holdings is the managing member of Fund Management. (Continued to footnote 12)</footnote>
+        <footnote id="F12">Accordingly, Institutional Advisors II, MHRC II, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of Sun IIA. Each of Institutional Advisors II, MHRC II, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F13">These Common Shares are held for the account of MHR Sun III LP, a Delaware limited partnership (&quot;Sun III&quot;). MHR Institutional Advisors III LLC, a Delaware limited liability company (&quot;Institutional Advisors III&quot;), is the general partner of Sun III. Dr. Rachesky is the managing member of Institutional Advisors III. Fund Management has an investment management agreement with Sun III pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of Sun III. MHR Holdings is the managing member of Fund Management. (Continued to footnote 14)</footnote>
+        <footnote id="F14">Accordingly, Institutional Advisors III, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of Sun III. Each of Institutional Advisors III, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F15">These Common Shares are held for the account of MHR LION Holdco A LP, a Delaware limited partnership (&quot;LION Holdco A&quot;). MHR Sun GP LLC, a Delaware limited liability company (&quot;MHR Sun GP&quot;), is the general partner of LION Holdco A. The Rachesky Revocable Trust (the &quot;Trust&quot;) is the managing member of MHR Sun GP. Dr. Rachesky is the sole trustee of the Trust. Fund Management has an investment management agreement with LION Holdco A pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of LION Holdco A. MHR Holdings is the managing member of Fund Management. (Continued to footnote 16)</footnote>
+        <footnote id="F16">Accordingly, MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of LION Holdco A. Each of MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F17">These Common Shares are held for the account of MHR LION SubHoldco A LP, a Delaware limited partnership (&quot;LION SubHoldco A&quot;). MHR Sun GP is the general partner of LION SubHoldco A. The Trust is the managing member of MHR Sun GP. Dr. Rachesky is the sole trustee of the Trust. Fund Management has an investment management agreement with LION SubHoldco A pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of LION SubHoldco A. MHR Holdings is the managing member of Fund Management. (Continued to footnote 18)</footnote>
+        <footnote id="F18">Accordingly, MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of LION SubHoldco A. Each of MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F19">These Common Shares are held for the account of MHR LION Holdco B LP, a Delaware limited partnership (&quot;LION Holdco B&quot;). MHR Sun GP is the general partner of LION Holdco B. The Trust is the managing member of MHR Sun GP. Dr. Rachesky is the sole trustee of the Trust. Fund Management has an investment management agreement with LION Holdco B pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of LION Holdco B. MHR Holdings is the managing member of Fund Management. (Continued to footnote 20)</footnote>
+        <footnote id="F20">Accordingly, MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of LION Holdco B. Each of MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F21">These Common Shares are held for the account of MHR LION SubHoldco B LP, a Delaware limited partnership (&quot;LION SubHoldco B&quot;). MHR Sun GP is the general partner of LION SubHoldco B. The Trust is the managing mamber of MHR Sun GP. Dr. Rachesky is the sole trustee of the Trust. Fund Management has an investment management agreement with LION SubHoldco B pursuant to which it has the power to vote or direct the vote and to dispose or to direct the disposition of the Common Shares held for the account of LION SubHoldco B. MHR Holdings is the managing member of Fund Management. (Continued to footnote 22)</footnote>
+        <footnote id="F22">Accordingly, MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky may be deemed to beneficially own the Common Shares held for the account of LION SubHoldco B. Each of MHR Sun GP, the Trust, Fund Management, MHR Holdings and Dr. Rachesky disclaims beneficial ownership of such Common Shares except to the extent of their pecuniary interest therein.</footnote>
+        <footnote id="F23">The Common Shares reported as owned on this Form 4 do not include the Common Shares, which the reporting persons may be deemed to beneficially own as a result of that certain Voting and Standstill Agreement, by and among the Issuer, Liberty Global Ventures Limited, a limited company organized under the laws of England and Wales, Liberty Global Ltd., Bermuda exempted company limited by shares, Discovery Lightning Investments Ltd., a limited company organized under the laws of England and Wales, Warner Bros. Discovery, Inc., a Delaware corporation, Master Account, Capital Partners (100), Institutional Partners II, Institutional Partners IIA, Institutional Partners III, Institutional Partners IV and Fund Management, but as to which they have no pecuniary interest.</footnote>
+        <footnote id="F24">The Common Shares reported as owned on this Form 4 do not include the Common Shares, which the reporting persons may be deemed to beneficially own as a result of that certain Governance, Standstill and Voting Agreement, by and among Fund Management and certain of its affiliates and Liberty 77 Capital L.P., a Delaware limited partnership, Liberty 77 Fund L.P., a Cayman Islands exempted limited partnership and Liberty 77 Fund International L.P., a Cayman Islands exempted limited partnership, but as to which they have no pecuniary interest.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Janet Yeung as attorney in fact</signatureName>
+        <signatureDate>2026-09-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

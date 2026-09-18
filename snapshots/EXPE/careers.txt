@@ -115,6 +115,7 @@ Category
 All
 Administration
 Commercial
+Corporate Solutions
 Creative Communication
 Finance
 Human Resources
@@ -128,6 +129,7 @@ Country
 All
 Brazil
 Canada
+China
 Czechia
 Germany
 India
@@ -150,6 +152,7 @@ Expedia Group Team
 All
 Administration
 Commercial
+Corporate Solutions
 Creative Communication
 Finance
 Human Resources
@@ -165,13 +168,12 @@ Account Management
 Accounting
 Administration
 Advertising
-Architecture
 Business Development
+Business Programs
 Commercial Finance
 Creative
 Creative Comms
 Customer Engagement Marketing
-Customer Experience
 Data Science
 Development
 Experience Design
@@ -193,15 +195,17 @@ Regional HR
 Sales Operations
 Social Media Marketing
 Strategy
-Tax
+Talent Management
 Technical Operations
 Total Rewards
 Treasury
 Vendor Service & Operations Management
+Workforce Planning
 Location
 All
 Brazil
 Canada
+China
 Czechia
 Germany
 India
@@ -217,10 +221,10 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-219
+217
 openings
 in
-15
+16
 countries.
 We're hiring in
 19
@@ -336,6 +340,7 @@ Category
 All
 Administration
 Commercial
+Corporate Solutions
 Creative Communication
 Finance
 Human Resources
@@ -351,6 +356,7 @@ Country
 All
 Brazil
 Canada
+China
 Czechia
 Germany
 India

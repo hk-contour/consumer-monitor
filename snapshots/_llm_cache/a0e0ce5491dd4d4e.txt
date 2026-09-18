@@ -1,0 +1,1 @@
+[ROUTINE] Terms page footer updated with sign-in/account creation call-to-action text and internal identifier reshuffle; no policy changes detected.

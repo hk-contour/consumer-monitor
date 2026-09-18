@@ -335,7 +335,7 @@ Remote - United States
 Engineering
 Senior iOS Engineer, Media Experience
 Senior iOS Engineer, Media Experience
-Remote - United States
+San Francisco, CA
 Engineering
 Software Engineer, Ads
 Software Engineer, Ads
@@ -395,10 +395,6 @@ Remote - United States
 Engineering
 Staff Software Engineer - Site Defense
 Staff Software Engineer - Site Defense
-Remote - United States
-Engineering
-Staff Software Engineer, Consumer Engineering
-Staff Software Engineer, Consumer Engineering
 Remote - United States
 Engineering
 Staff Software Engineer, DevPlatform
@@ -494,12 +490,20 @@ Backend Software Engineer, PDP Experience
 Backend Software Engineer, PDP Experience
 Remote - United States
 Product
+Front End Software Engineer, Consumer Engineering
+Front End Software Engineer, Consumer Engineering
+Remote - United States
+Product
 Front End Software Engineer, Media Player
 Front End Software Engineer, Media Player
 Remote - United States
 Product
 Senior Frontend Engineer, Home Experience
 Senior Frontend Engineer, Home Experience
+Remote - United States
+Product
+Senior Frontend Software Engineer, Consumer Engineering
+Senior Frontend Software Engineer, Consumer Engineering
 Remote - United States
 Product
 Senior Product Manager, Ads -  Shopping Catalogs

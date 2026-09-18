@@ -1,0 +1,1 @@
+[ROUTINE] Careers page job listings reorganized with location and title changes; Senior iOS Engineer shifted from Remote to San Francisco, Staff Software Engineer position removed, and Consumer Engineering roles reordered.

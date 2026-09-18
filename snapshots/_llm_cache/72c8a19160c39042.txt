@@ -1,0 +1,1 @@
+[ROUTINE] Addition of "Your Privacy Choices" link to footer on Instacart+ pricing page; standard privacy disclosure update.

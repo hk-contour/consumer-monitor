@@ -8,7 +8,7 @@ Department
 Select...
 Office
 Select...
-32 jobs
+33 jobs
 StubHub
 Business Development
 Job
@@ -36,12 +36,17 @@ Job
 Senior Software Engineer - Sponsored Listings (Fullstack)
 New York, New York, United States
 Senior Software Engineer - Supply Core (Fullstack)
-New
 Aliso Viejo, California, United States
 StubHub
 Finance
 Job
 Director of Internal Controls
+New York, New York, United States
+StubHub / Finance
+Accounting
+Job
+Senior Accountant - Marketplace
+New
 New York, New York, United States
 StubHub / Finance
 Strategic Finance and Investor Relations
@@ -60,8 +65,6 @@ New York, New York, United States
 StubHub
 Global Customer Service
 Job
-Director, Global Customer Success
-Atlanta, Georgia, United States
 Director, Global Workforce Optimization
 Atlanta, Georgia, United States
 GCS Executive Customer Care Specialist 1
@@ -77,9 +80,14 @@ StubHub / Marketing
 Performance Marketing
 Job
 Associate Product Manager - Paid Search
-New
 New York, New York, United States
 Product Manager - Paid Search
+New York, New York, United States
+StubHub / Operations
+Marketplace Growth
+Job
+Account Growth Manager
+New
 New York, New York, United States
 StubHub / Product
 Product Admission Ops

@@ -46,6 +46,8 @@ Square Payroll Terms of Service
 : These terms apply when you use Square Payroll.
 Square Multi-Account Suite Terms of Service
 : These terms apply when you use the Multi-Account Suite Services.
+Square for Multi-Legal Entities Terms of Service
+: These terms apply when you use the Multi-Legal Entities Services.
 Square Developer Terms of Service
 : These terms apply when you use Square’s software development kit files (SDKs), tools, programs and utilities, as well as any plug-in or other application programming interfaces (“APIs”), sample code (including runtimes and libraries) and related documentation.
 Afterpay Merchant Terms of Service
