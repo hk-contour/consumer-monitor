@@ -40,10 +40,10 @@ August 7, 2026
 The next mocap evolution: Markerless motion capture
 News Article
 August 4, 2026
-EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners
+Our Next Chapter
 News Article
 August 4, 2026
-Our Next Chapter
+EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners
 News Article
 July 18, 2026
 EA SPORTS™ presents Beckham, Zidane and Zlatan in conversation for the first time.
@@ -73,7 +73,7 @@ Going Beyond the Game: UFC Gameplay Software Engineer, Gabriel Kannenberg
 6
 7
 8
-16
+20
 2026 Sustainability Report
 The experiences we create are shaped by our people and the communities we're part of around the world—across people and culture, players and communities, and responsible business practices.
 Learn More

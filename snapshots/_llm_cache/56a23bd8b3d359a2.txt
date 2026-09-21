@@ -1,0 +1,1 @@
+[ROUTINE] Removed a sentence directing candidates to contact HR@chewy.com if they spot suspicious activity; the fraud-prevention guidance remains but with less explicit contact instruction.

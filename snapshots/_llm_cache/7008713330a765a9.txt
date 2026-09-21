@@ -1,0 +1,1 @@
+[ROUTINE] Removal of sign-in/account creation UI text and replacement with backend tracking identifiers at end of terms page.

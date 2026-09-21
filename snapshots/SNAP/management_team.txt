@@ -19,10 +19,6 @@ Betsy Kenny Lack
 ,
 Vice President, Global Brand Experience
 Ms. Lack has served as Vice President, Global Brand Experience since October 2021 and previously served as Head of Global Brand Strategy from July 2016 to October 2021. Prior to that, Ms. Lack was Contributing Editor at Vanity Fair, overseeing the magazine’s Silicon Valley and technology coverage, and created and ran the New Establishment Summit series. Prior to that, Ms. Lack served as a philanthropic and public policy adviser to individuals and companies. Ms. Lack serves on the board of directors of the Snap Foundation, Lincoln Center Theater, and the Walden Woods Project. Ms. Lack is also a Life Trustee of WNET, the organization that oversees public television stations in the New York metropolitan area. Ms. Lack holds a B.A. from Princeton University.
-Ajit Mohan
-,
-Chief Business Officer
-Mr. Mohan has served as our Chief Business Officer since February 2025 and previously served as our President of APAC from January 2023 to February 2025. From 2019 to November 2022, Mr. Mohan served as Vice President and Managing Director of India for Meta, where he was responsible for strategy and operations in India, and from April 2016 to December 2018, Mr. Mohan served as CEO of 21st Century Fox’s digital streaming service, Hotstar. Mr. Mohan holds a BASc from Nanyang Technological University Singapore, an M.A. from Johns Hopkins University, and an M.B.A. from The Wharton School at the University of Pennsylvania.
 Rebecca Morrow
 ,
 Chief Accounting Officer
@@ -41,6 +37,10 @@ Grace  Kao
 Chief Marketing Officer
 With over 20 years of marketing and advertising experience, Grace is Snap’s Chief Marketing Officer, enabling brands around the world to connect with Snap’s 850+ million monthly users in meaningful and effective ways. She has led award-winning campaigns for iconic brands such as Pepsi, PlayStation, Crate&Barrel, Apple. Most recently, she led Spotify Advertising’s ‘Spreadbeats’ B2B campaign, which was one of the most awarded campaigns in 2024, across multiple categories for consumer and business at Cannes, including a Grand Prix. Grace was also named on Adweek’s Top 50 Indispensable Business Leaders. Before joining Snap, she served as Head of Global Business Marketing for Spotify and Instagram across businesses and creators.
 Grace has a master’s degree in Communications from Stanford University and resides in San Francisco, California with her husband, two children and cat.
+Ronan Harris
+,
+Chief Commercial Officer
+Mr. Harris has served as our Chief Commercial Officer since September 2026 and previously served as our President of EMEA from October 2022 to September 2026. Prior to joining Snap, Mr. Harris spent more than 17 years at Google, where he was responsible for leading its UK and Ireland business. Mr. Harris holds a B.E. in Electronic Engineering from University College Dublin.
 Executive Officers
 Evan Spiegel
 ,
@@ -54,10 +54,6 @@ Doug Hott
 ,
 Chief Financial Officer
 Mr. Hott has served as Chief Financial Officer since May 2026 and previously served as our Vice President of Finance, Strategy, and Corporate Development since July 2024. Prior to that role, Mr. Hott served as our Vice President of Finance from August 2019 to July 2024. Mr. Hott holds a B.S. in Physics from Bradley University, and an M.S. in Astrophysics and an M.B.A. from the University of Cincinnati.
-Ajit Mohan
-,
-Chief Business Officer
-Mr. Mohan has served as our Chief Business Officer since February 2025 and previously served as our President of APAC from January 2023 to February 2025. From 2019 to November 2022, Mr. Mohan served as Vice President and Managing Director of India for Meta, where he was responsible for strategy and operations in India, and from April 2016 to December 2018, Mr. Mohan served as CEO of 21st Century Fox’s digital streaming service, Hotstar. Mr. Mohan holds a BASc from Nanyang Technological University Singapore, an M.A. from Johns Hopkins University, and an M.B.A. from The Wharton School at the University of Pennsylvania.
 Rebecca  Morrow
 ,
 Chief Accounting Officer
@@ -67,6 +63,10 @@ Zach Briers
 ,
 General Counsel
 Mr. Briers has served as our General Counsel since November 2025. From August 2012 to October 2025, Mr. Briers was a lawyer in private practice at the law firm of Munger, Tolles & Olson LLP, where he focused his practice on advising companies and founders on litigation and transactional matters. Mr. Briers holds a J.D. from the New York University School of Law and a B.A. from John Carroll University.
+Ronan Harris
+,
+Chief Commercial Officer
+Mr. Harris has served as our Chief Commercial Officer since September 2026 and previously served as our President of EMEA from October 2022 to September 2026. Prior to joining Snap, Mr. Harris spent more than 17 years at Google, where he was responsible for leading its UK and Ireland business. Mr. Harris holds a B.E. in Electronic Engineering from University College Dublin.
 Company
 Snap Inc.
 Careers

@@ -1,0 +1,1 @@
+[ROUTINE] Reddit careers page updated with job listing changes: removed Senior Staff Machine Learning Engineer (Notifications) role, added Software Engineer (Ingestion Platform) and Staff Software Engineer (Consumer Engineering) roles, renamed Media Experiences to Media Foundations, and added four Senior Product Manager (Go-To-Market Systems) positions across multiple cities.

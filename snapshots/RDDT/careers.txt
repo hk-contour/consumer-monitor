@@ -317,10 +317,6 @@ Senior Staff Machine Learning Engineer, GenAI Platform
 Senior Staff Machine Learning Engineer, GenAI Platform
 Remote - United States
 Engineering
-Senior Staff Machine Learning Engineer, Notifications
-Senior Staff Machine Learning Engineer, Notifications
-Remote - United States
-Engineering
 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
 Senior Staff Machine Learning Systems Engineer, Ads ML Platform
 Remote - United States
@@ -349,6 +345,10 @@ Remote - United States
 Engineering
 Software Engineer, Content Platform
 Software Engineer, Content Platform
+Remote - United States
+Engineering
+Software Engineer, Ingestion Platform
+Software Engineer, Ingestion Platform
 Remote - United States
 Engineering
 Staff Android Engineer, Brand Ad Formats
@@ -397,12 +397,16 @@ Staff Software Engineer - Site Defense
 Staff Software Engineer - Site Defense
 Remote - United States
 Engineering
+Staff Software Engineer, Consumer Engineering
+Staff Software Engineer, Consumer Engineering
+Remote - United States
+Engineering
 Staff Software Engineer, DevPlatform
 Staff Software Engineer, DevPlatform
 Remote - United States
 Engineering
-Staff Software Engineer, Media Experiences
-Staff Software Engineer, Media Experiences
+Staff Software Engineer, Media Foundations
+Staff Software Engineer, Media Foundations
 Remote - United States
 Engineering
 Staff Software Engineer, Onboarding
@@ -653,6 +657,16 @@ Los Angeles, CA
 Senior Principal Program Manager, GTM Excellence
 New York City, NY
 Senior Principal Program Manager, GTM Excellence
+San Francisco, CA
+Sales
+Senior Product Manager, Go-To-Market Systems
+Senior Product Manager, Go-To-Market Systems
+Chicago, IL
+Senior Product Manager, Go-To-Market Systems
+Los Angeles, CA
+Senior Product Manager, Go-To-Market Systems
+New York City, NY
+Senior Product Manager, Go-To-Market Systems
 San Francisco, CA
 See all departments with jobs
 Security, Privacy, & Assurance

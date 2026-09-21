@@ -1597,8 +1597,4 @@ Th
 Fr
 Sa
 Close calendar
-Sign in to continue
-Sign in to your account
-Don't have an account yet?
-Create your account
-2641450,2645790|2,2641690,2641450|1,2641690|1,2644090|4
+2644240|3,2641690,2641450,2644240|4,2645790|2,2644090|4,2641690|1,2641450|1

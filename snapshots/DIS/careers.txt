@@ -225,16 +225,15 @@ Bristol, Connecticut
 Buenos Aires, Buenos Aires F.D.
 Burbank, California
 Celebration, Florida
-Charlotte, North Carolina
 Chessy, Île-de-France Region
 Chester, England
 Chiba, Chiba
 Chicago, Illinois
 City of Taguig, Metro Manila
 Commerce, California
-Copenhagen, Capital Region
 Cypress, Texas
 Destin, Florida
+Dublin, Leinster
 Durham, North Carolina
 Elizabeth, New Jersey
 Ellesmere Port, England
@@ -294,7 +293,6 @@ Serris, Île-de-France Region
 Shanghai, Shanghai
 Singapore,
 Sofia, Sofia-grad
-Stockholm, Stockholm County
 Sydney, New South Wales
 Taipei City, Taiwan
 Tampa, Florida
@@ -304,11 +302,9 @@ Tokyo, Tokyo
 Toronto, Ontario
 Tulalip, Washington
 Vancouver, British Columbia
-Vero Beach, Florida
 Villeneuve-le-Comte, Île-de-France Region
 Warsaw, Mazovia
 Washington, DC
-Winter Garden, Florida
 Zurich, Canton of Zurich
 Job Level
 Select

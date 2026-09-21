@@ -197,7 +197,6 @@ Social Media Marketing
 Strategy
 Talent Management
 Technical Operations
-Total Rewards
 Treasury
 Vendor Service & Operations Management
 Workforce Planning
@@ -221,7 +220,7 @@ United Kingdom
 United States
 Search Jobs
 We currently have
-217
+208
 openings
 in
 16

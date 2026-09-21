@@ -24,10 +24,10 @@ Engineering
 50 positions
 See careers
 Finance & Accounting
-10 positions
+11 positions
 See careers
 Data & Analytics
-4 positions
+3 positions
 See careers
 AI & Machine Learning
 18 positions
@@ -38,17 +38,14 @@ See careers
 Students & Early Career
 1 position
 See careers
-Product Management
-2 positions
-See careers
 IT & Security
-6 positions
+7 positions
 See careers
 Business Development & Sales
 17 positions
 See careers
 Human Resources
-2 positions
+1 position
 See careers
 Design
 1 position
@@ -59,8 +56,11 @@ See careers
 Project Management
 1 position
 See careers
-Facilities & Admin
+Product Management
 1 position
+See careers
+Facilities & Admin
+2 positions
 See careers
 Benefits
 At Unity, we want our employees to thrive. We offer a wide range of benefits designed to support employees' well-being and work-life balance, because we know how critical they are. While specific benefits may vary by country, here are just a few of the ways we strive to take care of our employees:
