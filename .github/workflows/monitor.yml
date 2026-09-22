@@ -130,7 +130,12 @@ jobs:
           # Large snapshot packs occasionally trip GitHub's commit_refs path.
           git config http.postBuffer 524288000
 
-          git add snapshots/ monitoring_system/ changelog.jsonl config/company_urls_jc.xlsx 2>/dev/null || true
+          # Only stage what the run actually produces. The xlsx is opened
+          # read-only by the scraper and never changes here — staging it added
+          # no value and was the one file that could cause an unresolvable
+          # BINARY rebase conflict if a human edited it mid-run. Coverage edits
+          # to the xlsx are committed by their own tooling, not this workflow.
+          git add snapshots/ monitoring_system/ changelog.jsonl 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -141,7 +146,11 @@ jobs:
           # Pull --rebase then push, with retries for races / transient rejects.
           for attempt in 1 2 3 4 5; do
             echo "Push attempt ${attempt}…"
-            git fetch origin main
+            if ! git fetch origin main; then
+              echo "Fetch failed on attempt ${attempt}; sleeping before retry…"
+              sleep $((attempt * 15))
+              continue
+            fi
             if ! git rebase origin/main; then
               echo "Rebase conflict — aborting rebase and failing so a human can look."
               git rebase --abort || true
