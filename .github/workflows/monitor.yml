@@ -83,6 +83,7 @@ jobs:
 
       - name: Email digest (manual)
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.analyst != 'both' && inputs.send_email == true }}
+        continue-on-error: true  # webhook blips should not fail the run
         env:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           DIGEST_HTML: ${{ steps.runm.outputs.digest_html }}
@@ -101,6 +102,7 @@ jobs:
 
       - name: Email digest — Analyst 1
         if: ${{ github.event_name == 'schedule' || (inputs.analyst == 'both' && inputs.send_email == true) }}
+        continue-on-error: true  # webhook blips should not fail the run
         env:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           DIGEST_HTML: ${{ steps.run1.outputs.digest_html }}
@@ -108,21 +110,49 @@ jobs:
 
       - name: Email digest — Analyst 2
         if: ${{ github.event_name == 'schedule' || (inputs.analyst == 'both' && inputs.send_email == true) }}
+        continue-on-error: true  # webhook blips should not fail the run
         env:
           EMAIL_TO: ${{ secrets.EMAIL_TO_2 }}
           DIGEST_HTML: ${{ steps.run2.outputs.digest_html }}
         run: python tools/send_digest_email.py
 
       # ---------------- Commit everything once ----------------
+      # Harden against the two historical reds on this step:
+      #   - non-fast-forward when main moved mid-run (Jul 2026)
+      #   - intermittent `remote: fatal error in commit_refs` on large
+      #     snapshot pushes (Aug 2026; GitHub-side, usually retryable)
       - name: Commit snapshots and digests
         if: always()
         run: |
+          set -euo pipefail
           git config user.name  "consumer-monitor-bot"
           git config user.email "consumer-monitor-bot@users.noreply.github.com"
+          # Large snapshot packs occasionally trip GitHub's commit_refs path.
+          git config http.postBuffer 524288000
+
           git add snapshots/ monitoring_system/ changelog.jsonl config/company_urls_jc.xlsx 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "monitor: run $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+
+          git commit -m "monitor: run $(date -u +%Y-%m-%dT%H:%MZ)"
+
+          # Pull --rebase then push, with retries for races / transient rejects.
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}…"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict — aborting rebase and failing so a human can look."
+              git rebase --abort || true
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              echo "Push succeeded on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push failed on attempt ${attempt}; sleeping before retry…"
+            sleep $((attempt * 15))
+          done
+          echo "Push failed after retries."
+          exit 1
